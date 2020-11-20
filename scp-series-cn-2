@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1605875864;
+        OZONE.request.timestamp = 1605896382;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1136,7 +1136,7 @@
 <li><a href="/scp-cn-1583">SCP-CN-1583</a> - 世平若纸，维度何从</li>
 <li><a href="/scp-cn-1584">SCP-CN-1584</a> - 多喝热水</li>
 <li><a href="/scp-cn-1585">SCP-CN-1585</a> - 药片先森</li>
-<li><a class="newpage" href="/scp-cn-1586">SCP-CN-1586</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1586">SCP-CN-1586</a> - 愚人种</li>
 <li><a href="/scp-cn-1587">SCP-CN-1587</a> - 剧组精美奢华典藏版合集</li>
 <li><a href="/scp-cn-1588">SCP-CN-1588</a> - 群居型蜘蛛</li>
 <li><a class="newpage" href="/scp-cn-1589">SCP-CN-1589</a> - [禁止访问]</li>
@@ -1218,7 +1218,7 @@
 <li><a href="/scp-cn-1661">SCP-CN-1661</a> - 何患无辞</li>
 <li><a href="/scp-cn-1662">SCP-CN-1662</a> - 瀕臨絕種動物專用獸餌</li>
 <li><a class="newpage" href="/scp-cn-1663">SCP-CN-1663</a> - [禁止访问]</li>
-<li><a href="/scp-cn-1664">SCP-CN-1664</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1664">SCP-CN-1664</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1665">SCP-CN-1665</a> - dado的核爆失恋药</li>
 <li><a href="/scp-cn-1666">SCP-CN-1666</a> - 帷幕破碎</li>
 <li><a href="/scp-cn-1667">SCP-CN-1667</a> - 生尾猫</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3764, 最后编辑于: <span class="odate time_1605713366 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Nov 2020 15:29</span></div>
+                            <div id="page-info">页面版本: 3765, 最后编辑于: <span class="odate time_1605884235 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Nov 2020 14:57</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,21 +1686,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-zh-tr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-zh-tr.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ukcw.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ukcw.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-zh-tr.wikidot.com">SCP基金會</a></h3>
+            <h3><a target="_blank" href="http://ukcw.wikidot.com">Unofficial Kingdom Conquest Wiki</a></h3>
             <div class="desc">          
-              控制，收容，保護
+              Seven towers to rule them all...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.contraptor.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.contraptor.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://iatkos.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iatkos.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.contraptor.org">Contraptor</a></h3>
+            <h3><a target="_blank" href="http://iatkos.wikidot.com">Iatkos</a></h3>
             <div class="desc">          
               
             </div>
@@ -1708,23 +1708,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://caa-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caa-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ejs-in-india.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ejs-in-india.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://caa-wiki.wikidot.com">CAA Federation</a></h3>
+            <h3><a target="_blank" href="http://ejs-in-india.wikidot.com">Environmental Journalists in India</a></h3>
             <div class="desc">          
-              Cosmic Anomaly Accommodation
+              Sign Up Here If Your Ink Is Green
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.coscup.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.coscup.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://chrysaliswiki.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.coscup.org">COSCUP WIKI</a></h3>
+            <h3><a target="_blank" href="http://chrysaliswiki.com">Chrysalis</a></h3>
             <div class="desc">          
-              
+              A Final Fantasy Wiki
             </div>
           </div>
         </div>
