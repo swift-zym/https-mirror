@@ -1,0 +1,40 @@
+name: Scp Docs
+on: 
+  release:
+    types: [published]
+  push:
+    tags:
+    - 'v*'
+  #  branches: 
+  #    - master
+  schedule:
+    - cron: '12 */6 * * *'
+  watch:
+    types: [started]
+jobs:
+  work:
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id  # 自己点的 start
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+    - name: Download
+      run: |
+        wget http://scp-wiki-cn.wikidot.com/scp-series
+        wget http://scp-wiki-cn.wikidot.com/scp-series-2
+        wget http://scp-wiki-cn.wikidot.com/scp-series-3
+        wget http://scp-wiki-cn.wikidot.com/scp-series-4
+        wget http://scp-wiki-cn.wikidot.com/scp-series-5
+        wget http://scp-wiki-cn.wikidot.com/scp-series-6
+        wget http://scp-wiki-cn.wikidot.com/scp-series-cn
+        wget http://scp-wiki-cn.wikidot.com/scp-series-cn-2
+    - name: Commit #上传新的文件到仓库
+      run: |
+        git config --global user.email AutoupdateRobot@email.com
+        git config --global user.name AutoupdateRobot
+        git add .
+        git commit -m "update docs" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
