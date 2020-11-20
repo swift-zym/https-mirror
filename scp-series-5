@@ -1,0 +1,1868 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cn" lang="cn">
+
+<head>
+    <title>SCP系列 5 - SCP基金会</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "scp-wiki-cn.wikidot.com";
+        WIKIREQUEST.info.siteId = 530812;
+        WIKIREQUEST.info.siteUnixName = "scp-wiki-cn";
+        WIKIREQUEST.info.categoryId = 3342264;
+        WIKIREQUEST.info.themeId = 1;
+        WIKIREQUEST.info.requestPageName = "scp-series-5";
+        OZONE.request.timestamp = 1605843006;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'cn';
+                WIKIREQUEST.info.pageUnixName = "scp-series-5";
+        WIKIREQUEST.info.pageId = 101706680;
+                        WIKIREQUEST.info.lang = "cn";
+        OZONE.lang = "cn";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+                            <meta name="robots" content="index,follow"/>
+                                <meta name="language" content="zh,zh-cn"/>
+                                                            <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="zh,zh-cn"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--javascript/WIKIDOT.combined.js"></script>
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--theme/base/css/style.css);
+                    @import url(https://cdn.jsdelivr.net/gh/scp-cn-tech/sigma9@cn/cn/sigma9_ch.min.css);
+            </style>
+    
+        
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="/local--iosicon/iosicon_57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/local--iosicon/iosicon_72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/local--iosicon/iosicon.png" />    
+        
+            <meta name="msapplication-TileImage" content="/local--wp8icon/wp8icon.png"/>
+                
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+.pigeon {
+  font-family: 'Dancing Script', cursive;
+  color: #a40;
+}
+
+.taboo a{
+    color: green;
+    font-style: bold;
+    font-weight: 800;
+}
+
+.lie{
+    font-family: 'Courier', monospace;
+    font-weight: bold;
+    margin: 2px 1px 1px 1px;
+    background-color: #a3cef1;
+    overflow-wrap: break-word;
+}
+</style>
+<script src="https://s.nitropay.com/ads-143.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--modules/js/list/ListPagesModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<a name="page-top"></a>
+
+
+
+
+
+<div id="container-wrap-wrap">
+    <div id="container-wrap">
+        <div id="container">
+            <div id="header">
+              <h1><a href="/"><span>SCP基金会</span></a></h1>
+                
+                    <h2><span>控制，收容，保护</span></h2>
+                
+                
+                <!-- google_ad_section_start(weight=ignore) -->
+                
+                <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="搜索网站" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="搜索"/>
+    </form>
+</div>
+                
+                
+                    <div id="top-bar">
+                        
+
+<div class="top-bar">
+<ul>
+<li>SCP系列
+<ul>
+<li><a href="/scp-series-6">系列 VI (5000 - 5999)</a></li>
+<li><a href="/scp-series-5">系列 V (4000 - 4999)</a></li>
+<li><a href="/scp-series-5-tales-edition">» 系列 V 故事</a></li>
+<li><a href="/scp-series-4">系列 IV (3000 - 3999)</a></li>
+<li><a href="/scp-series-4-tales-edition">» 系列 IV 故事</a></li>
+<li><a href="/scp-series-3">系列 III (2000 - 2999)</a></li>
+<li><a href="/scp-series-3-tales-edition">» 系列 III 故事</a></li>
+<li><a href="/scp-series-2">系列 II (1000 - 1999)</a></li>
+<li><a href="/scp-series-2-tales-edition">» 系列 II 故事</a></li>
+<li><a href="/scp-series">系列 I (001 - 999)</a></li>
+<li><a href="/scp-series-1-tales-edition">» 系列 I 故事</a></li>
+<li><a href="/joke-scps">搞笑SCP</a></li>
+<li><a href="/joke-scps-tales-edition">» 搞笑SCP故事</a></li>
+<li><a href="/scp-ex">已解明SCP</a></li>
+<li><a href="/explained-scps-tales-edition">» 已解明SCP故事</a></li>
+</ul>
+</li>
+<li>故事
+<ul>
+<li><a href="/foundation-tales">基金会故事</a></li>
+<li><a href="/canon-hub">设定</a></li>
+<li><a href="/series-archive">故事系列</a></li>
+<li><a href="/incident-reports-eye-witness-interviews-and-personal-logs">事故报告</a></li>
+<li><a href="/creepy-pasta">Creepy-Pasta 归档</a></li>
+</ul>
+</li>
+<li>图书馆
+<ul>
+<li><a href="/user-curated-lists">用户推荐清单</a></li>
+<li><a href="/log-of-anomalous-items">异常物品记录</a></li>
+<li><a href="/log-of-extranormal-events">超常现象记录</a></li>
+<li><a href="/log-of-unexplained-locations">未解明地点记录</a></li>
+<li><a href="/goi-formats">GoI格式</a></li>
+<li><a href="/audio-adaptations">音频记录</a></li>
+<li><a href="/scp-artwork-hub">艺术作品</a></li>
+<li><a href="/contest-archive">征文竞赛</a></li>
+<li><a href="/wanderers:start">被放逐者之图书馆</a></li>
+<li><a href="/wanderers:the-library-cn">原创图书馆中心</a></li>
+</ul>
+</li>
+<li>SCP-CN系列
+<ul>
+<li><a href="/scp-series-cn-2">CN系列 II (CN-1000 - CN-1999)</a></li>
+<li><a href="/scp-series-cn">CN系列 I (CN-001 - CN-999)</a></li>
+<li><a href="/joke-scps-cn">搞笑SCP-CN</a></li>
+<li><a href="/scp-ex-cn">已解明SCP-CN</a></li>
+<li><a href="/log-of-anomalous-items-cn">原创异常物品记录</a></li>
+<li><a href="/log-of-extranormal-events-cn">原创超常现象记录</a></li>
+<li><a href="/foundation-tales-cn">原创基金会故事</a></li>
+<li><a href="/short-stories">原创短篇故事合集</a></li>
+<li><a href="/canon-hub-cn">原创设定</a></li>
+<li><a href="/series-archive-cn">原创故事系列</a></li>
+<li><a href="/contest-archive-cn">中文分部征文竞赛</a></li>
+</ul>
+</li>
+<li>SCP国际
+<ul>
+<li><a href="/scp-international">SCP国际翻译中心</a></li>
+<li><a href="http://scp-int.wikidot.com/">SCP国际翻译站</a></li>
+<li><a href="http://scpfoundation.net/">Russian Branch(-RU)</a></li>
+<li><a href="http://ko.scp-wiki.net/">SCP 재단(-KO)</a></li>
+<li><a href="http://fondationscp.wikidot.com/">Fondation SCP(-FR)</a></li>
+<li><a href="http://scp-wiki.net.pl/">Fundacja SCP(-PL)</a></li>
+<li><a href="http://scp-es.com/">La Fundación SCP(-ES)</a></li>
+<li><a href="http://scp-th.wikidot.com/">สถาบัน SCP(-TH)</a></li>
+<li><a href="http://ja.scp-wiki.net/">SCP財団(-JP)</a></li>
+<li><a href="http://scp-wiki-de.wikidot.com/">SCP auf Deutsch(-DE)</a></li>
+<li><a href="http://fondazionescp.wikidot.com/">Fondazione SCP(-IT)</a></li>
+<li><a href="http://scp-ukrainian.wikidot.com/">Ukrainian Branch(-UA)</a></li>
+<li><a href="http://scp-pt-br.wikidot.com/">Fundação SCP(-PT/BR)</a></li>
+<li><a href="http://scp-cs.wikidot.com/">SCP Nadace(-CZ)</a></li>
+</ul>
+</li>
+<li>背景资料
+<ul>
+<li><a href="/about-the-scp-foundation">关于基金会</a></li>
+<li><a href="/groups-of-interest">相关组织</a></li>
+<li><a href="/object-classes">项目等级</a></li>
+<li><a href="/personnel-and-character-dossier">职员档案</a></li>
+<li><a href="/security-clearance-levels">安保许可等级</a></li>
+<li><a href="/secure-facilities-locations">安保设施</a></li>
+<li><a href="/task-forces">机动特遣队</a></li>
+<li><a href="/groups-of-interest-cn">中国相关组织</a></li>
+<li><a href="/secure-facilities-locations-cn">中国分部设施</a></li>
+<li><a href="/task-forces-cn">中国分部机动特遣队</a></li>
+</ul>
+</li>
+<li>指导
+<ul>
+<li><a href="/guide-hub">指导中心</a></li>
+<li><a href="/guide-for-newbies">新手指南</a></li>
+<li><a href="/how-to-write-an-scp">如何撰写一篇SCP文档</a></li>
+<li><a href="/image-use-policy">图像使用守则</a></li>
+<li><a href="/licensing-guide">授权指南</a></li>
+<li><a href="/tag-guide">标签指导</a></li>
+<li><a href="/tag-search">标签搜索</a></li>
+<li><a href="/translation-movement-guide">翻译发布及搬运指南</a></li>
+<li><a href="/translation-rules">翻译与校对守则</a></li>
+<li><a href="/faq">常见问题解答</a></li>
+<li><a href="/site-rules">网站站规</a></li>
+<li><a href="/deletions-guide">删帖指导</a></li>
+<li><a href="/criticism-policy">批评守则</a></li>
+<li><a href="/links">链接</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="mobile-top-bar">
+<div class="open-menu">
+<p><a href="#side-bar">≡</a></p>
+</div>
+<ul>
+<li>SCP系列
+<ul>
+<li><a href="/scp-series-cn-2">CN系列 II (CN-1000 - CN-1999)</a></li>
+<li><a href="/scp-series-cn">CN系列 I (CN-001 - CN-999)</a></li>
+<li><a href="/joke-scps-cn">搞笑SCP-CN</a></li>
+<li><a href="/scp-ex-cn">已解明SCP-CN</a></li>
+<li><a href="/scp-series-6">系列 VI (5000 - 5999)</a></li>
+<li><a href="/scp-series-5">系列 V (4000 - 4999)</a></li>
+<li><a href="/scp-series-5-tales-edition">» 系列 V 故事</a></li>
+<li><a href="/scp-series-4">系列 IV (3000 - 3999)</a></li>
+<li><a href="/scp-series-4-tales-edition">» 系列 IV 故事</a></li>
+<li><a href="/scp-series-3">系列 III (2000 - 2999)</a></li>
+<li><a href="/scp-series-3-tales-edition">» 系列 III 故事</a></li>
+<li><a href="/scp-series-2">系列 II (1000 - 1999)</a></li>
+<li><a href="/scp-series-2-tales-edition">» 系列 II 故事</a></li>
+<li><a href="/scp-series">系列 I (001 - 999)</a></li>
+<li><a href="/scp-series-1-tales-edition">» 系列 I 故事</a></li>
+<li><a href="/joke-scps">搞笑SCP</a></li>
+<li><a href="/joke-scps-tales-edition">» 搞笑SCP故事</a></li>
+<li><a href="/scp-ex">已解明SCP</a></li>
+<li><a href="/explained-scps-tales-edition">» 已解明SCP故事</a></li>
+<li><a href="/scp-international">SCP国际翻译中心</a></li>
+</ul>
+</li>
+<li>故事
+<ul>
+<li><a href="/foundation-tales">基金会故事</a></li>
+<li><a href="/canon-hub">设定</a></li>
+<li><a href="/series-archive">故事系列</a></li>
+<li><a href="/incident-reports-eye-witness-interviews-and-personal-logs">事故报告</a></li>
+<li><a href="/creepy-pasta">Creepy-Pasta 归档</a></li>
+<li><a href="/foundation-tales-cn">原创基金会故事</a></li>
+<li><a href="/short-stories">原创短篇故事合集</a></li>
+<li><a href="/canon-hub-cn">原创设定</a></li>
+<li><a href="/series-archive-cn">原创故事系列</a></li>
+</ul>
+</li>
+<li>图书馆
+<ul>
+<li><a href="/user-curated-lists">用户推荐清单</a></li>
+<li><a href="/log-of-anomalous-items">异常物品记录</a></li>
+<li><a href="/log-of-extranormal-events">超常现象记录</a></li>
+<li><a href="/log-of-unexplained-locations">未解明地点记录</a></li>
+<li><a href="/goi-formats">GoI格式</a></li>
+<li><a href="/audio-adaptations">音频记录</a></li>
+<li><a href="/scp-artwork-hub">艺术作品</a></li>
+<li><a href="/contest-archive">征文竞赛</a></li>
+<li><a href="/log-of-anomalous-items-cn">原创异常物品记录</a></li>
+<li><a href="/log-of-extranormal-events-cn">原创超常现象记录</a></li>
+<li><a href="/contest-archive-cn">中文分部征文竞赛</a></li>
+<li><a href="/wanderers:start">被放逐者之图书馆</a></li>
+<li><a href="/wanderers:the-library-cn">原创图书馆中心</a></li>
+</ul>
+</li>
+<li>背景资料
+<ul>
+<li><a href="/about-the-scp-foundation">关于基金会</a></li>
+<li><a href="/groups-of-interest">相关组织</a></li>
+<li><a href="/object-classes">项目等级</a></li>
+<li><a href="/personnel-and-character-dossier">职员档案</a></li>
+<li><a href="/security-clearance-levels">安保许可等级</a></li>
+<li><a href="/secure-facilities-locations">安保设施</a></li>
+<li><a href="/task-forces">机动特遣队</a></li>
+<li><a href="/groups-of-interest-cn">中国相关组织</a></li>
+<li><a href="/secure-facilities-locations-cn">中国分部设施</a></li>
+<li><a href="/task-forces-cn">中国分部机动特遣队</a></li>
+</ul>
+</li>
+<li>指导
+<ul>
+<li><a href="/guide-hub">指导中心</a></li>
+<li><a href="/guide-for-newbies">新手指南</a></li>
+<li><a href="/how-to-write-an-scp">如何撰写一篇SCP文档</a></li>
+<li><a href="/image-use-policy">图像使用守则</a></li>
+<li><a href="/licensing-guide">授权指南</a></li>
+<li><a href="/tag-guide">标签指导</a></li>
+<li><a href="/tag-search">标签搜索</a></li>
+<li><a href="/translation-movement-guide">翻译发布及搬运指南</a></li>
+<li><a href="/translation-rules">翻译与校对守则</a></li>
+<li><a href="/faq">常见问题解答</a></li>
+<li><a href="/site-rules">网站站规</a></li>
+<li><a href="/deletions-guide">删帖指导</a></li>
+<li><a href="/criticism-policy">批评守则</a></li>
+<li><a href="/links">链接</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+                    </div>
+                
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">建立帐号</a> <span>或</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">登入</a> </div>
+                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+            </div>
+            
+            <div id="content-wrap">
+                
+                    <div id="side-bar">
+                        
+
+
+                        
+
+<div class="side-block" style="background-color: #f0fff6;">
+<div class="heading">
+<p>新人资讯</p>
+</div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/guide-for-newbies">新手指南</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/site-rules">网站站规</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/main.png" alt="main.png" class="image" /><a href="/system:join">加入网站</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/how-to-write-an-scp">如何撰写一篇SCP文档</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="http://scpsandboxcn.wikidot.com/">SCP中文沙盒站</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/faq">常见问题解答</a></div>
+</div>
+<div class="side-block">
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/home.png" alt="home.png" class="image" /><a href="/">主页</a></div>
+<div class="heading">
+<p>SCP-CN系列</p>
+</div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /> <a href="/scp-series-cn">I</a> | <a href="/scp-series-cn-2">II</a></div>
+<div class="heading">
+<p>SCP系列</p>
+</div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /> <a href="/scp-series">I</a> | <a href="/scp-series-2">II</a> | <a href="/scp-series-3">III</a> | <a href="/scp-series-4">IV</a> | <a href="/scp-series-5">V</a> | <a href="/scp-series-6">VI</a></div>
+<div class="heading">
+<p>SCP系列故事</p>
+</div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /> <a href="/scp-series-1-tales-edition">I</a> | <a href="/scp-series-2-tales-edition">II</a> | <a href="/scp-series-3-tales-edition">III</a> | <a href="/scp-series-4-tales-edition">IV</a> | <a href="/scp-series-5-tales-edition">V</a></div>
+<div class="heading">
+<p>SCP图书馆</p>
+</div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /><a href="/foundation-tales">故事</a> | <a href="/foundation-tales-cn">原创故事</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /><a href="/canon-hub">设定</a> | <a href="/canon-hub-cn">原创设定</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /><a href="/goi-formats">GoI格式</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /><a href="/scp-international">SCP国际翻译中心</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /><a href="/wanderers:start">被放逐者之图书馆</a> | <a href="/wanderers:the-library-cn">原创中心</a></div>
+<div class="heading">
+<p>网站</p>
+</div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/most-recently-created">最近新增的页面</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/main.png" alt="main.png" class="image" /><a href="/random:random-scp">随机SCP</a> | <a href="/random:random-tale">故事</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/main.png" alt="main.png" class="image" /><a href="/random:random-scp-cn">随机原创SCP</a> | <a href="/random:random-tale-cn">原创故事</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/system:recent-changes">最近的更新</a> | <a href="/most-recently-edited">修改的页面</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/top-rated-pages">最高评分的页面</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/lowest-rated-pages">最低评分的页面</a></div>
+<div class="heading">
+<p>社交</p>
+</div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/forum.png" alt="forum.png" class="image" /><a href="/forum:start">讨论区</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/forum:recent-threads">最近讨论串</a> | <a href="/forum:recent-posts">帖子</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/criticism-policy">批评守则</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/members-pages">作者页</a> | <a href="/members-pages-cn">中文分部作者页</a></div>
+<div class="heading">
+<p>相关网站</p>
+</div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="http://scp-tech-cn.wikidot.com/" target="_blank">SCP技术部门</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="http://scp-int.wikidot.com/" target="_blank">SCP国际翻译站</a></div>
+</div>
+<div class="side-block resources" style="background-color: #e7e5e8;">
+<div class="heading">
+<p>写作指导</p>
+</div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/guide-hub">指导中心</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/tag-guide">标签指导</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/tag-search">标签搜索</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/translation-movement-guide">翻译发布及搬运指南</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/wiki-syntax">维基语法</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/syntax-quick-reference">语法速查</a></div>
+</div>
+<div class="side-block" style="background-color: #fff0f0;">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">管理专用</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">管理专用</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/main.png" alt="main.png" class="image" /><a href="/_admin">后台管理</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/main.png" alt="main.png" class="image" /><a href="http://05command-cn.wikidot.com/" target="_blank">职员专站</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/system:list-all-categories">所有页面</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/system:members">会员一览</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/nav:side">侧栏</a> | <a href="/nav:top">顶栏</a> | <a href="/component:theme">版式</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="side-block media" style="background-color: #e5e5ff;">
+<div class="heading">
+<p>相关媒体</p>
+</div>
+<div class="menu-item">
+<div style="text-align: center;"><a href="https://space.bilibili.com/872507" target="_blank"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/Bilibili_icon.png" style="width:30px; height:30px;" alt="Bilibili_icon.png" class="image" /></a></div>
+</div>
+</div>
+<div class="side-block" style="background-color: #f0f0f0;">
+<div style="text-align: center;"><a href="http://creativecommons.org/licenses/by-sa/3.0/deed.zh" target="_blank"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/cc-by-sa.svg" style="margin-bottom: 10px;" alt="cc-by-sa.svg" class="image" /></a><br />
+<span style="font-size:80%;">© SCP基金会<br />
+<a href="/licensing-guide">授权指南</a></span></div>
+</div>
+<div class="scpnet-interwiki-wrapper"><div class="list-pages-box">    <div class="list-pages-item">
+
+
+<p><iframe src="http://scp-wiki-cn.wdfiles.com/local--files/nav%3Aside/interwikiFrame.html?category=_default&pagename=scp-series-5" class="html-block-iframe scpnet-interwiki-frame" name="interwikiFrame"></iframe></p>
+</div>
+    
+    
+    
+    </div></div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<a class="close-menu" href="###"><br />
+<img src="http://scp-wiki.wikidot.com/local--files/nav:side/black.png" style="z-index=-1; opacity: 0.3;" alt="black.png" class="image" /><br /></a>
+                        
+
+
+                    </div>
+                
+                
+                <!-- google_ad_section_end -->
+                
+                <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+                        <div id="page-title">
+                            SCP系列 5
+                        </div>
+                    
+
+                    
+
+                    
+
+
+
+                    <div id="page-content">
+                        
+
+<div class="content-panel standalone series">
+<div class="content-toc">
+<p><strong>目录</strong><br />
+<a href="/scp-series-4#operational">相关信息</a><br />
+<a href="/scp-series-4#list">SCP列表</a><br />
+<a href="/scp-series">001到999</a><br />
+<a href="/scp-series-2">1000到1999</a><br />
+<a href="/scp-series-3">2000到2999</a><br />
+<a href="/scp-series-4">3000到3999</a><br />
+<a href="/scp-series-5#4000">4000到4099</a><br />
+<a href="/scp-series-5#4100">4100到4199</a><br />
+<a href="/scp-series-5#4200">4200到4299</a><br />
+<a href="/scp-series-5#4300">4300到4399</a><br />
+<a href="/scp-series-5#4400">4400到4499</a><br />
+<a href="/scp-series-5#4500">4500到4599</a><br />
+<a href="/scp-series-5#4600">4600到4699</a><br />
+<a href="/scp-series-5#4700">4700到4799</a><br />
+<a href="/scp-series-5#4800">4800到4899</a><br />
+<a href="/scp-series-5#4900">4900到4999</a><br />
+<a href="/scp-series-6">5000到5999</a><br />
+<a href="/scp-series-5#content">归档内容</a><br />
+<a href="/scp-series-5#tales">SCP故事列表</a></p>
+</div>
+<br />
+<a name="operational"></a>
+<h1 id="toc0"><span>关于SCP项目的相关信息</span></h1>
+<ul>
+<li><a href="/security-clearance-levels">安保许可等级</a></li>
+<li><a href="/object-classes">项目等级</a></li>
+<li><a href="/secure-facilities-locations">安保设施地点</a></li>
+<li><a href="/task-forces">机动特遣队</a></li>
+</ul>
+<p><a name="list"></a></p>
+<h1 id="toc1"><span>SCP列表</span></h1>
+<p><a name="4000"></a></p>
+<h1 id="toc2"><span>4000到4099</span></h1>
+<ul>
+<li><span class="taboo"><a href="/scp-4000">禁忌之地</a></span></li>
+<li><a href="/scp-4001">SCP-4001</a> - 永恒之亚历山大城</li>
+<li><a href="/scp-4002">SCP-4002</a> - 黑月嚎叫于时界之外</li>
+<li><a href="/scp-4003">SCP-4003</a> - 牛仔，天主教，白垩纪</li>
+<li><a href="/scp-4004">SCP-4004</a> - 成真梦想</li>
+<li><a href="/scp-4005">SCP-4005</a> - 桃花石国桃花源</li>
+<li><a href="/scp-4006">SCP-4006</a> - #马萨诸塞真相</li>
+<li><a href="/scp-4007">SCP-4007</a> - 影武者</li>
+<li><a href="/scp-4008">SCP-4008</a> - 毁灭之木</li>
+<li><a href="/scp-4009">SCP-4009</a> - 伟大莫扎特在看着你</li>
+<li><a href="/scp-4010">SCP-4010</a> - 溯源</li>
+<li><a href="/scp-4011">SCP-4011</a> - 历史是由胜利者书写的</li>
+<li><a href="/scp-4012">SCP-4012</a> - 亦不愿教导万千星辰不再起舞</li>
+<li><a href="/scp-4013">SCP-4013</a> - 它不能被停下</li>
+<li><a href="/scp-4014">SCP-4014</a> - 八角</li>
+<li><a href="/scp-4015">SCP-4015</a> - 守护者</li>
+<li><a href="/scp-4016">SCP-4016</a> - 鼠与麻</li>
+<li><a href="/scp-4017">SCP-4017</a> - 因迟来而不再重要之尾声</li>
+<li><a href="/scp-4018">SCP-4018</a> - 眼</li>
+<li><a href="/scp-4019">SCP-4019</a> - 解剖学异常</li>
+<li><a href="/scp-4020">SCP-4020</a> - 它不将停止惊叫</li>
+<li><a href="/scp-4021">SCP-4021</a> - 柑橘树下，直至灭绝，随风而逝</li>
+<li><a href="/scp-4022">SCP-4022</a> - 巨大的無</li>
+<li><a href="/scp-4023">SCP-4023</a> - 23的不可名状之秘</li>
+<li><a href="/scp-4024">SCP-4024</a> - 戈壁上的水洼</li>
+<li><a href="/scp-4025">SCP-4025</a> - 血旗</li>
+<li><a href="/scp-4026">SCP-4026</a> - 守护“天使”</li>
+<li><a href="/scp-4027">SCP-4027</a> - 墓地挽歌，直至黄昏，其踪犹存</li>
+<li><a href="/scp-4028">SCP-4028</a> - 拉曼恰的唐吉诃德传</li>
+<li><a href="/scp-4029">SCP-4029</a> - 继续上班，直至破产，绝不停止</li>
+<li><a href="/scp-4030">SCP-4030</a> - 它渴求自由</li>
+<li><a href="/scp-4031">SCP-4031</a> - 失憶的救贖</li>
+<li><a href="/scp-4032">SCP-4032</a> - 死亡放屁果</li>
+<li><a href="/scp-4033">SCP-4033</a> - 复活节小兔已死</li>
+<li><a href="/scp-4034">SCP-4034</a> - 抛窗</li>
+<li><a href="/scp-4035">SCP-4035</a> - 言语之渊</li>
+<li><a href="/scp-4036">SCP-4036</a> - 共和国</li>
+<li><a class="newpage" href="/scp-4037">SCP-4037</a> - 心灵合一</li>
+<li><a href="/scp-4038">SCP-4038</a> - “普通”之舌</li>
+<li><a href="/scp-4039">SCP-4039</a> - 热力学第二定律</li>
+<li><a href="/scp-4040">SCP-4040</a> - 在无底深坑之底</li>
+<li><a href="/scp-4041">SCP-4041</a> - 暴君蜥蜴王的冒名顶替者们</li>
+<li><a href="/scp-4042">SCP-4042</a> - 你与我所爱之人</li>
+<li><a href="/scp-4043">SCP-4043</a> - 地母盖亚</li>
+<li><a href="/scp-4044">SCP-4044</a> - 临终关怀</li>
+<li><a href="/scp-4045">SCP-4045</a> - 汽车-爱情</li>
+<li><a href="/scp-4046">SCP-4046</a> - 你长大后想成为什么样的人？</li>
+<li><a href="/scp-4047">SCP-4047</a> - 抽象艺术</li>
+<li><a href="/scp-4048">SCP-4048</a> - 我们得谈谈你的叉车执照</li>
+<li><a href="/scp-4049">SCP-4049</a> - 兽坑</li>
+<li><a href="/scp-4050">SCP-4050</a> - 湿度恼人</li>
+<li><a href="/scp-4051">SCP-4051</a> - 您友好的邻居Keter</li>
+<li><a href="/scp-4052">SCP-4052</a> - 三明治（消歧义）</li>
+<li><a href="/scp-4053">SCP-4053</a> - 寻找自拍，直至满足，不再凋零</li>
+<li><a href="/scp-4054">SCP-4054</a> - 第七之门</li>
+<li><a href="/scp-4055">SCP-4055</a> - 三瞬三分</li>
+<li><a href="/scp-4056">SCP-4056</a> - 核心家庭单位</li>
+<li><a href="/scp-4057">SCP-4057</a> - 救救她</li>
+<li><a href="/scp-4058">SCP-4058</a> - 人固有一死，终成为故事</li>
+<li><a href="/scp-4059">SCP-4059</a> - 泽西恶魔</li>
+<li><a href="/scp-4060">SCP-4060</a> - 记忆商人</li>
+<li><a href="/scp-4061">SCP-4061</a> - 禁止拍摄</li>
+<li><a href="/scp-4062">SCP-4062</a> - 湿湿小狗</li>
+<li><a href="/scp-4063">SCP-4063</a> - 所遗之物</li>
+<li><a href="/scp-4064">SCP-4064</a> - “不怪你，怪我们。”</li>
+<li><a href="/scp-4065">SCP-4065</a> - （红）现实锚</li>
+<li><a href="/scp-4066">SCP-4066</a> - 拜占庭帝国是秘密潜伏的外星人</li>
+<li><a class="newpage" href="/scp-4067">SCP-4067</a> - Effigies From The Swarm</li>
+<li><a href="/scp-4068">SCP-4068</a> - 先有公司后有天，老板吹号赛神仙</li>
+<li><a href="/scp-4069">SCP-4069</a> - 不在范围内</li>
+<li><a href="/scp-4070">SCP-4070</a> - 仅是他所思之物</li>
+<li><a class="newpage" href="/scp-4071">SCP-4071</a> - History Rewritten</li>
+<li><a href="/scp-4072">SCP-4072</a> - GamePal™</li>
+<li><a href="/scp-4073">SCP-4073</a><sub><span class="math-inline">$N$</span></sub> - 不过是在吹牛</li>
+<li><a href="/scp-4074">SCP-4074</a> - 向阳花</li>
+<li><a href="/scp-4075">SCP-4075</a> - 物以类聚，鸟以群分</li>
+<li><a href="/scp-4076">SCP-4076</a> - 视频伤痕系统</li>
+<li><a class="newpage" href="/scp-4077">SCP-4077</a> - City of Gold</li>
+<li><a href="/scp-4078">SCP-4078</a> - 新拉马克式基因工程</li>
+<li><a href="/scp-4079">SCP-4079</a> - 拯救阿基米德</li>
+<li><a href="/scp-4080">SCP-4080</a> - 瞩目之人</li>
+<li><a class="newpage" href="/scp-4081">SCP-4081</a> - Audition Interference</li>
+<li><a class="newpage" href="/scp-4082">SCP-4082</a> - NeoVancouver Free Radio</li>
+<li><a href="/scp-4083">SCP-4083</a> - 湖滨景观公寓</li>
+<li><a href="/scp-4084">SCP-4084</a> - 所以谁曾是电话</li>
+<li><a class="newpage" href="/scp-4085">SCP-4085</a> - What business, nay?</li>
+<li><a class="newpage" href="/scp-4086">SCP-4086</a> - The Tunnels</li>
+<li><a href="/scp-4087">SCP-4087</a> - 一把刀的失踪</li>
+<li><a href="/scp-4088">SCP-4088</a> - 先生，你是一架钢琴</li>
+<li><a href="/scp-4089">SCP-4089</a> - 拔牙助长</li>
+<li><a href="/scp-4090">SCP-4090</a> - 一个异常艺术家之子的梦想</li>
+<li><a href="/scp-4091">SCP-4091</a> - 一个男孩的狗狗</li>
+<li><a href="/scp-4092">SCP-4092</a> - 橡胶继父</li>
+<li><a href="/scp-4093">SCP-4093</a> - 请共用道路</li>
+<li><a class="newpage" href="/scp-4094">SCP-4094</a> - 潜伏在冰面下的饥饿生物</li>
+<li><a href="/scp-4095">SCP-4095</a> - 爱你</li>
+<li><a href="/scp-4096">SCP-4096</a> - 超级大变换</li>
+<li><a class="newpage" href="/scp-4097">SCP-4097</a> - Louder Than Gods Revolver And Twice As Anomalous</li>
+<li><a href="/scp-4098">SCP-4098</a> - S-C-P，简单得就像19-3-16！</li>
+<li><a href="/scp-4099">SCP-4099</a> - 埋葬于黑暗之中</li>
+</ul>
+<p><a name="4100"></a></p>
+<h1 id="toc3"><span>4100到4199</span></h1>
+<ul>
+<li><a href="/scp-4100">SCP-4100</a> - 将来未完成</li>
+<li><a href="/scp-4101">SCP-4101</a> - 以史为师</li>
+<li><a href="/scp-4102">SCP-4102</a> - 买不买桥</li>
+<li><a href="/scp-4103">SCP-4103</a> - 节日的地狱</li>
+<li><a href="/scp-4104">SCP-4104</a> - <strong><tt><span style="color: #004d00">他欺骗了你们所有人</span></tt></strong></li>
+<li><a href="/scp-4105">SCP-4105</a> - 他们从河而来</li>
+<li><a class="newpage" href="/scp-4106">SCP-4106</a> - The Love Bird</li>
+<li><a href="/scp-4107">SCP-4107</a> - 死者</li>
+<li><a class="newpage" href="/scp-4108">SCP-4108</a> - Not Really a Catapult</li>
+<li><a href="/scp-4109">SCP-4109</a> - 最终结论：万事万物皆混沌且疯狂</li>
+<li><a class="newpage" href="/scp-4110">SCP-4110</a> - The Ultimate Cosplay</li>
+<li><a href="/scp-4111">SCP-4111</a> - 马啸火山行</li>
+<li><a class="newpage" href="/scp-4112">SCP-4112</a> - We Have Assumed Control</li>
+<li><a href="/scp-4113">SCP-4113</a> - 路漫长兮九万里，十年返兮家茫茫</li>
+<li><a class="newpage" href="/scp-4114">SCP-4114</a> - Occult Escapologist</li>
+<li><a class="newpage" href="/scp-4115">SCP-4115</a> - Beast of the Crystal Caves</li>
+<li><a class="newpage" href="/scp-4116">SCP-4116</a> - The Nightmare King in The Palace of Dreams</li>
+<li><a class="newpage" href="/scp-4117">SCP-4117</a> - 桌子上的模型</li>
+<li><a class="newpage" href="/scp-4118">SCP-4118</a> - Tube O' Dinos</li>
+<li><a href="/scp-4119">SCP-4119</a> - 炸药小姐</li>
+<li><a href="/scp-4120">SCP-4120</a> - 一只乖狗狗</li>
+<li><a class="newpage" href="/scp-4121">SCP-4121</a> - The Loop That Never Breaks/Never Has/Never Will Be Broken</li>
+<li><a href="/scp-4122">SCP-4122</a> - 一秒钟长的管子</li>
+<li><a class="newpage" href="/scp-4123">SCP-4123</a> - Gamemaster</li>
+<li><a href="/scp-4124">SCP-4124</a> - 友谊转逝，创伤永存</li>
+<li><a class="newpage" href="/scp-4125">SCP-4125</a> - Revenimus</li>
+<li><a class="newpage" href="/scp-4126">SCP-4126</a> - The Bedsheet Ghost</li>
+<li><a href="/scp-4127">SCP-4127</a> - 硬幣正或反</li>
+<li><a href="/scp-4128">SCP-4128</a> - 《动作漫画》第一期</li>
+<li><a href="/scp-4129">SCP-4129</a> - 在这里吃还是打包？</li>
+<li><a class="newpage" href="/scp-4130">SCP-4130</a> - Su Alteza Serenísima</li>
+<li><a href="/scp-4131">SCP-4131</a> - 三叶虫杀手，枪头奇虾！</li>
+<li><a class="newpage" href="/scp-4132">SCP-4132</a> - Retrochronal Observation Tank</li>
+<li><a class="newpage" href="/scp-4133">SCP-4133</a> - The Pinup That Doesn't Exist</li>
+<li><a class="newpage" href="/scp-4134">SCP-4134</a> - Claymore Anti-Personnel Mimes</li>
+<li><a href="/scp-4135">SCP-4135</a> - 绿头鸭</li>
+<li><a href="/scp-4136">SCP-4136</a> - 叔叔</li>
+<li><a class="newpage" href="/scp-4137">SCP-4137</a> - Drugs, Tesseracts, and Nintendocore</li>
+<li><a href="/scp-4138">SCP-4138</a> - 前往群星</li>
+<li><a class="newpage" href="/scp-4139">SCP-4139</a> - Fridge Backpack</li>
+<li><a class="newpage" href="/scp-4140">SCP-4140</a> - Sarkic Containment Procedures</li>
+<li><a href="/scp-4141">SCP-4141</a> - “你：实时自传”</li>
+<li><a href="/scp-4142">SCP-4142</a> - 星猛龙</li>
+<li><a class="newpage" href="/scp-4143">SCP-4143</a> - Infinitestine</li>
+<li><a href="/scp-4144">SCP-4144</a> - 早吃好</li>
+<li><a href="/scp-4145">SCP-4145</a> - 解離夢療法™</li>
+<li><a href="/scp-4146">SCP-4146</a> - Gaffsey的一磅黑肉</li>
+<li><a class="newpage" href="/scp-4147">SCP-4147</a> - Encyclopedia Obscura</li>
+<li><a href="/scp-4148">SCP-4148</a> - 太空瓢虫</li>
+<li><a href="/scp-4149">SCP-4149</a> - Xorkanoff教授的Bizz艺术画廊</li>
+<li><a class="newpage" href="/scp-4150">SCP-4150</a> - Beatlemania!</li>
+<li><a href="/scp-4151">SCP-4151</a> - 饕餮果园</li>
+<li><a class="newpage" href="/scp-4152">SCP-4152</a> - BASEMENT LOVE, Acrylic on canvas</li>
+<li><a href="/scp-4153">SCP-4153</a> - 文森特·普莱斯出演……它从SITE-9来！</li>
+<li><a class="newpage" href="/scp-4154">SCP-4154</a> - 宠物危机</li>
+<li><a href="/scp-4155">SCP-4155</a> - 喵淇淋</li>
+<li><a href="/scp-4156">SCP-4156</a> - 最后的堡垒</li>
+<li><a href="/scp-4157">SCP-4157</a> - 想要狗吗</li>
+<li><a class="newpage" href="/scp-4158">SCP-4158</a> - Big Charlie The Big Cow</li>
+<li><a href="/scp-4159">SCP-4159</a> - 老天爷啊有什么东西碰了我的腿</li>
+<li><a href="/scp-4160">SCP-4160</a> - 不以史为鉴者</li>
+<li><a href="/scp-4161">SCP-4161</a> - 轮回。</li>
+<li><a href="/scp-4162">SCP-4162</a> - 不需要任何理由就可以杀了你的蛋</li>
+<li><a href="/scp-4163">SCP-4163</a> - 俄罗斯方块天才</li>
+<li><a href="/scp-4164">SCP-4164</a> - 普适指导手册</li>
+<li><a href="/scp-4165">SCP-4165</a> - 这个想法长腿了</li>
+<li><a class="newpage" href="/scp-4166">SCP-4166</a> - (Former) Teenage Succubus</li>
+<li><a class="newpage" href="/scp-4167">SCP-4167</a> - Heterophyes neurensis</li>
+<li><a href="/scp-4168">SCP-4168</a> - <span style="color: pink">分解的爱</span></li>
+<li><a href="/scp-4169">SCP-4169</a> - 碳化炼狱</li>
+<li><a href="/scp-4170">SCP-4170</a> - 黑暗</li>
+<li><a href="/scp-4171">SCP-4171</a> - 投硬币</li>
+<li><a href="/scp-4172">SCP-4172</a> - 艺术家</li>
+<li><a href="/scp-4173">SCP-4173</a> - 哈德利丘小屋</li>
+<li><a class="newpage" href="/scp-4174">SCP-4174</a> - Mother of Many</li>
+<li><a href="/scp-4175">SCP-4175</a> - 交上朋友，然后<strong>消失</strong></li>
+<li><a href="/scp-4176">SCP-4176</a> - 交税</li>
+<li><a href="/scp-4177">SCP-4177</a> - 减半</li>
+<li><a class="newpage" href="/scp-4178">SCP-4178</a> - Arachnespheksophobia</li>
+<li><a class="newpage" href="/scp-4179">SCP-4179</a> - Milestones</li>
+<li><a class="newpage" href="/scp-4180">SCP-4180</a> - Tomorrowland</li>
+<li><a class="newpage" href="/scp-4181">SCP-4181</a> - Spatuland</li>
+<li><a href="/scp-4182">SCP-4182</a> - Site-5不存在</li>
+<li><a href="/scp-4183">SCP-4183</a> - 自动化收容措施</li>
+<li><a href="/scp-4184">SCP-4184</a> - 挽歌，哀歌，镇魂曲</li>
+<li><a class="newpage" href="/scp-4185">SCP-4185</a> - we outrun yourself</li>
+<li><a href="/scp-4186">SCP-4186</a> - 来自意大利的明信片</li>
+<li><a class="newpage" href="/scp-4187">SCP-4187</a> - 汉堡王</li>
+<li><a href="/scp-4188">SCP-4188</a> - 美梦成真</li>
+<li><a class="newpage" href="/scp-4189">SCP-4189</a> - Vengeful Assimilation Coral</li>
+<li><a href="/scp-4190">SCP-4190</a> - 遲延兩萬哩</li>
+<li><a class="newpage" href="/scp-4191">SCP-4191</a> - Draco ignem</li>
+<li><a href="/scp-4192">SCP-4192</a> - 如上</li>
+<li><a href="/scp-4193">SCP-4193</a> - dado的偏头痛要药</li>
+<li><a href="/scp-4194">SCP-4194</a> - 堕落天使</li>
+<li><a href="/scp-4195">SCP-4195</a> - 种瓜得瓜，种豆得豆</li>
+<li><a class="newpage" href="/scp-4196">SCP-4196</a> - Daughter of the Confederacy</li>
+<li><a class="newpage" href="/scp-4197">SCP-4197</a> - Hollow</li>
+<li><a class="newpage" href="/scp-4198">SCP-4198</a> - Feed Your Hair</li>
+<li><a href="/scp-4199">SCP-4199</a> - 普通人</li>
+</ul>
+<p><a name="4200"></a></p>
+<h1 id="toc4"><span>4200到4299</span></h1>
+<ul>
+<li><a href="/scp-4200">SCP-4200</a> - 理想世界</li>
+<li><a href="/scp-4201">SCP-4201</a> - 大规模杀伤性披萨</li>
+<li><a href="/scp-4202">SCP-4202</a> - 昏睡的鼓掌者</li>
+<li><a class="newpage" href="/scp-4203">SCP-4203</a> - Sometimes a Damselfly Just Wants Some Dick</li>
+<li><a href="/scp-4204">SCP-4204</a> - 天上摘月</li>
+<li><a href="/scp-4205">SCP-4205</a> - <span style="display: inline-block; background: #1e1e1e; color: #ccc; padding: 0 2px; border-radius: 3px;"><strong><tt>在窥伺者的眼中</tt></strong> 🖳</span></li>
+<li><a href="/scp-4206">SCP-4206</a> - 心的重量</li>
+<li><a class="newpage" href="/scp-4207">SCP-4207</a> - Auditory Entity</li>
+<li><a class="newpage" href="/scp-4208">SCP-4208</a> - Naomi’s Sweetery</li>
+<li><a href="/scp-4209">SCP-4209</a> - 大家啊，都是好蛋！</li>
+<li><a href="/scp-4210">SCP-4210</a> - 美国之梦</li>
+<li><a href="/scp-4211">SCP-4211</a> - 旧忆新貌</li>
+<li><a href="/scp-4212">SCP-4212</a> - 一篇非常有用而简明的SCP报告</li>
+<li><a href="/scp-4213">SCP-4213</a> - 我尖叫</li>
+<li><a href="/scp-4214">SCP-4214</a> - 绝望的虔诚</li>
+<li><a class="newpage" href="/scp-4215">SCP-4215</a> - The Inkredible 51st Squiddy Squaddy</li>
+<li><a href="/scp-4216">SCP-4216</a> - 于此犬舍</li>
+<li><a href="/scp-4217">SCP-4217</a> - 收容<em>俾斯麦号</em>！</li>
+<li><a href="/scp-4218">SCP-4218</a> - www.alexylvauniversity.███</li>
+<li><a href="/scp-4219">SCP-4219</a> - LUDROA</li>
+<li><a href="/scp-4220">SCP-4220</a> - 月球暗面</li>
+<li><a href="/scp-4221">SCP-4221</a> - 多么美好的世界</li>
+<li><a href="/scp-4222">SCP-4222</a> - 国际货币鱼</li>
+<li><a class="newpage" href="/scp-4223">SCP-4223</a> - The Baja Blast<sup>TM</sup></li>
+<li><a href="/scp-4224">SCP-4224</a> - 历史将善待我</li>
+<li><a href="/scp-4225">SCP-4225</a> - 嘶嘶斯蛇是小萨，溯宿上戏先生</li>
+<li><a class="newpage" href="/scp-4226">SCP-4226</a> - The Spring of the Ages</li>
+<li><a href="/scp-4227">SCP-4227</a> - 遗物坟场&#8230;&#8230;</li>
+<li><a href="/scp-4228">SCP-4228</a> - 变色Karma</li>
+<li><a class="newpage" href="/scp-4229">SCP-4229</a> - Mother's Gift</li>
+<li><a href="/scp-4230">SCP-4230</a> - <em>这是一个圣诞节奇迹！</em></li>
+<li><a href="/scp-4231">SCP-4231</a> - 蒙托克之屋</li>
+<li><a class="newpage" href="/scp-4232">SCP-4232</a> - Thought Crustacean</li>
+<li><a href="/scp-4233">SCP-4233</a> - 无畏人</li>
+<li><a href="/scp-4234">SCP-4234</a> - 睾丸及其突然缺失</li>
+<li><a href="/scp-4235">SCP-4235</a> - <em>Rosa aeternum</em></li>
+<li><a href="/scp-4236">SCP-4236</a> - 世界末日来了（而所有人都觉得没事）</li>
+<li><a class="newpage" href="/scp-4237">SCP-4237</a> - Where Winter Rests</li>
+<li><a class="newpage" href="/scp-4238">SCP-4238</a> - Those aren't blueberries&#8230;</li>
+<li><a href="/scp-4239">SCP-ℸp♡9</a> - 或：KTE-6561-Black、dolphinslugchugger与scarhaver的GAW-1提案、 8008132、我们住在湖边的朋友、大湖、一个非常重要的问题、我们这次搞新东西的原因所在、不成事就回家</li>
+<li><a href="/scp-4240">SCP-4240</a> - 兜圈子游戏</li>
+<li><a class="newpage" href="/scp-4241">SCP-4241</a> - Researcher's Nightmare</li>
+<li><a href="/scp-4242">SCP-4242</a> - 基地</li>
+<li><a href="/scp-4243">SCP-4243</a> - 细胞镇</li>
+<li><a href="/scp-4244">SCP-4244</a> - 对音乐家的好品味</li>
+<li><a class="newpage" href="/scp-4245">SCP-4245</a> - Judgemental Thermometer</li>
+<li><a class="newpage" href="/scp-4246">SCP-4246</a> - Thalassomania, or The Dreams of the Firstborn</li>
+<li><a href="/scp-4247">SCP-4247</a> - 普通的Bob</li>
+<li><a href="/scp-4248">SCP-4248</a> - 字母表与俄梅嘎</li>
+<li><a class="newpage" href="/scp-4249">SCP-4249</a> - Nothing Really Mattress Anymore, or: Zen And The Art of Hunting Free-Range Furniture</li>
+<li><a class="newpage" href="/scp-4250">SCP-4250</a> - Colorful Pens With Thematic Ends</li>
+<li><a class="newpage" href="/scp-4251">SCP-4251</a> - Natural Selection</li>
+<li><a href="/scp-4252">SCP-4252</a> - 豆与叛</li>
+<li><a href="/scp-4253">SCP-4253</a> - 溺亡者</li>
+<li><a class="newpage" href="/scp-4254">SCP-4254</a> - Elvis?</li>
+<li><a href="/scp-4255">SCP-4255</a> - 时间穿越者圣诞老人</li>
+<li><a href="/scp-4256">SCP-4256</a> - 私酒贩的印刷机</li>
+<li><a href="/scp-4257">SCP-4257</a> - dado的公共运输</li>
+<li><a class="newpage" href="/scp-4258">SCP-4258</a> - Freddy's Diner</li>
+<li><a href="/scp-4259">SCP-4259</a> - 一条友善的<strong>[无法转录]</strong></li>
+<li><a href="/scp-4260">SCP-4260</a> - 死亡化身</li>
+<li><a class="newpage" href="/scp-4261">SCP-4261</a> - In Case of Emergency, Blow Shofar</li>
+<li><a href="/scp-4262">SCP-4262</a> - 重要的不是征服，而是奋力拼搏</li>
+<li><a href="/scp-4263">SCP-4263</a> - 双子人</li>
+<li><a href="/scp-4264">SCP-4264</a> - 卡尔霍恩县教学大纲</li>
+<li><a href="/scp-4265">SCP-4265</a> - 影片收录蛇</li>
+<li><a href="/scp-4266">SCP-4266</a> - 杀伐之气</li>
+<li><a href="/scp-4267">SCP-4267</a> - 烟道不通</li>
+<li><a href="/scp-4268">SCP-4268</a> - 驱逐</li>
+<li><a href="/scp-4269">SCP-4269</a> - 做爱别关灯</li>
+<li><a href="/scp-4270">SCP-4270</a> - 本杰明·哈里森在椭圆形办公室里拉屎吗？</li>
+<li><a href="/scp-4271">SCP-4271</a> - 硅谷</li>
+<li><a class="newpage" href="/scp-4272">SCP-4272</a> - The Proper Way to Appreciate Art</li>
+<li><a class="newpage" href="/scp-4273">SCP-4273</a> - The Bonsai Trees</li>
+<li><a href="/scp-4274">SCP-4274</a> - 孤独天使</li>
+<li><a href="/scp-4275">SCP-4275</a> - 海之老者</li>
+<li><a class="newpage" href="/scp-4276">SCP-4276</a> - Dance Till You're Dead</li>
+<li><a class="newpage" href="/scp-4277">SCP-4277</a> - Bullet Farm</li>
+<li><a href="/scp-4278">SCP-4278</a> - 终结岛</li>
+<li><a class="newpage" href="/scp-4279">SCP-4279</a> - A Toast to my Finished Thesis</li>
+<li><a href="/scp-4280">SCP-4280</a> - <em>跨维度侮辱惩罚罐</em>™</li>
+<li><a href="/scp-4281">SCP-4281</a> - 厕间谈话</li>
+<li><a class="newpage" href="/scp-4282">SCP-4282</a> - Mutiny's Bane</li>
+<li><a href="/scp-4283">SCP-4283</a> - Ouachita之心</li>
+<li><a href="/scp-4284">SCP-4284</a> - 走路水塔</li>
+<li><a class="newpage" href="/scp-4285">SCP-4285</a> - Dank Memetics</li>
+<li><a href="/scp-4286">SCP-4286</a> - 这一点也不骨怪</li>
+<li><a href="/scp-4287">SCP-4287</a> - <span class="pigeon">P.鸽先生</span></li>
+<li><a href="/scp-4288">SCP-4288</a> - 难言之“秘”</li>
+<li><a class="newpage" href="/scp-4289">SCP-4289</a> - The Bunyip</li>
+<li><a href="/scp-4290">SCP-4290</a> - 饥饿的子</li>
+<li><a href="/scp-4291">SCP-4291</a> - 移情机器</li>
+<li><a href="/scp-4292">SCP-4292</a> - “dado的赫比·法克真的很好的不安马戏团”</li>
+<li><a class="newpage" href="/scp-4293">SCP-4293</a> - In One Man’s Honour, A Dossier Of unBÄRable Solitude</li>
+<li><a class="newpage" href="/scp-4294">SCP-4294</a> - In the Cold Shadow of her Ovary Tower</li>
+<li><a href="/scp-4295">SCP-4295</a> - 车声<em>隆隆</em></li>
+<li><a href="/scp-4296">SCP-4296</a> - 窥私狂</li>
+<li><a class="newpage" href="/scp-4297">SCP-4297</a> - The Emu-lution of War</li>
+<li><a href="/scp-4298">SCP-4298</a> - 546号收容间的门，或Site-446悖论</li>
+<li><a href="/scp-4299">SCP-4299</a> - 我看到了美好的生活</li>
+</ul>
+<p><a name="4300"></a></p>
+<h1 id="toc5"><span>4300到4399</span></h1>
+<ul>
+<li><a href="/scp-4300">SCP-4300</a> - 让一个人失去灵魂</li>
+<li><a href="/scp-4301">SCP-4301</a> - 蒂莫西·基尔斯（Timothy Gilles）</li>
+<li><a href="/scp-4302">SCP-4302</a> - 前掠食者</li>
+<li><a href="/scp-4303">SCP-4303</a> - 野蔷薇</li>
+<li><a class="newpage" href="/scp-4304">SCP-4304</a> - There Is No Honor Among Thieves (Even When Mechas Are Involved)</li>
+<li><a class="newpage" href="/scp-4305">SCP-4305</a> - No Lifeguard On Duty</li>
+<li><a class="newpage" href="/scp-4306">SCP-4306</a> - Stan the Janitor</li>
+<li><a class="newpage" href="/scp-4307">SCP-4307</a> - Electro-Marine Praetorian</li>
+<li><a href="/scp-4308">SCP-4308</a> - 曲与吾心同</li>
+<li><a href="/scp-4309">SCP-4309</a> - 挤挤</li>
+<li><a href="/scp-4310">SCP-4310</a> - 英雄之路</li>
+<li><a href="/scp-4311">SCP-4311</a> - 我在乎你。</li>
+<li><a href="/scp-4312">SCP-4312</a> - 坠向天空</li>
+<li><a href="/scp-4313">SCP-4313</a> - 银河中的风暴海</li>
+<li><a href="/scp-4314">SCP-4314</a> - 一个无理数</li>
+<li><a href="/scp-4315">SCP-4315</a> - S·C·P·洛夫克拉夫特</li>
+<li><a href="/scp-4316">SCP-4316</a> - 夏长水暖</li>
+<li><a href="/scp-4317">SCP-4317</a> - 猫抓抓</li>
+<li><a class="newpage" href="/scp-4318">SCP-4318</a> - A HORRIFIC, DEADLY, EVIL Chemical [BEWARE]</li>
+<li><a href="/scp-4319">SCP-4319</a> - <span style="color: #ff4580">♡为了粉粉的少女，粉粉的心♡</span></li>
+<li><a class="newpage" href="/scp-4320">SCP-4320</a> - Show Me The Glint of Light on Broken Glass</li>
+<li><a href="/scp-4321">SCP-4321</a> - 时而仰望天空，从而自觉渺小</li>
+<li><a href="/scp-4322">SCP-4322</a> - 無眠之夢</li>
+<li><a href="/scp-4323">SCP-4323</a> - 触</li>
+<li><a class="newpage" href="/scp-4324">SCP-4324</a> - Saint Torben the Strange</li>
+<li><a href="/scp-4325">SCP-4325</a> - <tt>无信号</tt></li>
+<li><a href="/scp-4326">SCP-4326</a> - 蜜月新人</li>
+<li><a class="newpage" href="/scp-4327">SCP-4327</a> - Suppressive fire in, suppressive fire out! Do the hokey-pokey and that's what it's all about!</li>
+<li><a class="newpage" href="/scp-4328">SCP-4328</a> - Sinew and Cellulose</li>
+<li><a class="newpage" href="/scp-4329">SCP-4329</a> - [拒绝访问]</li>
+<li><a href="/scp-4330">SCP-4330</a> - 一瞬的寂静</li>
+<li><a class="newpage" href="/scp-4331">SCP-4331</a> - When Good Elk Go to War</li>
+<li><a href="/scp-4332">SCP-4332</a> - 把它吃得精光</li>
+<li><a href="/scp-4333">SCP-4333</a> - 挥霍</li>
+<li><a href="/scp-4334">SCP-4334</a> - 自然很酷</li>
+<li><a href="/scp-4335">SCP-4335</a> - 坩埚中的世界</li>
+<li><a href="/scp-4336">SCP-4336</a> - Garfield Minus Garfield</li>
+<li><a class="newpage" href="/scp-4337">SCP-4337</a> - D-59932 Didn't Die for This Shit</li>
+<li><a href="/scp-4338">SCP-4338</a> - 祸害伏尔甘</li>
+<li><a href="/scp-4339">SCP-4339</a> - 神笔</li>
+<li><a href="/scp-4340">SCP-4340</a> - 孑遗</li>
+<li><a href="/scp-4341">SCP-4341</a> - 非物生命</li>
+<li><a href="/scp-4342">SCP-4342</a> - 實驗必須繼續</li>
+<li><a href="/scp-4343">SCP-4343</a> - 你们将获得自由</li>
+<li><a href="/scp-4344">SCP-4344</a> - 踢飞小行星</li>
+<li><a class="newpage" href="/scp-4345">SCP-4345</a> - 虽然我没一棵树强，但我没权利活着吗？</li>
+<li><a href="/scp-4346">SCP-4346</a> - 孤房觅友</li>
+<li><a class="newpage" href="/scp-4347">SCP-4347</a> - Goat of Departure</li>
+<li><a href="/scp-4348">SCP-4348</a> - dado汗包和薯调</li>
+<li><a href="/scp-4349">SCP-4349</a> - 但是我在电视上演过医生&#8230;</li>
+<li><a class="newpage" href="/scp-4350">SCP-4350</a> - I See Yellow People</li>
+<li><a class="newpage" href="/scp-4351">SCP-4351</a> - Home</li>
+<li><a href="/scp-4352">SCP-4352</a> - 故事时间</li>
+<li><a class="newpage" href="/scp-4353">SCP-4353</a> - Your 223rd First Day</li>
+<li><a href="/scp-4354">SCP-4354</a> - 受肉于肤下墨中</li>
+<li><a href="/scp-4355">SCP-4355</a> - 万王之王奥兹曼迪亚斯</li>
+<li><a class="newpage" href="/scp-4356">SCP-4356</a> - The Not-Quite-Broken-Clock Affair</li>
+<li><a href="/scp-4357">SCP-4357</a> - 黏液房东</li>
+<li><a href="/scp-4358">SCP-4358</a> - 不朽的爱</li>
+<li><a class="newpage" href="/scp-4359">SCP-4359</a> - <span class="news">Sash Lantern</span></li>
+<li><a href="/scp-4360">SCP-4360</a> - 树形</li>
+<li><a href="/scp-4361">SCP-4361</a> - 红色是她最爱的颜色</li>
+<li><a href="/scp-4362">SCP-4362</a> - 阿基里斯防御系统</li>
+<li><a class="newpage" href="/scp-4363">SCP-4363</a> - Wake Me Up, I'm Living a Nightmare</li>
+<li><a href="/scp-4364">SCP-4364</a> - 何不食肉糜</li>
+<li><a href="/scp-4365">SCP-4365</a> - 五层颠倒酒店</li>
+<li><a class="newpage" href="/scp-4366">SCP-4366</a> - Birds of a Feather</li>
+<li><a class="newpage" href="/scp-4367">SCP-4367</a> - What Are The Odds?</li>
+<li><a href="/scp-4368">SCP-4368</a> - 睡去，偶尔会看看</li>
+<li><a class="newpage" href="/scp-4369">SCP-4369</a> - Cassandra: Play Your Part</li>
+<li><a href="/scp-4370">SCP-4370</a> - 有趣的滑梯</li>
+<li><a class="newpage" href="/scp-4371">SCP-4371</a> - <span style="color: purple">电磁生命体</span></li>
+<li><a class="newpage" href="/scp-4372">SCP-4372</a> - So Very Small, So Very Safe</li>
+<li><a href="/scp-4373">SCP-4373</a> - 沉没</li>
+<li><a class="newpage" href="/scp-4374">SCP-4374</a> - This Is You</li>
+<li><a class="newpage" href="/scp-4375">SCP-4375</a> - Two Forgetful Men</li>
+<li><a href="/scp-4376">SCP-4376</a> - 你有尝试过多笑笑吗？</li>
+<li><a class="newpage" href="/scp-4377">SCP-4377</a> - Fight! Fight for the Man of the People!</li>
+<li><a class="newpage" href="/scp-4378">SCP-4378</a> - Her Noodly Appendage</li>
+<li><a class="newpage" href="/scp-4379">SCP-4379</a> - New Sun Will Rise, and Shadows Quickly Fade</li>
+<li><a class="newpage" href="/scp-4380">SCP-4380</a> - Pretty Fly for a Fungi</li>
+<li><a class="newpage" href="/scp-4381">SCP-4381</a> - Moccus Meme</li>
+<li><a href="/scp-4382">SCP-4382</a> - Hulwick之熵</li>
+<li><a class="newpage" href="/scp-4383">SCP-4383</a> - Sticks and Stones, Blood for Old Bones, a Curse Forever Thirsty.</li>
+<li><a href="/scp-4384">SCP-4384</a> - 雷鸟</li>
+<li><a class="newpage" href="/scp-4385">SCP-4385</a> - Dimensional Phone Line</li>
+<li><a class="newpage" href="/scp-4386">SCP-4386</a> - B Gone, B</li>
+<li><a class="newpage" href="/scp-4387">SCP-4387</a> - Don´t lose your head, comrade</li>
+<li><a class="newpage" href="/scp-4388">SCP-4388</a> - Rampant OSHA violations</li>
+<li><a href="/scp-4389">SCP-4389</a> - 大眉毛</li>
+<li><a class="newpage" href="/scp-4390">SCP-4390</a> - A Bad Maze</li>
+<li><a href="/scp-4391">Periapsis</a> - 孤独万花筒</li>
+<li><a href="/scp-4392">SCP-4392</a> - 沙之坑</li>
+<li><a class="newpage" href="/scp-4393">SCP-4393</a> - The Beating Sounds of a Thousand Paper Wings</li>
+<li><a href="/scp-4394">SCP-4394</a> - 液态钢琴</li>
+<li><a href="/scp-4395">SCP-4395</a> - 那些所蔓延着的事物</li>
+<li><a class="newpage" href="/scp-4396">SCP-4396</a> - The Joy of Completion</li>
+<li><a class="newpage" href="/scp-4397">SCP-4397</a> - Medila's Altar</li>
+<li><a class="newpage" href="/scp-4398">SCP-4398</a> - Distant Triangles of Energy</li>
+<li><a href="/scp-4399">SCP-4399</a> - 弗栗多</li>
+</ul>
+<p><a name="4400"></a></p>
+<h1 id="toc6"><span>4400到4499</span></h1>
+<ul>
+<li><a href="/scp-4400">SCP-4400</a> - 此处并非荣誉之地</li>
+<li><a class="newpage" href="/scp-4401">SCP-4401</a> - Total Eclipse Of The Heart</li>
+<li><a href="/scp-4402">SCP-4402</a> - 永久购物清单</li>
+<li><a class="newpage" href="/scp-4403">SCP-4403</a> - The Silent Crusade</li>
+<li><a class="newpage" href="/scp-4404">SCP-4404</a> - The Scent of Silence</li>
+<li><a href="/scp-4405">SCP-4405</a> - 时间尽头是周五</li>
+<li><a class="newpage" href="/scp-4406">SCP-4406</a> - SUDDEN THUNDER</li>
+<li><a class="newpage" href="/scp-4407">SCP-4407</a> - &quot;TelaV, the Puniching Demon&quot;</li>
+<li><a href="/scp-4408">SCP-4408</a> - 他所惧怕的并非基金会。</li>
+<li><a href="/scp-4409">SCP-4409</a> - 象人</li>
+<li><a class="newpage" href="/scp-4410">SCP-4410</a> - The Ongoing Development of an Art Form</li>
+<li><a href="/scp-4411">SCP-4411</a> - 终于着陆</li>
+<li><a class="newpage" href="/scp-4412">SCP-4412</a> - What Could Have Been?</li>
+<li><a href="/scp-4413">SCP-4413</a> - 真正佳作的结局</li>
+<li><a class="newpage" href="/scp-4414">SCP-4414</a> - &quot;PEEL&quot;</li>
+<li><a href="/scp-4415">SCP-4415</a> - λ045号人形收容室</li>
+<li><a href="/scp-4416">SCP-4416</a> - Site-42怪坛子：为什么基金会要打鲨鱼</li>
+<li><a class="newpage" href="/scp-4417">SCP-4417</a> - The Long Way Round</li>
+<li><a href="/scp-4418">SCP-4418</a> - 至死不渝</li>
+<li><a href="/scp-4419">SCP-4419</a> - 屠夫的战车</li>
+<li><a href="/scp-4420">SCP-4420</a> - 马铃薯口渴</li>
+<li><a class="newpage" href="/scp-4421">SCP-4421</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4422">SCP-4422</a> - O Tempestas, O Mores</li>
+<li><a href="/scp-4423">SCP-4423</a> - 我的魔鬼继父</li>
+<li><a href="/scp-4424">SCP-4424</a> - 无终班列</li>
+<li><a class="newpage" href="/scp-4425">SCP-4425</a> - Chef Arkady's Canned Surprise!</li>
+<li><a href="/scp-4426">SCP-4426</a> - 不可忘却的火焰</li>
+<li><a href="/scp-4427">SCP-4427</a> - Nobody与民众同在</li>
+<li><a href="/scp-4428">Michaels博士</a> - <span class="lie">Michaels博士沒有處於危險之中</span></li>
+<li><a class="newpage" href="/scp-4429">SCP-4429</a> - William Shatner's Cover of &quot;Common People&quot;</li>
+<li><a href="/scp-4430">SCP-4430</a> - 《Evanholly无面人生》</li>
+<li><a href="/scp-4431">SCP-4431</a> - 南极洲下的血流</li>
+<li><a href="/scp-4432">SCP-4432</a> - dado的先生先生</li>
+<li><a href="/scp-4433">SCP-4433</a> - 乡村梦魇</li>
+<li><a class="newpage" href="/scp-4434">SCP-4434</a> - Anglerfish</li>
+<li><a class="newpage" href="/scp-4435">SCP-4435</a> - Sins of the Father</li>
+<li><a href="/scp-4436">SCP-4436</a> - 耶稣存档</li>
+<li><a class="newpage" href="/scp-4437">SCP-4437</a> - Going Forward, Really, Really Fast</li>
+<li><a href="/scp-4438">SCP-4438</a> - <strong>第四个</strong></li>
+<li><a class="newpage" href="/scp-4439">SCP-4439</a> - The Weeping Child</li>
+<li><a href="/scp-4440">SCP-4440</a> - 届至之手</li>
+<li><a class="newpage" href="/scp-4441">SCP-4441</a> - Summer Scare</li>
+<li><a href="/scp-4442">SCP-4442</a> - 我的驾驶怎么样？</li>
+<li><a href="/scp-4443">SCP-4443</a> - 呜噢噢噢&#8230;&#8230;</li>
+<li><a href="/scp-4444">SCP-4444</a> - 布什vs戈尔</li>
+<li><a href="/scp-4445">SCP-4445</a> - 音乐死去的那一天</li>
+<li><a href="/scp-4446">SCP-4446</a> - Deep_Pig.bmp</li>
+<li><a class="newpage" href="/scp-4447">SCP-4447</a> - Sasha's Super Shuttle Service!</li>
+<li><a class="newpage" href="/scp-4448">SCP-4448</a> - The Elk in the Lake</li>
+<li><a href="/scp-4449">SCP-4449</a> - <span style="font-family:'MS PGothic', 'Microsoft YaHei'">カワモト ダイスケ</span>，又叫做<span style="font-family:'MS PGothic', 'Microsoft YaHei'">かかしさん</span>，稻草人武士兼傳奇屠妖者</li>
+<li><a class="newpage" href="/scp-4450">SCP-4450</a> - Sometimes Things Break</li>
+<li><a href="/scp-4451">SCP-4451</a> - dado的沙皇吸尘器</li>
+<li><a class="newpage" href="/scp-4452">SCP-4452</a> - Submitted to the Ethics Committee for review</li>
+<li><a class="newpage" href="/scp-4453">SCP-4453</a> - Wholesome Family Goddess</li>
+<li><a href="/scp-4454">SCP-4454</a> - 寻一人共观天下</li>
+<li><a href="/scp-4455">SCP-4455</a> - 长话短说……</li>
+<li><a href="/scp-4456">SCP-4456-D</a> - 没人期望西班牙废除！</li>
+<li><a class="newpage" href="/scp-4457">SCP-4457</a> - 尻足类</li>
+<li><a class="newpage" href="/scp-4458">SCP-4458</a> - jaws is gonna get ya</li>
+<li><a class="newpage" href="/scp-4459">SCP-4459</a> - The Ringmaster's Crown</li>
+<li><a class="newpage" href="/scp-4460">SCP-4460</a> - Humorous Factory</li>
+<li><a href="/scp-4461">SCP-4461</a> - 我是狂热者。</li>
+<li><a class="newpage" href="/scp-4462">SCP-4462</a> - Fan Death</li>
+<li><a class="newpage" href="/scp-4463">SCP-4463</a> - Ecosystem Restore Point</li>
+<li><a href="/scp-4464">SCP-4464</a> - 狗狗可以大一點</li>
+<li><a href="/scp-4465">SCP-4465</a> - 没有人是孤岛一座</li>
+<li><a href="/scp-4466">SCP-4466</a> - 为什么拉长个脸？</li>
+<li><a href="/scp-4467">SCP-4467</a> - 哦，我明白了</li>
+<li><a href="/scp-4468">SCP-4468</a> - 许个愿吧</li>
+<li><a class="newpage" href="/scp-4469">SCP-4469</a> - Memory Shovel</li>
+<li><a class="newpage" href="/scp-4470">SCP-4470</a> - Endure</li>
+<li><a href="/scp-4471">SCP-4471</a> - 聚宝库</li>
+<li><a class="newpage" href="/scp-4472">SCP-4472</a> - Auger</li>
+<li><a href="/scp-4473">SCP-4473</a> - 你让我感觉像</li>
+<li><a href="/scp-4474">SCP-4474</a> - Steve，或者0外的神</li>
+<li><a class="newpage" href="/scp-4475">SCP-4475</a> - So Long, and Thanks for All the Milk</li>
+<li><a class="newpage" href="/scp-4476">SCP-4476</a> - <em>Le Famille Natau</em></li>
+<li><a href="/scp-4477">SCP-4477</a> - 给耶稣留点地儿！</li>
+<li><a href="/scp-4478">SCP-4478</a> - <strong>楼梯</strong></li>
+<li><a href="/scp-4479">SCP-4479</a> - D-11424与万门之境</li>
+<li><a class="newpage" href="/scp-4480">SCP-4480</a> - The Snake Doctor</li>
+<li><a href="/scp-4481">SCP-4481</a> - 史上最严重航天灾难的伤亡</li>
+<li><a class="newpage" href="/scp-4482">SCP-4482</a> - Last Call</li>
+<li><a class="newpage" href="/scp-4483">SCP-4483</a> - Cut off the Head</li>
+<li><a href="/scp-4484">SCP-4484</a> - 直播拯救者</li>
+<li><a href="/scp-4485">SCP-4485</a> - 黑光</li>
+<li><a class="newpage" href="/scp-4486">SCP-4486</a> - Happy Is Relative</li>
+<li><a class="newpage" href="/scp-4487">SCP-4487</a> - All the World's a Dairy Farm</li>
+<li><a href="/scp-4488">SCP-4488</a> - <span style="font-family:楷体"><span style="font-size:120%;">深海恐惧症</span></span></li>
+<li><a href="/scp-4489">SCP-4489</a> - 道歉</li>
+<li><a href="/scp-4490">SCP-4490</a> - 残忍的善意</li>
+<li><a href="/scp-4491">SCP-4491</a> - “低俗电影”</li>
+<li><a href="/scp-4492">SCP-4492</a> - 厕用雨伞</li>
+<li><a href="/scp-4493">SCP-4493</a> - 让骄傲远离资本</li>
+<li><a href="/scp-4494">SCP-4494</a> - <span style="font-size:0%;">The Specter 為正義而戰！</span><img src="http://scp-wiki.wdfiles.com/local--resized-images/scp-series-5/specter_label/medium.jpg" style="margin-bottom: -2px;" alt="medium.jpg" class="image" />為正義而戰！</li>
+<li><a href="/scp-4495">SCP-4495</a> - 猪们的救世主</li>
+<li><a class="newpage" href="/scp-4496">SCP-4496</a> - Gold Plastic Syndrome (Infectious)</li>
+<li><a href="/scp-4497">SCP-4497</a> - 谁是大厨神?!</li>
+<li><a href="/scp-4498">SCP-4498</a> - 多元化的Jack Bright</li>
+<li><a href="/scp-4499">SCP-4499</a> - 是的，只要44.99美刀！</li>
+</ul>
+<p><a name="4500"></a></p>
+<h1 id="toc7"><span>4500到4599</span></h1>
+<ul>
+<li><a href="/scp-4500">SCP-4500</a> - 苏格拉底式收容措施</li>
+<li><a href="/scp-4501">SCP-4501</a> - 薄荷山脉</li>
+<li><a class="newpage" href="/scp-4502">SCP-4502</a> - Emily The Eldritch Ergot Goddess &amp; Friends</li>
+<li><a href="/scp-4503">SCP-4503</a> - 无限意面锅</li>
+<li><a class="newpage" href="/scp-4504">SCP-4504</a> - The Handless Man</li>
+<li><a href="/scp-4505">SCP-4505</a> - 文艺复兴时期异常艺术简史</li>
+<li><a href="/scp-4506">SCP-4506</a> - 永远的童星</li>
+<li><a class="newpage" href="/scp-4507">SCP-4507</a> - The Solitary Path to Enlightenment</li>
+<li><a href="/scp-4508">SCP-4508</a> - 水獭先知</li>
+<li><a class="newpage" href="/scp-4509">SCP-4509</a> - The Windigo Cold Cases</li>
+<li><a href="/scp-4510">SCP-4510</a> - 阿维乐快递一等优品速运™！</li>
+<li><a href="/scp-4511">SCP-4511</a> - <strong>猪神</strong></li>
+<li><a href="/scp-4512">SCP-4512</a> - 超猥琐传送泳池</li>
+<li><a href="/scp-4513">SCP-4513</a> - 与《莫比·迪克》一起被我的IRS版W-2报税表格狠击屁股</li>
+<li><a href="/scp-4514">SCP-4514</a> - 凶器</li>
+<li><a class="newpage" href="/scp-4515">SCP-4515</a> - Why is the Sky?</li>
+<li><a class="newpage" href="/scp-4516">SCP-4516</a> - Don't fuck with hyper-religious cats</li>
+<li><a href="/scp-4517">SCP-4517</a> - 不是很 𝒩</li>
+<li><a href="/scp-4518">SCP-4518</a> - 我我我我我我我我和我</li>
+<li><a href="/scp-4519">SCP-4519</a> - 卡尔·萨根，神首</li>
+<li><a href="/scp-4520">SCP-4520</a> - 骰子已经掷下</li>
+<li><a href="/scp-4521">SCP-4521</a> - 你声音大些，我听力不如以前了</li>
+<li><a class="newpage" href="/scp-4522">SCP-4522</a> - The Mystical Village of the Jade Peach</li>
+<li><a href="/scp-4523">SCP-4523</a> - 洞穴的故事</li>
+<li><a href="/scp-4524">SCP-4524</a> - 血肉新世界</li>
+<li><a href="/scp-4525">SCP-4525</a> - 泥药来dado go</li>
+<li><a class="newpage" href="/scp-4526">SCP-4526</a> - I'm Her Union Rep, Jimmy No-Last-Name</li>
+<li><a class="newpage" href="/scp-4527">SCP-4527</a> - Crippling Indecision</li>
+<li><a class="newpage" href="/scp-4528">SCP-4528</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4529">SCP-4529</a> - Pandora's Box (of Notecards)</li>
+<li><a class="newpage" href="/scp-4530">SCP-4530</a> - And Into The Woods We Go</li>
+<li><a class="newpage" href="/scp-4531">SCP-4531</a> - Silence encourages the tormentor, never the tormented.</li>
+<li><a class="newpage" href="/scp-4532">SCP-4532</a> - Wire Transfer</li>
+<li><a href="/scp-4533">SCP-4533</a> - 条款和条件应得适用</li>
+<li><a href="/scp-4534">SCP-4534</a> - 美人美照</li>
+<li><a class="newpage" href="/scp-4535">SCP-4535</a> - The Better Man</li>
+<li><a class="newpage" href="/scp-4536">SCP-4536</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4537">SCP-4537</a> - Artist's Syndrome</li>
+<li><a href="/scp-4538">SCP-4538</a> - 闪闪闪！炸炸炸！</li>
+<li><a class="newpage" href="/scp-4539">SCP-4539</a> - The Worst Calculator Ever</li>
+<li><a class="newpage" href="/scp-4540">SCP-4540</a> - History, Together</li>
+<li><a class="newpage" href="/scp-4541">SCP-4541</a> - A Toy Story</li>
+<li><a class="newpage" href="/scp-4542">SCP-4542</a> - Bug Bunnies</li>
+<li><a href="/scp-4543">SCP-4543</a> - 死无折扣</li>
+<li><a class="newpage" href="/scp-4544">SCP-4544</a> - The Circumventing Shoe Box</li>
+<li><a href="/scp-4545">SCP-4545</a> - 特洛伊木马</li>
+<li><a href="/scp-4546">SCP-4546</a> - 你就是烟火</li>
+<li><a href="/scp-4547">SCP-4547</a> - 亚坡伦（<em>Exterminans</em>）</li>
+<li><a href="/scp-4548">SCP-4548</a> - 厌恨之星</li>
+<li><a class="newpage" href="/scp-4549">SCP-4549</a> - Retrohippies</li>
+<li><a class="newpage" href="/scp-4550">SCP-4550</a> - An Operational Foundation Site</li>
+<li><a class="newpage" href="/scp-4551">SCP-4551</a> - Bell for a Funeral&#8230;</li>
+<li><a class="newpage" href="/scp-4552">SCP-4552</a> - Auguries of Innocence</li>
+<li><a href="/scp-4553">SCP-4553</a> - 拟人化蠕虫群及联邦内布拉斯加州第三选区代表Bob Shepherd</li>
+<li><a href="/scp-4554">SCP-4554</a> - 液体阳光</li>
+<li><a class="newpage" href="/scp-4555">SCP-4555</a> - The Last Last Question</li>
+<li><a class="newpage" href="/scp-4556">SCP-4556</a> - Belonging</li>
+<li><a class="newpage" href="/scp-4557">SCP-4557</a> - Detective Fiver, Crime Solving Raccoons</li>
+<li><a class="newpage" href="/scp-4558">SCP-4558</a> - Bel1eve_1n_M1racles</li>
+<li><a href="/scp-4559">SCP-4559</a> - 您要小票不？</li>
+<li><a href="/scp-4560">SCP-4560</a> - 我一切都好</li>
+<li><a class="newpage" href="/scp-4561">SCP-4561</a> - An Orphaned Collector</li>
+<li><a href="/scp-4562">SCP-4562</a> - 你生命的旋律</li>
+<li><a href="/scp-4563">SCP-4563</a> - 巴纳巴斯·P·洛克伍德医生，医学博士</li>
+<li><a href="/scp-4564">SCP-4564</a> - 肛门冲浪者</li>
+<li><a href="/scp-4565">SCP-4565</a> - 失落圣战</li>
+<li><a href="/scp-4566">SCP-4566</a> - 《全錄之印》</li>
+<li><a href="/scp-4567">SCP-4567</a> - 活油井</li>
+<li><a class="newpage" href="/scp-4568">SCP-4568</a> - Dilemma of the Twin Serpents</li>
+<li><a href="/scp-4569">SCP-4569</a> - 局势反转</li>
+<li><a href="/scp-4570">SCP-4570</a> - 西弗吉尼亚，近乎于天堂</li>
+<li><a class="newpage" href="/scp-4571">SCP-4571</a> - Curious Creature of the Cold Red Desert</li>
+<li><a class="newpage" href="/scp-4572">SCP-4572</a> - Trumpvoid</li>
+<li><a class="newpage" href="/scp-4573">SCP-4573</a> - [拒绝访问]</li>
+<li><a href="/scp-4574">SCP-4574</a> - 旧石器时代的矛虎</li>
+<li><a class="newpage" href="/scp-4575">SCP-4575</a> - Seemingly Unconnected Events</li>
+<li><a href="/scp-4576">SCP-4576</a> - 最完美的计划</li>
+<li><a href="/scp-4577">SCP-4577</a> - 我死后，就把我扔进垃圾里</li>
+<li><a href="/scp-4578">SCP-4578</a> - 持枪的好人</li>
+<li><a class="newpage" href="/scp-4579">SCP-4579</a> - Schrodinger's Duck&#8230; Or Not</li>
+<li><a class="newpage" href="/scp-4580">SCP-4580</a> - The Seekers of Secrets</li>
+<li><a class="newpage" href="/scp-4581">SCP-4581</a> - Anti-Racist Audiocassette</li>
+<li><a class="newpage" href="/scp-4582">SCP-4582</a> - New (New York, New York) York</li>
+<li><a href="/scp-4583">SCP-4583</a> - 全时代最恶流感</li>
+<li><a class="newpage" href="/scp-4584">SCP-4584</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4585">SCP-4585</a> - Literally a Hamburger</li>
+<li><a href="/scp-4586">SCP-4586</a> - 彬彬有礼的维多利亚时代骷髅</li>
+<li><a class="newpage" href="/scp-4587">SCP-4587</a> - A Dog's Purpose</li>
+<li><a class="newpage" href="/scp-4588">SCP-4588</a> - The Sentient Scraps</li>
+<li><a href="/scp-4589">SCP-4589</a> - 团结茶</li>
+<li><a class="newpage" href="/scp-4590">SCP-4590</a> - The Manicheans Have the Paintings</li>
+<li><a href="/scp-4591">SCP-4591</a> - 二十条短信</li>
+<li><a class="newpage" href="/scp-4592">SCP-4592</a> - There is Music in the Void</li>
+<li><a class="newpage" href="/scp-4593">SCP-4593</a> - Clevair</li>
+<li><a class="newpage" href="/scp-4594">SCP-4594</a> - There's a gullet beneath London</li>
+<li><a href="/scp-4595">SCP-4595</a> - WITCH</li>
+<li><a class="newpage" href="/scp-4596">SCP-4596</a> - A Farm Upstate</li>
+<li><a href="/scp-4597">SCP-4597</a> - 厚皮男</li>
+<li><a class="newpage" href="/scp-4598">SCP-4598</a> - The Spiral Gestalt</li>
+<li><a href="/scp-4599">SCP-4599</a> - 世间万物中，偏偏是枕头拥有最孤独的白昼与最可怖的夜晚</li>
+</ul>
+<p><a name="4600"></a></p>
+<h1 id="toc8"><span>4600到4699</span></h1>
+<ul>
+<li><a class="newpage" href="/scp-4600">SCP-4600</a> - Debt</li>
+<li><a href="/scp-4601">SCP-4601</a> - <span style="color: red">红色威胁!</span>的复仇</li>
+<li><a class="newpage" href="/scp-4602">SCP-4602</a> - The Money-ki Neko</li>
+<li><a href="/scp-4603">SCP-4603</a> - Frank和Mia的歌谣；B大调写就并谱曲</li>
+<li><a class="newpage" href="/scp-4604">SCP-4604</a> - The Firehearts</li>
+<li><a class="newpage" href="/scp-4605">SCP-4605</a> - E.T. the Earthen Totality</li>
+<li><a class="newpage" href="/scp-4606">SCP-4606</a> - &quot;Deimos&quot;</li>
+<li><a href="/scp-4607">SCP-4607</a> - 鲸落之城</li>
+<li><a class="newpage" href="/scp-4608">SCP-4608</a> - Appleseed</li>
+<li><a href="/scp-4609">SCP-4609</a> - 一个项目</li>
+<li><a href="/scp-4610">SCP-4610</a> - dado的云计算</li>
+<li><a class="newpage" href="/scp-4611">SCP-4611</a> - The Bears And The Bees</li>
+<li><a href="/scp-4612">SCP-4612</a> - 并非所有的神都会腐朽</li>
+<li><a href="/scp-4613">SCP-4613</a> - 爱德华·詹姆斯·几乎是</li>
+<li><a class="newpage" href="/scp-4614">SCP-4614</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4615">SCP-4615</a> - Supper Memories '06</li>
+<li><a href="/scp-4616">SCP-4616</a> - 田野祟影</li>
+<li><a href="/scp-4617">SCP-4617</a> - 自私的长存</li>
+<li><a class="newpage" href="/scp-4618">SCP-4618</a> - The Perfect Guard</li>
+<li><a class="newpage" href="/scp-4619">SCP-4619</a> - [拒绝访问]</li>
+<li><a href="/scp-4620">SCP-4620</a> - 今天有面包，明天没工资</li>
+<li><a href="/scp-4621">SCP-4621</a> - 永燃梦魇</li>
+<li><a href="/scp-4622">SCP-4622</a> - 安魂&quot;墓&quot;</li>
+<li><a class="newpage" href="/scp-4623">SCP-4623</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4624">SCP-4624</a> - Mandatory Fun</li>
+<li><a class="newpage" href="/scp-4625">SCP-4625</a> - To The Fans</li>
+<li><a class="newpage" href="/scp-4626">SCP-4626</a> - The only thing we have to fear…</li>
+<li><a class="newpage" href="/scp-4627">SCP-4627</a> - Familiar, yet different</li>
+<li><a href="/scp-4628">SCP-4628</a> - <span class="math-inline">$\pi$</span>是错误的</li>
+<li><a class="newpage" href="/scp-4629">SCP-4629</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4630">SCP-4630</a> - I Put My Lettuce in the CRISPR and Now It's Sapient</li>
+<li><a href="/scp-4631">SCP-4631</a> - 永远不再是一个恶魔</li>
+<li><a class="newpage" href="/scp-4632">SCP-4632</a> - [拒绝访问]</li>
+<li><a href="/scp-4633">SCP-4633</a> - 石头、剪刀、犹格·索托斯</li>
+<li><a href="/scp-4634">SCP-4634</a> - 故障中</li>
+<li><a href="/scp-4635">SCP-4635</a> - 英语是恶魔的语言。</li>
+<li><a href="/scp-4636">SCP-4636</a> - 我要忏悔，我要忏悔。</li>
+<li><a class="newpage" href="/scp-4637">SCP-4637</a> - Resource Allocation</li>
+<li><a class="newpage" href="/scp-4638">SCP-4638</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4639">SCP-4639</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4640">SCP-4640</a> - Let the darn kid experience real life!</li>
+<li><a class="newpage" href="/scp-4641">SCP-4641</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4642">SCP-4642</a> - Self-portrait</li>
+<li><a href="/scp-4643">SCP-4643</a> - 火之轮</li>
+<li><a href="/scp-4644">SCP-4644</a> - 灵魂遨游于海天之际</li>
+<li><a href="/scp-4645">SCP-4645</a> - 勒索计算机</li>
+<li><a href="/scp-4646">SCP-4646</a> - 为我歌唱吧，敬世界的终结</li>
+<li><a href="/scp-4647">SCP-4647</a> - 警告：前方七英里路面有怪物卡车出没</li>
+<li><a class="newpage" href="/scp-4648">SCP-4648</a> - Regaining Focus</li>
+<li><a class="newpage" href="/scp-4649">SCP-4649</a> - BLOOD FOR THE BLOOD GOD</li>
+<li><a class="newpage" href="/scp-4650">SCP-4650</a> - A Modern Problem</li>
+<li><a class="newpage" href="/scp-4651">SCP-4651</a> - The Rat Race</li>
+<li><a class="newpage" href="/scp-4652">SCP-4652</a> - Moonbeam Moonshine</li>
+<li><a class="newpage" href="/scp-4653">SCP-4653</a> - [拒绝访问]</li>
+<li><a href="/scp-4654">SCP-4654</a> - dado的天使药</li>
+<li><a href="/scp-4655">SCP-4655</a> - 安慰有許多不同的形式</li>
+<li><a href="/scp-4656">SCP-4656</a> - 有效数字</li>
+<li><a href="/scp-4657">SCP-4657</a> - 烟火致友</li>
+<li><a href="/scp-4658">SCP-4658</a> - 控制癖</li>
+<li><a class="newpage" href="/scp-4659">SCP-4659</a> - [拒绝访问]</li>
+<li><a href="/scp-4660">SCP-4660</a> - 那只猫还会回来的</li>
+<li><a href="/scp-4661">SCP-4661</a> - 罪恶之城</li>
+<li><a href="/scp-4662">SCP-4662</a> - Billy已经回家了</li>
+<li><a href="/scp-4663">SCP-4663</a> - 3D打印蜘蛛打印打印机打印蜘蛛打印机打印蜘蛛打印打印蜘蛛打印机</li>
+<li><a href="/scp-4664">SCP-4664</a> - 20,000英尺的噩梦</li>
+<li><a class="newpage" href="/scp-4665">SCP-4665</a> - The Caprine Conspiracy</li>
+<li><a href="/scp-4666">SCP-4666</a> - 圣诞魔人</li>
+<li><a class="newpage" href="/scp-4667">SCP-4667</a> - I Am Become Teeth</li>
+<li><a href="/scp-4668">SCP-4668</a> - 自我非我</li>
+<li><a href="/scp-4669">SCP-4669</a> - <span class="ruby">我们的人民革命女士<span class="rt">Nuestra Señora de la Revolución Popular</span></span></li>
+<li><a href="/scp-4670">SCP-4670</a> - 毯子裹猪</li>
+<li><a class="newpage" href="/scp-4671">SCP-4671</a> - Clarky the Clown</li>
+<li><a href="/scp-4672">SCP-4672</a> - 陨石狗</li>
+<li><a href="/scp-4673">SCP-4673</a> - 逆向性身份窃取</li>
+<li><a class="newpage" href="/scp-4674">SCP-4674</a> - Eternal Beauty</li>
+<li><a href="/scp-4675">SCP-4675</a> - 我从未在此</li>
+<li><a href="/scp-4676">SCP-4676</a> - 多余的独立与无端的隐居的后果</li>
+<li><a href="/scp-4677">SCP-4677</a> - 可乐，奶牛，资本</li>
+<li><a href="/scp-4678">SCP-4678</a> - 悔恨之时地</li>
+<li><a class="newpage" href="/scp-4679">SCP-4679</a> - [拒绝访问]</li>
+<li><a href="/scp-4680">SCP-4680</a> - 噢，那些俄国人啊&#8230;&#8230;</li>
+<li><a href="/scp-4681">SCP-4681</a> - 之死靡分</li>
+<li><a class="newpage" href="/scp-4682">SCP-4682</a> - Body Dysmorphia Mirror</li>
+<li><a class="newpage" href="/scp-4683">SCP-4683</a> - Apples of Discord</li>
+<li><a class="newpage" href="/scp-4684">SCP-4684</a> - Wizard Cops</li>
+<li><a class="newpage" href="/scp-4685">SCP-4685</a> - 每个人都必须付出应有的代价</li>
+<li><a href="/scp-4686">SCP-4686</a> - 给每一个人以拥抱</li>
+<li><a class="newpage" href="/scp-4687">SCP-4687</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4688">SCP-4688</a> - Manipulative Bike Helmets</li>
+<li><a href="/scp-4689">SCP-4689</a> - 狮子是什么？</li>
+<li><a href="/scp-4690">SCP-4690</a> - 平克頓中尉被該死的蜘蛛生吞了</li>
+<li><a class="newpage" href="/scp-4691">SCP-4691</a> - Locked In</li>
+<li><a class="newpage" href="/scp-4692">SCP-4692</a> - The Curious Case of Jackson W. Parnell</li>
+<li><a href="/scp-4693">SCP-4693</a> - ！！看强壮的飞翔外国鸡给你现场表演！！</li>
+<li><a href="/scp-4694">SCP-4694</a> - 超时空传销</li>
+<li><a href="/scp-4695">SCP-4695</a> - <span style="color: #e7cf00">联</span><span style="color: #ff0000">觉</span><span style="color: #00d6d3">诱</span><span style="color: #0c00ff">导</span><span style="color: #f818ff">物</span></li>
+<li><a class="newpage" href="/scp-4696">SCP-4696</a> - GRONK WANT GUTS! GRONK WANT GUTS</li>
+<li><a href="/scp-4697">SCP-4697</a> - 送孩子</li>
+<li><a class="newpage" href="/scp-4698">SCP-4698</a> - Heir To Cernunnos</li>
+<li><a href="/scp-4699">SCP-4699</a> - 此后只有门径留存。</li>
+</ul>
+<p><a name="4700"></a></p>
+<h1 id="toc9"><span>4700到4799</span></h1>
+<ul>
+<li><a class="newpage" href="/scp-4700">SCP-4700</a> - Orkney Rising</li>
+<li><a class="newpage" href="/scp-4701">SCP-4701</a> - Well, Yeet Me Mama Like A Wagon Wheel</li>
+<li><a class="newpage" href="/scp-4702">SCP-4702</a> - Gehenna, Unknown to Man</li>
+<li><a href="/scp-4703">SCP-4703</a> - 完全合法</li>
+<li><a class="newpage" href="/scp-4704">SCP-4704</a> - You've Got Mail</li>
+<li><a class="newpage" href="/scp-4705">SCP-4705</a> - The Hell We Bring With</li>
+<li><a class="newpage" href="/scp-4706">SCP-4706</a> - An Array of Nonsense</li>
+<li><a href="/scp-4707">SCP-4707</a> - R.E.A.D.</li>
+<li><a class="newpage" href="/scp-4708">SCP-4708</a> - Thpecial Containment Prothedure</li>
+<li><a class="newpage" href="/scp-4709">SCP-4709</a> - At The Risk Of Sounding Repetitive</li>
+<li><a href="/scp-4710">SCP-4710</a> - 头大事件</li>
+<li><a href="/scp-4711">SCP-4711</a> - 不便利的便利店</li>
+<li><a class="newpage" href="/scp-4712">SCP-4712</a> - A Failure of Purpose</li>
+<li><a href="/scp-4713">SCP-4713</a> - “宇航鼠”</li>
+<li><a href="/scp-4714">SCP-4714</a> - 我的独角兽朋友</li>
+<li><a href="/scp-4715">SCP-4715</a> - 诞生自战争的恶魔</li>
+<li><a href="/scp-4716">SCP-4716</a> - 食富者的烹饪书</li>
+<li><a href="/scp-4717">SCP-4717</a> - 让它安息</li>
+<li><a class="newpage" href="/scp-4718">SCP-4718</a> - Unsinkable</li>
+<li><a class="newpage" href="/scp-4719">SCP-4719</a> - Cat-train</li>
+<li><a href="/scp-4720">SCP-4720</a> - “从漫画书上唤起他们！儿时英雄登场！”</li>
+<li><a href="/scp-4721">SCP-4721</a> - 欧几里得</li>
+<li><a href="/scp-4722">SCP-4722</a> - 完满之路</li>
+<li><a class="newpage" href="/scp-4723">SCP-4723</a> - Reservoir Cats</li>
+<li><a href="/scp-4724">SCP-4724</a> - 造个新生命</li>
+<li><a href="/scp-4725">SCP-4725</a> - 分裂者的解决方案</li>
+<li><a href="/scp-4726">SCP-4726</a> - 肥 宅 奶</li>
+<li><a href="/scp-4727">SCP-4727</a> - 逐梦之枪</li>
+<li><a class="newpage" href="/scp-4728">SCP-4728</a> - Deletion</li>
+<li><a href="/scp-4729">SCP-4729</a> - 苦伤至美</li>
+<li><a class="newpage" href="/scp-4730">SCP-4730</a> - Earth, Crucified</li>
+<li><a class="newpage" href="/scp-4731">SCP-4731</a> - Sublunary Skybox</li>
+<li><a class="newpage" href="/scp-4732">SCP-4732</a> - &quot;Frank Sinatra and Dean Martin: Our Kind of Paradise!&quot;</li>
+<li><a href="/scp-4733">SCP-4733</a> - 但未忘却</li>
+<li><a class="newpage" href="/scp-4734">SCP-4734</a> - The K-T Extinction Bootstrap</li>
+<li><a href="/scp-4735">SCP-4735</a> - 你再次闪亮了，我的宝贝</li>
+<li><a href="/scp-4736">重担 ≡ 勿煞风景</a></li>
+<li><a href="/scp-4737">SCP-4737</a> - 化妆舞会</li>
+<li><a class="newpage" href="/scp-4738">SCP-4738</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4739">SCP-4739</a> - It's Just Spoiled Milk. I Promise.</li>
+<li><a class="newpage" href="/scp-4740">SCP-4740</a> - <span style="color: green">As Davy wondered where they'd been, he read a book named Grass and Green.</span></li>
+<li><a class="newpage" href="/scp-4741">SCP-4741</a> - Rolling Them Bones</li>
+<li><a class="newpage" href="/scp-4742">SCP-4742</a> - A Job Well Done</li>
+<li><a href="/scp-4743">SCP-4743</a> - Vandelay工造的杰出作品</li>
+<li><a href="/scp-4744">SCP-4744</a> - 保持清醒</li>
+<li><a href="/scp-4745">SCP-4745</a> - Spooky Scary Snowman</li>
+<li><a href="/scp-4746">SCP-4746</a> - 死印</li>
+<li><a href="/scp-4747">SCP-4747</a> - 我通过堕落天性改善了我的婚姻（或：我如何学会停止忧虑并唾弃上帝造物）</li>
+<li><a href="/scp-4748">SCP-4748</a> - 北极鲸线</li>
+<li><a class="newpage" href="/scp-4749">SCP-4749</a> - Demoniacal Paper Towel Dispenser</li>
+<li><a class="newpage" href="/scp-4750">SCP-4750</a> - The Little Tailor of Zanzibar</li>
+<li><a href="/scp-4751">SCP-4751</a> - 越过他的鼻尖</li>
+<li><a href="/scp-4752">SCP-4752</a> - 山区经济学</li>
+<li><a class="newpage" href="/scp-4753">SCP-4753</a> - Mysterious Object at Dodge City</li>
+<li><a class="newpage" href="/scp-4754">SCP-4754</a> - [拒绝访问]</li>
+<li><a href="/scp-4755">SCP-4755</a> - 吾等全能之时</li>
+<li><a href="/scp-4756">SCP-4756</a> - 重生之人。</li>
+<li><a class="newpage" href="/scp-4757">SCP-4757</a> - Trials of Valhalla</li>
+<li><a class="newpage" href="/scp-4758">SCP-4758</a> - Old Letters</li>
+<li><a href="/scp-4759">SCP-4759</a> - 甜圈税挑战者</li>
+<li><a href="/scp-4760">SCP-4760</a> - 以眼还眼</li>
+<li><a class="newpage" href="/scp-4761">SCP-4761</a> - [拒绝访问]</li>
+<li><a href="/scp-4762">SCP-4762</a> - 多种解释</li>
+<li><a href="/scp-4763">SCP-4763</a> - 悲井</li>
+<li><a class="newpage" href="/scp-4764">SCP-4764</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4765">SCP-4765</a> - A Shattered Visage Lies</li>
+<li><a href="/scp-4766">SCP-4766</a> - 我美丽，漂亮的儿子</li>
+<li><a href="/scp-4767">SCP-4767</a> - 我的天啦我忘了我有选过这门课而且今天就要期末考试了</li>
+<li><a href="/scp-4768">SCP-4768</a> - Ulysses B. Donkman的大奇事</li>
+<li><a href="/scp-4769">SCP-4769</a> - 物理老师</li>
+<li><a class="newpage" href="/scp-4770">SCP-4770</a> - Crab Cakes</li>
+<li><a href="/scp-4771">SCP-4771</a> - 我们不配养狗</li>
+<li><a class="newpage" href="/scp-4772">SCP-4772</a> - Kurentovanje</li>
+<li><a href="/scp-4773">SCP-4773-2</a> - 和一只毛绒熊</li>
+<li><a href="/scp-4774">SCP-4774</a> - 第九行星 <sup><span style="white-space: pre-wrap;">[</span><em><span style="color: blue">来源请求</span></em><span style="white-space: pre-wrap;">]</span></sup></li>
+<li><a href="/scp-4775">SCP-4775</a> - 一身是胆</li>
+<li><a href="/scp-4776">SCP-4776</a> - <strong>里根武器</strong></li>
+<li><a class="newpage" href="/scp-4777">SCP-4777</a> - Connolly Was There</li>
+<li><a href="/scp-4778">SCP-4778</a> - 鲸善鲸美</li>
+<li><a href="/scp-4779">SCP-4779</a> - 狼的时刻</li>
+<li><a href="/scp-4780">SCP-4780</a> - 缩你小</li>
+<li><a href="/scp-4781">SCP-4781</a> - 酸与莳萝</li>
+<li><a class="newpage" href="/scp-4782">SCP-4782</a> - Nemmie</li>
+<li><a class="newpage" href="/scp-4783">SCP-4783</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4784">SCP-4784</a> - Nature Abhors a Vacuum Tube</li>
+<li><a class="newpage" href="/scp-4785">SCP-4785</a> - 信息危害衣橱</li>
+<li><a href="/scp-4786">SCP-4786</a> - 饥饿之口</li>
+<li><a href="/scp-4787">SCP-4787</a> - 他希望知道的事情</li>
+<li><a href="/scp-4788">SCP-4788</a> - 摇钱牛</li>
+<li><a href="/scp-4789">SCP-4789</a> - 梦境之战</li>
+<li><a href="/scp-4790">SCP-4790</a> - 不要踏入静谧的良夜。</li>
+<li><a class="newpage" href="/scp-4791">SCP-4791</a> - The Lady's Matchmaker</li>
+<li><a href="/scp-4792">SCP-4792</a> - <span style="font-family: Consolas;">大业</span></li>
+<li><a class="newpage" href="/scp-4793">SCP-4793</a> - Stele</li>
+<li><a class="newpage" href="/scp-4794">SCP-4794</a> - The Renegade from Gliese 581</li>
+<li><a class="newpage" href="/scp-4795">SCP-4795</a> - Feathered F(r)iends</li>
+<li><a href="/scp-4796">SCP-4796</a> - 飞天菠萝之圣殿</li>
+<li><a class="newpage" href="/scp-4797">SCP-4797</a> - Spire</li>
+<li><a class="newpage" href="/scp-4798">SCP-4798</a> - An Introduction to Transgenic Poetry</li>
+<li><a href="/scp-4799">SCP-4799</a> - 流浪乐队的商人</li>
+</ul>
+<p><a name="4800"></a></p>
+<h1 id="toc10"><span>4800到4899</span></h1>
+<ul>
+<li><a href="/scp-4800">SCP-4800</a> - 午夜</li>
+<li><a class="newpage" href="/scp-4801">SCP-4801</a> - Echidna Enthusiast</li>
+<li><a class="newpage" href="/scp-4802">SCP-4802</a> - Dirty Birdy</li>
+<li><a href="/scp-4803">SCP-4803</a> - 记录者</li>
+<li><a href="/scp-4804">SCP-4804</a> - 虚构的果肉</li>
+<li><a class="newpage" href="/scp-4805">SCP-4805</a> - Utilitarian</li>
+<li><a class="newpage" href="/scp-4806">SCP-4806</a> - Appels du Vide</li>
+<li><a href="/scp-4807">4807</a> - 柯氏复杂性</li>
+<li><a href="/scp-4808">SCP-4808</a> - 自发性犬显现</li>
+<li><a class="newpage" href="/scp-4809">SCP-4809</a> - Peeping Doesn't Pay</li>
+<li><a class="newpage" href="/scp-4810">SCP-4810</a> - Hunt Stupid Game, Win Stupid Prizes</li>
+<li><a class="newpage" href="/scp-4811">SCP-4811</a> - Instant Mirror from the Factory</li>
+<li><a href="/scp-4812">SCP-4812</a> - 愤怒</li>
+<li><a href="/scp-4813">SCP-4813</a> - 我唯一的出路就是忘掉我还需要出路。</li>
+<li><a href="/scp-4814">SCP-4814</a> - 啄木人</li>
+<li><a class="newpage" href="/scp-4815">SCP-4815</a> - Busted Oracle</li>
+<li><a href="/scp-4816">SCP-4816</a> - 我的生活照 :)</li>
+<li><a class="newpage" href="/scp-4817">SCP-4817</a> - Horseman Holiday Rentals in scenic King Louis XVI of France</li>
+<li><a href="/scp-4818">SCP-4818</a> - 我需要一位英雄</li>
+<li><a class="newpage" href="/scp-4819">SCP-4819</a> - Never Miss the Last Day of Summer</li>
+<li><a href="/scp-4820">SCP-4820</a> - 海的习俗</li>
+<li><a href="/scp-4821">SCP-4821</a> - 你得到了我从未拥有的</li>
+<li><a href="/scp-4822">SCP-4822</a> - 我曾有真实的爱</li>
+<li><a href="/scp-4823">SCP-4823</a> - 全世界都开始蕉躁起来了！</li>
+<li><a class="newpage" href="/scp-4824">SCP-4824</a> - The Prince of Sands</li>
+<li><a href="/scp-4825">SCP-4825</a> - 老点子的第二春</li>
+<li><a href="/scp-4826">SCP-4826</a> - 我的死期我做主</li>
+<li><a class="newpage" href="/scp-4827">SCP-4827</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4828">SCP-4828</a> - The Big Book Of Achievable Spells, made easy</li>
+<li><a href="/scp-4829">SCP-4829</a> - 天生胚胎</li>
+<li><a href="/scp-4830">SCP-4830</a> - 頭像一個洞</li>
+<li><a href="/scp-4831">SCP-4831</a> - 死牢里有无辜人</li>
+<li><a href="/scp-4832">SCP-4832</a> - 📻 👌</li>
+<li><a href="/scp-4833">SCP-4833</a> - 昏厥交响曲</li>
+<li><a class="newpage" href="/scp-4834">SCP-4834</a> - That Picture Perfect Moment</li>
+<li><a class="newpage" href="/scp-4835">SCP-4835</a> - Beef With Beef With Beef</li>
+<li><a class="newpage" href="/scp-4836">SCP-4836</a> - [拒绝访问]</li>
+<li><a href="/scp-4837">SCP-4837</a> - 鸭的传说，龙的传说</li>
+<li><a href="/scp-4838">SCP-4838</a> - 恋人的拌嘴</li>
+<li><a class="newpage" href="/scp-4839">SCP-4839</a> - FAFNIR - or, &quot;I Caress It, 'Cause I Possess It!&quot;</li>
+<li><a href="/scp-4840">SCP-4840</a> - 恶魔兰斯洛特与飞翔的奥德帕帕多波利斯之城</li>
+<li><a href="/scp-4841">SCP-4841</a> - 染血十字架的圣约翰</li>
+<li><a href="/scp-4842">SCP-4842</a> - The Disintegration Loops</li>
+<li><a href="/scp-4843">SCP-4843</a> - 带上它和我一起走</li>
+<li><a href="/scp-4844">SCP-4844</a> - 最后的男人</li>
+<li><a class="newpage" href="/scp-4845">SCP-4845</a> - Great Food; No Atmosphere (OR: Tacos That Are Literally Out of This World)</li>
+<li><a class="newpage" href="/scp-4846">SCP-4846</a> - Friendly Fossils</li>
+<li><a class="newpage" href="/scp-4847">SCP-4847</a> - Akanastra</li>
+<li><a href="/scp-4848">SCP-4848</a> - 铁十字</li>
+<li><a href="/scp-4849">SCP-4849</a> - 吸脂蛞蝓3：死猪油的复仇</li>
+<li><a href="/scp-4850">SCP-4850</a> - 豹中窥妄</li>
+<li><a class="newpage" href="/scp-4851">SCP-4851</a> - Artificial Selection</li>
+<li><a href="/scp-4852">SCP-4852</a> - Site-19去南方过冬！</li>
+<li><a href="/scp-4853">SCP-4853</a></li>
+<li><a href="/scp-4854">SCP-4854</a> - “真正的”死灵之书和烂到家的神秘学手稿</li>
+<li><a href="/scp-4855">SCP-4855</a> - 如钢铁陷阱般的心灵</li>
+<li><a href="/scp-4856">SCP-4856</a> - “测试案例一”</li>
+<li><a href="/scp-4857">SCP-4857</a> - [<strong>编号可用</strong>]</li>
+<li><a href="/scp-4858">SCP-4858</a> - 岩石却呼叫说，没有藏身之处</li>
+<li><a class="newpage" href="/scp-4859">SCP-4859</a> - A Game We Play</li>
+<li><a class="newpage" href="/scp-4860">SCP-4860</a> - Dr. Wondertainment’s Concrete Building</li>
+<li><a href="/scp-4861">SCP-4861</a> - 2030年12月11日</li>
+<li><a class="newpage" href="/scp-4862">SCP-4862</a> - Don't wait to swim</li>
+<li><a href="/scp-4863">SCP-4863</a> - Sol <em>n</em></li>
+<li><a class="newpage" href="/scp-4864">SCP-4864</a> - Depravity and Indifference</li>
+<li><a class="newpage" href="/scp-4865">SCP-4865</a> - Safe safes aren't always safe</li>
+<li><a href="/scp-4866">SCP-4866</a> - <em>凶杀专家</em>™，Optimark合成人才解决方案<sup class="footnoteref"><a id="footnoteref-1" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-1')">1</a></sup>出品</li>
+<li><a class="newpage" href="/scp-4867">SCP-4867</a> - Wyoming Territory, 1867-1870</li>
+<li><a href="/scp-4868">SCP-4868</a> - 戴紫色头巾的章鱼摊贩</li>
+<li><a class="newpage" href="/scp-4869">SCP-4869</a> - Boltz From The Blue</li>
+<li><a class="newpage" href="/scp-4870">SCP-4870</a> - Something's Wrong with Site-17</li>
+<li><a class="newpage" href="/scp-4871">SCP-4871</a> - Mirror Image</li>
+<li><a href="/scp-4872">SCP-4872</a> - 闪回错误</li>
+<li><a class="newpage" href="/scp-4873">SCP-4873</a> - This Town Ain't Big Enough</li>
+<li><a href="/scp-4874">SCP-4874</a> - 你的朋友</li>
+<li><a class="newpage" href="/scp-4875">SCP-4875</a> - Crying Beneath the Desert, Or; Lorem Desertum</li>
+<li><a class="newpage" href="/scp-4876">SCP-4876</a> - Dr. Wondertainment's Pixel Buddies</li>
+<li><a href="/scp-4877">SCP-4877</a> - 加速度9.8m/s²</li>
+<li><a href="/scp-4878">SCP-4878</a> - 六足士兵</li>
+<li><a href="/scp-4879">SCP-4879</a> - 精英主义时代的艺术</li>
+<li><a href="/scp-4880">SCP-4880</a> - &quot;口香'糖&quot;</li>
+<li><a href="/scp-4881">SCP-4881</a> - 垂柳</li>
+<li><a href="/scp-4882">SCP-4882</a> - 世界标准收容措施</li>
+<li><a href="/scp-4883">SCP-4883</a> - 来自同一个身体的回忆录</li>
+<li><a class="newpage" href="/scp-4884">SCP-4884</a> - To Serve Great Man</li>
+<li><a href="/scp-4885">SCP-4885</a> - 找到他</li>
+<li><a class="newpage" href="/scp-4886">SCP-4886</a> - The Cop and the Countryside</li>
+<li><a href="/scp-4887">SCP-4887</a> - 就此繁荣！</li>
+<li><a href="/scp-4888">SCP-4888</a> - 日出集团</li>
+<li><a href="/scp-4889">SCP-4889</a> - 明显的标记</li>
+<li><a href="/scp-4890">SCP-4890</a> - Wondertainment博士的历史指南</li>
+<li><a href="/scp-4891">SCP-4891</a> - 大瘟疫</li>
+<li><a href="/scp-4892">SCP-4892</a> - 腐神</li>
+<li><a href="/scp-4893">SCP-4893</a> - 百子蓮<sup class="footnoteref"><a id="footnoteref-2" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-2')">2</a></sup></li>
+<li><a class="newpage" href="/scp-4894">SCP-4894</a> - TOOL FOR EVERY USE</li>
+<li><a href="/scp-4895">SCP-4895</a> - 乔治在这儿，独自等待</li>
+<li><a class="newpage" href="/scp-4896">SCP-4896</a> - Corvid Knife</li>
+<li><a class="newpage" href="/scp-4897">SCP-4897</a> - Tsar Dog-ba, OR, How I Learned To Stop Worrying And Pet The Dog</li>
+<li><a class="newpage" href="/scp-4898">SCP-4898</a> - Do You Have What It Takes</li>
+<li><a href="/scp-4899">SCP-4899</a> - 黑体</li>
+</ul>
+<p><a name="4900"></a></p>
+<h1 id="toc11"><span>4900到4999</span></h1>
+<ul>
+<li><a href="/scp-4900">SCP-4900</a> - 人类批判</li>
+<li><a href="/scp-4901">SCP-4901</a> - 谨以此纪念Rudy Benson。</li>
+<li><a href="/scp-4902">SCP-4902</a> - 保持“冷”静</li>
+<li><a href="/scp-4903">SCP-4903</a> - 永恒这道菜，越冷越好</li>
+<li><a class="newpage" href="/scp-4904">SCP-4904</a> - Rapid-Disc-Movement Sleep</li>
+<li><a class="newpage" href="/scp-4905">SCP-4905</a> - Intergalactic TechnoVikings and The Great Moon Wars</li>
+<li><a href="/scp-4906">SCP-4906</a> - 去以六月息者也</li>
+<li><a class="newpage" href="/scp-4907">SCP-4907</a> - Poetry Gnomes</li>
+<li><a href="/scp-4908">SCP-4908</a> - 我人生的故事</li>
+<li><a class="newpage" href="/scp-4909">SCP-4909</a> - Octopus' Garden</li>
+<li><a href="/scp-4910">SCP-4910</a> - “笑面妖物”</li>
+<li><a href="/scp-4911">SCP-4911</a> - 2001年9.11事件</li>
+<li><a class="newpage" href="/scp-4912">SCP-4912</a> - With Great Power</li>
+<li><a href="/scp-4913">SCP-4913</a> - 5星级[已编辑]</li>
+<li><a class="newpage" href="/scp-4914">SCP-4914</a> - Gamer Against Weeds</li>
+<li><a href="/scp-4915">SCP-4915</a> - 一星差评收容</li>
+<li><a href="/scp-4916">SCP-4916</a> - Kalhu空间计划</li>
+<li><a class="newpage" href="/scp-4917">SCP-4917</a> - Law &amp; Oneiroi</li>
+<li><a href="/scp-4918">SCP-4918</a> - <em>山中之王</em></li>
+<li><a class="newpage" href="/scp-4919">SCP-4919</a> - Belle Époque</li>
+<li><a class="newpage" href="/scp-4920">SCP-4920</a> - Take the Train</li>
+<li><a href="/scp-4921">SCP-4921</a> - 请别再看了！</li>
+<li><a href="/scp-4922">SCP-4922</a> - 彩虹链接</li>
+<li><a href="/scp-4923">SCP-4923</a> - <em>corpora arenacea</em></li>
+<li><a class="newpage" href="/scp-4924">SCP-4924</a> - Tunnel Revenant</li>
+<li><a href="/scp-4925">SCP-4925</a> - 未接来电</li>
+<li><a class="newpage" href="/scp-4926">SCP-4926</a> - Close Call Printing Press</li>
+<li><a href="/scp-4927">SCP-4927</a> - 飞行愉快</li>
+<li><a href="/scp-4928">SCP-4928</a> - 许愿井</li>
+<li><a class="newpage" href="/scp-4929">SCP-4929</a> - Lake of Rage</li>
+<li><a href="/scp-4930">SCP-4930</a> - 列侬/麦卡特尼</li>
+<li><a class="newpage" href="/scp-4931">SCP-4931</a> - The Candlemaker</li>
+<li><a href="/scp-4932">SCP-4932</a> - 悲哉，万物皆朽</li>
+<li><a class="newpage" href="/scp-4933">SCP-4933</a> - We Interrupt This Broadcast</li>
+<li><a href="/scp-4934">SCP-4934</a> - 查克·琼斯之家</li>
+<li><a href="/scp-4935">SCP-4935</a> - 来世</li>
+<li><a class="newpage" href="/scp-4936">SCP-4936</a> - Endymionis Amorum Amore</li>
+<li><a href="/scp-4937">SCP-4937</a> - 一只漏气的气球狗</li>
+<li><a href="/scp-4938">SCP-4938</a> - 太阳的汗水</li>
+<li><a class="newpage" href="/scp-4939">SCP-4939</a> - The Man on the Moon</li>
+<li><a class="newpage" href="/scp-4940">SCP-4940</a> - Continuity Anchor</li>
+<li><a href="/scp-4941">SCP-4941</a> - 永远属于你</li>
+<li><a href="/scp-4942">SCP-4942</a> - 如何召唤一只柠檬</li>
+<li><a class="newpage" href="/scp-4943">SCP-4943</a> - Transcendence</li>
+<li><a class="newpage" href="/scp-4944">SCP-4944</a> - A Coffee Machine, Except It's Literally Just A Cargo Ship</li>
+<li><a class="newpage" href="/scp-4945">SCP-4945</a> - Hi Hungry, I'm Dad</li>
+<li><a href="/scp-4946">SCP-4946</a> - 你已死于痢疾</li>
+<li><a class="newpage" href="/scp-4947">SCP-4947</a> - The Fault and the Fistula</li>
+<li><a href="/scp-4948">SCP-4948</a> - 在那微启的门后面</li>
+<li><a href="/scp-4949">SCP-4949</a> - W博士的dr游戏时间套装小孩专用™(dado制作）</li>
+<li><a href="/scp-4950">SCP-4950</a> - 歪理召唤法</li>
+<li><a class="newpage" href="/scp-4951">SCP-4951</a> - South-Central Protective Services' new Containment Insurance Entity</li>
+<li><a href="/scp-4952">SCP-4952</a> - 罗伯特·弗罗斯特的绝地求生</li>
+<li><a href="/scp-4953">SCP-4953</a> - 漢堡王本人</li>
+<li><a href="/scp-4954">SCP-4954</a> - 锡匠万岁！</li>
+<li><span style="text-decoration: line-through;"><a href="/scp-4955">SCP-4955</a></span> <a href="/scp-4955">KNIFE</a> - 透过煤气灯光才能看见这把刀</li>
+<li><a class="newpage" href="/scp-4956">SCP-4956</a> - [拒绝访问]</li>
+<li><a href="/scp-4957">SCP-4957</a> - 冷柜怪谈</li>
+<li><a href="/scp-4958">SCP-4958</a> - 你被爱着</li>
+<li><a href="/scp-4959">SCP-4959</a> - 特奥蒂瓦坎翼龙神</li>
+<li><a href="/scp-4960">SCP-4960</a> - 基金会为何要出本子来唤醒美索不达米亚爱神（或：我如何学会停止恐惧并爱上基低斯-娜娜亚）</li>
+<li><a class="newpage" href="/scp-4961">SCP-4961</a> - All Dogs Go To Heaven</li>
+<li><a href="/scp-4962">SCP-4962</a> - 《打鸦子：重至版》</li>
+<li><a class="newpage" href="/scp-4963">SCP-4963</a> - Static</li>
+<li><a href="/scp-4964">SCP-4964</a> - 《长毛狗》的盗版DVD</li>
+<li><a class="newpage" href="/scp-4965">SCP-4965</a> - My name is Legion for we are many</li>
+<li><a href="/scp-4966">SCP-4966</a> - Tubbioca: 吞噬灵魂者, 捕食秘密者, 马奇新新饼干之主。</li>
+<li><a href="/scp-4967">SCP-4967</a> - Thaumiel级猫王</li>
+<li><a class="newpage" href="/scp-4968">SCP-4968</a> - Deer-mestic Terrorists</li>
+<li><a href="/scp-4969">SCP-4969</a> - 真实水母安全套</li>
+<li><a href="/scp-4970">SCP-4970</a> - 寰宇技术支持</li>
+<li><a href="/scp-4971">SCP-4971</a> - 静世仪式</li>
+<li><a href="/scp-4972">SCP-4972</a> - 不对劲</li>
+<li><a class="newpage" href="/scp-4973">SCP-4973</a> - Dead Men Walking</li>
+<li><a href="/scp-4974">SCP-4974</a> - 鼠类SCP</li>
+<li><a href="/scp-4975">SCP-4975</a> - 时辰已到</li>
+<li><a class="newpage" href="/scp-4976">SCP-4976</a> - Vacation Photos</li>
+<li><a href="/scp-4977">SCP-4977</a> - 少年William Kleiger的清醒一梦</li>
+<li><a href="/scp-4978">SCP-4978</a> - <strong>民 风 彪 悍</strong></li>
+<li><a href="/scp-4979">SCP-4979</a> - 遥远未来的残酷黑暗</li>
+<li><a href="/scp-4980">SCP-4980</a> - Alexylva大学战争渡渡鸟奥运代表队</li>
+<li><a href="/scp-4981">SCP-4981</a> - 圆因不明的哞动</li>
+<li><a href="/scp-4982">SCP-4982</a> - 尊冠之重。</li>
+<li><a class="newpage" href="/scp-4983">SCP-4983</a> - I'm dummy thicc and my ghost keeps alerting salarymen</li>
+<li><a class="newpage" href="/scp-4984">SCP-4984</a> - <em>Mycelium memoriae</em></li>
+<li><a href="/scp-4985">SCP-4985</a> - 巨额融资</li>
+<li><a class="newpage" href="/scp-4986">SCP-4986</a> - 来自一位朋友的信</li>
+<li><a href="/scp-4987">SCP-4987</a> - 现在，面向北方</li>
+<li><a href="/scp-4988">SCP-4988</a> - 解决联络Avelar专业制造外包客服的应急策划中心</li>
+<li><a href="/scp-4989">SCP-4989</a> - Site 89之围</li>
+<li><a href="/scp-4990">SCP-4990</a> - 女王号床</li>
+<li><a href="/scp-4991">SCP-4991</a> - <strong><tt><span style="color: #789922">&gt;所以世界是这么结束的。不是伴随着一声巨响，而是伴随着一篇垃圾帖。</span></tt></strong></li>
+<li><a href="/scp-4992">SCP-4992</a> - 洋葱使我哭泣</li>
+<li><a href="/scp-4993">SCP-4993</a> - 孩子的心灵是奇妙的</li>
+<li><a href="/scp-4994">SCP-4994</a> - 理想的基金会</li>
+<li><a href="/scp-4995">SCP-4995</a> - 超人</li>
+<li><a href="/scp-4996">SCP-4996</a> - 魔鬼中间人</li>
+<li><a href="/scp-4997">SCP-4997</a> - 火山巨兽 “卡德罗斯”</li>
+<li><a href="/scp-4998">SCP-4998</a> - 广告招租，虚位以待</li>
+<li><a href="/scp-4999">SCP-4999</a> - 守望我等之人</li>
+</ul>
+</div>
+<div class="content-panel standalone series">
+<p><a name="content"></a></p>
+<h1 id="toc12"><span>归档内容</span></h1>
+<ul>
+<li><a href="/joke-scps">搞笑SCP</a> - 这些都是网站上最有创意也是最搞笑的作品。如果你也想来一篇，最好确认你的作品也那么给力。</li>
+<li><a href="/archived-scps">被归档的SCP</a> - 这些SCP由于被用于基金会故事或因为工作人员的职权而被保留。</li>
+<li><a href="/scp-ex">已解明SCP</a> - 这些SCP项目，按当前的认知标准，已经不再被视为奇怪的，超自然的，或所谓“非凡”的。在撰写文档时请留意。</li>
+<li><a href="/log-of-anomalous-items">异常物品记录</a> - 这些物品并不算是SCP，但是某些方面仍然异常。 你可以任意增加到列表里去，但是要知道这些内容会定期清理。</li>
+<li><a href="/log-of-extranormal-events">超常事件记录</a> - 记载那些曾发生过的无法解释的，但又非常短暂或者很快被基金会抑制的事件。你可以任意增加到列表里去，但是要知道这些内容会定期清理。</li>
+</ul>
+<hr />
+<p><strong>归档页面</strong></p>
+<ul>
+<li><a href="/decommissioned-scps-arc">被废除的SCP</a> - 这些SCP是如此糟糕以至于我们写下了销毁它们的故事。我们不希望他们变得更多。</li>
+<li><a href="/scp-removed">被删除的SCP</a> - 这些SCP在英文官网上已经被彻底搞掉了，所以你可能无法找到它们的原文，不过基金会网站管理员告诉我们应该保留它们的翻译稿件。</li>
+</ul>
+</div>
+<div class="content-panel standalone series">
+<p><a name="tales"></a></p>
+<h1 id="toc13"><span>SCP故事主列表</span></h1>
+<p>在底下你可以寻得各系列列表的再创作，其中包括网站上所有以个别SCP主演、大量出场或是其它方面的作品，将它们排在各个条目底下提供你阅读的乐趣。</p>
+<ul>
+<li><a href="/scp-series-1-tales-edition">SCP系列1故事版</a></li>
+<li><a href="/scp-series-2-tales-edition">SCP系列2故事版</a></li>
+<li><a href="/scp-series-3-tales-edition">SCP系列3故事版</a></li>
+<li><a href="/scp-series-4-tales-edition">SCP系列4故事版</a></li>
+<li><a href="/scp-series-5-tales-edition">SCP系列5故事版</a></li>
+</ul>
+</div>
+
+
+
+<div class="footnotes-footer">
+<div class="title">Footnotes</div>
+<div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
+<div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
+</div>
+
+                    </div>
+
+                            
+            <!-- wikidot_bottom_300x250 -->
+<div id="wad-scp-wiki-cn-below-content" class="wd-adunit wd-ad-np wd-adunit-below_content"></div>
+<script type='text/javascript'>
+nads.createAd('wad-scp-wiki-cn-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+                    
+
+
+
+                    
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/%E4%B8%AD%E5%BF%83#pages">中心</a>
+                            </span>
+                        </div>
+                    
+
+                    <div id="page-info-break"></div>
+                    
+                        <div id="page-options-container">
+                            <div id="page-info">页面版本: 725, 最后编辑于: <span class="odate time_1605685614 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Nov 2020 07:46</span></div>
+            <div id="page-options-bottom"  class="page-options-bottom">
+            <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="tags-button">标签</a>
+<a href="/forum/t-6924456/scp-series-5" class="btn btn-default" id="discuss-button">讨论 (30)</a>
+<a href="javascript:;" class="btn btn-default" id="history-button">历史记录</a>
+<a href="javascript:;" class="btn btn-default" id="files-button">附件</a>
+<a href="javascript:;" class="btn btn-default" id="print-button">打印</a>
+<a href="javascript:;" class="btn btn-default" id="site-tools-button">网站工具</a>
+<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;选项</a> 
+</div>
+<div id="page-options-bottom-2" class="page-options-bottom form-actions" style="display:none">
+    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">编辑段落</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-append-button">附加</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">编辑元信息</a>
+    <a href="javascript:;" class="btn btn-default" id="watchers-button">关注者</a> 
+    <a href="javascript:;" class="btn btn-default" id="backlinks-button">反向链接</a> 
+    <a href="javascript:;" class="btn btn-default" id="view-source-button">页面源代码</a> 
+    <a href="javascript:;" class="btn btn-default" id="parent-page-button">父页面</a> 
+    <a href="javascript:;" class="btn btn-default" id="page-block-button">锁定页面</a>    
+    <a href="javascript:;" class="btn btn-default" id="rename-move-button">重新命名</a> 
+    <a href="javascript:;" class="btn btn-default" id="delete-button">删除</a> 
+</div>
+<div id="page-options-area-bottom">
+</div>
+
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="footer" style="display: block; visibility: visible;">
+                <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">说明</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">服务条款</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">隐私</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">报告错误</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">标记为令人反感的</a>
+</div>
+基于 <a href="http://www.wikidot.com">Wikidot.com</a> 
+            </div>
+            
+                <div id="license-area" class="license-area">
+                    除非特别注明，本页内容采用以下授权方式： <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                </div>
+            
+            
+            
+
+
+
+            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+            
+            
+            
+            
+                <div id="footer-bar">
+  <div>
+     </div>
+  <h2>其它有趣的网站</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://caughtnotsleeping.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caughtnotsleeping.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://caughtnotsleeping.wikidot.com">CaughtNotSleeping</a></h3>
+            <div class="desc">          
+              It&#039;s just a game...It&#039;s just a game...
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ibiz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibiz.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ibiz.wikidot.com">Internet and Business</a></h3>
+            <div class="desc">          
+              How the internet has changed business
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://wiki.metrixcreatespace.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.metrixcreatespace.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://wiki.metrixcreatespace.com">Metrix Create:Space</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://aeternuscenter.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aeternuscenter.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://aeternuscenter.wikidot.com">Aeternus Center</a></h3>
+            <div class="desc">          
+              the ARG
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+            
+        </div>
+        
+    </div>
+<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+</div>
+
+
+
+
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <!-- Quantcast -->
+    <script type="text/javascript">
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    </script>
+    <noscript>
+        <img src="http://pixel.quantserve.com/pixel/p-edL3gsnUjJzw-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+    </noscript>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        请点此编辑本页内容。    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    </div>
+    <div id="edit-append-button-hovertip">
+        在不编辑整个页面源代码的情况下添加内容。    </div>
+    <div id="history-button-hovertip">
+        看看本页过去是如何沿革的。    </div>
+    <div id="discuss-button-hovertip">
+        若您想要讨论本页内容 - 这是最简单的方法。    </div>
+    <div id="files-button-hovertip">
+        检视并管理本页附件。    </div>
+    <div id="site-tools-button-hovertip">
+        管理网站的实用工具。    </div>
+    <div id="backlinks-button-hovertip">
+        检视链接至本页或引用本页的页面。    </div>
+    <div id="rename-move-button-hovertip">
+        变更页面名称（及URL 位址，或许会影响分类）。    </div>
+    <div id="view-source-button-hovertip">
+        在不编辑的情形下检视维基原始码。    </div>
+    <div id="parent-page-button-hovertip">  
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    </div>
+            <div id="abuse-report-button-hovertip">
+            向管理员举报本页有令人反感的内容。        </div>
+        <div id="bug-report-button-hovertip">
+            事情不如预期？看看您可以做些什么。        </div>
+        <div id="wikidot-help-button-hovertip">
+            一般的 Wikidot.com 文件与说明。        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com 隐私政策。          
+        </div>
+    </div>
+</body>
+</html>
