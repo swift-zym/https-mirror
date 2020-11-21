@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1605961515;
+        OZONE.request.timestamp = 1605983019;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -621,7 +621,7 @@
 <li><a class="newpage" href="/scp-5083">SCP-5083</a> - [拒绝访问]</li>
 <li><a href="/scp-5084">SCP-5084</a> - 哭泣的番茄</li>
 <li><a href="/scp-5085">SCP-5085</a> - 烧痕</li>
-<li><a class="newpage" href="/scp-5086">SCP-5086</a> - The Merits Of A Good Meal</li>
+<li><a href="/scp-5086">SCP-5086</a> -一顿美餐的价值</li>
 <li><a href="/scp-5087">SCP-5087</a> - 所去何年</li>
 <li><a href="/scp-5088">SCP-5088</a> - 空水池</li>
 <li><a class="newpage" href="/scp-5089">SCP-5089</a> - 不要想我，我不会杀了你</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 331, 最后编辑于: <span class="odate time_1605684404 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Nov 2020 07:26</span></div>
+                            <div id="page-info">页面版本: 333, 最后编辑于: <span class="odate time_1605974678 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Nov 2020 16:04</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fondazionescp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondazionescp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://echobazaar.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/echobazaar.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fondazionescp.wikidot.com">Fondazione SCP</a></h3>
+            <h3><a target="_blank" href="http://echobazaar.wikidot.com">Echo Bazaar</a></h3>
             <div class="desc">          
-              Branca Italiana della SCP Foundation
+              Come to Fallen London
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.metroplexity.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.metroplexity.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://roboticspedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticspedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.metroplexity.com">Metroplexity</a></h3>
+            <h3><a target="_blank" href="http://roboticspedia.wikidot.com">Roboticspedia</a></h3>
             <div class="desc">          
-              Learn the secrets of Metroplex
+              All that you want to know about making robots
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ginnungagap.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ginnungagap.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cs0.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs0.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ginnungagap.wikidot.com">Ginnungagap</a></h3>
+            <h3><a target="_blank" href="http://cs0.wikidot.com">免費電子書：C# 程式設計</a></h3>
             <div class="desc">          
-              
+              作者：陳鍾誠
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rsc-wiki.net">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rsc-wiki.net/80.jpg"/>
+            <a target="_blank" class="image" href="http://retrolegends.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrolegends.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rsc-wiki.net">RSC Institution</a></h3>
+            <h3><a target="_blank" href="http://retrolegends.wikidot.com">Retro Legends</a></h3>
             <div class="desc">          
-              Research, Secure, Contain
+              The Definitive Database for Retro Gamers
             </div>
           </div>
         </div>
