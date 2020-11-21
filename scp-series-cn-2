@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1605919877;
+        OZONE.request.timestamp = 1605939757;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -982,7 +982,7 @@
 <li><a href="/scp-cn-1433">SCP-CN-1433</a> - 浪漫的地平论者</li>
 <li><a href="/scp-cn-1434">SCP-CN-1434</a> - 人均上帝</li>
 <li><a href="/scp-cn-1435">SCP-CN-1435</a> - “地狱恶龙魂”</li>
-<li><a class="newpage" href="/scp-cn-1436">SCP-CN-1436</a> - dado的血豌豆</li>
+<li><a href="/scp-cn-1436">SCP-CN-1436</a> - dado的血豌豆</li>
 <li><a href="/scp-cn-1437">SCP-CN-1437</a> - 临界区</li>
 <li><a class="newpage" href="/scp-cn-1438">SCP-CN-1438</a> - 死亡预订</li>
 <li><a href="/scp-cn-1439">SCP-CN-1439</a> - 戏班</li>
@@ -1334,7 +1334,7 @@
 <li><a href="/scp-cn-1773">SCP-CN-1773</a> - 叙梦于酒，事幻无回</li>
 <li><a href="/scp-cn-1774">SCP-CN-1774</a> - 童言无忌</li>
 <li><a href="/scp-cn-1775">SCP-CN-1775</a> - 劫树</li>
-<li><a href="/scp-cn-1776">SCP-CN-1776</a> - <span style="text-decoration: line-through;">时</span>光<span style="text-decoration: line-through;">停滞</span></li>
+<li><a class="newpage" href="/scp-cn-1776">SCP-CN-1776</a> - <span style="text-decoration: line-through;">时</span>光<span style="text-decoration: line-through;">停滞</span></li>
 <li><a href="/scp-cn-1777">SCP-CN-1777</a> - 消磁機</li>
 <li><a href="/scp-cn-1778">SCP-CN-1778</a> - 于死亡之上绽放新生</li>
 <li><a href="/scp-cn-1779">SCP-CN-1779</a> - 迷城“The Lost City”</li>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://eldritch00.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eldritch00.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://eldritch00.wikidot.com">A Shining Brainless Beacon</a></h3>
+            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
             <div class="desc">          
-              I Have a Special Plan for This World
+              OpenRPG Dungeons and Dragons 3.5
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gurpswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gurpswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://paperworks.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paperworks.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gurpswiki.wikidot.com">GURPS Repository</a></h3>
+            <h3><a target="_blank" href="http://paperworks.wikidot.com">the Paperworks</a></h3>
             <div class="desc">          
-              A collection for your GURPS needs
+              codename /pw/
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://magiamesterei.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magiamesterei.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://spaceepicuntitled.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spaceepicuntitled.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://magiamesterei.wikidot.com">Mágia Mesterei Wiki</a></h3>
+            <h3><a target="_blank" href="http://spaceepicuntitled.wikidot.com">Space Epic Untitled</a></h3>
             <div class="desc">          
-              Segítség az online játékhoz
+              From KUMA Games
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://simtrackipedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/simtrackipedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://marvelrevolution.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marvelrevolution.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://simtrackipedia.wikidot.com">SIMTrackipedia</a></h3>
+            <h3><a target="_blank" href="http://marvelrevolution.wikidot.com">Marvel Revolution MUCK</a></h3>
             <div class="desc">          
-              A collection of tutorials for Bob&#039;s Track Builder, XPacker, and other related programs
+              Join the Revolution
             </div>
           </div>
         </div>

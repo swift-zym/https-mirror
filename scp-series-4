@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1605920171;
+        OZONE.request.timestamp = 1605939949;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1487,7 +1487,7 @@
 <li><a href="/scp-3913">SCP-3913</a> - 坚持下去</li>
 <li><a class="newpage" href="/scp-3914">SCP-3914</a> - Necrocapitalism</li>
 <li><a href="/scp-3915">SCP-3915</a> - 同性恋清洁工</li>
-<li><a class="newpage" href="/scp-3916">SCP-3916</a> - Hungry Locusts</li>
+<li><a href="/scp-3916">SCP-3916</a> - 饥饿的蝗虫</li>
 <li><a class="newpage" href="/scp-3917">SCP-3917</a> - Beetles in a Jar</li>
 <li><a class="newpage" href="/scp-3918">SCP-3918</a> - To Starve Her Highness</li>
 <li><a class="newpage" href="/scp-3919">SCP-3919</a> - In Memoriam</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 851, 最后编辑于: <span class="odate time_1605743775 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Nov 2020 23:56</span></div>
+                            <div id="page-info">页面版本: 852, 最后编辑于: <span class="odate time_1605930125 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Nov 2020 03:42</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+3</span>)</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://arcallis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arcallis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://energyclub4samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub4samvedna.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://arcallis.wikidot.com">Arcallis</a></h3>
+            <h3><a target="_blank" href="http://energyclub4samvedna.wikidot.com">Save Energy, Save Future</a></h3>
             <div class="desc">          
-              
+              &quot;The collabrative efforts for Energy saving&quot;
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://area-48.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/area-48.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://balchipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/balchipedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://area-48.wikidot.com">Bölge-48</a></h3>
+            <h3><a target="_blank" href="http://balchipedia.wikidot.com">Balchipedia</a></h3>
             <div class="desc">          
-              SCP Vakfı, Bölge-48 Veritabanı.
+              The Encyclopedia of Balch History
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kharon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kharon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ibiz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibiz.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kharon.wikidot.com">CEC Kharon</a></h3>
+            <h3><a target="_blank" href="http://ibiz.wikidot.com">Internet and Business</a></h3>
             <div class="desc">          
-              bsgkharon.com 5102
+              How the internet has changed business
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://uniofbeds.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uniofbeds.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://porsche.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/porsche.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://uniofbeds.wikidot.com">Uniofbeds</a></h3>
+            <h3><a target="_blank" href="http://porsche.wikidot.com">Porsche Wiki</a></h3>
             <div class="desc">          
-              
+              Brought to You By RedLine Technik | RedLineTechnik.com
             </div>
           </div>
         </div>
