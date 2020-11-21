@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1605939757;
+        OZONE.request.timestamp = 1605961648;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -916,7 +916,7 @@
 <li><a href="/scp-cn-1371">SCP-CN-1371</a> - 很厉害的餐具</li>
 <li><a href="/scp-cn-1372">SCP-CN-1372</a> - 鱼竿</li>
 <li><a href="/scp-cn-1373">SCP-CN-1373</a> - <span style="text-decoration: line-through;">海蜘蛛</span></li>
-<li><a class="newpage" href="/scp-cn-1374">SCP-CN-1374</a> - 沙尘鸟</li>
+<li><a class="newpage" href="/scp-cn-1374">SCP-CN-1374</a> - 沙尘暴</li>
 <li><a href="/scp-cn-1375">SCP-CN-1375</a> - <em><strong>早归王化</strong></em></li>
 <li><a href="/scp-cn-1376">SCP-CN-1376</a> - Safe级异常</li>
 <li><a href="/scp-cn-1377">SCP-CN-1377</a> - 长慈鬼村</li>
@@ -1027,7 +1027,7 @@
 <li><a href="/scp-cn-1478">SCP-CN-1478</a> - 月缺</li>
 <li><a href="/scp-cn-1479">SCP-CN-1479</a> - “天榜”</li>
 <li><a href="/scp-cn-1480">SCP-CN-1480</a> - 岁在甲子，天下大吉</li>
-<li><a class="newpage" href="/scp-cn-1481">SCP-CN-1481</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1481">SCP-CN-1481</a> - “地底人”</li>
 <li><a href="/scp-cn-1482">SCP-CN-1482</a> - LS©NOC</li>
 <li><a href="/scp-cn-1483">SCP-CN-1483</a> - 那些遥远的冰冷石块</li>
 <li><a href="/scp-cn-1484">SCP-CN-1484</a> - 我们的明天已化为灰烬</li>
@@ -1058,7 +1058,7 @@
 <li><a href="/scp-cn-1505">SCP-CN-1505</a> - 魔术or魔方？</li>
 <li><a href="/scp-cn-1506">SCP-CN-1506</a> - 恶意</li>
 <li><a href="/scp-cn-1507">SCP-CN-1507</a> - 神奇自热水壶！</li>
-<li><a class="newpage" href="/scp-cn-1508">SCP-CN-1508</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1508">SCP-CN-1508</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1509">SCP-CN-1509</a> - 苹果树</li>
 <li><a href="/scp-cn-1510">SCP-CN-1510</a> - 程序五；真知眼</li>
 <li><a href="/scp-cn-1511">SCP-CN-1511</a> - 雨中漫步</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3765, 最后编辑于: <span class="odate time_1605884235 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Nov 2020 14:57</span></div>
+                            <div id="page-info">页面版本: 3767, 最后编辑于: <span class="odate time_1605953746 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Nov 2020 10:15</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://comux.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/comux.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
+            <h3><a target="_blank" href="http://comux.wikidot.com">CoMUX</a></h3>
             <div class="desc">          
-              OpenRPG Dungeons and Dragons 3.5
+              Realities Combined
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://paperworks.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paperworks.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ladyhood66.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ladyhood66.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://paperworks.wikidot.com">the Paperworks</a></h3>
+            <h3><a target="_blank" href="http://ladyhood66.wikidot.com">welcome</a></h3>
             <div class="desc">          
-              codename /pw/
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://spaceepicuntitled.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spaceepicuntitled.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-nd.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-nd.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://spaceepicuntitled.wikidot.com">Space Epic Untitled</a></h3>
+            <h3><a target="_blank" href="http://scp-nd.wikidot.com">Stiftelsen SCP</a></h3>
             <div class="desc">          
-              From KUMA Games
+              FORSIKRE-FORVARE-FORSVARE / FÖRSÄKRA-FÖRVARA-FÖRSVARA
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://marvelrevolution.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marvelrevolution.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://insurrection-du-chaos-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/insurrection-du-chaos-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://marvelrevolution.wikidot.com">Marvel Revolution MUCK</a></h3>
+            <h3><a target="_blank" href="http://insurrection-du-chaos-sandbox.wikidot.com">IC-FR Sandbox</a></h3>
             <div class="desc">          
-              Join the Revolution
+              Sandbox de l&#039;Insurrection du Chaos francophone
             </div>
           </div>
         </div>
