@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1605982886;
+        OZONE.request.timestamp = 1606006481;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -911,7 +911,7 @@
 <li><a href="/scp-cn-1366">SCP-CN-1366</a> - 命若琴弦</li>
 <li><a href="/scp-cn-1367">SCP-CN-1367</a> - 英雄的定义</li>
 <li><a href="/scp-cn-1368">SCP-CN-1368</a> - 简陋的诡计</li>
-<li><a href="/scp-cn-1369">SCP-CN-1369</a> - 应牢记我们仍在何方</li>
+<li><a href="/scp-cn-1369">SCP-CN-1369</a> - <span style="color: #cccccc">应</span><span style="color: #b2b2b2">牢</span><span style="color: #999999">记</span><span style="color: #7f7f7f">如</span><span style="color: #666666">今</span><span style="color: #4c4c4c">身</span><span style="color: #333333">在</span><span style="color: #191919">何</span><span style="color: #000000">方</span></li>
 <li><a href="/scp-cn-1370">SCP-CN-1370</a> - 从行星来的朋友</li>
 <li><a href="/scp-cn-1371">SCP-CN-1371</a> - 很厉害的餐具</li>
 <li><a href="/scp-cn-1372">SCP-CN-1372</a> - 鱼竿</li>
@@ -1027,7 +1027,7 @@
 <li><a href="/scp-cn-1478">SCP-CN-1478</a> - 月缺</li>
 <li><a href="/scp-cn-1479">SCP-CN-1479</a> - “天榜”</li>
 <li><a href="/scp-cn-1480">SCP-CN-1480</a> - 岁在甲子，天下大吉</li>
-<li><a href="/scp-cn-1481">SCP-CN-1481</a> - “地底人”</li>
+<li><a class="newpage" href="/scp-cn-1481">SCP-CN-1481</a> - “地底人”</li>
 <li><a href="/scp-cn-1482">SCP-CN-1482</a> - LS©NOC</li>
 <li><a href="/scp-cn-1483">SCP-CN-1483</a> - 那些遥远的冰冷石块</li>
 <li><a href="/scp-cn-1484">SCP-CN-1484</a> - 我们的明天已化为灰烬</li>
@@ -1317,7 +1317,7 @@
 <li><a href="/scp-cn-1756">SCP-CN-1756</a> - 臆想灾难</li>
 <li><a href="/scp-cn-1757">SCP-CN-1757</a> - “墓志铭”</li>
 <li><a href="/scp-cn-1758">SCP-CN-1758</a> - 古战场</li>
-<li><a href="/scp-cn-1759">SCP-CN-1759</a> - 我的梦想是开一家便利店</li>
+<li><a class="newpage" href="/scp-cn-1759">SCP-CN-1759</a> - 我的梦想是开一家便利店</li>
 <li><a href="/scp-cn-1760">SCP-CN-1760</a> - 谢谢惠顾</li>
 <li><a href="/scp-cn-1761">SCP-CN-1761</a> - 夺权</li>
 <li><a href="/scp-cn-1762">SCP-CN-1762</a> - <span style="text-decoration: line-through;">道路千万条，回家第一条</span></li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3767, 最后编辑于: <span class="odate time_1605953746 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Nov 2020 10:15</span></div>
+                            <div id="page-info">页面版本: 3768, 最后编辑于: <span class="odate time_1605990061 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Nov 2020 20:21</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fondationscp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondationscp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://morningside-genetics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningside-genetics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fondationscp.wikidot.com">Fondation SCP</a></h3>
+            <h3><a target="_blank" href="http://morningside-genetics.wikidot.com">Morningside Genetics</a></h3>
             <div class="desc">          
-              Sécuriser, Contenir, Protéger
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-mc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-mc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://desenvolvimentodejogos.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/desenvolvimentodejogos.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki-mc.wikidot.com">SCP基金会Minecraft分部</a></h3>
+            <h3><a target="_blank" href="http://desenvolvimentodejogos.wikidot.com">Desenvolvimento de Jogos</a></h3>
             <div class="desc">          
-              控制，收容，保护
+              Tecnologias para uso no desenvolver jogos
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://community.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/community.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://caughtnotsleeping.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caughtnotsleeping.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://community.wikidot.com">Wikidot Community</a></h3>
+            <h3><a target="_blank" href="http://caughtnotsleeping.wikidot.com">CaughtNotSleeping</a></h3>
             <div class="desc">          
-              hints / tips / help / discussion
+              It&#039;s just a game...It&#039;s just a game...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpjp-fansite.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpjp-fansite.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
+            <h3><a target="_blank" href="http://scpjp-fansite.wikidot.com">SCP-JP-FS</a></h3>
             <div class="desc">          
-              Where Writers Share Their Characters &amp; Worlds
+              確保、収容、遊べ！
             </div>
           </div>
         </div>
