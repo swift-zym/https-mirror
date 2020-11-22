@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1606026495;
+        OZONE.request.timestamp = 1606048011;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -657,7 +657,7 @@
 <li><a href="/scp-5115">SCP-5115</a> - 超然物外</li>
 <li><a class="newpage" href="/scp-5116">SCP-5116</a> - The Art of the Deal with the Devil</li>
 <li><a href="/scp-5117">SCP-5117</a> - <span style="color: red">Alex？</span>我很孤独。</li>
-<li><a class="newpage" href="/scp-5118">SCP-5118</a> - [拒绝访问]</li>
+<li><a href="/scp-5118">SCP-5118</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5119">SCP-5119</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5120">SCP-5120</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5121">SCP-5121</a> - Ev'rwyn Spire</li>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://roboticspedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticspedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://opend6.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opend6.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://roboticspedia.wikidot.com">Roboticspedia</a></h3>
+            <h3><a target="_blank" href="http://opend6.wikidot.com">OpenD6</a></h3>
             <div class="desc">          
-              All that you want to know about making robots
+              The OpenD6 System Reference Document
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sons-of-athena.obscurative.ru">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sons-of-athena.obscurative.ru/80.jpg"/>
+            <a target="_blank" class="image" href="http://fpt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fpt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sons-of-athena.obscurative.ru">ВИК &quot;Сыны Афины&quot;</a></h3>
+            <h3><a target="_blank" href="http://fpt.wikidot.com">Parameterized Complexity</a></h3>
             <div class="desc">          
-              ​
+              Did you say NP-hard?
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-zh-tr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-zh-tr.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://phylo.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/phylo.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-zh-tr.wikidot.com">SCP基金會</a></h3>
+            <h3><a target="_blank" href="http://phylo.wikidot.com">PhyloWiki</a></h3>
             <div class="desc">          
-              控制，收容，保護
+              Assisting research and education in phylogenetics and evolution
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ejs-in-india.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ejs-in-india.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://corvidcollege.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/corvidcollege.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ejs-in-india.wikidot.com">Environmental Journalists in India</a></h3>
+            <h3><a target="_blank" href="http://corvidcollege.wikidot.com">Logos Tao Deus</a></h3>
             <div class="desc">          
-              Sign Up Here If Your Ink Is Green
+              a slowschool
             </div>
           </div>
         </div>

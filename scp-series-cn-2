@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606026456;
+        OZONE.request.timestamp = 1606048029;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -903,7 +903,7 @@
 <li><a href="/scp-cn-1358">SCP-CN-1358</a> - 在圣莫尼卡市不定时播放</li>
 <li><a href="/scp-cn-1359">SCP-CN-1359</a> - <span style="color: #9e9e9e">宿命论</span></li>
 <li><a href="/scp-cn-1360">SCP-CN-1360</a> - 那是鸟？那是飞机？那是……</li>
-<li><a class="newpage" href="/scp-cn-1361">SCP-CN-1361</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1361">SCP-CN-1361</a> - 收尸人</li>
 <li><a href="/scp-cn-1362">SCP-CN-1362</a> - 视角</li>
 <li><a class="newpage" href="/scp-cn-1363">SCP-CN-1363</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1364">SCP-CN-1364</a> - 欲加之惧</li>
@@ -1022,7 +1022,7 @@
 <li><a class="newpage" href="/scp-cn-1473">SCP-CN-1473</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1474">SCP-CN-1474</a> - 辐射之树</li>
 <li><a href="/scp-cn-1475">SCP-CN-1475</a> - 逝者之心</li>
-<li><a class="newpage" href="/scp-cn-1476">SCP-CN-1476</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1476">SCP-CN-1476</a> - 学无纸境</li>
 <li><a href="/scp-cn-1477">SCP-CN-1477</a> - 燃魂灯</li>
 <li><a href="/scp-cn-1478">SCP-CN-1478</a> - 月缺</li>
 <li><a href="/scp-cn-1479">SCP-CN-1479</a> - “天榜”</li>
@@ -1097,7 +1097,7 @@
 <li><a class="newpage" href="/scp-cn-1544">SCP-CN-1544</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1545">SCP-CN-1545</a> - 黎明前最黑的夜</li>
 <li><a class="newpage" href="/scp-cn-1546">SCP-CN-1546</a> - [禁止访问]</li>
-<li><a href="/scp-cn-1547">SCP-CN-1547</a> - 自我改变房间</li>
+<li><a class="newpage" href="/scp-cn-1547">SCP-CN-1547</a> - 自我改变房间</li>
 <li><a href="/scp-cn-1548">SCP-CN-1548</a> - 宇宙海星</li>
 <li><a href="/scp-cn-1549">SCP-CN-1549</a> - 🎴大🔪🙀</li>
 <li><a href="/scp-cn-1550">SCP-CN-1550</a> - <span style="text-decoration: line-through;">切勿</span>多疑，<span style="text-decoration: line-through;">切勿</span>深思，<span style="text-decoration: line-through;">切勿</span>相击</li>
@@ -1325,7 +1325,7 @@
 <li><a class="newpage" href="/scp-cn-1764">SCP-CN-1764</a> - 让子弹飞</li>
 <li><a href="/scp-cn-1765">SCP-CN-1765</a> - 镜与遗憾</li>
 <li><a href="/scp-cn-1766">SCP-CN-1766</a> - 常态与特修斯之船</li>
-<li><a class="newpage" href="/scp-cn-1767">SCP-CN-1767</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1767">SCP-CN-1767</a> - 算法可视化</li>
 <li><a class="newpage" href="/scp-cn-1768">SCP-CN-1768</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1769">SCP-CN-1769</a> - 吾母之蛹</li>
 <li><a href="/scp-cn-1770">SCP-CN-1770</a> - 患病的怪物</li>
@@ -1334,7 +1334,7 @@
 <li><a href="/scp-cn-1773">SCP-CN-1773</a> - 叙梦于酒，事幻无回</li>
 <li><a href="/scp-cn-1774">SCP-CN-1774</a> - 童言无忌</li>
 <li><a href="/scp-cn-1775">SCP-CN-1775</a> - 劫树</li>
-<li><a class="newpage" href="/scp-cn-1776">SCP-CN-1776</a> - <span style="text-decoration: line-through;">时</span>光<span style="text-decoration: line-through;">停滞</span></li>
+<li><a href="/scp-cn-1776">SCP-CN-1776</a> - <span style="text-decoration: line-through;">时</span>光<span style="text-decoration: line-through;">停滞</span></li>
 <li><a href="/scp-cn-1777">SCP-CN-1777</a> - 消磁機</li>
 <li><a href="/scp-cn-1778">SCP-CN-1778</a> - 于死亡之上绽放新生</li>
 <li><a href="/scp-cn-1779">SCP-CN-1779</a> - 迷城“The Lost City”</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3769, 最后编辑于: <span class="odate time_1606024268 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">22 Nov 2020 05:51</span></div>
+                            <div id="page-info">页面版本: 3772, 最后编辑于: <span class="odate time_1606039888 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">22 Nov 2020 10:11</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,10 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://my-pride.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/my-pride.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://my-pride.wikidot.com">My Pride</a></h3>
+            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,34 +1697,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://academicwriting.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/academicwriting.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ibphysicsstuff.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibphysicsstuff.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://academicwriting.wikidot.com">Academic Writing</a></h3>
+            <h3><a target="_blank" href="http://ibphysicsstuff.wikidot.com">IB Physics Stuff</a></h3>
             <div class="desc">          
-              
+              - Wikified -
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wiki.arlingtonlist.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.arlingtonlist.org/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
+            <h3><a target="_blank" href="http://wiki.arlingtonlist.org">Arlington, Mass.</a></h3>
             <div class="desc">          
-              Fighting Spammers for Fun and Profit!
+              The Arlington Wiki - Arlington, MA
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://energyclub4samvedna.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub4samvedna.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://warsztatywww.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/warsztatywww.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://energyclub4samvedna.wikidot.com">Save Energy, Save Future</a></h3>
+            <h3><a target="_blank" href="http://warsztatywww.wikidot.com">WWW 10</a></h3>
             <div class="desc">          
-              &quot;The collabrative efforts for Energy saving&quot;
+              Wakacyjne Warsztaty Wielodyscyplinarne 9
             </div>
           </div>
         </div>
