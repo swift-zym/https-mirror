@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606048029;
+        OZONE.request.timestamp = 1606069451;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1686,10 +1686,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpdsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpdsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
+            <h3><a target="_blank" href="http://scpdsandbox.wikidot.com">SCPDeclassified Sandbox</a></h3>
+            <div class="desc">          
+              Secure, Contain, Protect, Declassify
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://zombiecafe.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zombiecafe.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://zombiecafe.wikidot.com">Zombie Cafe Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,34 +1708,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ibphysicsstuff.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibphysicsstuff.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://advent-ro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/advent-ro.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ibphysicsstuff.wikidot.com">IB Physics Stuff</a></h3>
+            <h3><a target="_blank" href="http://advent-ro.wikidot.com">AdventRO Wiki</a></h3>
             <div class="desc">          
-              - Wikified -
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.arlingtonlist.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.arlingtonlist.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://bua581.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bua581.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.arlingtonlist.org">Arlington, Mass.</a></h3>
+            <h3><a target="_blank" href="http://bua581.wikidot.com">Managing Information Systems</a></h3>
             <div class="desc">          
-              The Arlington Wiki - Arlington, MA
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://warsztatywww.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/warsztatywww.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://warsztatywww.wikidot.com">WWW 10</a></h3>
-            <div class="desc">          
-              Wakacyjne Warsztaty Wielodyscyplinarne 9
+              BUA 581 - Rick Sprenkle
             </div>
           </div>
         </div>

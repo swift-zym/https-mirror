@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1606048011;
+        OZONE.request.timestamp = 1606069451;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://opend6.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opend6.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpdsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpdsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://opend6.wikidot.com">OpenD6</a></h3>
+            <h3><a target="_blank" href="http://scpdsandbox.wikidot.com">SCPDeclassified Sandbox</a></h3>
             <div class="desc">          
-              The OpenD6 System Reference Document
+              Secure, Contain, Protect, Declassify
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fpt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fpt.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://zombiecafe.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zombiecafe.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fpt.wikidot.com">Parameterized Complexity</a></h3>
+            <h3><a target="_blank" href="http://zombiecafe.wikidot.com">Zombie Cafe Wiki</a></h3>
             <div class="desc">          
-              Did you say NP-hard?
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://phylo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/phylo.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://advent-ro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/advent-ro.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://phylo.wikidot.com">PhyloWiki</a></h3>
+            <h3><a target="_blank" href="http://advent-ro.wikidot.com">AdventRO Wiki</a></h3>
             <div class="desc">          
-              Assisting research and education in phylogenetics and evolution
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://corvidcollege.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/corvidcollege.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bua581.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bua581.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://corvidcollege.wikidot.com">Logos Tao Deus</a></h3>
+            <h3><a target="_blank" href="http://bua581.wikidot.com">Managing Information Systems</a></h3>
             <div class="desc">          
-              a slowschool
+              BUA 581 - Rick Sprenkle
             </div>
           </div>
         </div>
