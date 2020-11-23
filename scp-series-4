@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1606134706;
+        OZONE.request.timestamp = 1606155939;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,32 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tauren.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tauren.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox-pl.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox-pl.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tauren.wikidot.com">Tauren Ate My Grandma</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox-pl.wikidot.com">SCP-PL Sandbox II</a></h3>
             <div class="desc">          
-              has moved!
+              Do pracy rodacy!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smsalgebra.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smsalgebra.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://keramik.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/keramik.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smsalgebra.wikidot.com">Variable Thinking Wiki</a></h3>
-            <div class="desc">          
-              Life is a word problem
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://heroesmush.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/heroesmush.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://heroesmush.wikidot.com">Heroes MUSH</a></h3>
+            <h3><a target="_blank" href="http://keramik.wikidot.com">Keramiker - fabriker - stämplar och signaturer</a></h3>
             <div class="desc">          
               
             </div>
@@ -1743,12 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://2012hoax.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2012hoax.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://storychip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/storychip.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://2012hoax.wikidot.com">2012hoax</a></h3>
+            <h3><a target="_blank" href="http://storychip.wikidot.com">Story Chip</a></h3>
             <div class="desc">          
-              Debunking the &quot;2012 Doomsday&quot;
+              Become a part of history, share your story.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://rpcauthority.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpcauthority.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://rpcauthority.wikidot.com">RPC Authority</a></h3>
+            <div class="desc">          
+              Research, Protection, Containment
             </div>
           </div>
         </div>

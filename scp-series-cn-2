@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606134708;
+        OZONE.request.timestamp = 1606155941;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -916,7 +916,7 @@
 <li><a href="/scp-cn-1371">SCP-CN-1371</a> - 很厉害的餐具</li>
 <li><a href="/scp-cn-1372">SCP-CN-1372</a> - 鱼竿</li>
 <li><a href="/scp-cn-1373">SCP-CN-1373</a> - <span style="text-decoration: line-through;">海蜘蛛</span></li>
-<li><a class="newpage" href="/scp-cn-1374">SCP-CN-1374</a> - 沙尘暴</li>
+<li><a href="/scp-cn-1374">SCP-CN-1374</a> - 蜂与栗</li>
 <li><a href="/scp-cn-1375">SCP-CN-1375</a> - <em><strong>早归王化</strong></em></li>
 <li><a href="/scp-cn-1376">SCP-CN-1376</a> - Safe级异常</li>
 <li><a href="/scp-cn-1377">SCP-CN-1377</a> - 长慈鬼村</li>
@@ -1340,7 +1340,7 @@
 <li><a href="/scp-cn-1779">SCP-CN-1779</a> - 迷城“The Lost City”</li>
 <li><a href="/scp-cn-1780">SCP-CN-1780</a> - 一二三，木头人</li>
 <li><a href="/scp-cn-1781">SCP-CN-1781</a> - 白垩纪制造</li>
-<li><a class="newpage" href="/scp-cn-1782">SCP-CN-1782</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1782">SCP-CN-1782</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1783">SCP-CN-1783</a> - 祈生花祝</li>
 <li><a href="/scp-cn-1784">SCP-CN-1784</a> - 异常天气现象（名称暂定）</li>
 <li><a href="/scp-cn-1785">SCP-CN-1785</a> - 温度是唯一的谎言</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3773, 最后编辑于: <span class="odate time_1606106416 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Nov 2020 04:40</span></div>
+                            <div id="page-info">页面版本: 3774, 最后编辑于: <span class="odate time_1606140672 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Nov 2020 14:11</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,32 +1686,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tauren.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tauren.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox-pl.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox-pl.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tauren.wikidot.com">Tauren Ate My Grandma</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox-pl.wikidot.com">SCP-PL Sandbox II</a></h3>
             <div class="desc">          
-              has moved!
+              Do pracy rodacy!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smsalgebra.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smsalgebra.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://keramik.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/keramik.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smsalgebra.wikidot.com">Variable Thinking Wiki</a></h3>
-            <div class="desc">          
-              Life is a word problem
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://heroesmush.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/heroesmush.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://heroesmush.wikidot.com">Heroes MUSH</a></h3>
+            <h3><a target="_blank" href="http://keramik.wikidot.com">Keramiker - fabriker - stämplar och signaturer</a></h3>
             <div class="desc">          
               
             </div>
@@ -1719,12 +1708,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://2012hoax.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2012hoax.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://storychip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/storychip.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://2012hoax.wikidot.com">2012hoax</a></h3>
+            <h3><a target="_blank" href="http://storychip.wikidot.com">Story Chip</a></h3>
             <div class="desc">          
-              Debunking the &quot;2012 Doomsday&quot;
+              Become a part of history, share your story.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://rpcauthority.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpcauthority.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://rpcauthority.wikidot.com">RPC Authority</a></h3>
+            <div class="desc">          
+              Research, Protection, Containment
             </div>
           </div>
         </div>
