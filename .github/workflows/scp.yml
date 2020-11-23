@@ -16,11 +16,11 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id  # 自己点的 start
     steps:
-    - name: Checkout
-      uses: actions/checkout@master
     - name: Clean
       run: |
         rm *
+    - name: Checkout
+      uses: actions/checkout@master
     - name: Download
       run: |
         wget http://scp-wiki-cn.wikidot.com/scp-series
@@ -33,8 +33,8 @@ jobs:
         wget http://scp-wiki-cn.wikidot.com/scp-series-cn-2
     - name: Commit #上传新的文件到仓库
       run: |
-        git config --global user.email AutoupdateRobot@email.com
-        git config --global user.name AutoupdateRobot
+        git config --global user.email i@zhangyiming.tech
+        git config --global user.name swift-zym
         git add .
         git commit -m "update docs" -a
     - name: Push changes
