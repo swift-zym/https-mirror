@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606102096;
+        OZONE.request.timestamp = 1606112781;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -972,7 +972,7 @@
 <li><a href="/scp-cn-1423">SCP-CN-1423</a> - dado的特效眼药水</li>
 <li><a href="/scp-cn-1424">SCP-CN-1424</a> - 选我做乜？系叉烧唔够香咩？</li>
 <li><a href="/scp-cn-1425">SCP-CN-1425</a> - 终末幻想机械赞歌</li>
-<li><a href="/scp-cn-1426">SCP-CN-1426</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1426">SCP-CN-1426</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1427">SCP-CN-1427</a> - 海妖之触</li>
 <li><a href="/scp-cn-1428">SCP-CN-1428</a> - 当东西掉在桌子底下后</li>
 <li><a href="/scp-cn-1429">SCP-CN-1429</a> - World Pulse</li>
@@ -1350,7 +1350,7 @@
 <li><a href="/scp-cn-1789">SCP-CN-1789</a> - 永寂</li>
 <li><a href="/scp-cn-1790">SCP-CN-1790</a> - 然后我们得以生活在阳光之下</li>
 <li><a class="newpage" href="/scp-cn-1791">SCP-CN-1791</a> - [禁止访问]</li>
-<li><a class="newpage" href="/scp-cn-1792">SCP-CN-1792</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1792">SCP-CN-1792</a> - 价值连城</li>
 <li><a href="/scp-cn-1793">SCP-CN-1793</a> - 深渊鲸落</li>
 <li><a class="newpage" href="/scp-cn-1794">SCP-CN-1794</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1795">SCP-CN-1795</a> - 锔这些杯子的人很缺德</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3772, 最后编辑于: <span class="odate time_1606039888 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">22 Nov 2020 10:11</span></div>
+                            <div id="page-info">页面版本: 3773, 最后编辑于: <span class="odate time_1606106416 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Nov 2020 04:40</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ccyms.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ccyms.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://globalseminarhealth.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/globalseminarhealth.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ccyms.wikidot.com">Canadian Certificate in Youth Ministry Studies</a></h3>
+            <h3><a target="_blank" href="http://globalseminarhealth.wikidot.com">Health and Environment</a></h3>
             <div class="desc">          
-              Redemptorist Youth / Young Adult and Vocation Ministry
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://norron.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/norron.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://airchairbuild.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/airchairbuild.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://norron.wikidot.com">WikiNorron</a></h3>
+            <h3><a target="_blank" href="http://airchairbuild.wikidot.com">airchair-ultralight-gliders</a></h3>
             <div class="desc">          
-              Almost as good as the guide, maybe better!
+              Building and flying the Goat and Bug style of airchair ultralight gliders
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://psychotronicsdivision.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychotronicsdivision.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://psychotronicsdivision.wikidot.com">Psychotronics Division</a></h3>
+            <h3><a target="_blank" href="http://www.wikidot.com">Wikidot - Free and Pro Wiki Hosting</a></h3>
             <div class="desc">          
-              Divided, we are One. One, we are All.
+              your place on the web
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://grave-box.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/grave-box.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://karma-lab.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/karma-lab.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://grave-box.wikidot.com">The Grave-Box</a></h3>
+            <h3><a target="_blank" href="http://karma-lab.wikidot.com">Karma-Lab</a></h3>
             <div class="desc">          
-              Close that grave-box door
+              KARMA Technology and the products incorporating it
             </div>
           </div>
         </div>
