@@ -16,11 +16,18 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id  # 自己点的 start
     steps:
-    - name: Clean
-      run: |
-        rm *
     - name: Checkout
       uses: actions/checkout@master
+    - name: Clean
+      run: |
+        rm scp-series
+        rm scp-series-2
+        rm scp-series-3
+        rm scp-series-4
+        rm scp-series-5
+        rm scp-series-6
+        rm scp-series-cn
+        rm scp-series-cn-2
     - name: Download
       run: |
         wget http://scp-wiki-cn.wikidot.com/scp-series
