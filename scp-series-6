@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1606155909;
+        OZONE.request.timestamp = 1606180032;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -621,7 +621,7 @@
 <li><a class="newpage" href="/scp-5083">SCP-5083</a> - [拒绝访问]</li>
 <li><a href="/scp-5084">SCP-5084</a> - 哭泣的番茄</li>
 <li><a href="/scp-5085">SCP-5085</a> - 烧痕</li>
-<li><a href="/scp-5086">SCP-5086</a> -一顿美餐的价值</li>
+<li><a href="/scp-5086">SCP-5086</a> -一顿美餐的好处</li>
 <li><a href="/scp-5087">SCP-5087</a> - 所去何年</li>
 <li><a href="/scp-5088">SCP-5088</a> - 空水池</li>
 <li><a class="newpage" href="/scp-5089">SCP-5089</a> - 不要想我，我不会杀了你</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 333, 最后编辑于: <span class="odate time_1605974678 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Nov 2020 16:04</span></div>
+                            <div id="page-info">页面版本: 334, 最后编辑于: <span class="odate time_1606170031 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Nov 2020 22:20</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1710,43 +1710,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rsc-wiki.net">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rsc-wiki.net/80.jpg"/>
+            <a target="_blank" class="image" href="http://morningsidemicro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningsidemicro.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rsc-wiki.net">RSC Institution</a></h3>
+            <h3><a target="_blank" href="http://morningsidemicro.wikidot.com">Microbiology@Morningside</a></h3>
             <div class="desc">          
-              Research, Secure, Contain
+              The wiki for students in BIO 252 at Morningside
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tasker.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tasker.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-eq.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-eq.org/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tasker.wikidot.com">Tasker Wiki</a></h3>
+            <h3><a target="_blank" href="http://scp-eq.org">SCP基金会小马国分部</a></h3>
             <div class="desc">          
-              
+              控制 • 收容 • 保护
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nirn.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nirn.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://predev.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/predev.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nirn.wikidot.com">Nirn</a></h3>
+            <h3><a target="_blank" href="http://predev.wikidot.com">pre dev wiki</a></h3>
             <div class="desc">          
-              The Nirn Project
+              Let&#039;s open this beast up
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pofomultiquiz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pofomultiquiz.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://legendspring.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/legendspring.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pofomultiquiz.wikidot.com">Pofo MultiQuiz</a></h3>
+            <h3><a target="_blank" href="http://legendspring.wikidot.com">LegendSpring</a></h3>
             <div class="desc">          
               
             </div>
