@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1606199738;
+        OZONE.request.timestamp = 1606221361;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,10 +1709,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blmodding.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blmodding.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ibiz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibiz.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blmodding.wikidot.com">Borderlands Modding Resource</a></h3>
+            <h3><a target="_blank" href="http://ibiz.wikidot.com">Internet and Business</a></h3>
+            <div class="desc">          
+              How the internet has changed business
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://mybookworld.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mybookworld.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://mybookworld.wikidot.com">Hacking WD MyBook World Ed</a></h3>
             <div class="desc">          
               
             </div>
@@ -1720,32 +1731,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gateofrealms.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gateofrealms.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://theinterim.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theinterim.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gateofrealms.wikidot.com">诸界之门</a></h3>
+            <h3><a target="_blank" href="http://theinterim.wikidot.com">The Interim</a></h3>
             <div class="desc">          
-              多元原创创作社区
+              Adventures in an alternate history
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://generals.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/generals.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://paradoxhaze.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paradoxhaze.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://generals.wikidot.com">Generalia</a></h3>
-            <div class="desc">          
-              your one-stop shop for all things generals.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ubmedicinefaqs.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmedicinefaqs.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ubmedicinefaqs.wikidot.com">UBMedicineFAQ</a></h3>
+            <h3><a target="_blank" href="http://paradoxhaze.wikidot.com">Paradox Haze</a></h3>
             <div class="desc">          
               
             </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1606199680;
+        OZONE.request.timestamp = 1606221227;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,10 +1711,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blmodding.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blmodding.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://marblehornets.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marblehornets.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blmodding.wikidot.com">Borderlands Modding Resource</a></h3>
+            <h3><a target="_blank" href="http://marblehornets.wikidot.com">Marble Hornets</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1722,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gateofrealms.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gateofrealms.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eime.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eime.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gateofrealms.wikidot.com">诸界之门</a></h3>
-            <div class="desc">          
-              多元原创创作社区
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://generals.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/generals.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://generals.wikidot.com">Generalia</a></h3>
-            <div class="desc">          
-              your one-stop shop for all things generals.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ubmedicinefaqs.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmedicinefaqs.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ubmedicinefaqs.wikidot.com">UBMedicineFAQ</a></h3>
+            <h3><a target="_blank" href="http://eime.wikidot.com">EIME Projects</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://kannadanudi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kannadanudi.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://kannadanudi.wikidot.com">ಕನ್ನಡನುಡಿ</a></h3>
+            <div class="desc">          
+              ಕನ್ನಡ ಸಾಹಿತ್ಯಾಸಕ್ತರ ಕೂಟ
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://corvidcollege.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/corvidcollege.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://corvidcollege.wikidot.com">Logos Tao Deus</a></h3>
+            <div class="desc">          
+              a slowschool
             </div>
           </div>
         </div>

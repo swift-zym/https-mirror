@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1606199508;
+        OZONE.request.timestamp = 1606221412;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,10 +1685,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpvakfi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
+            <h3><a target="_blank" href="http://scpvakfi.wikidot.com">SCP Vakfı</a></h3>
+            <div class="desc">          
+              Yakala, Sakla, Koru
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://spartanfleet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spartanfleet.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://spartanfleet.wikidot.com">Spartan Fleet</a></h3>
+            <div class="desc">          
+              Excellence in Simming.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ischool.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ischool.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ischool.wikidot.com">iSchool High</a></h3>
             <div class="desc">          
               
             </div>
@@ -1696,34 +1718,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dragon-trees.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dragon-trees.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://neosteam.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/neosteam.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dragon-trees.wikidot.com">Dragon Trees</a></h3>
+            <h3><a target="_blank" href="http://neosteam.wikidot.com">Neo Steam Wiki</a></h3>
             <div class="desc">          
-              A Dragon Cave Fansite
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://www.ereticopedia.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.ereticopedia.org/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://www.ereticopedia.org">ERETICOPEDIA</a></h3>
-            <div class="desc">          
-              Mediterranean Digital &amp; Public Humanities
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://lasthaiku.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lasthaiku.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://lasthaiku.wikidot.com">Legend of the Five Rings</a></h3>
-            <div class="desc">          
-              
+              May 2008 to February 2012
             </div>
           </div>
         </div>
