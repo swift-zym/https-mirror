@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606179984;
+        OZONE.request.timestamp = 1606199743;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1027,7 +1027,7 @@
 <li><a href="/scp-cn-1478">SCP-CN-1478</a> - 月缺</li>
 <li><a href="/scp-cn-1479">SCP-CN-1479</a> - “天榜”</li>
 <li><a href="/scp-cn-1480">SCP-CN-1480</a> - 岁在甲子，天下大吉</li>
-<li><a class="newpage" href="/scp-cn-1481">SCP-CN-1481</a> - “地底人”</li>
+<li><a href="/scp-cn-1481">SCP-CN-1481</a> - 黄巢人糜坊</li>
 <li><a href="/scp-cn-1482">SCP-CN-1482</a> - LS©NOC</li>
 <li><a href="/scp-cn-1483">SCP-CN-1483</a> - 那些遥远的冰冷石块</li>
 <li><a href="/scp-cn-1484">SCP-CN-1484</a> - 我们的明天已化为灰烬</li>
@@ -1067,7 +1067,7 @@
 <li><a href="/scp-cn-1514">SCP-CN-1514</a> - 带刺的玫瑰园</li>
 <li><a href="/scp-cn-1515">SCP-CN-1515</a> - 耳机派对</li>
 <li><a href="/scp-cn-1516">SCP-CN-1516</a> - 狐狸竖起耳朵</li>
-<li><a href="/scp-cn-1517">SCP-CN-1517</a> - 遗失塔</li>
+<li><a class="newpage" href="/scp-cn-1517">SCP-CN-1517</a> - 遗失塔</li>
 <li><a href="/scp-cn-1518">SCP-CN-1518</a> - 忆唐终曲</li>
 <li><a href="/scp-cn-1519">SCP-CN-1519</a> - 国之栋梁</li>
 <li><a href="/scp-cn-1520">SCP-CN-1520</a> - أمة</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3774, 最后编辑于: <span class="odate time_1606140672 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Nov 2020 14:11</span></div>
+                            <div id="page-info">页面版本: 3775, 最后编辑于: <span class="odate time_1606191039 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Nov 2020 04:10</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,43 +1686,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blmodding.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blmodding.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
+            <h3><a target="_blank" href="http://blmodding.wikidot.com">Borderlands Modding Resource</a></h3>
             <div class="desc">          
-              Fighting Spammers for Fun and Profit!
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fpt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fpt.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gateofrealms.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gateofrealms.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fpt.wikidot.com">Parameterized Complexity</a></h3>
+            <h3><a target="_blank" href="http://gateofrealms.wikidot.com">诸界之门</a></h3>
             <div class="desc">          
-              Did you say NP-hard?
+              多元原创创作社区
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pandora-saga.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pandora-saga.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://generals.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/generals.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pandora-saga.wikidot.com">Pandora Saga Online Wiki</a></h3>
+            <h3><a target="_blank" href="http://generals.wikidot.com">Generalia</a></h3>
             <div class="desc">          
-              NYANICORN!!!!!!
+              your one-stop shop for all things generals.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.metrixcreatespace.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.metrixcreatespace.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ubmedicinefaqs.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmedicinefaqs.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.metrixcreatespace.com">Metrix Create:Space</a></h3>
+            <h3><a target="_blank" href="http://ubmedicinefaqs.wikidot.com">UBMedicineFAQ</a></h3>
             <div class="desc">          
               
             </div>
