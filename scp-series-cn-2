@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606307437;
+        OZONE.request.timestamp = 1606329121;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -903,7 +903,7 @@
 <li><a href="/scp-cn-1358">SCP-CN-1358</a> - 在圣莫尼卡市不定时播放</li>
 <li><a href="/scp-cn-1359">SCP-CN-1359</a> - <span style="color: #9e9e9e">宿命论</span></li>
 <li><a href="/scp-cn-1360">SCP-CN-1360</a> - 那是鸟？那是飞机？那是……</li>
-<li><a href="/scp-cn-1361">SCP-CN-1361</a> - 收尸人</li>
+<li><a class="newpage" href="/scp-cn-1361">SCP-CN-1361</a> - 收尸人</li>
 <li><a href="/scp-cn-1362">SCP-CN-1362</a> - 视角</li>
 <li><a class="newpage" href="/scp-cn-1363">SCP-CN-1363</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1364">SCP-CN-1364</a> - 欲加之惧</li>
@@ -1106,7 +1106,7 @@
 <li><a href="/scp-cn-1553">SCP-CN-1553</a> - 牺牲笼子，消灭隐患</li>
 <li><a href="/scp-cn-1554">SCP-CN-1554</a> - 无问前路，世间皆缄默</li>
 <li><a href="/scp-cn-1555">SCP-CN-1555</a> - 老先生和爱哭鬼</li>
-<li><a class="newpage" href="/scp-cn-1556">SCP-CN-1556</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1556">SCP-CN-1556</a> - 盘古/热寂</li>
 <li><a href="/scp-cn-1557">SCP-CN-1557</a> - 静之声</li>
 <li><a href="/scp-cn-1558">SCP-CN-1558</a> - 长恨歌.txt</li>
 <li><a href="/scp-cn-1559">SCP-CN-1559</a> - 青鸟</li>
@@ -1145,7 +1145,7 @@
 <li><a class="newpage" href="/scp-cn-1592">SCP-CN-1592</a> - [禁止访问]</li>
 <li><a class="newpage" href="/scp-cn-1593">SCP-CN-1593</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1594">SCP-CN-1594</a> - 殘燭</li>
-<li><a href="/scp-cn-1595">SCP-CN-1595</a> - 万用罐装机</li>
+<li><a class="newpage" href="/scp-cn-1595">SCP-CN-1595</a> - 万用罐装机</li>
 <li><a class="newpage" href="/scp-cn-1596">SCP-CN-1596</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1597">SCP-CN-1597</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1598">SCP-CN-1598</a> - 地球仪</li>
@@ -1325,7 +1325,7 @@
 <li><a class="newpage" href="/scp-cn-1764">SCP-CN-1764</a> - 让子弹飞</li>
 <li><a href="/scp-cn-1765">SCP-CN-1765</a> - 镜与遗憾</li>
 <li><a href="/scp-cn-1766">SCP-CN-1766</a> - 常态与特修斯之船</li>
-<li><a href="/scp-cn-1767">SCP-CN-1767</a> - 算法可视化</li>
+<li><a class="newpage" href="/scp-cn-1767">SCP-CN-1767</a> - 算法可视化</li>
 <li><a href="/scp-cn-1768">SCP-CN-1768</a> - 永远深爱着你</li>
 <li><a href="/scp-cn-1769">SCP-CN-1769</a> - 吾母之蛹</li>
 <li><a href="/scp-cn-1770">SCP-CN-1770</a> - 患病的怪物</li>
@@ -1349,7 +1349,7 @@
 <li><a href="/scp-cn-1788">SCP-CN-1788</a> - 逝者长存</li>
 <li><a href="/scp-cn-1789">SCP-CN-1789</a> - 永寂</li>
 <li><a href="/scp-cn-1790">SCP-CN-1790</a> - 然后我们得以生活在阳光之下</li>
-<li><a class="newpage" href="/scp-cn-1791">SCP-CN-1791</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1791">SCP-CN-1791</a> -锈水镇欢迎您</li>
 <li><a href="/scp-cn-1792">SCP-CN-1792</a> - 价值连城</li>
 <li><a href="/scp-cn-1793">SCP-CN-1793</a> - 深渊鲸落</li>
 <li><a class="newpage" href="/scp-cn-1794">SCP-CN-1794</a> - [禁止访问]</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3777, 最后编辑于: <span class="odate time_1606300349 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">25 Nov 2020 10:32</span></div>
+                            <div id="page-info">页面版本: 3779, 最后编辑于: <span class="odate time_1606326618 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">25 Nov 2020 17:50</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,21 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dotflow.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dotflow.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dotflow.wikidot.com">.flow</a></h3>
-            <div class="desc">          
-              Rusting Away
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pagi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pagi.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pagi.wikidot.com">pagi</a></h3>
+            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
             <div class="desc">          
               
             </div>
@@ -1708,23 +1697,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ccpd.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ccpd.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ko.scp-wiki.net">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ko.scp-wiki.net/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ccpd.wikidot.com">Pieces of Our Minds</a></h3>
+            <h3><a target="_blank" href="http://ko.scp-wiki.net">SCP 재단</a></h3>
             <div class="desc">          
-              Creative Communication and Portfolio Development e-Learning Project
+              확보, 격리, 보호
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scion-mmp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scion-mmp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://airchairbuild.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/airchairbuild.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scion-mmp.wikidot.com">Scion: Monsters and Mosh Pits</a></h3>
+            <h3><a target="_blank" href="http://airchairbuild.wikidot.com">airchair-ultralight-gliders</a></h3>
             <div class="desc">          
-              
+              Building and flying the Goat and Bug style of airchair ultralight gliders
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://khaidoan.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/khaidoan.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://khaidoan.wikidot.com">Khai&#039;s personal knowledge vault.</a></h3>
+            <div class="desc">          
+              Materials on this site are not original. When possible, references to original articles are listed on each page.
             </div>
           </div>
         </div>
