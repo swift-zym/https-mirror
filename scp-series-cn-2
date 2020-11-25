@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606286190;
+        OZONE.request.timestamp = 1606307437;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -982,7 +982,7 @@
 <li><a href="/scp-cn-1433">SCP-CN-1433</a> - 浪漫的地平论者</li>
 <li><a href="/scp-cn-1434">SCP-CN-1434</a> - 人均上帝</li>
 <li><a href="/scp-cn-1435">SCP-CN-1435</a> - “地狱恶龙魂”</li>
-<li><a href="/scp-cn-1436">SCP-CN-1436</a> - dado的血豌豆</li>
+<li><a class="newpage" href="/scp-cn-1436">SCP-CN-1436</a> - dado的血豌豆</li>
 <li><a href="/scp-cn-1437">SCP-CN-1437</a> - 临界区</li>
 <li><a class="newpage" href="/scp-cn-1438">SCP-CN-1438</a> - 死亡预订</li>
 <li><a href="/scp-cn-1439">SCP-CN-1439</a> - 戏班</li>
@@ -1218,7 +1218,7 @@
 <li><a href="/scp-cn-1661">SCP-CN-1661</a> - 何患无辞</li>
 <li><a href="/scp-cn-1662">SCP-CN-1662</a> - 瀕臨絕種動物專用獸餌</li>
 <li><a class="newpage" href="/scp-cn-1663">SCP-CN-1663</a> - [禁止访问]</li>
-<li><a class="newpage" href="/scp-cn-1664">SCP-CN-1664</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1664">SCP-CN-1664</a> - 自知之碑</li>
 <li><a href="/scp-cn-1665">SCP-CN-1665</a> - dado的核爆失恋药</li>
 <li><a href="/scp-cn-1666">SCP-CN-1666</a> - 帷幕破碎</li>
 <li><a href="/scp-cn-1667">SCP-CN-1667</a> - 生尾猫</li>
@@ -1326,7 +1326,7 @@
 <li><a href="/scp-cn-1765">SCP-CN-1765</a> - 镜与遗憾</li>
 <li><a href="/scp-cn-1766">SCP-CN-1766</a> - 常态与特修斯之船</li>
 <li><a href="/scp-cn-1767">SCP-CN-1767</a> - 算法可视化</li>
-<li><a class="newpage" href="/scp-cn-1768">SCP-CN-1768</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1768">SCP-CN-1768</a> - 永远深爱着你</li>
 <li><a href="/scp-cn-1769">SCP-CN-1769</a> - 吾母之蛹</li>
 <li><a href="/scp-cn-1770">SCP-CN-1770</a> - 患病的怪物</li>
 <li><a href="/scp-cn-1771">SCP-CN-1771</a> - 幽灵过山车</li>
@@ -1340,7 +1340,7 @@
 <li><a href="/scp-cn-1779">SCP-CN-1779</a> - 迷城“The Lost City”</li>
 <li><a href="/scp-cn-1780">SCP-CN-1780</a> - 一二三，木头人</li>
 <li><a href="/scp-cn-1781">SCP-CN-1781</a> - 白垩纪制造</li>
-<li><a href="/scp-cn-1782">SCP-CN-1782</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1782">SCP-CN-1782</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1783">SCP-CN-1783</a> - 祈生花祝</li>
 <li><a href="/scp-cn-1784">SCP-CN-1784</a> - 异常天气现象（名称暂定）</li>
 <li><a href="/scp-cn-1785">SCP-CN-1785</a> - 温度是唯一的谎言</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3775, 最后编辑于: <span class="odate time_1606191039 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Nov 2020 04:10</span></div>
+                            <div id="page-info">页面版本: 3777, 最后编辑于: <span class="odate time_1606300349 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">25 Nov 2020 10:32</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,32 +1686,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-de.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-de.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dotflow.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dotflow.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki-de.wikidot.com">SCP Foundation</a></h3>
+            <h3><a target="_blank" href="http://dotflow.wikidot.com">.flow</a></h3>
             <div class="desc">          
-              auf Deutsch
+              Rusting Away
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://desenvolvimentodejogos.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/desenvolvimentodejogos.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pagi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pagi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://desenvolvimentodejogos.wikidot.com">Desenvolvimento de Jogos</a></h3>
-            <div class="desc">          
-              Tecnologias para uso no desenvolver jogos
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://vwinterop.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vwinterop.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://vwinterop.wikidot.com">Virtual World Interoperability</a></h3>
+            <h3><a target="_blank" href="http://pagi.wikidot.com">pagi</a></h3>
             <div class="desc">          
               
             </div>
@@ -1719,10 +1708,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikidot-migration.scpfoundation.net">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikidot-migration.scpfoundation.net/80.jpg"/>
+            <a target="_blank" class="image" href="http://ccpd.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ccpd.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikidot-migration.scpfoundation.net">SCP Database Migration</a></h3>
+            <h3><a target="_blank" href="http://ccpd.wikidot.com">Pieces of Our Minds</a></h3>
+            <div class="desc">          
+              Creative Communication and Portfolio Development e-Learning Project
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scion-mmp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scion-mmp.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scion-mmp.wikidot.com">Scion: Monsters and Mosh Pits</a></h3>
             <div class="desc">          
               
             </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1606286147;
+        OZONE.request.timestamp = 1606307655;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,32 +1685,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://colbycriminaljustice.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/colbycriminaljustice.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://simtrackipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/simtrackipedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://colbycriminaljustice.wikidot.com">Criminal Justice Collaboratory</a></h3>
+            <h3><a target="_blank" href="http://simtrackipedia.wikidot.com">SIMTrackipedia</a></h3>
             <div class="desc">          
-              Colby Community College
+              A collection of tutorials for Bob&#039;s Track Builder, XPacker, and other related programs
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wfh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wfh.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pottersarmy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pottersarmy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wfh.wikidot.com">Women&#039;s Film History Network</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://opencascade.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opencascade.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://opencascade.wikidot.com">Open CASCADE Wiki</a></h3>
+            <h3><a target="_blank" href="http://pottersarmy.wikidot.com">Potter&#039;s Army</a></h3>
             <div class="desc">          
               
             </div>
@@ -1718,10 +1707,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blmodding.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blmodding.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://patriot-box-office.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/patriot-box-office.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blmodding.wikidot.com">Borderlands Modding Resource</a></h3>
+            <h3><a target="_blank" href="http://patriot-box-office.wikidot.com">Patriot Box Office Media Player (PBO)</a></h3>
+            <div class="desc">          
+              More Than Meets the Eye
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://analyticscamp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/analyticscamp.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://analyticscamp.wikidot.com">AnalyticsCamp</a></h3>
             <div class="desc">          
               
             </div>
