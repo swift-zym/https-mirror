@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1606393899;
+        OZONE.request.timestamp = 1606415147;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -657,7 +657,7 @@
 <li><a href="/scp-5115">SCP-5115</a> - 超然物外</li>
 <li><a class="newpage" href="/scp-5116">SCP-5116</a> - The Art of the Deal with the Devil</li>
 <li><a href="/scp-5117">SCP-5117</a> - <span style="color: red">Alex？</span>我很孤独。</li>
-<li><a href="/scp-5118">SCP-5118</a> - [拒绝访问]</li>
+<li><a href="/scp-5118">SCP-5118</a> - 永远当个好孩子</li>
 <li><a class="newpage" href="/scp-5119">SCP-5119</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5120">SCP-5120</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5121">SCP-5121</a> - Ev'rwyn Spire</li>
@@ -1045,8 +1045,8 @@
 <li><a class="newpage" href="/scp-5491">SCP-5491</a> - Disco Never Dies</li>
 <li><a class="newpage" href="/scp-5492">SCP-5492</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5493">SCP-5493</a> - [拒绝访问]</li>
-<li><a href="/scp-5494">SCP-5494</a> - [拒绝访问]</li>
-<li><a href="/scp-5495">SCP-5495</a> - Explod(ing/ed)</li>
+<li><a href="/scp-5494">SCP-5494</a> - 下界之主</li>
+<li><a href="/scp-5495">SCP-5495</a> - 加兹尼事故</li>
 <li><a class="newpage" href="/scp-5496">SCP-5496</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5497">SCP-5497</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5498">SCP-5498</a> - [拒绝访问]</li>
@@ -1296,7 +1296,7 @@
 <li><a class="newpage" href="/scp-5730">SCP-5730</a> - To Be a King of the Seas Anew</li>
 <li><a class="newpage" href="/scp-5731">SCP-5731</a> - Dolittle's Music Box</li>
 <li><a class="newpage" href="/scp-5732">SCP-5732</a> - [拒绝访问]</li>
-<li><a href="/scp-5733">SCP-5733</a> - [拒绝访问]</li>
+<li><a href="/scp-5733">SCP-5733</a> - 刀子，尖叫，切黑屏</li>
 <li><a class="newpage" href="/scp-5734">SCP-5734</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5735">SCP-5735</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5736">SCP-5736</a> - [拒绝访问]</li>
@@ -1325,7 +1325,7 @@
 <li><a class="newpage" href="/scp-5759">SCP-5759</a> - [拒绝访问]</li>
 <li><a href="/scp-5760">SCP-5760</a> - 一个安静的夜晚</li>
 <li><a class="newpage" href="/scp-5761">SCP-5761</a> - [拒绝访问]</li>
-<li><a href="/scp-5762">SCP-5762</a> - [拒绝访问]</li>
+<li><a href="/scp-5762">SCP-5762</a> - 一日一医生</li>
 <li><a class="newpage" href="/scp-5763">SCP-5763</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5764">SCP-5764</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5765">SCP-5765</a> - A Room With No Bees in It</li>
@@ -1350,7 +1350,7 @@
 <li><a class="newpage" href="/scp-5784">SCP-5784</a> - [拒绝访问]</li>
 <li><a href="/scp-5785">SCP-5785</a> - 喷屎主义</li>
 <li><a class="newpage" href="/scp-5786">SCP-5786</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5787">SCP-5787</a> - [拒绝访问]</li>
+<li><a href="/scp-5787">SCP-5787</a> - 费城坏事</li>
 <li><a href="/scp-5788">SCP-5788</a> - 爱槽</li>
 <li><a href="/scp-5789">SCP-𝕐</a> - 食数之数</li>
 <li><a href="/scp-5790">SCP-5790</a> - [已杀死数据]</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 335, 最后编辑于: <span class="odate time_1606258840 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Nov 2020 23:00</span></div>
+                            <div id="page-info">页面版本: 336, 最后编辑于: <span class="odate time_1606405378 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">26 Nov 2020 15:42</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1710,10 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kdiprivateequity.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kdiprivateequity.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://theautocraticcountryofjayland.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theautocraticcountryofjayland.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kdiprivateequity.wikidot.com">KDI Private Equity</a></h3>
+            <h3><a target="_blank" href="http://theautocraticcountryofjayland.wikidot.com">The Autocratic Country Of Jayland</a></h3>
+            <div class="desc">          
+              MementoMori
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://globalclimatechange.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/globalclimatechange.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://globalclimatechange.wikidot.com">Global Climate Destabilization</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://albums-template.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/albums-template.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.wikidot.com">Wikidot - Free and Pro Wiki Hosting</a></h3>
+            <h3><a target="_blank" href="http://albums-template.wikidot.com">Albums-template</a></h3>
             <div class="desc">          
-              your place on the web
+              Your pictures
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://maitreya.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maitreya.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpvakfisandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfisandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://maitreya.wikidot.com">REACHA</a></h3>
+            <h3><a target="_blank" href="http://scpvakfisandbox.wikidot.com">SCP Vakfı Sandbox</a></h3>
             <div class="desc">          
-              &#039;reaching out...touching lives&#039;
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://sortibrige.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sortibrige.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://sortibrige.wikidot.com">John Parra</a></h3>
-            <div class="desc">          
-              
+              Atış poligonu
             </div>
           </div>
         </div>
