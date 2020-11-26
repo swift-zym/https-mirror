@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1606372179;
+        OZONE.request.timestamp = 1606393612;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,10 +1711,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://techcomm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/techcomm.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://downsfolk.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/downsfolk.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://techcomm.wikidot.com">TechnicalCommunication</a></h3>
+            <h3><a target="_blank" href="http://downsfolk.wikidot.com">Downs Folk</a></h3>
+            <div class="desc">          
+              Lives and times of folk of Toowoomba &amp; the Downs
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://corwyn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/corwyn.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://corwyn.wikidot.com">Corwyn</a></h3>
+            <div class="desc">          
+              A Fantasy  Campaign Setting
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://advent-ro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/advent-ro.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://advent-ro.wikidot.com">AdventRO Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1744,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bfa-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bfa-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://battlestargenesis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/battlestargenesis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bfa-wiki.wikidot.com">Blue Flag Association</a></h3>
+            <h3><a target="_blank" href="http://battlestargenesis.wikidot.com">BATTLESTAR GENESIS MUSH</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
-            <div class="desc">          
-              Fighting Spammers for Fun and Profit!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://www.hackingthursday.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.hackingthursday.org/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://www.hackingthursday.org">Hacking Thursday</a></h3>
-            <div class="desc">          
-              
+              battlestar.isunlimited.net    3012
             </div>
           </div>
         </div>

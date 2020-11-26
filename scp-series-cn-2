@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606371984;
+        OZONE.request.timestamp = 1606393900;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -905,7 +905,7 @@
 <li><a href="/scp-cn-1360">SCP-CN-1360</a> - 那是鸟？那是飞机？那是……</li>
 <li><a class="newpage" href="/scp-cn-1361">SCP-CN-1361</a> - 收尸人</li>
 <li><a href="/scp-cn-1362">SCP-CN-1362</a> - 视角</li>
-<li><a class="newpage" href="/scp-cn-1363">SCP-CN-1363</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1363">SCP-CN-1363</a> - 鼠标也许是我们最后的防线</li>
 <li><a href="/scp-cn-1364">SCP-CN-1364</a> - 欲加之惧</li>
 <li><a href="/scp-cn-1365">SCP-CN-1365</a> - 花士证书</li>
 <li><a href="/scp-cn-1366">SCP-CN-1366</a> - 命若琴弦</li>
@@ -1352,7 +1352,7 @@
 <li><a href="/scp-cn-1791">SCP-CN-1791</a> - 锈水镇欢迎您</li>
 <li><a href="/scp-cn-1792">SCP-CN-1792</a> - 价值连城</li>
 <li><a href="/scp-cn-1793">SCP-CN-1793</a> - 深渊鲸落</li>
-<li><a class="newpage" href="/scp-cn-1794">SCP-CN-1794</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1794">SCP-CN-1794</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1795">SCP-CN-1795</a> - 锔这些杯子的人很缺德</li>
 <li><a href="/scp-cn-1796">SCP-CN-1796</a> - 上古之镜，愤世嫉俗</li>
 <li><a href="/scp-cn-1797">SCP-CN-1797</a> - 神之梦</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3780, 最后编辑于: <span class="odate time_1606354988 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">26 Nov 2020 01:43</span></div>
+                            <div id="page-info">页面版本: 3781, 最后编辑于: <span class="odate time_1606373842 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">26 Nov 2020 06:57</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.freesmug.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.freesmug.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://kdiprivateequity.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kdiprivateequity.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.freesmug.org">FreeSMUG</a></h3>
+            <h3><a target="_blank" href="http://kdiprivateequity.wikidot.com">KDI Private Equity</a></h3>
             <div class="desc">          
-              Free Open Source Software Mac User Group
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://porsche.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/porsche.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://porsche.wikidot.com">Porsche Wiki</a></h3>
+            <h3><a target="_blank" href="http://www.wikidot.com">Wikidot - Free and Pro Wiki Hosting</a></h3>
             <div class="desc">          
-              Brought to You By RedLine Technik | RedLineTechnik.com
+              your place on the web
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thecollaboratory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thecollaboratory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://maitreya.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maitreya.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thecollaboratory.wikidot.com">The Collaboratory</a></h3>
+            <h3><a target="_blank" href="http://maitreya.wikidot.com">REACHA</a></h3>
             <div class="desc">          
-              at Colby Community College
+              &#039;reaching out...touching lives&#039;
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sw-gis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sw-gis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sortibrige.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sortibrige.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sw-gis.wikidot.com">Smallworld GIS Wiki</a></h3>
+            <h3><a target="_blank" href="http://sortibrige.wikidot.com">John Parra</a></h3>
             <div class="desc">          
-              Help and references for the Smallworld Community
+              
             </div>
           </div>
         </div>
