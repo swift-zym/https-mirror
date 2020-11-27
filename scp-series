@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1606480555;
+        OZONE.request.timestamp = 1606501701;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,10 +1709,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pedhemoncreview.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pedhemoncreview.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://professorallred.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/professorallred.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pedhemoncreview.wikidot.com">Pediatric Hematology &amp; Oncology Certification Review</a></h3>
+            <h3><a target="_blank" href="http://professorallred.wikidot.com">Ammon Allred&#039;s Online Classroom</a></h3>
+            <div class="desc">          
+              University of Toledo Philosophy Professor
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://hfwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hfwiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://hfwiki.wikidot.com">HammerfallWiki</a></h3>
+            <div class="desc">          
+              A Wiki for Hammerfall RPG on Facebook and Myspace
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://sortibrige.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sortibrige.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://sortibrige.wikidot.com">John Parra</a></h3>
             <div class="desc">          
               
             </div>
@@ -1720,34 +1742,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://malkavian.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/malkavian.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chavezbraintrust.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chavezbraintrust.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://malkavian.wikidot.com">CCS Related</a></h3>
-            <div class="desc">          
-              Malkavian guide to CCS life
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://mbitcoin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mbitcoin.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://mbitcoin.wikidot.com">BitCoin</a></h3>
+            <h3><a target="_blank" href="http://chavezbraintrust.wikidot.com">Chavez Brain Trust</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wikiofscience.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiofscience.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wikiofscience.wikidot.com">WikiofScience</a></h3>
-            <div class="desc">          
-              Everything learned, and nothing forgotten
             </div>
           </div>
         </div>

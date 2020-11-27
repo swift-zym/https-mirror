@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1606480620;
+        OZONE.request.timestamp = 1606501513;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,21 +1710,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://splinterverse.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/splinterverse.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://backrooms-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://splinterverse.wikidot.com">Splinterverse</a></h3>
+            <h3><a target="_blank" href="http://backrooms-wiki.wikidot.com">The Backrooms</a></h3>
             <div class="desc">          
-              Ezboard Yuku Splinterverse Wiki
+              Watch Your Back...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://videoart.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/videoart.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-sandbox2-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox2-zh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://videoart.wikidot.com">Interactive Media Design: Theory</a></h3>
+            <h3><a target="_blank" href="http://scp-sandbox2-zh.wikidot.com">SCP繁中沙盒2.0</a></h3>
+            <div class="desc">          
+              生命之沙，繁星之盒
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ds2009a.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds2009a.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ds2009a.wikidot.com">Data Structures</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nobilis.me">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nobilis.me/80.jpg"/>
+            <a target="_blank" class="image" href="http://zodiac-ffrpg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zodiac-ffrpg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nobilis.me">Chancel Aleph</a></h3>
+            <h3><a target="_blank" href="http://zodiac-ffrpg.wikidot.com">ZODIAC Final Fantasy RPG</a></h3>
             <div class="desc">          
-              A Nobilis Fansite
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://rhetoricalgoddess.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rhetoricalgoddess.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://rhetoricalgoddess.wikidot.com">The Rhetorical Goddess Wiki</a></h3>
-            <div class="desc">          
-              Because the Truth and That Which Resembles It Belong to the Same Capacity
+              
             </div>
           </div>
         </div>
