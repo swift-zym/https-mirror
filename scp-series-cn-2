@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606458821;
+        OZONE.request.timestamp = 1606480362;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1096,7 +1096,7 @@
 <li><a class="newpage" href="/scp-cn-1543">SCP-CN-1543</a> - 辐射基地</li>
 <li><a class="newpage" href="/scp-cn-1544">SCP-CN-1544</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1545">SCP-CN-1545</a> - 黎明前最黑的夜</li>
-<li><a href="/scp-cn-1546">SCP-CN-1546</a> - 法克鱿</li>
+<li><a class="newpage" href="/scp-cn-1546">SCP-CN-1546</a> - 法克鱿</li>
 <li><a class="newpage" href="/scp-cn-1547">SCP-CN-1547</a> - 自我改变房间</li>
 <li><a href="/scp-cn-1548">SCP-CN-1548</a> - 宇宙海星</li>
 <li><a href="/scp-cn-1549">SCP-CN-1549</a> - 🎴大🔪🙀</li>
@@ -1349,7 +1349,7 @@
 <li><a href="/scp-cn-1788">SCP-CN-1788</a> - 逝者长存</li>
 <li><a href="/scp-cn-1789">SCP-CN-1789</a> - 永寂</li>
 <li><a href="/scp-cn-1790">SCP-CN-1790</a> - 然后我们得以生活在阳光之下</li>
-<li><a href="/scp-cn-1791">SCP-CN-1791</a> - 锈水镇欢迎您</li>
+<li><a class="newpage" href="/scp-cn-1791">SCP-CN-1791</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1792">SCP-CN-1792</a> - 价值连城</li>
 <li><a href="/scp-cn-1793">SCP-CN-1793</a> - 深渊鲸落</li>
 <li><a class="newpage" href="/scp-cn-1794">SCP-CN-1794</a> - [禁止访问]</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3784, 最后编辑于: <span class="odate time_1606458644 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Nov 2020 06:30</span></div>
+                            <div id="page-info">页面版本: 3786, 最后编辑于: <span class="odate time_1606463905 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Nov 2020 07:58</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://socjobs2011.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/socjobs2011.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpguy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpguy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://socjobs2011.wikidot.com">Socjobs2011</a></h3>
+            <h3><a target="_blank" href="http://scpguy.wikidot.com">SCPWORLD</a></h3>
             <div class="desc">          
-              Sociology Job Market 2010-2011
+              HELLO GUYS
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://istar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/istar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikirmaphil.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikirmaphil.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://istar.wikidot.com">ISTAR</a></h3>
+            <h3><a target="_blank" href="http://wikirmaphil.wikidot.com">WikiRMAPhil</a></h3>
             <div class="desc">          
-              International Society for Testate Amoeba Research
+              Community Site for UU RMA Philosophy Students
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.cloudtw.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.cloudtw.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://grantsrecipes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/grantsrecipes.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.cloudtw.org">CloudTW</a></h3>
+            <h3><a target="_blank" href="http://grantsrecipes.wikidot.com">Grant&#039;s Recipes</a></h3>
+            <div class="desc">          
+              Good food for you!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://sniktbub.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sniktbub.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://sniktbub.wikidot.com">Marvel Untold MUX</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://cepfondazione.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cepfondazione.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://cepfondazione.wikidot.com">CEP</a></h3>
-            <div class="desc">          
-              Fondazione CEP
             </div>
           </div>
         </div>
