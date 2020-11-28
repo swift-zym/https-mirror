@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606566713;
+        OZONE.request.timestamp = 1606587746;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -931,7 +931,7 @@
 <li><a class="newpage" href="/scp-cn-1386">SCP-CN-1386</a> - 对脑袋来一枪？</li>
 <li><a href="/scp-cn-1387">SCP-CN-1387</a> - 一期一会の箸</li>
 <li><a href="/scp-cn-1388">SCP-CN-1388</a> - <span style="text-decoration: underline;">蛇，缠绕世界的祂</span></li>
-<li><a href="/scp-cn-1389">SCP-CN-1389</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1389">SCP-CN-1389</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1390">SCP-CN-1390</a> - 失格现实</li>
 <li><a href="/scp-cn-1391">SCP-CN-1391</a> - dado的仓鼠药</li>
 <li><a class="newpage" href="/scp-cn-1392">SCP-CN-1392</a> - 不眠人与墨菲定律</li>
@@ -1349,7 +1349,7 @@
 <li><a href="/scp-cn-1788">SCP-CN-1788</a> - 逝者长存</li>
 <li><a href="/scp-cn-1789">SCP-CN-1789</a> - 永寂</li>
 <li><a href="/scp-cn-1790">SCP-CN-1790</a> - 然后我们得以生活在阳光之下</li>
-<li><a class="newpage" href="/scp-cn-1791">SCP-CN-1791</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1791">SCP-CN-1791</a> - 海境归客</li>
 <li><a href="/scp-cn-1792">SCP-CN-1792</a> - 价值连城</li>
 <li><a href="/scp-cn-1793">SCP-CN-1793</a> - 深渊鲸落</li>
 <li><a class="newpage" href="/scp-cn-1794">SCP-CN-1794</a> - [禁止访问]</li>
@@ -1424,7 +1424,7 @@
 <li><a href="/scp-cn-1859">SCP-CN-1859</a> - 谈美</li>
 <li><a href="/scp-cn-1860">SCP-CN-1860</a> - 瓶子</li>
 <li><a href="/scp-cn-1861">SCP-CN-1861</a> - 龙鸟原</li>
-<li><a class="newpage" href="/scp-cn-1862">SCP-CN-1862</a> - 琵琶行，行至死方休</li>
+<li><a href="/scp-cn-1862">SCP-CN-1862</a> - 琵琶行，行至死方休</li>
 <li><a href="/scp-cn-1863">SCP-CN-1863</a> - 马桶艺术</li>
 <li><a href="/scp-cn-1864">SCP-CN-1864</a> - 登神长阶</li>
 <li><a href="/scp-cn-1865">SCP-CN-1865</a> - 死者们的声音</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3788, 最后编辑于: <span class="odate time_1606557870 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">28 Nov 2020 10:04</span></div>
+                            <div id="page-info">页面版本: 3789, 最后编辑于: <span class="odate time_1606575458 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">28 Nov 2020 14:57</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,10 +1686,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikiethica.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiethica.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://exploringsciencewiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exploringsciencewiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikiethica.wikidot.com">WikiEthica</a></h3>
+            <h3><a target="_blank" href="http://exploringsciencewiki.wikidot.com">The Exploring Our World Wiki</a></h3>
+            <div class="desc">          
+              A Site for Everyone Interested in Teaching and Learning
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ibhistory.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibhistory.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ibhistory.wikidot.com">IB History</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,34 +1708,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://videoart.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/videoart.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wpts.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wpts.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://videoart.wikidot.com">Interactive Media Design: Theory</a></h3>
+            <h3><a target="_blank" href="http://wpts.wikidot.com">WPTS</a></h3>
             <div class="desc">          
-              
+              pittsburgh&#039;s progressive FM
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://algadon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/algadon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandboxcn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxcn.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://algadon.wikidot.com">Algadon</a></h3>
+            <h3><a target="_blank" href="http://scpsandboxcn.wikidot.com">SCP基金會中文沙盒站</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://hswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hswiki.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://hswiki.wikidot.com">.</a></h3>
-            <div class="desc">          
-              
+              千仞高塔，筑基于此
             </div>
           </div>
         </div>
