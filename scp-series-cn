@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1606525264;
+        OZONE.request.timestamp = 1606544956;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,21 +1685,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://associationofishtar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/associationofishtar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://historynewmedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/historynewmedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://associationofishtar.wikidot.com">The Association of Ishtar</a></h3>
+            <h3><a target="_blank" href="http://historynewmedia.wikidot.com">History in the New Media</a></h3>
             <div class="desc">          
-              Welcome to the Multiverse
+              Digital Project Design in Archives and Public History
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-field-work.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-field-work.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://apmoderneuro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/apmoderneuro.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-field-work.wikidot.com">SCP Field Work</a></h3>
+            <h3><a target="_blank" href="http://apmoderneuro.wikidot.com">Apmoderneuro</a></h3>
             <div class="desc">          
               
             </div>
@@ -1707,23 +1707,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ibiz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibiz.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ageofthestars.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ageofthestars.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ibiz.wikidot.com">Internet and Business</a></h3>
+            <h3><a target="_blank" href="http://ageofthestars.wikidot.com">Age of the Stars</a></h3>
             <div class="desc">          
-              How the internet has changed business
+              Adventures in Science Fantasy
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wychwood.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wychwood.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ejs-in-india.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ejs-in-india.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wychwood.wikidot.com">Wikiwood</a></h3>
+            <h3><a target="_blank" href="http://ejs-in-india.wikidot.com">Environmental Journalists in India</a></h3>
             <div class="desc">          
-              Wychwood Warriors Wiki
+              Sign Up Here If Your Ink Is Green
             </div>
           </div>
         </div>
