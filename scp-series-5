@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1606653396;
+        OZONE.request.timestamp = 1606674515;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1350,7 +1350,7 @@
 <li><a class="newpage" href="/scp-4761">SCP-4761</a> - [拒绝访问]</li>
 <li><a href="/scp-4762">SCP-4762</a> - 多种解释</li>
 <li><a href="/scp-4763">SCP-4763</a> - 悲井</li>
-<li><a class="newpage" href="/scp-4764">SCP-4764</a> - [拒绝访问]</li>
+<li><a href="/scp-4764">SCP-4764</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-4765">SCP-4765</a> - A Shattered Visage Lies</li>
 <li><a href="/scp-4766">SCP-4766</a> - 我美丽，漂亮的儿子</li>
 <li><a href="/scp-4767">SCP-4767</a> - 我的天啦我忘了我有选过这门课而且今天就要期末考试了</li>
@@ -1629,7 +1629,7 @@
 
 
 <div class="footnotes-footer">
-<div class="title">脚注</div>
+<div class="title">Footnotes</div>
 <div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
 <div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
 </div>
@@ -1741,21 +1741,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fasa-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fasa-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scratch4samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scratch4samvedna.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fasa-sandbox.wikidot.com">FASA Sandbox</a></h3>
+            <h3><a target="_blank" href="http://scratch4samvedna.wikidot.com">Right from &#039;Scratch!!&#039;</a></h3>
             <div class="desc">          
-              For Authoring Strange Anomalies
+              Animation through Online Collaboration by students
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://philippines.actor-atlas.info">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philippines.actor-atlas.info/80.jpg"/>
+            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://philippines.actor-atlas.info">Philippines        #tagcoding</a></h3>
+            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
             <div class="desc">          
               
             </div>
@@ -1763,23 +1763,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://snippets.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snippets.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://snippets.wikidot.com">Wiki Code Snippets</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox2.wikidot.com">SCP Sandbox Wiki II</a></h3>
             <div class="desc">          
-              Snippets
+              Sandbox Harder
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://maximum-tension.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maximum-tension.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rmitvnim2007b.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rmitvnim2007b.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://maximum-tension.com">Maximum Tension</a></h3>
+            <h3><a target="_blank" href="http://rmitvnim2007b.wikidot.com">RMIT Vietnam IM 2007B</a></h3>
             <div class="desc">          
-              Programing / Design Lab.
+              
             </div>
           </div>
         </div>
