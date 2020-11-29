@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1606611894;
+        OZONE.request.timestamp = 1606631382;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1394,7 +1394,7 @@
 <li><a class="newpage" href="/scp-5824">SCP-5824</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5825">SCP-5825</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5826">SCP-5826</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5827">SCP-5827</a> - 5TAR ☼</li>
+<li><a href="/scp-5827">SCP-5827</a> - 5TAR ☼</li>
 <li><a class="newpage" href="/scp-5828">SCP-5828</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5829">SCP-5829</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5830">SCP-5830</a> - Ahtohallan</li>
@@ -1710,10 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.ens-dictionary.info">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.ens-dictionary.info/80.jpg"/>
+            <a target="_blank" class="image" href="http://theautocraticcountryofjayland.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theautocraticcountryofjayland.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.ens-dictionary.info">Ens Dictionary</a></h3>
+            <h3><a target="_blank" href="http://theautocraticcountryofjayland.wikidot.com">The Autocratic Country Of Jayland</a></h3>
+            <div class="desc">          
+              MementoMori
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://utau.wiki">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/utau.wiki/80.jpg"/>
+            <a target="_blank" class="image" href="http://storychip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/storychip.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://utau.wiki">UTAU Wiki 2.0</a></h3>
+            <h3><a target="_blank" href="http://storychip.wikidot.com">Story Chip</a></h3>
             <div class="desc">          
-              Wiki for the UTAU voice synthesis software.
+              Become a part of history, share your story.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zeroshell.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zeroshell.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ds10.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds10.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zeroshell.wikidot.com">Zeroshell</a></h3>
+            <h3><a target="_blank" href="http://ds10.wikidot.com">מבני נתונים</a></h3>
             <div class="desc">          
-              Guida all&#039;uso/Admin Guide
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://fmiseria3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmiseria3.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://fmiseria3.wikidot.com">Portalul Seriilor de Informatica</a></h3>
-            <div class="desc">          
-              Facultatea de Matematica si Informatica, Universitatea din Bucuresti
+              סמסטר ב&#039;, תש&quot;ע
             </div>
           </div>
         </div>
