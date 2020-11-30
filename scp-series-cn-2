@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606698538;
+        OZONE.request.timestamp = 1606718394;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1225,7 +1225,7 @@
 <li><a href="/scp-cn-1668">SCP-CN-1668</a> - 少女的梦</li>
 <li><a href="/scp-cn-1669">SCP-CN-1669</a> - 只是一份生日礼物</li>
 <li><a href="/scp-cn-1670">SCP-CN-1670</a> - 蚊字终结于此</li>
-<li><a href="/scp-cn-1671">SCP-CN-1671</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1671">SCP-CN-1671</a> - 不夜城</li>
 <li><a href="/scp-cn-1672">SCP-CN-1672</a> - “dado”的鮟鱇鱼药</li>
 <li><a href="/scp-cn-1673">SCP-CN-1673</a> - 剧透一时爽</li>
 <li><a class="newpage" href="/scp-cn-1674">SCP-CN-1674</a> - 镜中·镜外</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3798, 最后编辑于: <span class="odate time_1606667181 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">29 Nov 2020 16:26</span></div>
+                            <div id="page-info">页面版本: 3799, 最后编辑于: <span class="odate time_1606713146 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">30 Nov 2020 05:12</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,32 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ecadmin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecadmin.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wiki.zeromq.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.zeromq.org/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ecadmin.wikidot.com">Early Childhood Program Administration</a></h3>
-            <div class="desc">          
-              Resources, Training, Best Practices, Sharing
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://acdcell.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/acdcell.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://acdcell.wikidot.com">异常管理署</a></h3>
-            <div class="desc">          
-              探明异常，控制威胁
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ischool.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ischool.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ischool.wikidot.com">iSchool High</a></h3>
+            <h3><a target="_blank" href="http://wiki.zeromq.org">zeromq</a></h3>
             <div class="desc">          
               
             </div>
@@ -1719,12 +1697,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.wikiwealth.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.wikiwealth.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aspnet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aspnet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.wikiwealth.com">WikiWealth</a></h3>
+            <h3><a target="_blank" href="http://aspnet.wikidot.com">ASP.NET Wiki</a></h3>
             <div class="desc">          
-              Stock, ETF and Mutual Fund Ratings | Commodity, Currency Research
+              This website is no longer actively supported
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scpkosb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkosb.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scpkosb.wikidot.com">SB-KO2</a></h3>
+            <div class="desc">          
+              SCP-KO 샌드박스 이호기
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://sfi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfi.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://sfi.wikidot.com">STARFIGHTER INFINITY</a></h3>
+            <div class="desc">          
+              Open Source Website
             </div>
           </div>
         </div>
