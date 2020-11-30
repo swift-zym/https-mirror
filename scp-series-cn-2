@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606739893;
+        OZONE.request.timestamp = 1606760956;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -876,7 +876,7 @@
 <li><a href="/scp-cn-1331">SCP-CN-1331</a> - 直至死亡將我們分開</li>
 <li><a href="/scp-cn-1332">SCP-CN-1332</a> - 东方三博士</li>
 <li><a href="/scp-cn-1333">SCP-CN-1333</a> - 肢体</li>
-<li><a class="newpage" href="/scp-cn-1334">SCP-CN-1334</a> - 乐极生悲</li>
+<li><a href="/scp-cn-1334">SCP-CN-1334</a> - 金条长腿</li>
 <li><a href="/scp-cn-1335">SCP-CN-1335</a> - 外丹</li>
 <li><a href="/scp-cn-1336">SCP-CN-1336</a> - 面对愚昧</li>
 <li><a href="/scp-cn-1337">SCP-CN-1337</a> - 小黑屋</li>
@@ -1093,8 +1093,8 @@
 <li><a href="/scp-cn-1540">SCP-CN-1540</a> - dado稀饭听摇滚</li>
 <li><a class="newpage" href="/scp-cn-1541">SCP-CN-1541</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1542">SCP-CN-1542</a> - ♬祝你生日快乐♬</li>
-<li><a class="newpage" href="/scp-cn-1543">SCP-CN-1543</a> - 辐射基地</li>
-<li><a class="newpage" href="/scp-cn-1544">SCP-CN-1544</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1543">SCP-CN-1543</a> - 我所忠心的</li>
+<li><a href="/scp-cn-1544">SCP-CN-1544</a> - 求道者</li>
 <li><a href="/scp-cn-1545">SCP-CN-1545</a> - 黎明前最黑的夜</li>
 <li><a class="newpage" href="/scp-cn-1546">SCP-CN-1546</a> - 法克鱿</li>
 <li><a class="newpage" href="/scp-cn-1547">SCP-CN-1547</a> - 自我改变房间</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3800, 最后编辑于: <span class="odate time_1606732961 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">30 Nov 2020 10:42</span></div>
+                            <div id="page-info">页面版本: 3803, 最后编辑于: <span class="odate time_1606751255 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">30 Nov 2020 15:47</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://denver.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/denver.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fmi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://denver.wikidot.com">Shadowrun: Denver</a></h3>
+            <h3><a target="_blank" href="http://fmi.wikidot.com">Лекциите на ФМИ</a></h3>
             <div class="desc">          
-              Complicated Shadows
+              За да изглеждаме умни пред другите
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ddscat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ddscat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ddscat.wikidot.com">DDSCAT</a></h3>
+            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
             <div class="desc">          
-              Light Scattering Code
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://windycity.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/windycity.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/handbook.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://windycity.wikidot.com">Windycity</a></h3>
+            <h3><a target="_blank" href="http://handbook.wikidot.com">Handbook</a></h3>
             <div class="desc">          
-              MUX
+              The Wikidot Handbook
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.towngoodies.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.towngoodies.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dndis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dndis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.towngoodies.com">美國城鎮旅遊網</a></h3>
+            <h3><a target="_blank" href="http://dndis.wikidot.com">Dungeons &amp; Discourse</a></h3>
             <div class="desc">          
-              美國城市旅遊逛街活動指南
+              Gamma Edition
             </div>
           </div>
         </div>
