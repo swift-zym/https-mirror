@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606826588;
+        OZONE.request.timestamp = 1606847837;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -706,7 +706,7 @@
 <li><a href="/scp-cn-1169">SCP-CN-1169</a> - 不纯粹虚构社交组织</li>
 <li><a href="/scp-cn-1170">SCP-CN-1170</a> - 泣血红颜</li>
 <li><a href="/scp-cn-1171">SCP-CN-1171</a> - 巧克力烤面包</li>
-<li><a href="/scp-cn-1172">SCP-CN-1172</a> - 绘心</li>
+<li><a class="newpage" href="/scp-cn-1172">SCP-CN-1172</a> - 绘心</li>
 <li><a href="/scp-cn-1173">SCP-CN-1173</a> - 护航机</li>
 <li><a href="/scp-cn-1174">SCP-CN-1174</a> - 具象化恶意</li>
 <li><a href="/scp-cn-1175">SCP-CN-1175</a> - 孤星与月</li>
@@ -876,7 +876,7 @@
 <li><a href="/scp-cn-1331">SCP-CN-1331</a> - 直至死亡將我們分開</li>
 <li><a href="/scp-cn-1332">SCP-CN-1332</a> - 东方三博士</li>
 <li><a href="/scp-cn-1333">SCP-CN-1333</a> - 肢体</li>
-<li><a class="newpage" href="/scp-cn-1334">SCP-CN-1334</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1334">SCP-CN-1334</a> - 尾虫</li>
 <li><a href="/scp-cn-1335">SCP-CN-1335</a> - 外丹</li>
 <li><a href="/scp-cn-1336">SCP-CN-1336</a> - 面对愚昧</li>
 <li><a href="/scp-cn-1337">SCP-CN-1337</a> - 小黑屋</li>
@@ -972,7 +972,7 @@
 <li><a href="/scp-cn-1423">SCP-CN-1423</a> - dado的特效眼药水</li>
 <li><a href="/scp-cn-1424">SCP-CN-1424</a> - 选我做乜？系叉烧唔够香咩？</li>
 <li><a href="/scp-cn-1425">SCP-CN-1425</a> - 终末幻想机械赞歌</li>
-<li><a class="newpage" href="/scp-cn-1426">SCP-CN-1426</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1426">SCP-CN-1426</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1427">SCP-CN-1427</a> - 海妖之触</li>
 <li><a href="/scp-cn-1428">SCP-CN-1428</a> - 当东西掉在桌子底下后</li>
 <li><a href="/scp-cn-1429">SCP-CN-1429</a> - World Pulse</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3807, 最后编辑于: <span class="odate time_1606822483 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">01 Dec 2020 11:34</span></div>
+                            <div id="page-info">页面版本: 3808, 最后编辑于: <span class="odate time_1606840819 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">01 Dec 2020 16:40</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,10 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://psychjobsearch.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychjobsearch.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://educ400-401.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/educ400-401.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://psychjobsearch.wikidot.com">Psychology Job Wiki</a></h3>
+            <h3><a target="_blank" href="http://educ400-401.wikidot.com">Dyslexia Connection</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,10 +1697,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kdiprivateequity.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kdiprivateequity.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scion-mmp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scion-mmp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kdiprivateequity.wikidot.com">KDI Private Equity</a></h3>
+            <h3><a target="_blank" href="http://scion-mmp.wikidot.com">Scion: Monsters and Mosh Pits</a></h3>
             <div class="desc">          
               
             </div>
@@ -1708,23 +1708,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://albums-template.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/albums-template.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://extrabees.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extrabees.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://albums-template.wikidot.com">Albums-template</a></h3>
+            <h3><a target="_blank" href="http://extrabees.wikidot.com">Extra Bees</a></h3>
             <div class="desc">          
-              Your pictures
+              Plugin for the Forestry Mod
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-el.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-el.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ibhistory.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibhistory.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-el.wikidot.com">Το Ίδρυμα SCP</a></h3>
+            <h3><a target="_blank" href="http://ibhistory.wikidot.com">IB History</a></h3>
             <div class="desc">          
-              Ελληνόφωνo κλάδο
+              
             </div>
           </div>
         </div>
