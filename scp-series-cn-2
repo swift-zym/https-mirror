@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1606870929;
+        OZONE.request.timestamp = 1606890468;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1112,7 +1112,7 @@
 <li><a href="/scp-cn-1559">SCP-CN-1559</a> - 青鸟</li>
 <li><a href="/scp-cn-1560">SCP-CN-1560</a> - <strong>第 五 扭 蛋 机</strong></li>
 <li><a href="/scp-cn-1561">SCP-CN-1561</a> - 最遥远的地方</li>
-<li><a class="newpage" href="/scp-cn-1562">SCP-CN-1562</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1562">SCP-CN-1562</a> - [禁止访问]</li>
 <li><a class="newpage" href="/scp-cn-1563">SCP-CN-1563</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1564">SCP-CN-1564</a> - 香“蝽”树</li>
 <li><a href="/scp-cn-1565">SCP-CN-1565</a> - 后人得之传此</li>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://advent-ro.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/advent-ro.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cunefb2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefb2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://advent-ro.wikidot.com">AdventRO Wiki</a></h3>
+            <h3><a target="_blank" href="http://cunefb2.wikidot.com">CUNEF Group B2</a></h3>
+            <div class="desc">          
+              For Your Work, Opinions and Discoveries!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://smlt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smlt.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://smlt.wikidot.com">SMLT Container</a></h3>
+            <div class="desc">          
+              The SCP Sandbox by Nerds for Nerds.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ageofthestars.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ageofthestars.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ageofthestars.wikidot.com">Age of the Stars</a></h3>
+            <div class="desc">          
+              Adventures in Science Fantasy
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://chimiex-bicaz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chimiex-bicaz.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://chimiex-bicaz.wikidot.com">Chimiex Bicaz</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://malkavian.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/malkavian.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://malkavian.wikidot.com">CCS Related</a></h3>
-            <div class="desc">          
-              Malkavian guide to CCS life
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://borradores-ots-es.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/borradores-ots-es.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://borradores-ots-es.wikidot.com">Borradores OTS-ES</a></h3>
-            <div class="desc">          
-              Tu lugar de imaginación para los OTS
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpcommune.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpcommune.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpcommune.wikidot.com">The SCP Commune</a></h3>
-            <div class="desc">          
-              Satirize, Collectivize, Politicize
             </div>
           </div>
         </div>
