@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1606957887;
+        OZONE.request.timestamp = 1606977012;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,45 +1685,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://steelandstone.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/steelandstone.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ksemoudania.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ksemoudania.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://steelandstone.wikidot.com">Steel and Stone</a></h3>
+            <h3><a target="_blank" href="http://ksemoudania.wikidot.com">ΚΣΕ ΜΟΥΔΑΝΙΩΝ Επιμόρφωση Β&#039; Επιπέδου</a></h3>
             <div class="desc">          
-              Wagering Lives to the Blade
+              «Όποιος τολμάει να διδάξει δεν πρέπει ποτέ να πάψει να μαθαίνει» John Cotton Dana
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.praemien-teilen24.de">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.praemien-teilen24.de/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-un.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-un.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.praemien-teilen24.de">Prämien teilen</a></h3>
+            <h3><a target="_blank" href="http://scp-un.wikidot.com">SCP Foundation</a></h3>
+            <div class="desc">          
+              Underrepresented Languages Incubator
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://thecollaboratory.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thecollaboratory.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://thecollaboratory.wikidot.com">The Collaboratory</a></h3>
+            <div class="desc">          
+              at Colby Community College
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://the-nexus.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/the-nexus.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://the-nexus.wikidot.com">Nexus Wiki</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://eng270.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eng270.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://eng270.wikidot.com">Intro to Creative Writing</a></h3>
-            <div class="desc">          
-              Professor Gabriel
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://connorscampaigns.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/connorscampaigns.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://connorscampaigns.wikidot.com">Connors Campaigns</a></h3>
-            <div class="desc">          
-              My dashboard for RPGs, Music, Sports, and more.
             </div>
           </div>
         </div>
