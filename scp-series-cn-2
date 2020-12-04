@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1607063520;
+        OZONE.request.timestamp = 1607085389;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -955,7 +955,7 @@
 <li><a href="/scp-cn-1406">SCP-CN-1406</a> - 童年</li>
 <li><a href="/scp-cn-1407">SCP-CN-1407</a> - 贪婪而又饥饿的厨师帽</li>
 <li><a href="/scp-cn-1408">SCP-CN-1408</a> - 是栋屋子还没想好名字</li>
-<li><a class="newpage" href="/scp-cn-1409">SCP-CN-1409</a> - 机械男孩</li>
+<li><a href="/scp-cn-1409">SCP-CN-1409</a> - 4200006200</li>
 <li><a href="/scp-cn-1410">SCP-CN-1410</a> - 这孤独的绿</li>
 <li><a href="/scp-cn-1411">SCP-CN-1411</a> - 周末的世界</li>
 <li><a href="/scp-cn-1412">SCP-CN-1412</a> - 蝴蝶的白日梦</li>
@@ -1143,7 +1143,7 @@
 <li><a href="/scp-cn-1590">SCP-CN-1590</a> - 树下亡灵，似活却死</li>
 <li><a href="/scp-cn-1591">SCP-CN-1591</a> - 你所知的智慧</li>
 <li><a class="newpage" href="/scp-cn-1592">SCP-CN-1592</a> - 万静</li>
-<li><a href="/scp-cn-1593">不是SCP-CN-1593</a> - 赎罪</li>
+<li><a href="/scp-cn-1593">SCP-CN-1593</a> - 赎&quot;罪&quot;</li>
 <li><a href="/scp-cn-1594">SCP-CN-1594</a> - 殘燭</li>
 <li><a href="/scp-cn-1595">SCP-CN-1595</a> - 神的游戏</li>
 <li><a class="newpage" href="/scp-cn-1596">SCP-CN-1596</a> - [禁止访问]</li>
@@ -1282,7 +1282,7 @@
 <li><a href="/scp-cn-1721">SCP-CN-1721</a> - 沙皇蘋果</li>
 <li><a href="/scp-cn-1722">SCP-CN-1722</a> - 蜘蛛结网昭阳殿</li>
 <li><a href="/scp-cn-1723">SCP-CN-1723</a> - 我们的世界</li>
-<li><a href="/scp-cn-1724">SCP-CN-1724</a> - “法克鱿”</li>
+<li><a class="newpage" href="/scp-cn-1724">SCP-CN-1724</a> - “法克鱿”</li>
 <li><a href="/scp-cn-1725">SCP-CN-1725</a> - 占据人心，颠覆一切</li>
 <li><a href="/scp-cn-1726">SCP-CN-1726</a> - 秘法配方</li>
 <li><a href="/scp-cn-1727">SCP-CN-1727</a> - 臆眼鸦群</li>
@@ -1549,7 +1549,7 @@
 <li><a href="/scp-cn-1980">SCP-CN-1980</a> - 生亦死，死亦生？</li>
 <li><a href="/scp-cn-1981">SCP-CN-1981</a> - 梦见路由器</li>
 <li><a href="/scp-cn-1982">SCP-CN-1982</a> - 于我静默之处</li>
-<li><a href="/scp-cn-1983">SCP-CN-1983</a> - 龙巢</li>
+<li><a href="/scp-cn-1983">SCP-CN-1983</a> - 向那遥远的天穹</li>
 <li><a href="/scp-cn-1984">SCP-CN-1984</a> - 轮胎杀人狂</li>
 <li><a href="/scp-cn-1985">SCP-CN-1985</a> - <span style="text-decoration: line-through;">捕月割耳</span>SOS！！！</li>
 <li><a href="/scp-cn-1986">SCP-CN-1986</a> - 你们这群人都是魔鬼吗？</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3812, 最后编辑于: <span class="odate time_1607058877 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Dec 2020 05:14</span></div>
+                            <div id="page-info">页面版本: 3815, 最后编辑于: <span class="odate time_1607076437 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Dec 2020 10:07</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,10 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rmitvnim2007b.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rmitvnim2007b.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://midnightsun2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/midnightsun2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rmitvnim2007b.wikidot.com">RMIT Vietnam IM 2007B</a></h3>
+            <h3><a target="_blank" href="http://midnightsun2.wikidot.com">Midnightsun2</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,34 +1697,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://halfmoonbay.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/halfmoonbay.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://poke-snagem.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/poke-snagem.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://halfmoonbay.wikidot.com">Half Moon Bay Weyr</a></h3>
-            <div class="desc">          
-              Join us at paper.mudmagic.com Port:2211
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ds2010a.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds2010a.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ds2010a.wikidot.com">מבני נתונים</a></h3>
-            <div class="desc">          
-              סמסטר א&#039;, תשע&quot;א
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://extension.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extension.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://extension.wikidot.com">Wikidot Extension</a></h3>
+            <h3><a target="_blank" href="http://poke-snagem.wikidot.com">Pokemon Snagem</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ecadmin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecadmin.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ecadmin.wikidot.com">Early Childhood Program Administration</a></h3>
+            <div class="desc">          
+              Resources, Training, Best Practices, Sharing
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scpvnsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvnsandbox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scpvnsandbox.wikidot.com">SCP-VN Sandbox</a></h3>
+            <div class="desc">          
+              Khu vực thử nghiệm
             </div>
           </div>
         </div>
