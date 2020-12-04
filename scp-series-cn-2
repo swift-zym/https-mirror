@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1607043938;
+        OZONE.request.timestamp = 1607063520;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -859,7 +859,7 @@
 <li><a href="/scp-cn-1314">SCP-CN-1314</a> - 月老花</li>
 <li><a href="/scp-cn-1315">SCP-CN-1315</a> - 小心你的脑子</li>
 <li><a href="/scp-cn-1316">SCP-CN-1316</a> - 寄生人类的蟹奴</li>
-<li><a href="/scp-cn-1317">SCP-CN-1317</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1317">SCP-CN-1317</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1318">SCP-CN-1318</a> - 血魔之种</li>
 <li><a href="/scp-cn-1319">SCP-CN-1319</a> - 随波逐流？</li>
 <li><a href="/scp-cn-1320">SCP-CN-1320</a> - 心中所惧，之于深渊</li>
@@ -931,7 +931,7 @@
 <li><a class="newpage" href="/scp-cn-1386">SCP-CN-1386</a> - 对脑袋来一枪？</li>
 <li><a href="/scp-cn-1387">SCP-CN-1387</a> - 一期一会の箸</li>
 <li><a href="/scp-cn-1388">SCP-CN-1388</a> - <span style="text-decoration: underline;">蛇，缠绕世界的祂</span></li>
-<li><a href="/scp-cn-1389">SCP-CN-1389</a> - 镇岁堰</li>
+<li><a class="newpage" href="/scp-cn-1389">SCP-CN-1389</a> - 镇岁堰</li>
 <li><a href="/scp-cn-1390">SCP-CN-1390</a> - 失格现实</li>
 <li><a href="/scp-cn-1391">SCP-CN-1391</a> - dado的仓鼠药</li>
 <li><a class="newpage" href="/scp-cn-1392">SCP-CN-1392</a> - 不眠人与墨菲定律</li>
@@ -1058,7 +1058,7 @@
 <li><a href="/scp-cn-1505">SCP-CN-1505</a> - 魔术or魔方？</li>
 <li><a href="/scp-cn-1506">SCP-CN-1506</a> - 恶意</li>
 <li><a href="/scp-cn-1507">SCP-CN-1507</a> - 神奇自热水壶！</li>
-<li><a href="/scp-cn-1508">SCP-CN-1508</a> - 蚀心刻刀</li>
+<li><a class="newpage" href="/scp-cn-1508">SCP-CN-1508</a> - 蚀心刻刀</li>
 <li><a href="/scp-cn-1509">SCP-CN-1509</a> - 苹果树</li>
 <li><a href="/scp-cn-1510">SCP-CN-1510</a> - 程序五；真知眼</li>
 <li><a href="/scp-cn-1511">SCP-CN-1511</a> - 雨中漫步</li>
@@ -1282,7 +1282,7 @@
 <li><a href="/scp-cn-1721">SCP-CN-1721</a> - 沙皇蘋果</li>
 <li><a href="/scp-cn-1722">SCP-CN-1722</a> - 蜘蛛结网昭阳殿</li>
 <li><a href="/scp-cn-1723">SCP-CN-1723</a> - 我们的世界</li>
-<li><a class="newpage" href="/scp-cn-1724">SCP-CN-1724</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1724">SCP-CN-1724</a> - “法克鱿”</li>
 <li><a href="/scp-cn-1725">SCP-CN-1725</a> - 占据人心，颠覆一切</li>
 <li><a href="/scp-cn-1726">SCP-CN-1726</a> - 秘法配方</li>
 <li><a href="/scp-cn-1727">SCP-CN-1727</a> - 臆眼鸦群</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3811, 最后编辑于: <span class="odate time_1606913523 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Dec 2020 12:52</span></div>
+                            <div id="page-info">页面版本: 3812, 最后编辑于: <span class="odate time_1607058877 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Dec 2020 05:14</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,10 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.cloudtw.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.cloudtw.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://rmitvnim2007b.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rmitvnim2007b.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.cloudtw.org">CloudTW</a></h3>
+            <h3><a target="_blank" href="http://rmitvnim2007b.wikidot.com">RMIT Vietnam IM 2007B</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,34 +1697,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chcc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chcc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://halfmoonbay.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/halfmoonbay.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chcc.wikidot.com">Capitol Hill Community Council</a></h3>
+            <h3><a target="_blank" href="http://halfmoonbay.wikidot.com">Half Moon Bay Weyr</a></h3>
             <div class="desc">          
-              a community site
+              Join us at paper.mudmagic.com Port:2211
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bioproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bioproject.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ds2010a.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds2010a.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bioproject.wikidot.com">BIO-PRO</a></h3>
+            <h3><a target="_blank" href="http://ds2010a.wikidot.com">מבני נתונים</a></h3>
             <div class="desc">          
-              Υγεία-Περιβάλλον-Εκπαίδευση
+              סמסטר א&#039;, תשע&quot;א
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://neosteam.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/neosteam.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://extension.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extension.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://neosteam.wikidot.com">Neo Steam Wiki</a></h3>
+            <h3><a target="_blank" href="http://extension.wikidot.com">Wikidot Extension</a></h3>
             <div class="desc">          
-              May 2008 to February 2012
+              
             </div>
           </div>
         </div>

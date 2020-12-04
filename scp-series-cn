@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1607043661;
+        OZONE.request.timestamp = 1607063412;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,21 +1685,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gaybox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gaybox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://firedawnfolder.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/firedawnfolder.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gaybox.wikidot.com">gaybox</a></h3>
+            <h3><a target="_blank" href="http://firedawnfolder.wikidot.com">FiredawnFolder</a></h3>
             <div class="desc">          
-              im you but stronger
+              The not-quite Inner Circle but close enough
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pedhemoncreview.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pedhemoncreview.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fairfieldproject.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fairfieldproject.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pedhemoncreview.wikidot.com">Pediatric Hematology &amp; Oncology Certification Review</a></h3>
+            <h3><a target="_blank" href="http://fairfieldproject.wikidot.com">The Fairfield Project</a></h3>
+            <div class="desc">          
+              The Delta Green wiki
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://pofomultiquiz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pofomultiquiz.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://pofomultiquiz.wikidot.com">Pofo MultiQuiz</a></h3>
             <div class="desc">          
               
             </div>
@@ -1707,23 +1718,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chcc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chcc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://myvineyard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/myvineyard.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chcc.wikidot.com">Capitol Hill Community Council</a></h3>
+            <h3><a target="_blank" href="http://myvineyard.wikidot.com">Wiki for &#039;My Vineyard&#039;</a></h3>
             <div class="desc">          
-              a community site
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://eldritch00.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eldritch00.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://eldritch00.wikidot.com">A Shining Brainless Beacon</a></h3>
-            <div class="desc">          
-              I Have a Special Plan for This World
+              A Facebook Application
             </div>
           </div>
         </div>

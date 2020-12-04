@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1607043724;
+        OZONE.request.timestamp = 1607063624;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -858,7 +858,7 @@
 <li><a class="newpage" href="/scp-3308">SCP-3308</a> - Crooked Excavator</li>
 <li><a href="/scp-3309">SCP-3309</a> - 化为泡影之时，我们去往何方</li>
 <li><a href="/scp-3310">SCP-3310</a> - 湖中老人</li>
-<li><a class="newpage" href="/scp-3311">SCP-3311</a> - All the Little Chairs</li>
+<li><a href="/scp-3311">SCP-3311</a> - All the Little Chairs</li>
 <li><a href="/scp-3312">SCP-3312</a> - OwO这是啥米？</li>
 <li><a href="/scp-3313">SCP-3313</a> - 穷理查</li>
 <li><a href="/scp-3314">SCP-3314</a> - 思乡画家的作品</li>
@@ -1391,7 +1391,7 @@
 <li><a class="newpage" href="/scp-3821">SCP-3821</a> - Stuck In the Mailroom</li>
 <li><a class="newpage" href="/scp-3822">SCP-3822</a> - K-PARTY</li>
 <li><a class="newpage" href="/scp-3823">SCP-3823</a> - Put On Your Red Shoes</li>
-<li><a class="newpage" href="/scp-3824">SCP-3824</a> - Dogpile</li>
+<li><a href="/scp-3824">SCP-3824</a> - 狗堆</li>
 <li><a href="/scp-3825">SCP-3825</a> - 啊，这</li>
 <li><a class="newpage" href="/scp-3826">SCP-3826</a> - The Definition of Technophobia</li>
 <li><a href="/scp-3827">SCP-3827</a> - 牙齿们的剧场</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 855, 最后编辑于: <span class="odate time_1606524610 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">28 Nov 2020 00:50</span></div>
+                            <div id="page-info">页面版本: 856, 最后编辑于: <span class="odate time_1607053866 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Dec 2020 03:51</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+3</span>)</a>
@@ -1710,32 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.lgam.info">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.lgam.info/80.jpg"/>
+            <a target="_blank" class="image" href="http://ischool.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ischool.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.lgam.info">LGAM Knowledge Base</a></h3>
-            <div class="desc">          
-              Local Government Knowledge Sharing
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://fairfieldproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fairfieldproject.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://fairfieldproject.wikidot.com">The Fairfield Project</a></h3>
-            <div class="desc">          
-              The Delta Green wiki
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
+            <h3><a target="_blank" href="http://ischool.wikidot.com">iSchool High</a></h3>
             <div class="desc">          
               
             </div>
@@ -1743,12 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ccb-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ccb-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ccb-wiki.wikidot.com">文明情报处</a></h3>
+            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
             <div class="desc">          
-              我们行走在沙滩之上，遥望那远处的星空
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://www.ens-dictionary.info">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.ens-dictionary.info/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://www.ens-dictionary.info">Ens Dictionary</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ksemoudania.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ksemoudania.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ksemoudania.wikidot.com">ΚΣΕ ΜΟΥΔΑΝΙΩΝ Επιμόρφωση Β&#039; Επιπέδου</a></h3>
+            <div class="desc">          
+              «Όποιος τολμάει να διδάξει δεν πρέπει ποτέ να πάψει να μαθαίνει» John Cotton Dana
             </div>
           </div>
         </div>
