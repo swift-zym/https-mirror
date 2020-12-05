@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1607171733;
+        OZONE.request.timestamp = 1607192942;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1710,21 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ci-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nauticoamager.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nauticoamager.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ci-sandbox.wikidot.com">Insu Sandbox</a></h3>
-            <div class="desc">          
-              All you need is a shovel... and a sacrifice.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://www.digitalvomit.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.digitalvomit.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://www.digitalvomit.com">Digital Vomit Records</a></h3>
+            <h3><a target="_blank" href="http://nauticoamager.wikidot.com">NauticoAmager</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scr-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scr-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki-down.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-down.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scr-wiki.wikidot.com">SCR公司</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki-down.wikidot.com">DDD基金会</a></h3>
             <div class="desc">          
-              安全.收容.研究
+              差评 差评 差评
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sandbox.scpfoundation.ru">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sandbox.scpfoundation.ru/80.jpg"/>
+            <a target="_blank" class="image" href="http://borradores-ots-es.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/borradores-ots-es.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sandbox.scpfoundation.ru">The SCP Sandbox</a></h3>
+            <h3><a target="_blank" href="http://borradores-ots-es.wikidot.com">Borradores OTS-ES</a></h3>
             <div class="desc">          
-              Осторожно! Идут испытания!
+              Tu lugar de imaginación para los OTS
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://swageofmight.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/swageofmight.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://swageofmight.wikidot.com">Star Wars: Age of Might</a></h3>
+            <div class="desc">          
+              My Star Wars Saga
             </div>
           </div>
         </div>

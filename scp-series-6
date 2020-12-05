@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1607171734;
+        OZONE.request.timestamp = 1607192943;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1521,7 +1521,7 @@
 <li><a href="/scp-5947">SCP-5947</a> - 银鱼</li>
 <li><a href="/scp-5948">SCP-5948</a> - 路中死浣熊</li>
 <li><a class="newpage" href="/scp-5949">SCP-5949</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5950">SCP-5950</a> - 永远的屁屁兄弟</li>
+<li><a href="/scp-5950">SCP-5950</a> - 永远的好臀友</li>
 <li><a class="newpage" href="/scp-5951">SCP-5951</a> - [拒绝访问]</li>
 <li><a href="/scp-5952">SCP-5952</a> - Warbalang</li>
 <li><a class="newpage" href="/scp-5953">SCP-5953</a> - [拒绝访问]</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 343, 最后编辑于: <span class="odate time_1606864826 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">01 Dec 2020 23:20</span></div>
+                            <div id="page-info">页面版本: 345, 最后编辑于: <span class="odate time_1607182123 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Dec 2020 15:28</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ci-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://area-48.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/area-48.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ci-sandbox.wikidot.com">Insu Sandbox</a></h3>
+            <h3><a target="_blank" href="http://area-48.wikidot.com">Bölge-48</a></h3>
             <div class="desc">          
-              All you need is a shovel... and a sacrifice.
+              SCP Vakfı, Bölge-48 Veritabanı.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.digitalvomit.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.digitalvomit.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://spartanfleet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spartanfleet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.digitalvomit.com">Digital Vomit Records</a></h3>
+            <h3><a target="_blank" href="http://spartanfleet.wikidot.com">Spartan Fleet</a></h3>
             <div class="desc">          
-              
+              Excellence in Simming.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scr-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scr-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://avendar.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/avendar.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scr-wiki.wikidot.com">SCR公司</a></h3>
+            <h3><a target="_blank" href="http://avendar.wikidot.com">AvendarWiki</a></h3>
             <div class="desc">          
-              安全.收容.研究
+              Database wiki for Avendar MUD
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sandbox.scpfoundation.ru">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sandbox.scpfoundation.ru/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki-de.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-de.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sandbox.scpfoundation.ru">The SCP Sandbox</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki-de.wikidot.com">SCP Foundation</a></h3>
             <div class="desc">          
-              Осторожно! Идут испытания!
+              auf Deutsch
             </div>
           </div>
         </div>
