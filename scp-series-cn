@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1607130123;
+        OZONE.request.timestamp = 1607149898;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,45 +1685,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cgp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://thep-serc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thep-serc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
+            <h3><a target="_blank" href="http://thep-serc.wikidot.com">SERC Schools in THEP</a></h3>
             <div class="desc">          
-              CGP Students
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://borradores-scp-es.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/borradores-scp-es.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fretsonfire.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fretsonfire.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://borradores-scp-es.wikidot.com">Borradores SCP-ES</a></h3>
+            <h3><a target="_blank" href="http://fretsonfire.wikidot.com">Frets On Fire Wiki</a></h3>
             <div class="desc">          
-              Sitio de borradores para miembros de la Fundación SCP-ES
+              courtesy of fretsonfire.org
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sons-of-athena.obscurative.ru">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sons-of-athena.obscurative.ru/80.jpg"/>
+            <a target="_blank" class="image" href="http://fondazionescp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondazionescp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sons-of-athena.obscurative.ru">ВИК &quot;Сыны Афины&quot;</a></h3>
+            <h3><a target="_blank" href="http://fondazionescp.wikidot.com">Fondazione SCP</a></h3>
             <div class="desc">          
-              ​
+              Branca Italiana della SCP Foundation
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-down.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-down.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scion-mmp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scion-mmp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki-down.wikidot.com">DDD基金会</a></h3>
+            <h3><a target="_blank" href="http://scion-mmp.wikidot.com">Scion: Monsters and Mosh Pits</a></h3>
             <div class="desc">          
-              差评 差评 差评
+              
             </div>
           </div>
         </div>
