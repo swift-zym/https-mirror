@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1607106613;
+        OZONE.request.timestamp = 1607130261;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1521,7 +1521,7 @@
 <li><a href="/scp-5947">SCP-5947</a> - 银鱼</li>
 <li><a href="/scp-5948">SCP-5948</a> - 路中死浣熊</li>
 <li><a class="newpage" href="/scp-5949">SCP-5949</a> - [拒绝访问]</li>
-<li><a href="/scp-5950">SCP-5950</a> - 永远的屁屁兄弟</li>
+<li><a class="newpage" href="/scp-5950">SCP-5950</a> - 永远的屁屁兄弟</li>
 <li><a class="newpage" href="/scp-5951">SCP-5951</a> - [拒绝访问]</li>
 <li><a href="/scp-5952">SCP-5952</a> - Warbalang</li>
 <li><a class="newpage" href="/scp-5953">SCP-5953</a> - [拒绝访问]</li>
@@ -1546,7 +1546,7 @@
 <li><a class="newpage" href="/scp-5972">SCP-5972</a> - Let All the Children Boogie</li>
 <li><a href="/scp-5973">SCP-5973</a> - /俄亥俄已被清理。</li>
 <li><a class="newpage" href="/scp-5974">SCP-5974</a> - [拒绝访问]</li>
-<li><a href="/scp-5975">SCP-5975</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5975">SCP-5975</a> - [拒绝访问]</li>
 <li><a href="/scp-5976">SCP-5976</a> - 噩梦优势点</li>
 <li><a class="newpage" href="/scp-5977">SCP-5977</a> - All that glitters is not glass</li>
 <li><a class="newpage" href="/scp-5978">SCP-5978</a> - Simon Says</li>
@@ -1710,10 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://opencascade.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opencascade.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dragon-trees.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dragon-trees.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://opencascade.wikidot.com">Open CASCADE Wiki</a></h3>
+            <h3><a target="_blank" href="http://dragon-trees.wikidot.com">Dragon Trees</a></h3>
+            <div class="desc">          
+              A Dragon Cave Fansite
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://machinima138.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/machinima138.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://machinima138.wikidot.com">Machinima 138</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://patriot-box-office.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/patriot-box-office.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://simtrackipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/simtrackipedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://patriot-box-office.wikidot.com">Patriot Box Office Media Player (PBO)</a></h3>
+            <h3><a target="_blank" href="http://simtrackipedia.wikidot.com">SIMTrackipedia</a></h3>
             <div class="desc">          
-              More Than Meets the Eye
+              A collection of tutorials for Bob&#039;s Track Builder, XPacker, and other related programs
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://docs.righthandrobotics.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/docs.righthandrobotics.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rkr-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rkr-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://docs.righthandrobotics.com">RightHand Robotics</a></h3>
+            <h3><a target="_blank" href="http://rkr-wiki.wikidot.com">SCP Foundation (copy)</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://legendspring.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/legendspring.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://legendspring.wikidot.com">LegendSpring</a></h3>
-            <div class="desc">          
-              
+              Secure, Contain, Protect
             </div>
           </div>
         </div>
