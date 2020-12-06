@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1607192886;
+        OZONE.request.timestamp = 1607216954;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1440,7 +1440,7 @@
 <li><a href="/scp-cn-876">SCP-CN-876</a> - 重收容行动</li>
 <li><a href="/scp-cn-877">SCP-CN-877</a> - 电视人</li>
 <li><a href="/scp-cn-878">SCP-CN-878</a> - 邪神的宝藏</li>
-<li><a href="/scp-cn-879">SCP-CN-879</a> - 代码办公楼</li>
+<li><a href="/scp-cn-879">SCP-CN-879</a> - 编程办公楼</li>
 <li><a href="/scp-cn-880">SCP-CN-880</a> - 世界上最舒服的椅子</li>
 <li><a href="/scp-cn-881">SCP-CN-881</a> - 蛙笼</li>
 <li><a href="/scp-cn-882">SCP-CN-882</a> - 纯粹的血肉</li>
@@ -1481,7 +1481,7 @@
 <li><a href="/scp-cn-913">SCP-CN-913</a> - 请稍等一刻钟</li>
 <li><a href="/scp-cn-914">SCP-CN-914</a> - 无人</li>
 <li><a href="/scp-cn-915">SCP-CN-915</a> - 惊奇滑梯</li>
-<li><a href="/scp-cn-916">SCP-CN-916</a> - 废土蓑蛾</li>
+<li><a class="newpage" href="/scp-cn-916">SCP-CN-916</a> - 废土蓑蛾</li>
 <li><a href="/scp-cn-917">SCP-CN-917</a> - 过激治疗药膏</li>
 <li><a href="/scp-cn-918">SCP-CN-918</a> - <span style="text-decoration: line-through;">永远漂泊的</span>纸飞机</li>
 <li><a href="/scp-cn-919">SCP-CN-919</a> - 压缩世界的断片</li>
@@ -1613,7 +1613,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3246, 最后编辑于: <span class="odate time_1605623937 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Nov 2020 14:38</span></div>
+                            <div id="page-info">页面版本: 3247, 最后编辑于: <span class="odate time_1607210680 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Dec 2020 23:24</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+66</span>)</a>
@@ -1685,32 +1685,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-pt-br.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-pt-br.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://duksin-foundation.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/duksin-foundation.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-pt-br.wikidot.com">Fundação SCP</a></h3>
+            <h3><a target="_blank" href="http://duksin-foundation.wikidot.com">The DCP Foundation</a></h3>
             <div class="desc">          
-              Filial Lusófona
+              Degenerate. Swindle. Retard.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rpc-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-jp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://thelaststory.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thelaststory.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rpc-jp.wikidot.com">RPC機構</a></h3>
-            <div class="desc">          
-              研究、保護、収容
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://morningside-genetics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningside-genetics.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://morningside-genetics.wikidot.com">Morningside Genetics</a></h3>
+            <h3><a target="_blank" href="http://thelaststory.wikidot.com">The Last Story</a></h3>
             <div class="desc">          
               
             </div>
@@ -1718,12 +1707,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ti-iseg-t12.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ti-iseg-t12.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tradewithsaint.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradewithsaint.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ti-iseg-t12.wikidot.com">ISEG TI T12</a></h3>
+            <h3><a target="_blank" href="http://tradewithsaint.wikidot.com">Trading With The Flow!!!</a></h3>
             <div class="desc">          
-              
+              The Art of Trading the NOW
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://gaybox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gaybox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://gaybox.wikidot.com">gaybox</a></h3>
+            <div class="desc">          
+              im you but stronger
             </div>
           </div>
         </div>

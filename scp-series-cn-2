@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1607192944;
+        OZONE.request.timestamp = 1607216985;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -836,7 +836,7 @@
 <li><a href="/scp-cn-1295">SCP-CN-1295</a> - 《斯特亚的欢乐冒险》</li>
 <li><a href="/scp-cn-1296">SCP-CN-1296</a> - 内丹</li>
 <li><a href="/scp-cn-1297">SCP-CN-1297</a> - 形织</li>
-<li><a href="/scp-cn-1298">SCP-CN-1298</a> - “安全出口”标识</li>
+<li><a href="/scp-cn-1298">SCP-CN-1298</a> - 安全逃生标识</li>
 <li><a href="/scp-cn-1299">SCP-CN-1299</a> - 空气生物</li>
 </ul>
 <p><a name="1300"></a></p>
@@ -1126,7 +1126,7 @@
 <li><a href="/scp-cn-1573">SCP-CN-1573</a> - 特长收容措施</li>
 <li><a class="newpage" href="/scp-cn-1574">SCP-CN-1574</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1575">SCP-CN-1575</a> - 最后遗愿</li>
-<li><a class="newpage" href="/scp-cn-1576">SCP-CN-1576</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1576">SCP-CN-1576</a> - 火灵剑</li>
 <li><a href="/scp-cn-1577">SCP-CN-1577</a> - 戴久了的面具摘不下</li>
 <li><a href="/scp-cn-1578">SCP-CN-1578</a> - 银针</li>
 <li><a href="/scp-cn-1579">SCP-CN-1579</a> - 沙漠肺鱼</li>
@@ -1139,7 +1139,7 @@
 <li><a href="/scp-cn-1586">SCP-CN-1586</a> - 愚人种</li>
 <li><a href="/scp-cn-1587">SCP-CN-1587</a> - 剧组精美奢华典藏版合集</li>
 <li><a href="/scp-cn-1588">SCP-CN-1588</a> - 群居型蜘蛛</li>
-<li><a href="/scp-cn-1589">SCP-CN-1589</a> - “你想知道下一个是谁毁灭吗？”</li>
+<li><a class="newpage" href="/scp-cn-1589">SCP-CN-1589</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1590">SCP-CN-1590</a> - 树下亡灵，似活却死</li>
 <li><a href="/scp-cn-1591">SCP-CN-1591</a> - 你所知的智慧</li>
 <li><a class="newpage" href="/scp-cn-1592">SCP-CN-1592</a> - 万静</li>
@@ -1155,7 +1155,7 @@
 <h1 id="toc8"><span>1600到1699</span></h1>
 <ul>
 <li><a href="/scp-cn-1600">SCP-CN-1600</a> - 神农棺</li>
-<li><a href="/scp-cn-1601">SCP-CN-1601</a> - 满潮末日 人类之智 永存于此</li>
+<li><a href="/scp-cn-1601">SCP-CN-1601</a> - 满潮水晶</li>
 <li><a href="/scp-cn-1602">SCP-CN-1602</a> - 活体涡轮</li>
 <li><a href="/scp-cn-1603">SCP-CN-1603</a> - 逃离黑暗</li>
 <li><a href="/scp-cn-1604">SCP-CN-1604</a> - 与死亡人数等势</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3819, 最后编辑于: <span class="odate time_1607169420 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Dec 2020 11:57</span></div>
+                            <div id="page-info">页面版本: 3822, 最后编辑于: <span class="odate time_1607215217 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">06 Dec 2020 00:40</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://area-48.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/area-48.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpvakfi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://area-48.wikidot.com">Bölge-48</a></h3>
+            <h3><a target="_blank" href="http://scpvakfi.wikidot.com">SCP Vakfı</a></h3>
             <div class="desc">          
-              SCP Vakfı, Bölge-48 Veritabanı.
+              Yakala, Sakla, Koru
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://spartanfleet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spartanfleet.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://algadon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/algadon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://spartanfleet.wikidot.com">Spartan Fleet</a></h3>
+            <h3><a target="_blank" href="http://algadon.wikidot.com">Algadon</a></h3>
             <div class="desc">          
-              Excellence in Simming.
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://avendar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/avendar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aspnet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aspnet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://avendar.wikidot.com">AvendarWiki</a></h3>
+            <h3><a target="_blank" href="http://aspnet.wikidot.com">ASP.NET Wiki</a></h3>
             <div class="desc">          
-              Database wiki for Avendar MUD
+              This website is no longer actively supported
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-de.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-de.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki.net.pl">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki.net.pl/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki-de.wikidot.com">SCP Foundation</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki.net.pl">Fundacja SCP</a></h3>
             <div class="desc">          
-              auf Deutsch
+              Polska Filia SCP
             </div>
           </div>
         </div>

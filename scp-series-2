@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1607192942;
+        OZONE.request.timestamp = 1607216985;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,10 +1711,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nauticoamager.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nauticoamager.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpvakfi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nauticoamager.wikidot.com">NauticoAmager</a></h3>
+            <h3><a target="_blank" href="http://scpvakfi.wikidot.com">SCP Vakfı</a></h3>
+            <div class="desc">          
+              Yakala, Sakla, Koru
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://algadon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/algadon.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://algadon.wikidot.com">Algadon</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1733,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-down.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-down.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aspnet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aspnet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki-down.wikidot.com">DDD基金会</a></h3>
+            <h3><a target="_blank" href="http://aspnet.wikidot.com">ASP.NET Wiki</a></h3>
             <div class="desc">          
-              差评 差评 差评
+              This website is no longer actively supported
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://borradores-ots-es.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/borradores-ots-es.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki.net.pl">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki.net.pl/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://borradores-ots-es.wikidot.com">Borradores OTS-ES</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki.net.pl">Fundacja SCP</a></h3>
             <div class="desc">          
-              Tu lugar de imaginación para los OTS
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://swageofmight.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/swageofmight.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://swageofmight.wikidot.com">Star Wars: Age of Might</a></h3>
-            <div class="desc">          
-              My Star Wars Saga
+              Polska Filia SCP
             </div>
           </div>
         </div>
