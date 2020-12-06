@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1607258471;
+        OZONE.request.timestamp = 1607279970;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,10 +1685,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hopkinswhpg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hopkinswhpg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hopkinswhpg.wikidot.com">World History/Physical Geo.</a></h3>
+            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
+            <div class="desc">          
+              and what they&#039;re trying to tell you
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://splinterverse.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/splinterverse.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://splinterverse.wikidot.com">Splinterverse</a></h3>
+            <div class="desc">          
+              Ezboard Yuku Splinterverse Wiki
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://eime.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eime.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://eime.wikidot.com">EIME Projects</a></h3>
             <div class="desc">          
               
             </div>
@@ -1696,34 +1718,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.trumpetexercises.net">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.trumpetexercises.net/80.jpg"/>
+            <a target="_blank" class="image" href="http://community.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/community.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.trumpetexercises.net">Trumpet exercise database</a></h3>
+            <h3><a target="_blank" href="http://community.wikidot.com">Wikidot Community</a></h3>
             <div class="desc">          
-              for trumpet players, students and teachers
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ds2009a.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds2009a.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ds2009a.wikidot.com">Data Structures</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://johnmerritt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/johnmerritt.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://johnmerritt.wikidot.com">johnmerritt</a></h3>
-            <div class="desc">          
-              social studies
+              hints / tips / help / discussion
             </div>
           </div>
         </div>

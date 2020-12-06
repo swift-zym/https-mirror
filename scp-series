@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1607258509;
+        OZONE.request.timestamp = 1607280009;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,10 +1709,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fallout2online.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fallout2online.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fallout2online.wikidot.com">Fallout Online: Requiem</a></h3>
+            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
+            <div class="desc">          
+              and what they&#039;re trying to tell you
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://splinterverse.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/splinterverse.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://splinterverse.wikidot.com">Splinterverse</a></h3>
+            <div class="desc">          
+              Ezboard Yuku Splinterverse Wiki
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://eime.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eime.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://eime.wikidot.com">EIME Projects</a></h3>
             <div class="desc">          
               
             </div>
@@ -1720,34 +1742,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://community.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/community.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
+            <h3><a target="_blank" href="http://community.wikidot.com">Wikidot Community</a></h3>
             <div class="desc">          
-              Where Writers Share Their Characters &amp; Worlds
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://roboticsclubucla.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticsclubucla.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://roboticsclubucla.wikidot.com">Robotics Club @ UCLA Wiki</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://hiddenprojectwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hiddenprojectwiki.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://hiddenprojectwiki.wikidot.com">Hidden Project</a></h3>
-            <div class="desc">          
-              Welcome to Hidden Project Wiki
+              hints / tips / help / discussion
             </div>
           </div>
         </div>

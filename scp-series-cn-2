@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1607258352;
+        OZONE.request.timestamp = 1607280012;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -876,7 +876,7 @@
 <li><a href="/scp-cn-1331">SCP-CN-1331</a> - 直至死亡將我們分開</li>
 <li><a href="/scp-cn-1332">SCP-CN-1332</a> - 东方三博士</li>
 <li><a href="/scp-cn-1333">SCP-CN-1333</a> - 肢体</li>
-<li><a href="/scp-cn-1334">SCP-CN-1334</a> - 尾虫</li>
+<li><a class="newpage" href="/scp-cn-1334">SCP-CN-1334</a> - 尾虫</li>
 <li><a href="/scp-cn-1335">SCP-CN-1335</a> - 外丹</li>
 <li><a href="/scp-cn-1336">SCP-CN-1336</a> - 面对愚昧</li>
 <li><a href="/scp-cn-1337">SCP-CN-1337</a> - 小黑屋</li>
@@ -972,7 +972,7 @@
 <li><a href="/scp-cn-1423">SCP-CN-1423</a> - dado的特效眼药水</li>
 <li><a href="/scp-cn-1424">SCP-CN-1424</a> - 选我做乜？系叉烧唔够香咩？</li>
 <li><a href="/scp-cn-1425">SCP-CN-1425</a> - 终末幻想机械赞歌</li>
-<li><a href="/scp-cn-1426">SCP-CN-1426</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1426">SCP-CN-1426</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1427">SCP-CN-1427</a> - 海妖之触</li>
 <li><a href="/scp-cn-1428">SCP-CN-1428</a> - 当东西掉在桌子底下后</li>
 <li><a href="/scp-cn-1429">SCP-CN-1429</a> - World Pulse</li>
@@ -1091,7 +1091,7 @@
 <li><a href="/scp-cn-1538">SCP-CN-1538</a> - 改变你自己？</li>
 <li><a href="/scp-cn-1539">SCP-CN-1539</a> - 登高朝圣</li>
 <li><a href="/scp-cn-1540">SCP-CN-1540</a> - dado稀饭听摇滚</li>
-<li><a class="newpage" href="/scp-cn-1541">SCP-CN-1541</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1541">SCP-CN-1541</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1542">SCP-CN-1542</a> - ♬祝你生日快乐♬</li>
 <li><a href="/scp-cn-1543">SCP-CN-1543</a> - 我所忠心的</li>
 <li><a href="/scp-cn-1544">SCP-CN-1544</a> - 求道者</li>
@@ -1118,7 +1118,7 @@
 <li><a href="/scp-cn-1565">SCP-CN-1565</a> - 后人得之传此</li>
 <li><a class="newpage" href="/scp-cn-1566">SCP-CN-1566</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1567">SCP-CN-1567</a> - 你头发疼是因为你用了……</li>
-<li><a class="newpage" href="/scp-cn-1568">SCP-CN-1568</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1568">SCP-CN-1568</a> - 肉食性真菌</li>
 <li><a href="/scp-cn-1569">SCP-CN-1569</a> - 开窍</li>
 <li><a href="/scp-cn-1570">SCP-CN-1570</a> - 战争之月</li>
 <li><a class="newpage" href="/scp-cn-1571">SCP-CN-1571</a> - [禁止访问]</li>
@@ -1340,7 +1340,7 @@
 <li><a href="/scp-cn-1779">SCP-CN-1779</a> - 迷城“The Lost City”</li>
 <li><a href="/scp-cn-1780">SCP-CN-1780</a> - 一二三，木头人</li>
 <li><a href="/scp-cn-1781">SCP-CN-1781</a> - 白垩纪制造</li>
-<li><a href="/scp-cn-1782">SCP-CN-1782</a> - 别乱捡地上的东西</li>
+<li><a class="newpage" href="/scp-cn-1782">SCP-CN-1782</a> - 别乱捡地上的东西</li>
 <li><a href="/scp-cn-1783">SCP-CN-1783</a> - 祈生花祝</li>
 <li><a href="/scp-cn-1784">SCP-CN-1784</a> - 异常天气现象（名称暂定）</li>
 <li><a href="/scp-cn-1785">SCP-CN-1785</a> - 温度是唯一的谎言</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3828, 最后编辑于: <span class="odate time_1607246442 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">06 Dec 2020 09:20</span></div>
+                            <div id="page-info">页面版本: 3829, 最后编辑于: <span class="odate time_1607259222 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">06 Dec 2020 12:53</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://superjet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/superjet.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://superjet.wikidot.com">Sukhoi Superjet 100</a></h3>
+            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
             <div class="desc">          
-              Реальность против домыслов
+              and what they&#039;re trying to tell you
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://spartanfleet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spartanfleet.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://splinterverse.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/splinterverse.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://spartanfleet.wikidot.com">Spartan Fleet</a></h3>
+            <h3><a target="_blank" href="http://splinterverse.wikidot.com">Splinterverse</a></h3>
             <div class="desc">          
-              Excellence in Simming.
+              Ezboard Yuku Splinterverse Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://aq-3d.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aq-3d.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eime.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eime.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://aq-3d.wikidot.com">AQ3D</a></h3>
+            <h3><a target="_blank" href="http://eime.wikidot.com">EIME Projects</a></h3>
             <div class="desc">          
-              AdventureQuest 3D Wiki
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.ereticopedia.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.ereticopedia.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://community.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/community.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.ereticopedia.org">ERETICOPEDIA</a></h3>
+            <h3><a target="_blank" href="http://community.wikidot.com">Wikidot Community</a></h3>
             <div class="desc">          
-              Mediterranean Digital &amp; Public Humanities
+              hints / tips / help / discussion
             </div>
           </div>
         </div>
