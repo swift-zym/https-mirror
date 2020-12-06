@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1607216985;
+        OZONE.request.timestamp = 1607236079;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -859,7 +859,7 @@
 <li><a href="/scp-cn-1314">SCP-CN-1314</a> - 月老花</li>
 <li><a href="/scp-cn-1315">SCP-CN-1315</a> - 小心你的脑子</li>
 <li><a href="/scp-cn-1316">SCP-CN-1316</a> - 寄生人类的蟹奴</li>
-<li><a href="/scp-cn-1317">SCP-CN-1317</a> - 时间“操纵”者</li>
+<li><a class="newpage" href="/scp-cn-1317">SCP-CN-1317</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1318">SCP-CN-1318</a> - 血魔之种</li>
 <li><a href="/scp-cn-1319">SCP-CN-1319</a> - 随波逐流？</li>
 <li><a href="/scp-cn-1320">SCP-CN-1320</a> - 心中所惧，之于深渊</li>
@@ -1019,7 +1019,7 @@
 <li><a href="/scp-cn-1470">SCP-CN-1470</a> - 混沌万世牌</li>
 <li><a href="/scp-cn-1471">SCP-CN-1471</a> - 诸界吞噬者John Aristides Silva</li>
 <li><a href="/scp-cn-1472">SCP-CN-1472</a> - 冒牌的“dado的开胃药片”</li>
-<li><a class="newpage" href="/scp-cn-1473">SCP-CN-1473</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1473">SCP-CN-1473</a> - 飞将</li>
 <li><a href="/scp-cn-1474">SCP-CN-1474</a> - 辐射之树</li>
 <li><a href="/scp-cn-1475">SCP-CN-1475</a> - 逝者之心</li>
 <li><a href="/scp-cn-1476">SCP-CN-1476</a> - 学无纸境</li>
@@ -1112,7 +1112,7 @@
 <li><a href="/scp-cn-1559">SCP-CN-1559</a> - 青鸟</li>
 <li><a href="/scp-cn-1560">SCP-CN-1560</a> - <strong>第 五 扭 蛋 机</strong></li>
 <li><a href="/scp-cn-1561">SCP-CN-1561</a> - 最遥远的地方</li>
-<li><a class="newpage" href="/scp-cn-1562">SCP-CN-1562</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1562">SCP-CN-1562</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1563">SCP-CN-1563</a> - 加百列病毒</li>
 <li><a href="/scp-cn-1564">SCP-CN-1564</a> - 香“蝽”树</li>
 <li><a href="/scp-cn-1565">SCP-CN-1565</a> - 后人得之传此</li>
@@ -1282,7 +1282,7 @@
 <li><a href="/scp-cn-1721">SCP-CN-1721</a> - 沙皇蘋果</li>
 <li><a href="/scp-cn-1722">SCP-CN-1722</a> - 蜘蛛结网昭阳殿</li>
 <li><a href="/scp-cn-1723">SCP-CN-1723</a> - 我们的世界</li>
-<li><a href="/scp-cn-1724">SCP-CN-1724</a> - “法克鱿”</li>
+<li><a class="newpage" href="/scp-cn-1724">SCP-CN-1724</a> - “法克鱿”</li>
 <li><a href="/scp-cn-1725">SCP-CN-1725</a> - 占据人心，颠覆一切</li>
 <li><a href="/scp-cn-1726">SCP-CN-1726</a> - 秘法配方</li>
 <li><a href="/scp-cn-1727">SCP-CN-1727</a> - 臆眼鸦群</li>
@@ -1384,7 +1384,7 @@
 <li><a href="/scp-cn-1819">SCP-CN-1819</a> - 图书馆</li>
 <li><a href="/scp-cn-1820">SCP-CN-1820</a> - 他们，凝望着我们的孤独</li>
 <li><a href="/scp-cn-1821">SCP-CN-1821</a> - 数字时钟</li>
-<li><a class="newpage" href="/scp-cn-1822">SCP-CN-1822</a> - 跳舞的线</li>
+<li><a class="newpage" href="/scp-cn-1822">SCP-CN-1822</a> - 爸爸爱你</li>
 <li><a href="/scp-cn-1823">SCP-CN-1823</a> - 悲歌当泣，远望当归</li>
 <li><a href="/scp-cn-1824">SCP-CN-1824</a> - 脱发的深夜诗人们</li>
 <li><a href="/scp-cn-1825">SCP-CN-1825</a> - 踏入神界的人们</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3822, 最后编辑于: <span class="odate time_1607215217 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">06 Dec 2020 00:40</span></div>
+                            <div id="page-info">页面版本: 3825, 最后编辑于: <span class="odate time_1607223812 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">06 Dec 2020 03:03</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
@@ -1686,21 +1686,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpvakfi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://morningsidemicro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningsidemicro.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpvakfi.wikidot.com">SCP Vakfı</a></h3>
+            <h3><a target="_blank" href="http://morningsidemicro.wikidot.com">Microbiology@Morningside</a></h3>
             <div class="desc">          
-              Yakala, Sakla, Koru
+              The wiki for students in BIO 252 at Morningside
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://algadon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/algadon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://albums-template.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/albums-template.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://algadon.wikidot.com">Algadon</a></h3>
+            <h3><a target="_blank" href="http://albums-template.wikidot.com">Albums-template</a></h3>
+            <div class="desc">          
+              Your pictures
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://join.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/join.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://join.wikidot.com">Join this Site!</a></h3>
             <div class="desc">          
               
             </div>
@@ -1708,23 +1719,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://aspnet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aspnet.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://simtrackipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/simtrackipedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://aspnet.wikidot.com">ASP.NET Wiki</a></h3>
+            <h3><a target="_blank" href="http://simtrackipedia.wikidot.com">SIMTrackipedia</a></h3>
             <div class="desc">          
-              This website is no longer actively supported
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki.net.pl">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki.net.pl/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-wiki.net.pl">Fundacja SCP</a></h3>
-            <div class="desc">          
-              Polska Filia SCP
+              A collection of tutorials for Bob&#039;s Track Builder, XPacker, and other related programs
             </div>
           </div>
         </div>
