@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1607236227;
+        OZONE.request.timestamp = 1607258471;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,10 +1685,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sfugamedev.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfugamedev.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hopkinswhpg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hopkinswhpg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sfugamedev.wikidot.com">SFU Game Developers Club</a></h3>
+            <h3><a target="_blank" href="http://hopkinswhpg.wikidot.com">World History/Physical Geo.</a></h3>
             <div class="desc">          
               
             </div>
@@ -1696,34 +1696,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://comux.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/comux.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.trumpetexercises.net">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.trumpetexercises.net/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://comux.wikidot.com">CoMUX</a></h3>
+            <h3><a target="_blank" href="http://www.trumpetexercises.net">Trumpet exercise database</a></h3>
             <div class="desc">          
-              Realities Combined
+              for trumpet players, students and teachers
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fairfieldproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fairfieldproject.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ds2009a.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds2009a.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fairfieldproject.wikidot.com">The Fairfield Project</a></h3>
-            <div class="desc">          
-              The Delta Green wiki
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://evilhat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/evilhat.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://evilhat.wikidot.com">Evil Hat Productions Wiki</a></h3>
+            <h3><a target="_blank" href="http://ds2009a.wikidot.com">Data Structures</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://johnmerritt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/johnmerritt.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://johnmerritt.wikidot.com">johnmerritt</a></h3>
+            <div class="desc">          
+              social studies
             </div>
           </div>
         </div>

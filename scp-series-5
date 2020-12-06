@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1607236083;
+        OZONE.request.timestamp = 1607258246;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1741,10 +1741,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://daeren.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/daeren.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/samvedna.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://daeren.wikidot.com">The Tales of Daeren</a></h3>
+            <h3><a target="_blank" href="http://samvedna.wikidot.com">Samvedna Network</a></h3>
+            <div class="desc">          
+              Collaborative e-learning for children
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://psychjobsearch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychjobsearch.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://psychjobsearch.wikidot.com">Psychology Job Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1752,34 +1763,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vyprmedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vyprmedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://windycity.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/windycity.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vyprmedia.wikidot.com">VyprMedia</a></h3>
+            <h3><a target="_blank" href="http://windycity.wikidot.com">Windycity</a></h3>
             <div class="desc">          
-              
+              MUX
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rmitvnim2007b.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rmitvnim2007b.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://measurementcamp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/measurementcamp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rmitvnim2007b.wikidot.com">RMIT Vietnam IM 2007B</a></h3>
+            <h3><a target="_blank" href="http://measurementcamp.wikidot.com">Measurementcamp</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
-            <div class="desc">          
-              実験、実験、爆発
+              Open source movement measuring social media
             </div>
           </div>
         </div>
