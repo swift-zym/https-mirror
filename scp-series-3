@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1607409863;
+        OZONE.request.timestamp = 1607431579;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.metroplexity.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.metroplexity.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpexplained.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpexplained.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.metroplexity.com">Metroplexity</a></h3>
+            <h3><a target="_blank" href="http://scpexplained.wikidot.com">SCP Explained</a></h3>
             <div class="desc">          
-              Learn the secrets of Metroplex
+              Simplify, Condense, Paraphrase
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.ereticopedia.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.ereticopedia.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://steelandstone.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/steelandstone.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.ereticopedia.org">ERETICOPEDIA</a></h3>
+            <h3><a target="_blank" href="http://steelandstone.wikidot.com">Steel and Stone</a></h3>
             <div class="desc">          
-              Mediterranean Digital &amp; Public Humanities
+              Wagering Lives to the Blade
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rscsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rscsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://projects.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/projects.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rscsandbox.wikidot.com">RSC Sandbox</a></h3>
+            <h3><a target="_blank" href="http://projects.wikidot.com">projects.wikidot.com</a></h3>
             <div class="desc">          
-              RSC için Sandbox
+              Wikidot Projects Forum
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://avendar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/avendar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://musicandcyberculture.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/musicandcyberculture.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://avendar.wikidot.com">AvendarWiki</a></h3>
+            <h3><a target="_blank" href="http://musicandcyberculture.wikidot.com">Music and Cyberculture</a></h3>
             <div class="desc">          
-              Database wiki for Avendar MUD
+              MUS 6314 - Topics in Ethnomusicology
             </div>
           </div>
         </div>

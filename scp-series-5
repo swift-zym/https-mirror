@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1607409670;
+        OZONE.request.timestamp = 1607431706;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1741,10 +1741,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hp-intothefire.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hp-intothefire.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darksouls3.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls3.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hp-intothefire.wikidot.com">Harry Potter: Into The Fire</a></h3>
+            <h3><a target="_blank" href="http://darksouls3.wikidot.com">Darksouls3</a></h3>
+            <div class="desc">          
+              Your trusted source of information for Dark Souls 3
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://odrin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/odrin.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://odrin.wikidot.com">odriNET</a></h3>
             <div class="desc">          
               
             </div>
@@ -1752,34 +1763,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://philosophiesoflife.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophiesoflife.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.music-industrapedia.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.music-industrapedia.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://philosophiesoflife.wikidot.com">WikiPlan</a></h3>
+            <h3><a target="_blank" href="http://www.music-industrapedia.com">Music Industrapedia</a></h3>
             <div class="desc">          
-              tools for participatory design of cities
+              A Legacy of your Working Life in the Music Industry
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://snippets.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snippets.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
+            <h3><a target="_blank" href="http://snippets.wikidot.com">Wiki Code Snippets</a></h3>
             <div class="desc">          
-              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://exploresecureprotect.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exploresecureprotect.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://exploresecureprotect.wikidot.com">ESP协会</a></h3>
-            <div class="desc">          
-              探索 控制 保护
+              Snippets
             </div>
           </div>
         </div>

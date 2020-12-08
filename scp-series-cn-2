@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1607409865;
+        OZONE.request.timestamp = 1607431526;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -931,7 +931,7 @@
 <li><a class="newpage" href="/scp-cn-1386">SCP-CN-1386</a> - 对脑袋来一枪？</li>
 <li><a href="/scp-cn-1387">SCP-CN-1387</a> - 一期一会の箸</li>
 <li><a href="/scp-cn-1388">SCP-CN-1388</a> - <span style="text-decoration: underline;">蛇，缠绕世界的祂</span></li>
-<li><a class="newpage" href="/scp-cn-1389">SCP-CN-1389</a> - 镇岁堰</li>
+<li><a href="/scp-cn-1389">SCP-CN-1389</a> - 镇岁堰</li>
 <li><a href="/scp-cn-1390">SCP-CN-1390</a> - 失格现实</li>
 <li><a href="/scp-cn-1391">SCP-CN-1391</a> - dado的仓鼠药</li>
 <li><a class="newpage" href="/scp-cn-1392">SCP-CN-1392</a> - 不眠人与墨菲定律</li>
@@ -1124,7 +1124,7 @@
 <li><a class="newpage" href="/scp-cn-1571">SCP-CN-1571</a> - [禁止访问]</li>
 <li><a class="newpage" href="/scp-cn-1572">SCP-CN-1572</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1573">SCP-CN-1573</a> - 特长收容措施</li>
-<li><a class="newpage" href="/scp-cn-1574">SCP-CN-1574</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1574">SCP-CN-1574</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1575">SCP-CN-1575</a> - 最后遗愿</li>
 <li><a href="/scp-cn-1576">SCP-CN-1576</a> - 火灵剑</li>
 <li><a href="/scp-cn-1577">SCP-CN-1577</a> - 戴久了的面具摘不下</li>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.metroplexity.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.metroplexity.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://inter-irc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inter-irc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.metroplexity.com">Metroplexity</a></h3>
+            <h3><a target="_blank" href="http://inter-irc.wikidot.com">Inter Irc</a></h3>
             <div class="desc">          
-              Learn the secrets of Metroplex
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.ereticopedia.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.ereticopedia.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://gamedesign.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gamedesign.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.ereticopedia.org">ERETICOPEDIA</a></h3>
+            <h3><a target="_blank" href="http://gamedesign.wikidot.com">Game Design Novice</a></h3>
             <div class="desc">          
-              Mediterranean Digital &amp; Public Humanities
+              Learn to make video games.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rscsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rscsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rscsandbox.wikidot.com">RSC Sandbox</a></h3>
+            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
             <div class="desc">          
-              RSC için Sandbox
+              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://avendar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/avendar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fifabeapro360.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fifabeapro360.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://avendar.wikidot.com">AvendarWiki</a></h3>
+            <h3><a target="_blank" href="http://fifabeapro360.wikidot.com">Fifa Be A Pro 360</a></h3>
             <div class="desc">          
-              Database wiki for Avendar MUD
+              
             </div>
           </div>
         </div>
