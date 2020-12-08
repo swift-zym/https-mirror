@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1607365817;
+        OZONE.request.timestamp = 1607390237;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1710,10 +1710,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thelaststory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thelaststory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://harvey-capital-lectures.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/harvey-capital-lectures.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thelaststory.wikidot.com">The Last Story</a></h3>
+            <h3><a target="_blank" href="http://harvey-capital-lectures.wikidot.com">Harvey Capital Lectures</a></h3>
+            <div class="desc">          
+              Crowdsourced Transcription and Translation Project
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://pandora-saga.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pandora-saga.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://pandora-saga.wikidot.com">Pandora Saga Online Wiki</a></h3>
+            <div class="desc">          
+              NYANICORN!!!!!!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://eitriggcrafting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eitriggcrafting.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://eitriggcrafting.wikidot.com">Eitrigg Crafters</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://iaac-readings.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iaac-readings.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kingswaypreint.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kingswaypreint.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://iaac-readings.wikidot.com">iaac emergent culture glossary</a></h3>
-            <div class="desc">          
-              words, words, words
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://educ400-401.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/educ400-401.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://educ400-401.wikidot.com">Dyslexia Connection</a></h3>
+            <h3><a target="_blank" href="http://kingswaypreint.wikidot.com">Kingsway Pre-Intermediate</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://sons-of-athena.obscurative.ru">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sons-of-athena.obscurative.ru/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://sons-of-athena.obscurative.ru">ВИК &quot;Сыны Афины&quot;</a></h3>
-            <div class="desc">          
-              ​
             </div>
           </div>
         </div>
