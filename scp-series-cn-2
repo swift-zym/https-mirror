@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1607452248;
+        OZONE.request.timestamp = 1607476372;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1124,7 +1124,7 @@
 <li><a class="newpage" href="/scp-cn-1571">SCP-CN-1571</a> - [禁止访问]</li>
 <li><a class="newpage" href="/scp-cn-1572">SCP-CN-1572</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1573">SCP-CN-1573</a> - 特长收容措施</li>
-<li><a href="/scp-cn-1574">SCP-CN-1574</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1574">SCP-CN-1574</a> - 如果？</li>
 <li><a href="/scp-cn-1575">SCP-CN-1575</a> - 最后遗愿</li>
 <li><a href="/scp-cn-1576">SCP-CN-1576</a> - 火灵剑</li>
 <li><a href="/scp-cn-1577">SCP-CN-1577</a> - 戴久了的面具摘不下</li>
@@ -1614,10 +1614,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3835, 最后编辑于: <span class="odate time_1607435064 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Dec 2020 13:44</span></div>
+                            <div id="page-info">页面版本: 3836, 最后编辑于: <span class="odate time_1607466491 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Dec 2020 22:28</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
-<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+77</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
 <a href="javascript:;" class="btn btn-default" id="tags-button">标签</a>
 <a href="/forum/t-8144004/scp-series-cn-2" class="btn btn-default" id="discuss-button">讨论 (66)</a>
 <a href="javascript:;" class="btn btn-default" id="history-button">历史记录</a>
@@ -1686,23 +1686,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://advent-ro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/advent-ro.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
+            <h3><a target="_blank" href="http://advent-ro.wikidot.com">AdventRO Wiki</a></h3>
             <div class="desc">          
-              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scala.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scala.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://celtic-heroes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celtic-heroes.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scala.wikidot.com">Scala Geography Wiki</a></h3>
+            <h3><a target="_blank" href="http://celtic-heroes.wikidot.com">Celtic Heroes Wiki</a></h3>
             <div class="desc">          
-              
+              A Wiki for the iPhone/iPad MMO Celtic Heroes
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://www.icondeposit.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.icondeposit.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://www.icondeposit.com">Icon Deposit</a></h3>
+            <div class="desc">          
+              Design.Tutorials.Freebies
             </div>
           </div>
         </div>
@@ -1714,17 +1725,6 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
             <h3><a target="_blank" href="http://www.oracle-wiki.net">Oracle Database</a></h3>
             <div class="desc">          
               All things oracle...
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://mybookworld.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mybookworld.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://mybookworld.wikidot.com">Hacking WD MyBook World Ed</a></h3>
-            <div class="desc">          
-              
             </div>
           </div>
         </div>

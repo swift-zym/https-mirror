@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1607452247;
+        OZONE.request.timestamp = 1607476413;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://insurrection-du-chaos-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/insurrection-du-chaos-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
+            <h3><a target="_blank" href="http://insurrection-du-chaos-sandbox.wikidot.com">IC-FR Sandbox</a></h3>
             <div class="desc">          
-              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
+              Sandbox de l&#039;Insurrection du Chaos francophone
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scala.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scala.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.gustrength.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.gustrength.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scala.wikidot.com">Scala Geography Wiki</a></h3>
+            <h3><a target="_blank" href="http://www.gustrength.com">Ground Up Strength</a></h3>
             <div class="desc">          
-              
+              A strength training site with lots of other stuff.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.oracle-wiki.net">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.oracle-wiki.net/80.jpg"/>
+            <a target="_blank" class="image" href="http://witchipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/witchipedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.oracle-wiki.net">Oracle Database</a></h3>
+            <h3><a target="_blank" href="http://witchipedia.wikidot.com">Witchipedia</a></h3>
             <div class="desc">          
-              All things oracle...
+              The online encyclopedia of magick, folklore and the occult
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mybookworld.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mybookworld.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chrysaliswiki.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mybookworld.wikidot.com">Hacking WD MyBook World Ed</a></h3>
+            <h3><a target="_blank" href="http://chrysaliswiki.com">Chrysalis</a></h3>
             <div class="desc">          
-              
+              A Final Fantasy Wiki
             </div>
           </div>
         </div>
