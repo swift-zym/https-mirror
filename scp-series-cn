@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1607517872;
+        OZONE.request.timestamp = 1607539234;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1481,7 +1481,7 @@
 <li><a href="/scp-cn-913">SCP-CN-913</a> - 请稍等一刻钟</li>
 <li><a href="/scp-cn-914">SCP-CN-914</a> - 无人</li>
 <li><a href="/scp-cn-915">SCP-CN-915</a> - 惊奇滑梯</li>
-<li><a class="newpage" href="/scp-cn-916">SCP-CN-916</a> - 废土蓑蛾</li>
+<li><a href="/scp-cn-916">SCP-CN-916</a> - 鬼门关</li>
 <li><a href="/scp-cn-917">SCP-CN-917</a> - 过激治疗药膏</li>
 <li><a href="/scp-cn-918">SCP-CN-918</a> - <span style="text-decoration: line-through;">永远漂泊的</span>纸飞机</li>
 <li><a href="/scp-cn-919">SCP-CN-919</a> - 压缩世界的断片</li>
@@ -1613,7 +1613,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3247, 最后编辑于: <span class="odate time_1607210680 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Dec 2020 23:24</span></div>
+                            <div id="page-info">页面版本: 3250, 最后编辑于: <span class="odate time_1607527884 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">09 Dec 2020 15:31</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+66</span>)</a>
@@ -1685,45 +1685,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://summer350.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/summer350.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://everydaymagicalgirls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/everydaymagicalgirls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://summer350.wikidot.com">Summer 3500</a></h3>
+            <h3><a target="_blank" href="http://everydaymagicalgirls.wikidot.com">Everyday Magical Girls</a></h3>
             <div class="desc">          
-              Engineering Communications
+              It&#039;s not what it sounds like, I swear...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikirhye.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikirhye.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://snippets.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snippets.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikirhye.wikidot.com">Rhye&#039;s of Wiki</a></h3>
+            <h3><a target="_blank" href="http://snippets.wikidot.com">Wiki Code Snippets</a></h3>
             <div class="desc">          
-              Wiki for Rhye&#039;s mods and general awesomeness
+              Snippets
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://trap.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trap.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ddscat.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ddscat.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://trap.wikidot.com">T.R.A.P.</a></h3>
+            <h3><a target="_blank" href="http://ddscat.wikidot.com">DDSCAT</a></h3>
             <div class="desc">          
-              Target. Recover. Apprehend. Protect.
+              Light Scattering Code
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://energyfuture.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyfuture.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tmduc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tmduc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://energyfuture.wikidot.com">The Future of Energy</a></h3>
+            <h3><a target="_blank" href="http://tmduc.wikidot.com">TMD (uc)</a></h3>
             <div class="desc">          
-              Analyzing The Options
+              creación colectiva
             </div>
           </div>
         </div>
