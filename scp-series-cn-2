@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1607476372;
+        OZONE.request.timestamp = 1607495968;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1266,7 +1266,7 @@
 <li><a href="/scp-cn-1705">SCP-CN-1705</a> - 卡布莱耶奶奶的今日厨房！</li>
 <li><a class="newpage" href="/scp-cn-1706">SCP-CN-1706</a> - 如芒在背</li>
 <li><a href="/scp-cn-1707">SCP-CN-1707</a> - 推背去归休</li>
-<li><a href="/scp-cn-1708">SCP-CN-1708</a> - 万物来朝</li>
+<li><a class="newpage" href="/scp-cn-1708">SCP-CN-1708</a> - 万物来朝</li>
 <li><a href="/scp-cn-1709">SCP-CN-1709</a> - 沉浸式交响现场™️</li>
 <li><a href="/scp-cn-1710">SCP-CN-1710</a> - 免疫警戒</li>
 <li><a href="/scp-cn-1711">SCP-CN-1711</a> - 教室</li>
@@ -1352,7 +1352,7 @@
 <li><a href="/scp-cn-1791">SCP-CN-1791</a> - 海境归客</li>
 <li><a href="/scp-cn-1792">SCP-CN-1792</a> - 价值连城</li>
 <li><a href="/scp-cn-1793">SCP-CN-1793</a> - 深渊鲸落</li>
-<li><a class="newpage" href="/scp-cn-1794">SCP-CN-1794</a> - 蚍蜉撼树</li>
+<li><a href="/scp-cn-1794">SCP-CN-1794</a> - 未知信号源</li>
 <li><a href="/scp-cn-1795">SCP-CN-1795</a> - 锔这些杯子的人很缺德</li>
 <li><a href="/scp-cn-1796">SCP-CN-1796</a> - 上古之镜，愤世嫉俗</li>
 <li><a href="/scp-cn-1797">SCP-CN-1797</a> - 神之梦</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3836, 最后编辑于: <span class="odate time_1607466491 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Dec 2020 22:28</span></div>
+                            <div id="page-info">页面版本: 3837, 最后编辑于: <span class="odate time_1607490993 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">09 Dec 2020 05:16</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://advent-ro.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/advent-ro.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpcommune.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpcommune.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://advent-ro.wikidot.com">AdventRO Wiki</a></h3>
+            <h3><a target="_blank" href="http://scpcommune.wikidot.com">The SCP Commune</a></h3>
+            <div class="desc">          
+              Satirize, Collectivize, Politicize
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://www.gustrength.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.gustrength.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://www.gustrength.com">Ground Up Strength</a></h3>
+            <div class="desc">          
+              A strength training site with lots of other stuff.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
+            <div class="desc">          
+              OpenRPG Dungeons and Dragons 3.5
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://amiii.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/amiii.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://amiii.wikidot.com">Análise Matemática III</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://celtic-heroes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celtic-heroes.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://celtic-heroes.wikidot.com">Celtic Heroes Wiki</a></h3>
-            <div class="desc">          
-              A Wiki for the iPhone/iPad MMO Celtic Heroes
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://www.icondeposit.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.icondeposit.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://www.icondeposit.com">Icon Deposit</a></h3>
-            <div class="desc">          
-              Design.Tutorials.Freebies
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://www.oracle-wiki.net">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.oracle-wiki.net/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://www.oracle-wiki.net">Oracle Database</a></h3>
-            <div class="desc">          
-              All things oracle...
             </div>
           </div>
         </div>
