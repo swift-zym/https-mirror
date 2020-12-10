@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1607539003;
+        OZONE.request.timestamp = 1607562763;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
+            <a target="_blank" class="image" href="http://ecadmin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecadmin.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ecadmin.wikidot.com">Early Childhood Program Administration</a></h3>
+            <div class="desc">          
+              Resources, Training, Best Practices, Sharing
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://mathaerobics4samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mathaerobics4samvedna.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://mathaerobics4samvedna.wikidot.com">Math Aerobics</a></h3>
+            <div class="desc">          
+              ADIDAS - All Day I Dream About Sums..!!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://philosophia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://philosophia.wikidot.com">Philosophia UAM</a></h3>
+            <div class="desc">          
+              Wiki studentów filozofii UAM
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
             <a target="_blank" class="image" href="http://livesupport.wikidot.com">
               <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/livesupport.wikidot.com/80.jpg"/>
             </a>
             <h3><a target="_blank" href="http://livesupport.wikidot.com">Wikidot Live Support</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wanderers-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-sandbox.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wanderers-sandbox.wikidot.com">Wanderers&#039; Library Sandbox</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://energyclub4samvedna.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub4samvedna.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://energyclub4samvedna.wikidot.com">Save Energy, Save Future</a></h3>
-            <div class="desc">          
-              &quot;The collabrative efforts for Energy saving&quot;
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://grantsrecipes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/grantsrecipes.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://grantsrecipes.wikidot.com">Grant&#039;s Recipes</a></h3>
-            <div class="desc">          
-              Good food for you!
             </div>
           </div>
         </div>

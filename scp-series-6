@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1607539002;
+        OZONE.request.timestamp = 1607562610;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1710,32 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://autorytet-rpc.pl">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/autorytet-rpc.pl/80.jpg"/>
+            <a target="_blank" class="image" href="http://cunefa2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefa2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://autorytet-rpc.pl">Autorytet RPC</a></h3>
+            <h3><a target="_blank" href="http://cunefa2.wikidot.com">CUNEF Group A2</a></h3>
             <div class="desc">          
-              Badania, Ochrona, Przechowywanie
+              For Your Work, Opinions and Discoveries!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ozradonc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ozradonc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ozradonc.wikidot.com">OzRadOnc</a></h3>
-            <div class="desc">          
-              A collection of thoughts and notes
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://mapdb.obsidianconflict.net">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mapdb.obsidianconflict.net/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://mapdb.obsidianconflict.net">Obsidian Conflict Map Database</a></h3>
+            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
             <div class="desc">          
               
             </div>
@@ -1743,12 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://iatkos.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iatkos.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gateofrealms.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gateofrealms.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://iatkos.wikidot.com">Iatkos</a></h3>
+            <h3><a target="_blank" href="http://gateofrealms.wikidot.com">诸界之门</a></h3>
             <div class="desc">          
-              
+              多元原创创作社区
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://battlestargenesis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/battlestargenesis.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://battlestargenesis.wikidot.com">BATTLESTAR GENESIS MUSH</a></h3>
+            <div class="desc">          
+              battlestar.isunlimited.net    3012
             </div>
           </div>
         </div>
