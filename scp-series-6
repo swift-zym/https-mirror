@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1607603945;
+        OZONE.request.timestamp = 1607625183;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1710,10 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://puppet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/puppet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
+            <h3><a target="_blank" href="http://puppet.wikidot.com">Puppet中文wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://malkavian.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/malkavian.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls3.wikidot.com">Darksouls3</a></h3>
+            <h3><a target="_blank" href="http://malkavian.wikidot.com">CCS Related</a></h3>
             <div class="desc">          
-              Your trusted source of information for Dark Souls 3
+              Malkavian guide to CCS life
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scr-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scr-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wanderers-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scr-wiki.wikidot.com">SCR公司</a></h3>
+            <h3><a target="_blank" href="http://wanderers-sandbox.wikidot.com">Wanderers&#039; Library Sandbox</a></h3>
             <div class="desc">          
-              安全.收容.研究
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://suffadv.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/suffadv.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ukcw.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ukcw.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://suffadv.wikidot.com">Sufficiently Advanced</a></h3>
+            <h3><a target="_blank" href="http://ukcw.wikidot.com">Unofficial Kingdom Conquest Wiki</a></h3>
             <div class="desc">          
-              A Game of the Far Future
+              Seven towers to rule them all...
             </div>
           </div>
         </div>

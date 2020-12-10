@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1607604169;
+        OZONE.request.timestamp = 1607625075;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,21 +1711,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darry.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darry.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://championsashes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/championsashes.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darry.wikidot.com">Darry Container</a></h3>
+            <h3><a target="_blank" href="http://championsashes.wikidot.com">Champion&#039;s Ashes</a></h3>
             <div class="desc">          
-              We know our way out.
+              The Official Wiki For Dark Souls III: Champion&#039;s Ashes
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://psychjobsearch.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychjobsearch.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://zmk.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zmk.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://psychjobsearch.wikidot.com">Psychology Job Wiki</a></h3>
+            <h3><a target="_blank" href="http://zmk.wikidot.com">Zagłębiowska Masa Krytyczna</a></h3>
+            <div class="desc">          
+              Czwartek 3 Maja 2018 Godz.15:00
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://theskyremains.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theskyremains.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://theskyremains.wikidot.com">The Sky Remains</a></h3>
             <div class="desc">          
               
             </div>
@@ -1733,23 +1744,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cubesat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cubesat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nirn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nirn.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cubesat.wikidot.com">CubeSat</a></h3>
+            <h3><a target="_blank" href="http://nirn.wikidot.com">Nirn</a></h3>
             <div class="desc">          
-              University of Leicester CubeSat Project
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scienceonlinelondon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scienceonlinelondon.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scienceonlinelondon.wikidot.com">Science Online London</a></h3>
-            <div class="desc">          
-              How is the Web changing science?
+              The Nirn Project
             </div>
           </div>
         </div>
