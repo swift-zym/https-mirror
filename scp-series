@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1607755285;
+        OZONE.request.timestamp = 1607777022;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,21 +1709,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://summer350.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/summer350.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kindiy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kindiy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://summer350.wikidot.com">Summer 3500</a></h3>
+            <h3><a target="_blank" href="http://kindiy.wikidot.com">kinDIY</a></h3>
             <div class="desc">          
-              Engineering Communications
+              for the DIY kindie community
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.zeromq.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.zeromq.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://blackmarches.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackmarches.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.zeromq.org">zeromq</a></h3>
+            <h3><a target="_blank" href="http://blackmarches.wikidot.com">Black Marches</a></h3>
+            <div class="desc">          
+              Roll20 Pathfinder
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://pottersarmy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pottersarmy.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://pottersarmy.wikidot.com">Potter&#039;s Army</a></h3>
             <div class="desc">          
               
             </div>
@@ -1731,23 +1742,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.cloudtw.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.cloudtw.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://amiii.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/amiii.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.cloudtw.org">CloudTW</a></h3>
+            <h3><a target="_blank" href="http://amiii.wikidot.com">Análise Matemática III</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://measurementcamp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/measurementcamp.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://measurementcamp.wikidot.com">Measurementcamp</a></h3>
-            <div class="desc">          
-              Open source movement measuring social media
             </div>
           </div>
         </div>

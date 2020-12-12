@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1607755174;
+        OZONE.request.timestamp = 1607777059;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1710,21 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cgp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hswiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
-            <div class="desc">          
-              CGP Students
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ladyhood66.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ladyhood66.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ladyhood66.wikidot.com">welcome</a></h3>
+            <h3><a target="_blank" href="http://hswiki.wikidot.com">.</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chcc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chcc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://prmagma-scpsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/prmagma-scpsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chcc.wikidot.com">Capitol Hill Community Council</a></h3>
+            <h3><a target="_blank" href="http://prmagma-scpsandbox.wikidot.com">Centre de Recherche</a></h3>
             <div class="desc">          
-              a community site
+              S&#039;améliorer, Corriger, Partager
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.mundohandball.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.mundohandball.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wiki.thymio.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.thymio.org/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.mundohandball.com">wikihandball</a></h3>
+            <h3><a target="_blank" href="http://wiki.thymio.org">Thymio &amp; Aseba</a></h3>
             <div class="desc">          
-              La wiki de Mundohandball.com
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://alicebot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alicebot.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://alicebot.wikidot.com">Alicebot</a></h3>
+            <div class="desc">          
+              Free AIML chat bot content
             </div>
           </div>
         </div>

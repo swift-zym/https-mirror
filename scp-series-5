@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1607755221;
+        OZONE.request.timestamp = 1607777014;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1115,7 +1115,7 @@
 <li><a href="/scp-4534">SCP-4534</a> - 美人美照</li>
 <li><a class="newpage" href="/scp-4535">SCP-4535</a> - The Better Man</li>
 <li><a class="newpage" href="/scp-4536">SCP-4536</a> - [拒绝访问]</li>
-<li><a href="/scp-4537">SCP-4537</a> - Artist's Syndrome</li>
+<li><a href="/scp-4537">SCP-4537</a> - 艺术家综合症</li>
 <li><a href="/scp-4538">SCP-4538</a> - 闪闪闪！炸炸炸！</li>
 <li><a class="newpage" href="/scp-4539">SCP-4539</a> - The Worst Calculator Ever</li>
 <li><a class="newpage" href="/scp-4540">SCP-4540</a> - History, Together</li>
@@ -1669,7 +1669,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 731, 最后编辑于: <span class="odate time_1607344698 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Dec 2020 12:38</span></div>
+                            <div id="page-info">页面版本: 732, 最后编辑于: <span class="odate time_1607763878 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">12 Dec 2020 09:04</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1741,10 +1741,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chavezbraintrust.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chavezbraintrust.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://finalfantasy14fr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/finalfantasy14fr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chavezbraintrust.wikidot.com">Chavez Brain Trust</a></h3>
+            <h3><a target="_blank" href="http://finalfantasy14fr.wikidot.com">final fantasy XIV wiki encyclopédie en français</a></h3>
+            <div class="desc">          
+              FFXIV final fantasy XIV 14 fr wiki FF14 français
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://eitriggcrafting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eitriggcrafting.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://eitriggcrafting.wikidot.com">Eitrigg Crafters</a></h3>
             <div class="desc">          
               
             </div>
@@ -1752,34 +1763,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://swageofmight.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/swageofmight.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-jp-sandbox3.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-sandbox3.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://swageofmight.wikidot.com">Star Wars: Age of Might</a></h3>
+            <h3><a target="_blank" href="http://scp-jp-sandbox3.wikidot.com">SCP-JPサンドボックスⅢ</a></h3>
             <div class="desc">          
-              My Star Wars Saga
+              a.k.a 下書きフォーラム v2
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pedhemoncreview.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pedhemoncreview.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bioproject.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bioproject.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pedhemoncreview.wikidot.com">Pediatric Hematology &amp; Oncology Certification Review</a></h3>
+            <h3><a target="_blank" href="http://bioproject.wikidot.com">BIO-PRO</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://philippines.actor-atlas.info">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philippines.actor-atlas.info/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://philippines.actor-atlas.info">Philippines        #tagcoding</a></h3>
-            <div class="desc">          
-              
+              Υγεία-Περιβάλλον-Εκπαίδευση
             </div>
           </div>
         </div>

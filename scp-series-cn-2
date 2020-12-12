@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1607755427;
+        OZONE.request.timestamp = 1607777028;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -859,7 +859,7 @@
 <li><a href="/scp-cn-1314">SCP-CN-1314</a> - 月老花</li>
 <li><a href="/scp-cn-1315">SCP-CN-1315</a> - 小心你的脑子</li>
 <li><a href="/scp-cn-1316">SCP-CN-1316</a> - 寄生人类的蟹奴</li>
-<li><a href="/scp-cn-1317">SCP-CN-1317</a> - 此处Site-CN-90</li>
+<li><a href="/scp-cn-1317">SCP-CN-1317</a> - 三█餐馆</li>
 <li><a href="/scp-cn-1318">SCP-CN-1318</a> - 血魔之种</li>
 <li><a href="/scp-cn-1319">SCP-CN-1319</a> - 随波逐流？</li>
 <li><a href="/scp-cn-1320">SCP-CN-1320</a> - 心中所惧，之于深渊</li>
@@ -1058,7 +1058,7 @@
 <li><a href="/scp-cn-1505">SCP-CN-1505</a> - 魔术or魔方？</li>
 <li><a href="/scp-cn-1506">SCP-CN-1506</a> - 恶意</li>
 <li><a href="/scp-cn-1507">SCP-CN-1507</a> - 神奇自热水壶！</li>
-<li><a class="newpage" href="/scp-cn-1508">SCP-CN-1508</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1508">SCP-CN-1508</a> - 啸鸣灵猴</li>
 <li><a href="/scp-cn-1509">SCP-CN-1509</a> - 苹果树</li>
 <li><a href="/scp-cn-1510">SCP-CN-1510</a> - 程序五；真知眼</li>
 <li><a href="/scp-cn-1511">SCP-CN-1511</a> - 雨中漫步</li>
@@ -1112,7 +1112,7 @@
 <li><a href="/scp-cn-1559">SCP-CN-1559</a> - 青鸟</li>
 <li><a href="/scp-cn-1560">SCP-CN-1560</a> - <strong>第 五 扭 蛋 机</strong></li>
 <li><a href="/scp-cn-1561">SCP-CN-1561</a> - 最遥远的地方</li>
-<li><a class="newpage" href="/scp-cn-1562">SCP-CN-1562</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1562">SCP-CN-1562</a> - 一生二，二生三</li>
 <li><a href="/scp-cn-1563">SCP-CN-1563</a> - 加百列病毒</li>
 <li><a href="/scp-cn-1564">SCP-CN-1564</a> - 香“蝽”树</li>
 <li><a href="/scp-cn-1565">SCP-CN-1565</a> - 后人得之传此</li>
@@ -1131,7 +1131,7 @@
 <li><a href="/scp-cn-1578">SCP-CN-1578</a> - 银针</li>
 <li><a href="/scp-cn-1579">SCP-CN-1579</a> - 沙漠肺鱼</li>
 <li><a href="/scp-cn-1580">SCP-CN-1580</a> - 梦碑与神之颞叶</li>
-<li><a href="/scp-cn-1581">SCP-CN-1581</a> - 乘黄</li>
+<li><a class="newpage" href="/scp-cn-1581">SCP-CN-1581</a> - 乘黄</li>
 <li><a href="/scp-cn-1582">SCP-CN-1582</a> - 洞口</li>
 <li><a href="/scp-cn-1583">SCP-CN-1583</a> - 世平若纸，维度何从</li>
 <li><a href="/scp-cn-1584">SCP-CN-1584</a> - 多喝热水</li>
@@ -1264,7 +1264,7 @@
 <li><a href="/scp-cn-1703">SCP-CN-1703</a> - 安息噩兆</li>
 <li><a href="/scp-cn-1704">SCP-CN-1704</a> - 製“雀”之蜂</li>
 <li><a href="/scp-cn-1705">SCP-CN-1705</a> - 卡布莱耶奶奶的今日厨房！</li>
-<li><a class="newpage" href="/scp-cn-1706">SCP-CN-1706</a> - 如芒在背</li>
+<li><a href="/scp-cn-1706">SCP-CN-1706</a> - 非生物实体</li>
 <li><a href="/scp-cn-1707">SCP-CN-1707</a> - 推背去归休</li>
 <li><a class="newpage" href="/scp-cn-1708">SCP-CN-1708</a> - 你的第一位入门级朋友</li>
 <li><a href="/scp-cn-1709">SCP-CN-1709</a> - 沉浸式交响现场™️</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3848, 最后编辑于: <span class="odate time_1607734481 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">12 Dec 2020 00:54</span></div>
+                            <div id="page-info">页面版本: 3852, 最后编辑于: <span class="odate time_1607776302 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">12 Dec 2020 12:31</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
@@ -1686,21 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://insurrection-du-chaos.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/insurrection-du-chaos.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://m5snapoli.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/m5snapoli.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://insurrection-du-chaos.wikidot.com">Insurrection du Chaos</a></h3>
-            <div class="desc">          
-              Branche Francophone.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://fallout2online.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fallout2online.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://fallout2online.wikidot.com">Fallout Online: Requiem</a></h3>
+            <h3><a target="_blank" href="http://m5snapoli.wikidot.com">Il wiki-Programma del MoVimento5stelle Napoli</a></h3>
             <div class="desc">          
               
             </div>
@@ -1708,23 +1697,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mainframes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mainframes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://voyage34.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/voyage34.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mainframes.wikidot.com">Mainframes</a></h3>
+            <h3><a target="_blank" href="http://voyage34.wikidot.com">+VOYAGE34+</a></h3>
             <div class="desc">          
-              
+              Is this trip really necessary?
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vwinterop.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vwinterop.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://borradores-scp-es.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/borradores-scp-es.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vwinterop.wikidot.com">Virtual World Interoperability</a></h3>
+            <h3><a target="_blank" href="http://borradores-scp-es.wikidot.com">Borradores SCP-ES</a></h3>
             <div class="desc">          
-              
+              Sitio de borradores para miembros de la Fundación SCP-ES
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://idireitofbv.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/idireitofbv.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://idireitofbv.wikidot.com">Direito da Informática - FBV</a></h3>
+            <div class="desc">          
+              Informática Jurídica e Juscibernética
             </div>
           </div>
         </div>
