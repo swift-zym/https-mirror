@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1607862847;
+        OZONE.request.timestamp = 1607884504;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,45 +1685,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-int.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://exploringsciencewiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exploringsciencewiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-int.wikidot.com">International Translation Archive</a></h3>
+            <h3><a target="_blank" href="http://exploringsciencewiki.wikidot.com">The Exploring Our World Wiki</a></h3>
             <div class="desc">          
-              of the SCP Foundation
+              A Site for Everyone Interested in Teaching and Learning
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://igor.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/igor.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://corwyn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/corwyn.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://igor.wikidot.com">Igor</a></h3>
+            <h3><a target="_blank" href="http://corwyn.wikidot.com">Corwyn</a></h3>
             <div class="desc">          
-              Independent Generation of Research
+              A Fantasy  Campaign Setting
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.contraptor.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.contraptor.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://kharon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kharon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.contraptor.org">Contraptor</a></h3>
+            <h3><a target="_blank" href="http://kharon.wikidot.com">CEC Kharon</a></h3>
+            <div class="desc">          
+              bsgkharon.com 5102
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://retrowiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrowiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://retrowiki.wikidot.com">RetroWIKI</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://librarylab.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/librarylab.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://librarylab.wikidot.com">CTC/Library Lab Wiki</a></h3>
-            <div class="desc">          
-              The CTC mothership
             </div>
           </div>
         </div>

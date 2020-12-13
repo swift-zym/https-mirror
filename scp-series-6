@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1607862861;
+        OZONE.request.timestamp = 1607884257;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1710,32 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-int.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pottersarmy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pottersarmy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-int.wikidot.com">International Translation Archive</a></h3>
-            <div class="desc">          
-              of the SCP Foundation
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://igor.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/igor.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://igor.wikidot.com">Igor</a></h3>
-            <div class="desc">          
-              Independent Generation of Research
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://www.contraptor.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.contraptor.org/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://www.contraptor.org">Contraptor</a></h3>
+            <h3><a target="_blank" href="http://pottersarmy.wikidot.com">Potter&#039;s Army</a></h3>
             <div class="desc">          
               
             </div>
@@ -1743,12 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://librarylab.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/librarylab.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://daeren.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/daeren.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://librarylab.wikidot.com">CTC/Library Lab Wiki</a></h3>
+            <h3><a target="_blank" href="http://daeren.wikidot.com">The Tales of Daeren</a></h3>
             <div class="desc">          
-              The CTC mothership
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://rsc-wiki.net">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rsc-wiki.net/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://rsc-wiki.net">RSC Institution</a></h3>
+            <div class="desc">          
+              Research, Secure, Contain
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://chimiex-bicaz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chimiex-bicaz.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://chimiex-bicaz.wikidot.com">Chimiex Bicaz</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>

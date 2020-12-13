@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1607862955;
+        OZONE.request.timestamp = 1607884475;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -859,7 +859,7 @@
 <li><a href="/scp-cn-1314">SCP-CN-1314</a> - 月老花</li>
 <li><a href="/scp-cn-1315">SCP-CN-1315</a> - 小心你的脑子</li>
 <li><a href="/scp-cn-1316">SCP-CN-1316</a> - 寄生人类的蟹奴</li>
-<li><a href="/scp-cn-1317">SCP-CN-1317</a> - 三█餐馆</li>
+<li><a class="newpage" href="/scp-cn-1317">SCP-CN-1317</a> - 三█餐馆</li>
 <li><a href="/scp-cn-1318">SCP-CN-1318</a> - 血魔之种</li>
 <li><a href="/scp-cn-1319">SCP-CN-1319</a> - 随波逐流？</li>
 <li><a href="/scp-cn-1320">SCP-CN-1320</a> - 心中所惧，之于深渊</li>
@@ -1091,7 +1091,7 @@
 <li><a class="newpage" href="/scp-cn-1538">SCP-CN-1538</a> - 改变你自己？</li>
 <li><a href="/scp-cn-1539">SCP-CN-1539</a> - 登高朝圣</li>
 <li><a href="/scp-cn-1540">SCP-CN-1540</a> - dado稀饭听摇滚</li>
-<li><a class="newpage" href="/scp-cn-1541">SCP-CN-1541</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1541">SCP-CN-1541</a> - &quot;我们曾守望在这此&quot;</li>
 <li><a href="/scp-cn-1542">SCP-CN-1542</a> - ♬祝你生日快乐♬</li>
 <li><a href="/scp-cn-1543">SCP-CN-1543</a> - 我所忠心的</li>
 <li><a href="/scp-cn-1544">SCP-CN-1544</a> - 求道者</li>
@@ -1413,7 +1413,7 @@
 <li><a href="/scp-cn-1848">SCP-CN-1848</a> - 曾经是一棵可以预警的枫树</li>
 <li><a href="/scp-cn-1849">SCP-CN-1849</a> - 最后的孤独</li>
 <li><a href="/scp-cn-1850">SCP-CN-1850</a> - 时之沙</li>
-<li><a class="newpage" href="/scp-cn-1851">SCP-CN-1851</a> - 世仇</li>
+<li><a href="/scp-cn-1851">SCP-CN-1851</a> - 柯伊伯带的小行星法阵</li>
 <li><a href="/scp-cn-1852">SCP-CN-1852</a> - 第N帝国</li>
 <li><a href="/scp-cn-1853">SCP-CN-1853</a> - 大铜牢</li>
 <li><a href="/scp-cn-1854">SCP-CN-1854</a> - 绝唱</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3852, 最后编辑于: <span class="odate time_1607776302 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">12 Dec 2020 12:31</span></div>
+                            <div id="page-info">页面版本: 3854, 最后编辑于: <span class="odate time_1607883437 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">13 Dec 2020 18:17</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://maitreya.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maitreya.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pottersarmy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pottersarmy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://maitreya.wikidot.com">REACHA</a></h3>
+            <h3><a target="_blank" href="http://pottersarmy.wikidot.com">Potter&#039;s Army</a></h3>
             <div class="desc">          
-              &#039;reaching out...touching lives&#039;
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hexhouse.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hexhouse.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mybookworld.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mybookworld.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hexhouse.wikidot.com">Hex House</a></h3>
+            <h3><a target="_blank" href="http://mybookworld.wikidot.com">Hacking WD MyBook World Ed</a></h3>
             <div class="desc">          
-              A truly magical place...sort of.
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.ghac.in">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.ghac.in/80.jpg"/>
+            <a target="_blank" class="image" href="http://techcomm.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/techcomm.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.ghac.in">Great Hyderabad Adventure Club</a></h3>
+            <h3><a target="_blank" href="http://techcomm.wikidot.com">TechnicalCommunication</a></h3>
             <div class="desc">          
-              Advenutre and Nature Wiki
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bua581.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bua581.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://splinterverse.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/splinterverse.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bua581.wikidot.com">Managing Information Systems</a></h3>
+            <h3><a target="_blank" href="http://splinterverse.wikidot.com">Splinterverse</a></h3>
             <div class="desc">          
-              BUA 581 - Rick Sprenkle
+              Ezboard Yuku Splinterverse Wiki
             </div>
           </div>
         </div>
