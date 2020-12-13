@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1607821950;
+        OZONE.request.timestamp = 1607841267;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,45 +1685,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://biblio.etnolinguistica.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biblio.etnolinguistica.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://archthrones-mod.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/archthrones-mod.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://biblio.etnolinguistica.org">Biblioteca Digital Curt Nimuendajú</a></h3>
+            <h3><a target="_blank" href="http://archthrones-mod.wikidot.com">DS3 Archthrones Wiki</a></h3>
             <div class="desc">          
-              livros e artigos sobre línguas sul-americanas
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kuruni.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kuruni.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://witchipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/witchipedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kuruni.wikidot.com">Mecha Documents</a></h3>
+            <h3><a target="_blank" href="http://witchipedia.wikidot.com">Witchipedia</a></h3>
             <div class="desc">          
-              The Collection
+              The online encyclopedia of magick, folklore and the occult
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://firedawnfolder.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/firedawnfolder.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kingswayeap.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kingswayeap.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://firedawnfolder.wikidot.com">FiredawnFolder</a></h3>
+            <h3><a target="_blank" href="http://kingswayeap.wikidot.com">Kingsway EAP</a></h3>
             <div class="desc">          
-              The not-quite Inner Circle but close enough
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://philosophia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://paperworks.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paperworks.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://philosophia.wikidot.com">Philosophia UAM</a></h3>
+            <h3><a target="_blank" href="http://paperworks.wikidot.com">the Paperworks</a></h3>
             <div class="desc">          
-              Wiki studentów filozofii UAM
+              codename /pw/
             </div>
           </div>
         </div>
