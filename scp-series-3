@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1607841334;
+        OZONE.request.timestamp = 1607862967;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1710,32 +1710,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://brtff.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/brtff.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://brtff.wikidot.com">BRTFF</a></h3>
+            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
             <div class="desc">          
-              Passion on the Top
+              実験、実験、爆発
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://celtic-heroes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celtic-heroes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bioproject.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bioproject.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://celtic-heroes.wikidot.com">Celtic Heroes Wiki</a></h3>
+            <h3><a target="_blank" href="http://bioproject.wikidot.com">BIO-PRO</a></h3>
             <div class="desc">          
-              A Wiki for the iPhone/iPad MMO Celtic Heroes
+              Υγεία-Περιβάλλον-Εκπαίδευση
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.digitalvomit.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.digitalvomit.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.nycmush.net">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.nycmush.net/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.digitalvomit.com">Digital Vomit Records</a></h3>
+            <h3><a target="_blank" href="http://www.nycmush.net">NYC: Veil of Shadows</a></h3>
             <div class="desc">          
               
             </div>
@@ -1743,12 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://archthrones-mod.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/archthrones-mod.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://musicgames.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/musicgames.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://archthrones-mod.wikidot.com">DS3 Archthrones Wiki</a></h3>
+            <h3><a target="_blank" href="http://musicgames.wikidot.com">Games for Music</a></h3>
             <div class="desc">          
-              
+              Music Game Archive &amp; Community for Musicians of All Levels
             </div>
           </div>
         </div>

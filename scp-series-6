@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1607841201;
+        OZONE.request.timestamp = 1607862861;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mis213-2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mis213-2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-int.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mis213-2.wikidot.com">MIS 213-2</a></h3>
+            <h3><a target="_blank" href="http://scp-int.wikidot.com">International Translation Archive</a></h3>
             <div class="desc">          
-              Intro to IS
+              of the SCP Foundation
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://aspnet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aspnet.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://igor.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/igor.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://aspnet.wikidot.com">ASP.NET Wiki</a></h3>
+            <h3><a target="_blank" href="http://igor.wikidot.com">Igor</a></h3>
             <div class="desc">          
-              This website is no longer actively supported
+              Independent Generation of Research
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://projects.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/projects.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.contraptor.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.contraptor.org/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://projects.wikidot.com">projects.wikidot.com</a></h3>
+            <h3><a target="_blank" href="http://www.contraptor.org">Contraptor</a></h3>
             <div class="desc">          
-              Wikidot Projects Forum
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://archive.roaringapps.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/archive.roaringapps.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://librarylab.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/librarylab.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://archive.roaringapps.com">RoaringApps - App compatibility and feature support for OS X &amp; iOS</a></h3>
+            <h3><a target="_blank" href="http://librarylab.wikidot.com">CTC/Library Lab Wiki</a></h3>
             <div class="desc">          
-              Application compatibility &amp; feature support for OS X &amp; iOS
+              The CTC mothership
             </div>
           </div>
         </div>
