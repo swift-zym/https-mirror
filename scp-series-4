@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1607908511;
+        OZONE.request.timestamp = 1607927776;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,10 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rens-scrapbook.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rens-scrapbook.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blank-template.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blank-template.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rens-scrapbook.wikidot.com">Ren&#039;s Scrapbook</a></h3>
+            <h3><a target="_blank" href="http://blank-template.wikidot.com">Blank Template</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://morphopedics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morphopedics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://managerzonemexico.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/managerzonemexico.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://morphopedics.wikidot.com">Morphopedics</a></h3>
-            <div class="desc">          
-              Where Technology and Orthopedics Collides
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://chrysaliswiki.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://chrysaliswiki.com">Chrysalis</a></h3>
-            <div class="desc">          
-              A Final Fantasy Wiki
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://bozic-nation.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bozic-nation.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://bozic-nation.wikidot.com">Bozic Nation</a></h3>
+            <h3><a target="_blank" href="http://managerzonemexico.wikidot.com">La Wiki de ManagerZone México</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-pt-br.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-pt-br.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-pt-br.wikidot.com">Fundação SCP</a></h3>
+            <div class="desc">          
+              Filial Lusófona
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://parliamentarism.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/parliamentarism.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://parliamentarism.wikidot.com">Парламентаризм России</a></h3>
+            <div class="desc">          
+              Всё о парламенте и парламентариях
             </div>
           </div>
         </div>
