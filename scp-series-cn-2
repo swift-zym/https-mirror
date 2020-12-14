@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1607927723;
+        OZONE.request.timestamp = 1607949890;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -896,7 +896,7 @@
 <li><a href="/scp-cn-1351">SCP-CN-1351</a> - 塔</li>
 <li><a href="/scp-cn-1352">SCP-CN-1352</a> - 坟头不埋骨</li>
 <li><a href="/scp-cn-1353">SCP-CN-1353</a> - 地西泮仪式</li>
-<li><a class="newpage" href="/scp-cn-1354">SCP-CN-1354</a> - 惊堂木</li>
+<li><a href="/scp-cn-1354">SCP-CN-1354</a> - 美羊羊</li>
 <li><a href="/scp-cn-1355">SCP-CN-1355</a> - 食子之村</li>
 <li><a href="/scp-cn-1356">SCP-CN-1356</a> - 可能是，或者不是</li>
 <li><a href="/scp-cn-1357">SCP-CN-1357</a> - 线上时光机</li>
@@ -972,7 +972,7 @@
 <li><a href="/scp-cn-1423">SCP-CN-1423</a> - dado的特效眼药水</li>
 <li><a href="/scp-cn-1424">SCP-CN-1424</a> - 选我做乜？系叉烧唔够香咩？</li>
 <li><a href="/scp-cn-1425">SCP-CN-1425</a> - 终末幻想机械赞歌</li>
-<li><a href="/scp-cn-1426">SCP-CN-1426</a> - 熊孩子</li>
+<li><a class="newpage" href="/scp-cn-1426">SCP-CN-1426</a> - 熊孩子</li>
 <li><a href="/scp-cn-1427">SCP-CN-1427</a> - 海妖之触</li>
 <li><a href="/scp-cn-1428">SCP-CN-1428</a> - 当东西掉在桌子底下后</li>
 <li><a href="/scp-cn-1429">SCP-CN-1429</a> - World Pulse</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3854, 最后编辑于: <span class="odate time_1607883437 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">13 Dec 2020 18:17</span></div>
+                            <div id="page-info">页面版本: 3855, 最后编辑于: <span class="odate time_1607945030 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">14 Dec 2020 11:23</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://myvineyard.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/myvineyard.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hopkinswhpg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hopkinswhpg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://myvineyard.wikidot.com">Wiki for &#039;My Vineyard&#039;</a></h3>
+            <h3><a target="_blank" href="http://hopkinswhpg.wikidot.com">World History/Physical Geo.</a></h3>
             <div class="desc">          
-              A Facebook Application
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smsalgebra.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smsalgebra.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fondationscp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondationscp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smsalgebra.wikidot.com">Variable Thinking Wiki</a></h3>
+            <h3><a target="_blank" href="http://fondationscp.wikidot.com">Fondation SCP</a></h3>
             <div class="desc">          
-              Life is a word problem
+              Sécuriser, Contenir, Protéger
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://summer350.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/summer350.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://globalclimatechange.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/globalclimatechange.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://summer350.wikidot.com">Summer 3500</a></h3>
+            <h3><a target="_blank" href="http://globalclimatechange.wikidot.com">Global Climate Destabilization</a></h3>
             <div class="desc">          
-              Engineering Communications
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://jakilinux.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jakilinux.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://irunath.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/irunath.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://jakilinux.wikidot.com">Wiki wortalu jakilinux.org</a></h3>
+            <h3><a target="_blank" href="http://irunath.wikidot.com">IRUNA Online Thailand WIKI</a></h3>
             <div class="desc">          
-              Twórz z nami najlepszy wortal linuksowy w Polsce!
+              by iruna th team
             </div>
           </div>
         </div>

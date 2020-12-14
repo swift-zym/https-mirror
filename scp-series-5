@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1607927561;
+        OZONE.request.timestamp = 1607949785;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1741,10 +1741,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://coffeetimex.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coffeetimex.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://professorallred.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/professorallred.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://coffeetimex.wikidot.com">Coffeetime Extra</a></h3>
+            <h3><a target="_blank" href="http://professorallred.wikidot.com">Ammon Allred&#039;s Online Classroom</a></h3>
+            <div class="desc">          
+              University of Toledo Philosophy Professor
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1752,34 +1763,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tradewithsaint.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradewithsaint.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://demonssouls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/demonssouls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tradewithsaint.wikidot.com">Trading With The Flow!!!</a></h3>
+            <h3><a target="_blank" href="http://demonssouls.wikidot.com">Demon&#039;s Souls English Wiki</a></h3>
             <div class="desc">          
-              The Art of Trading the NOW
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ko.scp-wiki.net">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ko.scp-wiki.net/80.jpg"/>
+            <a target="_blank" class="image" href="http://badwebcomics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/badwebcomics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ko.scp-wiki.net">SCP 재단</a></h3>
+            <h3><a target="_blank" href="http://badwebcomics.wikidot.com">The Bad Webcomics Wiki</a></h3>
             <div class="desc">          
-              확보, 격리, 보호
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://agiat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/agiat.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://agiat.wikidot.com">AGIAT</a></h3>
-            <div class="desc">          
-              Agencia global de investigación de amenazas taumatúrgicas
+              Improving our media, with hatred
             </div>
           </div>
         </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1607927776;
+        OZONE.request.timestamp = 1607949660;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,10 +1710,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blank-template.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blank-template.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-yerko-4.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-yerko-4.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blank-template.wikidot.com">Blank Template</a></h3>
+            <h3><a target="_blank" href="http://scp-yerko-4.wikidot.com">Yerko&#039;s Sandbox IV</a></h3>
+            <div class="desc">          
+              ¿Cuatro ya? LeL
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cgp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
+            <div class="desc">          
+              CGP Students
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://www.digitalvomit.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.digitalvomit.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://www.digitalvomit.com">Digital Vomit Records</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://managerzonemexico.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/managerzonemexico.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pfcuq.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pfcuq.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://managerzonemexico.wikidot.com">La Wiki de ManagerZone México</a></h3>
+            <h3><a target="_blank" href="http://pfcuq.wikidot.com">Pokémon Fan Club of UQ</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-pt-br.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-pt-br.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-pt-br.wikidot.com">Fundação SCP</a></h3>
-            <div class="desc">          
-              Filial Lusófona
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://parliamentarism.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/parliamentarism.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://parliamentarism.wikidot.com">Парламентаризм России</a></h3>
-            <div class="desc">          
-              Всё о парламенте и парламентариях
+              Spoopy
             </div>
           </div>
         </div>
