@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1608035915;
+        OZONE.request.timestamp = 1608057452;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1097,7 +1097,7 @@
 <li><a href="/scp-cn-1544">SCP-CN-1544</a> - 求道者</li>
 <li><a href="/scp-cn-1545">SCP-CN-1545</a> - 黎明前最黑的夜</li>
 <li><a href="/scp-cn-1546">SCP-CN-1546</a> - 傀偶</li>
-<li><a class="newpage" href="/scp-cn-1547">SCP-CN-1547</a> - 自我改变房间</li>
+<li><a href="/scp-cn-1547">SCP-CN-1547</a> - 陨石坑</li>
 <li><a href="/scp-cn-1548">SCP-CN-1548</a> - 宇宙海星</li>
 <li><a href="/scp-cn-1549">SCP-CN-1549</a> - 🎴大🔪🙀</li>
 <li><a href="/scp-cn-1550">SCP-CN-1550</a> - <span style="text-decoration: line-through;">切勿</span>多疑，<span style="text-decoration: line-through;">切勿</span>深思，<span style="text-decoration: line-through;">切勿</span>相击</li>
@@ -1121,7 +1121,7 @@
 <li><a class="newpage" href="/scp-cn-1568">SCP-CN-1568</a> - 肉食性真菌</li>
 <li><a href="/scp-cn-1569">SCP-CN-1569</a> - 开窍</li>
 <li><a href="/scp-cn-1570">SCP-CN-1570</a> - 战争之月</li>
-<li><a class="newpage" href="/scp-cn-1571">SCP-CN-1571</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1571">SCP-CN-1571</a> - 机械生物的骨架</li>
 <li><a class="newpage" href="/scp-cn-1572">SCP-CN-1572</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1573">SCP-CN-1573</a> - 特长收容措施</li>
 <li><a href="/scp-cn-1574">SCP-CN-1574</a> - 如果？</li>
@@ -1307,7 +1307,7 @@
 <li><a href="/scp-cn-1746">SCP-CN-1746</a> - 代号：希望之花</li>
 <li><a href="/scp-cn-1747">SCP-CN-1747</a> - 黄隧道……姑且如此</li>
 <li><a href="/scp-cn-1748">SCP-CN-1748</a> - 晚八点档红绿灯</li>
-<li><a href="/scp-cn-1749">SCP-CN-1749</a> - 琴中人</li>
+<li><a href="/scp-cn-1749">SCP-CN-1749</a> - 夜之余晖</li>
 <li><a href="/scp-cn-1750">SCP-CN-1750</a> - 让我们再来一次</li>
 <li><a href="/scp-cn-1751">SCP-CN-1751</a> - LandStunning睡眠买卖机。</li>
 <li><a href="/scp-cn-1752">SCP-CN-1752</a> - 杀戮童谣</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3860, 最后编辑于: <span class="odate time_1608034868 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">15 Dec 2020 12:21</span></div>
+                            <div id="page-info">页面版本: 3863, 最后编辑于: <span class="odate time_1608046345 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">15 Dec 2020 15:32</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scienceonlinelondon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scienceonlinelondon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hexhouse.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hexhouse.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scienceonlinelondon.wikidot.com">Science Online London</a></h3>
+            <h3><a target="_blank" href="http://hexhouse.wikidot.com">Hex House</a></h3>
             <div class="desc">          
-              How is the Web changing science?
+              A truly magical place...sort of.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fifabeapro360.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fifabeapro360.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://storychip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/storychip.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fifabeapro360.wikidot.com">Fifa Be A Pro 360</a></h3>
+            <h3><a target="_blank" href="http://storychip.wikidot.com">Story Chip</a></h3>
             <div class="desc">          
-              
+              Become a part of history, share your story.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpkosb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkosb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ah-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ah-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpkosb.wikidot.com">SB-KO2</a></h3>
+            <h3><a target="_blank" href="http://ah-sandbox.wikidot.com">HSB Foundation</a></h3>
             <div class="desc">          
-              SCP-KO 샌드박스 이호기
+              Hormress&#039;s Sandbox
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki.net.pl">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki.net.pl/80.jpg"/>
+            <a target="_blank" class="image" href="http://suffadv.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/suffadv.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki.net.pl">Fundacja SCP</a></h3>
+            <h3><a target="_blank" href="http://suffadv.wikidot.com">Sufficiently Advanced</a></h3>
             <div class="desc">          
-              Polska Filia SCP
+              A Game of the Far Future
             </div>
           </div>
         </div>
