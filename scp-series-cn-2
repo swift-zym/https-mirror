@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1608081129;
+        OZONE.request.timestamp = 1608100450;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1686,21 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thecollaboratory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thecollaboratory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://machinima138.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/machinima138.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thecollaboratory.wikidot.com">The Collaboratory</a></h3>
-            <div class="desc">          
-              at Colby Community College
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://anime-planet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/anime-planet.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://anime-planet.wikidot.com">Anime Planet</a></h3>
+            <h3><a target="_blank" href="http://machinima138.wikidot.com">Machinima 138</a></h3>
             <div class="desc">          
               
             </div>
@@ -1708,23 +1697,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.freesmug.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.freesmug.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.contraptor.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.contraptor.org/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.freesmug.org">FreeSMUG</a></h3>
+            <h3><a target="_blank" href="http://www.contraptor.org">Contraptor</a></h3>
             <div class="desc">          
-              Free Open Source Software Mac User Group
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://alfamedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alfamedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blackberrystorm.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackberrystorm.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://alfamedia.wikidot.com">Alfamedia</a></h3>
+            <h3><a target="_blank" href="http://blackberrystorm.wikidot.com">BlackBerry Storm Wiki</a></h3>
             <div class="desc">          
-              Alfabetización mediática para educadores
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scpvakfisandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfisandbox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scpvakfisandbox.wikidot.com">SCP Vakfı Sandbox</a></h3>
+            <div class="desc">          
+              Atış poligonu
             </div>
           </div>
         </div>
