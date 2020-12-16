@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1608057451;
+        OZONE.request.timestamp = 1608081365;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,45 +1685,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hexhouse.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hexhouse.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scienceonlinelondon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scienceonlinelondon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hexhouse.wikidot.com">Hex House</a></h3>
+            <h3><a target="_blank" href="http://scienceonlinelondon.wikidot.com">Science Online London</a></h3>
             <div class="desc">          
-              A truly magical place...sort of.
+              How is the Web changing science?
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://storychip.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/storychip.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://excelencia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/excelencia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://storychip.wikidot.com">Story Chip</a></h3>
+            <h3><a target="_blank" href="http://excelencia.wikidot.com">EXCELENCIA</a></h3>
             <div class="desc">          
-              Become a part of history, share your story.
+              exploring, describing and promoting  great websites!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ah-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ah-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://lulu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lulu.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ah-sandbox.wikidot.com">HSB Foundation</a></h3>
+            <h3><a target="_blank" href="http://lulu.wikidot.com">UK Wiki Lulu</a></h3>
             <div class="desc">          
-              Hormress&#039;s Sandbox
+              The website for the UK creators at Lulu.com
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://suffadv.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/suffadv.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fmiseria3.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmiseria3.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://suffadv.wikidot.com">Sufficiently Advanced</a></h3>
+            <h3><a target="_blank" href="http://fmiseria3.wikidot.com">Portalul Seriilor de Informatica</a></h3>
             <div class="desc">          
-              A Game of the Far Future
+              Facultatea de Matematica si Informatica, Universitatea din Bucuresti
             </div>
           </div>
         </div>
