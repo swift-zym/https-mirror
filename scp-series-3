@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1608208786;
+        OZONE.request.timestamp = 1608230213;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1450,7 +1450,7 @@
 <li><a href="/scp-2880">SCP-2880</a> - 萨瓦奇帝国</li>
 <li><a href="/scp-2881">SCP-2881</a> - 爬不上的树</li>
 <li><a href="/scp-2882">SCP-2882</a> - 为遥远的梦重塑自我</li>
-<li><a class="newpage" href="/scp-2883">SCP-2883</a> - A Rainbow, Holographic, Crystal Dinosaur</li>
+<li><a href="/scp-2883">SCP-2883</a> - 一个彩虹全息水晶恐龙</li>
 <li><a href="/scp-2884">SCP-2884</a> - 监控下的国家</li>
 <li><a href="/scp-2885">SCP-2885</a> - 他我之窗</li>
 <li><a href="/scp-2886">SCP-2886</a> - 星际跳跃火山</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 573, 最后编辑于: <span class="odate time_1606375970 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">26 Nov 2020 07:32</span></div>
+                            <div id="page-info">页面版本: 574, 最后编辑于: <span class="odate time_1608213382 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Dec 2020 13:56</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+7</span>)</a>
@@ -1710,21 +1710,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://narutomushrivalry.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/narutomushrivalry.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-sandbox2-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox2-zh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://narutomushrivalry.wikidot.com">Naruto Mush Rivalry</a></h3>
+            <h3><a target="_blank" href="http://scp-sandbox2-zh.wikidot.com">SCP繁中沙盒2.0</a></h3>
             <div class="desc">          
-              Ninja of the world, REJOICE!
+              生命之沙，繁星之盒
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://osx86.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/osx86.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://historynewmedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/historynewmedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://osx86.wikidot.com">InfiniteMac Wiki</a></h3>
+            <h3><a target="_blank" href="http://historynewmedia.wikidot.com">History in the New Media</a></h3>
+            <div class="desc">          
+              Digital Project Design in Archives and Public History
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scala.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scala.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scala.wikidot.com">Scala Geography Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wiki.mundohandball.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.mundohandball.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
+            <h3><a target="_blank" href="http://wiki.mundohandball.com">wikihandball</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
-            <div class="desc">          
-              and what they&#039;re trying to tell you
+              La wiki de Mundohandball.com
             </div>
           </div>
         </div>
