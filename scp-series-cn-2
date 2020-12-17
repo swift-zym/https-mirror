@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1608186827;
+        OZONE.request.timestamp = 1608208853;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1058,7 +1058,7 @@
 <li><a href="/scp-cn-1505">SCP-CN-1505</a> - 魔术or魔方？</li>
 <li><a href="/scp-cn-1506">SCP-CN-1506</a> - 恶意</li>
 <li><a href="/scp-cn-1507">SCP-CN-1507</a> - 神奇自热水壶！</li>
-<li><a href="/scp-cn-1508">SCP-CN-1508</a> - 啸鸣灵猴</li>
+<li><a class="newpage" href="/scp-cn-1508">SCP-CN-1508</a> - 啸鸣灵猴</li>
 <li><a href="/scp-cn-1509">SCP-CN-1509</a> - 苹果树</li>
 <li><a href="/scp-cn-1510">SCP-CN-1510</a> - 程序五；真知眼</li>
 <li><a href="/scp-cn-1511">SCP-CN-1511</a> - 雨中漫步</li>
@@ -1122,7 +1122,7 @@
 <li><a href="/scp-cn-1569">SCP-CN-1569</a> - 开窍</li>
 <li><a href="/scp-cn-1570">SCP-CN-1570</a> - 战争之月</li>
 <li><a href="/scp-cn-1571">SCP-CN-1571</a> - 机械生物的骨架</li>
-<li><a class="newpage" href="/scp-cn-1572">SCP-CN-1572</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1572">SCP-CN-1572</a> - 预定的流程</li>
 <li><a href="/scp-cn-1573">SCP-CN-1573</a> - 特长收容措施</li>
 <li><a href="/scp-cn-1574">SCP-CN-1574</a> - 如果？</li>
 <li><a href="/scp-cn-1575">SCP-CN-1575</a> - 最后遗愿</li>
@@ -1264,7 +1264,7 @@
 <li><a href="/scp-cn-1703">SCP-CN-1703</a> - 安息噩兆</li>
 <li><a href="/scp-cn-1704">SCP-CN-1704</a> - 製“雀”之蜂</li>
 <li><a href="/scp-cn-1705">SCP-CN-1705</a> - 卡布莱耶奶奶的今日厨房！</li>
-<li><a href="/scp-cn-1706">SCP-CN-1706</a> - 非生物实体</li>
+<li><a class="newpage" href="/scp-cn-1706">SCP-CN-1706</a> - 非生物实体</li>
 <li><a href="/scp-cn-1707">SCP-CN-1707</a> - 推背去归休</li>
 <li><a class="newpage" href="/scp-cn-1708">SCP-CN-1708</a> - 你的第一位入门级朋友</li>
 <li><a href="/scp-cn-1709">SCP-CN-1709</a> - 沉浸式交响现场™️</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3863, 最后编辑于: <span class="odate time_1608046345 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">15 Dec 2020 15:32</span></div>
+                            <div id="page-info">页面版本: 3864, 最后编辑于: <span class="odate time_1608207615 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Dec 2020 12:20</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://aqwwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aqwwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://aqwwiki.wikidot.com">AQW</a></h3>
+            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
             <div class="desc">          
-              AQWorlds Wiki
+              A World of Darkness Encyclopedia for Modern Nights
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darry.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
+            <h3><a target="_blank" href="http://darry.wikidot.com">Darry Container</a></h3>
             <div class="desc">          
-              OpenRPG Dungeons and Dragons 3.5
+              We know our way out.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.terrasdeportugal.pt">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.terrasdeportugal.pt/80.jpg"/>
+            <a target="_blank" class="image" href="http://under-welkin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/under-welkin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.terrasdeportugal.pt">Terras de Portugal</a></h3>
+            <h3><a target="_blank" href="http://under-welkin.wikidot.com">天穹敻远</a></h3>
             <div class="desc">          
-              Portugal em pormenor!
+              列星安陈，众线何参
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mainframes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mainframes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.trumpetexercises.net">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.trumpetexercises.net/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mainframes.wikidot.com">Mainframes</a></h3>
+            <h3><a target="_blank" href="http://www.trumpetexercises.net">Trumpet exercise database</a></h3>
             <div class="desc">          
-              
+              for trumpet players, students and teachers
             </div>
           </div>
         </div>
