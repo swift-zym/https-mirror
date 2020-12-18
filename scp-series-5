@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1608230030;
+        OZONE.request.timestamp = 1608254363;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1741,45 +1741,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thegamerdome.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thegamerdome.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-jp-sandbox3.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-sandbox3.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thegamerdome.wikidot.com">The Gamer Dome</a></h3>
+            <h3><a target="_blank" href="http://scp-jp-sandbox3.wikidot.com">SCP-JPサンドボックスⅢ</a></h3>
             <div class="desc">          
-              Community Game Design Projects
+              a.k.a 下書きフォーラム v2
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kalgati.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kalgati.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mis213-2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mis213-2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kalgati.wikidot.com">क्षत्रिय राजपूत इतिहास</a></h3>
+            <h3><a target="_blank" href="http://mis213-2.wikidot.com">MIS 213-2</a></h3>
             <div class="desc">          
-              क्षत्रिय राजपूत
+              Intro to IS
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-mc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-mc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://defunct-elitequestworlds.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/defunct-elitequestworlds.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki-mc.wikidot.com">SCP基金会Minecraft分部</a></h3>
+            <h3><a target="_blank" href="http://defunct-elitequestworlds.wikidot.com">EliteQuest Worlds</a></h3>
             <div class="desc">          
-              控制，收容，保护
+              Eqwwiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://livesupport.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/livesupport.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://marvelrevolution.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marvelrevolution.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://livesupport.wikidot.com">Wikidot Live Support</a></h3>
+            <h3><a target="_blank" href="http://marvelrevolution.wikidot.com">Marvel Revolution MUCK</a></h3>
             <div class="desc">          
-              
+              Join the Revolution
             </div>
           </div>
         </div>

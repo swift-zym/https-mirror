@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1608229962;
+        OZONE.request.timestamp = 1608254148;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1091,7 +1091,7 @@
 <li><a class="newpage" href="/scp-cn-1538">SCP-CN-1538</a> - 改变你自己？</li>
 <li><a href="/scp-cn-1539">SCP-CN-1539</a> - 登高朝圣</li>
 <li><a href="/scp-cn-1540">SCP-CN-1540</a> - dado稀饭听摇滚</li>
-<li><a href="/scp-cn-1541">SCP-CN-1541</a> - &quot;我们曾守望在这此&quot;</li>
+<li><a class="newpage" href="/scp-cn-1541">SCP-CN-1541</a> - &quot;我们曾守望在这此&quot;</li>
 <li><a href="/scp-cn-1542">SCP-CN-1542</a> - ♬祝你生日快乐♬</li>
 <li><a href="/scp-cn-1543">SCP-CN-1543</a> - 我所忠心的</li>
 <li><a href="/scp-cn-1544">SCP-CN-1544</a> - 求道者</li>
@@ -1117,7 +1117,7 @@
 <li><a href="/scp-cn-1564">SCP-CN-1564</a> - 香“蝽”树</li>
 <li><a href="/scp-cn-1565">SCP-CN-1565</a> - 后人得之传此</li>
 <li><a class="newpage" href="/scp-cn-1566">SCP-CN-1566</a> - [禁止访问]</li>
-<li><a href="/scp-cn-1567">SCP-CN-1567</a> - 你头发疼是因为你用了……</li>
+<li><a class="newpage" href="/scp-cn-1567">SCP-CN-1567</a> - 你头发疼是因为你用了……</li>
 <li><a class="newpage" href="/scp-cn-1568">SCP-CN-1568</a> - 肉食性真菌</li>
 <li><a href="/scp-cn-1569">SCP-CN-1569</a> - 开窍</li>
 <li><a href="/scp-cn-1570">SCP-CN-1570</a> - 战争之月</li>
@@ -1217,7 +1217,7 @@
 <li><a href="/scp-cn-1660">SCP-CN-1660</a> - ███的诞生</li>
 <li><a href="/scp-cn-1661">SCP-CN-1661</a> - 何患无辞</li>
 <li><a href="/scp-cn-1662">SCP-CN-1662</a> - 瀕臨絕種動物專用獸餌</li>
-<li><a class="newpage" href="/scp-cn-1663">SCP-CN-1663</a> - <span style="text-decoration: line-through;">我和人类的区别好像只有我高了一点儿和手长了一点儿</span></li>
+<li><a href="/scp-cn-1663">SCP-CN-1663</a> - “女人”</li>
 <li><a href="/scp-cn-1664">SCP-CN-1664</a> - 自知之碑</li>
 <li><a href="/scp-cn-1665">SCP-CN-1665</a> - dado的核爆失恋药</li>
 <li><a href="/scp-cn-1666">SCP-CN-1666</a> - 帷幕破碎</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3864, 最后编辑于: <span class="odate time_1608207615 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Dec 2020 12:20</span></div>
+                            <div id="page-info">页面版本: 3865, 最后编辑于: <span class="odate time_1608247130 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Dec 2020 23:18</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
@@ -1686,32 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://castleage.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/castleage.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://globalclimatechange.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/globalclimatechange.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://castleage.wikidot.com">Castle Age Wiki</a></h3>
-            <div class="desc">          
-              Knowledge Database
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://marvelrevolution.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marvelrevolution.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://marvelrevolution.wikidot.com">Marvel Revolution MUCK</a></h3>
-            <div class="desc">          
-              Join the Revolution
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://demonssouls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/demonssouls.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://demonssouls.wikidot.com">Demon&#039;s Souls English Wiki</a></h3>
+            <h3><a target="_blank" href="http://globalclimatechange.wikidot.com">Global Climate Destabilization</a></h3>
             <div class="desc">          
               
             </div>
@@ -1719,12 +1697,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://schrijven.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/schrijven.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-mc-sandbox-pro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-mc-sandbox-pro.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://schrijven.wikidot.com">www.schrijven.wikidot.com</a></h3>
+            <h3><a target="_blank" href="http://scp-mc-sandbox-pro.wikidot.com">SCP基金会Minecraft分部沙盒</a></h3>
             <div class="desc">          
-              Voor teksten, artikelen, verhalen en poëzie
+              宇宙之上，基岩之下
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://mainframes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mainframes.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://mainframes.wikidot.com">Mainframes</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://kharon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kharon.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://kharon.wikidot.com">CEC Kharon</a></h3>
+            <div class="desc">          
+              bsgkharon.com 5102
             </div>
           </div>
         </div>
