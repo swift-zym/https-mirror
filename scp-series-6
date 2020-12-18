@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1608295461;
+        OZONE.request.timestamp = 1608317009;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -618,7 +618,7 @@
 <li><a href="/scp-5080">SCP-5080</a> - 宇宙背景辐射渗透物</li>
 <li><a class="newpage" href="/scp-5081">SCP-5081</a> - Snacko™ Brand Delectable Edibles</li>
 <li><a href="/scp-5082">SCP-5082</a> - <tt>黑线计划</tt></li>
-<li><a class="newpage" href="/scp-5083">SCP-5083</a> - [拒绝访问]</li>
+<li><a href="/scp-5083">SCP-5083</a> - [拒绝访问]</li>
 <li><a href="/scp-5084">SCP-5084</a> - 哭泣的番茄</li>
 <li><a href="/scp-5085">SCP-5085</a> - 烧痕</li>
 <li><a class="newpage" href="/scp-5086">SCP-5086</a> -一顿美餐的好处</li>
@@ -709,7 +709,7 @@
 <li><a class="newpage" href="/scp-5167">SCP-5167</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5168">SCP-5168</a> - [拒绝访问]</li>
 <li><a href="/scp-5169">SCP-5169</a> - 劲爆充气娃娃</li>
-<li><a class="newpage" href="/scp-5170">SCP-5170</a> - [拒绝访问]</li>
+<li><a href="/scp-5170">SCP-5170</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5171">SCP-5171</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5172">SCP-5172</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5173">SCP-5173</a> - Aphelion's Rest</li>
@@ -722,7 +722,7 @@
 <li><a class="newpage" href="/scp-5180">SCP-5180</a> - The Federation Awaits, Anomalous Apes</li>
 <li><a class="newpage" href="/scp-5181">SCP-5181</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5182">SCP-5182</a> - [拒绝访问]</li>
-<li><a href="/scp-5183">SCP-5183</a> - Under the Surface</li>
+<li><a href="/scp-5183">SCP-5183</a> - 伪装之下</li>
 <li><a class="newpage" href="/scp-5184">SCP-5184</a> - [拒绝访问]</li>
 <li><a href="/scp-5185">SCP-5185</a> - dado的好蜘蛛</li>
 <li><a class="newpage" href="/scp-5186">SCP-5186</a> - The Depths That Hunger</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 348, 最后编辑于: <span class="odate time_1608212894 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Dec 2020 13:48</span></div>
+                            <div id="page-info">页面版本: 349, 最后编辑于: <span class="odate time_1608300135 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Dec 2020 14:02</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://videoart.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/videoart.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki-down.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-down.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://videoart.wikidot.com">Interactive Media Design: Theory</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki-down.wikidot.com">DDD基金会</a></h3>
             <div class="desc">          
-              
+              差评 差评 差评
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://java.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/java.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hiddenprojectwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hiddenprojectwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://java.wikidot.com">Learn Java!</a></h3>
+            <h3><a target="_blank" href="http://hiddenprojectwiki.wikidot.com">Hidden Project</a></h3>
             <div class="desc">          
-              No... it&#039;s not coffee.
+              Welcome to Hidden Project Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://utau.wiki">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/utau.wiki/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
+            <h3><a target="_blank" href="http://utau.wiki">UTAU Wiki 2.0</a></h3>
             <div class="desc">          
-              
+              Wiki for the UTAU voice synthesis software.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sanjaygarg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sanjaygarg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://echobazaar.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/echobazaar.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sanjaygarg.wikidot.com">Dr. Sanjay Garg</a></h3>
+            <h3><a target="_blank" href="http://echobazaar.wikidot.com">Echo Bazaar</a></h3>
             <div class="desc">          
-              
+              Come to Fallen London
             </div>
           </div>
         </div>
