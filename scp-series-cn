@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1608381632;
+        OZONE.request.timestamp = 1608402766;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,32 +1685,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sandbox.scp-wiki.kr">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sandbox.scp-wiki.kr/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls2.wikidot.com">DarkSouls II Wiki</a></h3>
+            <h3><a target="_blank" href="http://sandbox.scp-wiki.kr">SB-KO1</a></h3>
             <div class="desc">          
-              #1 source of fan provided tips, strategies, FAQs, and information about Dark Souls II
+              SCP-KO 샌드박스 초호기
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://water-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/water-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bisgmit.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bisgmit.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://water-wiki.wikidot.com">水k网站(目前待删)</a></h3>
-            <div class="desc">          
-              本系统待处理中，请稍候再进行访问
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://r.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/r.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://r.wikidot.com">Wikidot URL shortener</a></h3>
+            <h3><a target="_blank" href="http://bisgmit.wikidot.com">Bisgmit</a></h3>
             <div class="desc">          
               
             </div>
@@ -1718,12 +1707,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rpc-tr-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-tr-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ubmh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rpc-tr-wiki.wikidot.com">RPC</a></h3>
+            <h3><a target="_blank" href="http://ubmh.wikidot.com">地下黑市</a></h3>
             <div class="desc">          
-              Araştır, Koru, Sakla
+              属于闲人的社区
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://elogee-chamber.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/elogee-chamber.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://elogee-chamber.wikidot.com">Elogee Chamber</a></h3>
+            <div class="desc">          
+              Ike for President
             </div>
           </div>
         </div>
