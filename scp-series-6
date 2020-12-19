@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1608359708;
+        OZONE.request.timestamp = 1608381784;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1031,7 +1031,7 @@
 <li><a href="/scp-5477">SCP-5477</a> - 断背山迷宫</li>
 <li><a class="newpage" href="/scp-5478">SCP-5478</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5479">SCP-5479</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5480">SCP-5480</a> - [拒绝访问]</li>
+<li><a href="/scp-5480">SCP-5480</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5481">SCP-5481</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5482">SCP-5482</a> - [拒绝访问]</li>
 <li><a href="/scp-5483">SCP-5483</a> - 海床收录措施</li>
@@ -1710,21 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fed20.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fed20.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cicnsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cicnsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fed20.wikidot.com">Fire Emblem d20</a></h3>
+            <h3><a target="_blank" href="http://cicnsandbox.wikidot.com">CI中文沙盒站</a></h3>
             <div class="desc">          
-              A tabletop version of the RPG/Strategy game!
+              博观而约取，厚积而薄发
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ibhistory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibhistory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://theskyremains.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theskyremains.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ibhistory.wikidot.com">IB History</a></h3>
+            <h3><a target="_blank" href="http://theskyremains.wikidot.com">The Sky Remains</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,21 +1732,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://stallmanism.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/stallmanism.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpexplained.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpexplained.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://stallmanism.wikidot.com">Stallmanism</a></h3>
+            <h3><a target="_blank" href="http://scpexplained.wikidot.com">SCP Explained</a></h3>
             <div class="desc">          
-              a Religion for the 21st Century
+              Simplify, Condense, Paraphrase
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wfh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wfh.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.contraptor.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.contraptor.org/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wfh.wikidot.com">Women&#039;s Film History Network</a></h3>
+            <h3><a target="_blank" href="http://www.contraptor.org">Contraptor</a></h3>
             <div class="desc">          
               
             </div>

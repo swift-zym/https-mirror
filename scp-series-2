@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1608359880;
+        OZONE.request.timestamp = 1608381647;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1722,34 +1722,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://media.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/media.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://theskyremains.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theskyremains.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://media.wikidot.com">My, media</a></h3>
+            <h3><a target="_blank" href="http://theskyremains.wikidot.com">The Sky Remains</a></h3>
             <div class="desc">          
-              by the people, for the people
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.capnbarefoot.info">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.capnbarefoot.info/80.jpg"/>
+            <a target="_blank" class="image" href="http://tauren.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tauren.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.capnbarefoot.info">Captain Barefoot</a></h3>
+            <h3><a target="_blank" href="http://tauren.wikidot.com">Tauren Ate My Grandma</a></h3>
             <div class="desc">          
-              The naturist guide to the Greek Islands
+              has moved!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://generals.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/generals.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://trap.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trap.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://generals.wikidot.com">Generalia</a></h3>
+            <h3><a target="_blank" href="http://trap.wikidot.com">T.R.A.P.</a></h3>
             <div class="desc">          
-              your one-stop shop for all things generals.
+              Target. Recover. Apprehend. Protect.
             </div>
           </div>
         </div>
