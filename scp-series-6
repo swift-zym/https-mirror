@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1608340766;
+        OZONE.request.timestamp = 1608359708;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -709,7 +709,7 @@
 <li><a class="newpage" href="/scp-5167">SCP-5167</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5168">SCP-5168</a> - [拒绝访问]</li>
 <li><a href="/scp-5169">SCP-5169</a> - 劲爆充气娃娃</li>
-<li><a href="/scp-5170">SCP-5170</a> - [拒绝访问]</li>
+<li><a href="/scp-5170">SCP-5170</a> - <span style="color: #191970;font-family: &quot;Times New Roman&quot;;"><strong>相啸魔先生</strong></span> 💼⚖️</li>
 <li><a class="newpage" href="/scp-5171">SCP-5171</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5172">SCP-5172</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5173">SCP-5173</a> - Aphelion's Rest</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 349, 最后编辑于: <span class="odate time_1608300135 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Dec 2020 14:02</span></div>
+                            <div id="page-info">页面版本: 350, 最后编辑于: <span class="odate time_1608359653 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">19 Dec 2020 06:34</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://borradores-scp-es.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/borradores-scp-es.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fed20.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fed20.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://borradores-scp-es.wikidot.com">Borradores SCP-ES</a></h3>
+            <h3><a target="_blank" href="http://fed20.wikidot.com">Fire Emblem d20</a></h3>
             <div class="desc">          
-              Sitio de borradores para miembros de la Fundación SCP-ES
+              A tabletop version of the RPG/Strategy game!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://prmagma-scpsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/prmagma-scpsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ibhistory.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibhistory.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://prmagma-scpsandbox.wikidot.com">Centre de Recherche</a></h3>
+            <h3><a target="_blank" href="http://ibhistory.wikidot.com">IB History</a></h3>
             <div class="desc">          
-              S&#039;améliorer, Corriger, Partager
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikirmaphil.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikirmaphil.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://stallmanism.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/stallmanism.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikirmaphil.wikidot.com">WikiRMAPhil</a></h3>
+            <h3><a target="_blank" href="http://stallmanism.wikidot.com">Stallmanism</a></h3>
             <div class="desc">          
-              Community Site for UU RMA Philosophy Students
+              a Religion for the 21st Century
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://masonic.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/masonic.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wfh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wfh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://masonic.wikidot.com">Masonic</a></h3>
+            <h3><a target="_blank" href="http://wfh.wikidot.com">Women&#039;s Film History Network</a></h3>
             <div class="desc">          
-              A Freemason&#039;s Compendium
+              
             </div>
           </div>
         </div>

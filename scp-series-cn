@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1608340527;
+        OZONE.request.timestamp = 1608359995;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,10 +1685,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://copernicon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/copernicon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox-pl.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox-pl.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://copernicon.wikidot.com">Copernicon 2010</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox-pl.wikidot.com">SCP-PL Sandbox II</a></h3>
+            <div class="desc">          
+              Do pracy rodacy!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://neosteam.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/neosteam.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://neosteam.wikidot.com">Neo Steam Wiki</a></h3>
+            <div class="desc">          
+              May 2008 to February 2012
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://estudianteseconomiauned.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/estudianteseconomiauned.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://estudianteseconomiauned.wikidot.com">Estudiantes de economía de la uned</a></h3>
             <div class="desc">          
               
             </div>
@@ -1696,34 +1718,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://connorscampaigns.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/connorscampaigns.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://vusb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vusb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://connorscampaigns.wikidot.com">Connors Campaigns</a></h3>
+            <h3><a target="_blank" href="http://vusb.wikidot.com">V-USB</a></h3>
             <div class="desc">          
-              My dashboard for RPGs, Music, Sports, and more.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpvnsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvnsandbox.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpvnsandbox.wikidot.com">SCP-VN Sandbox</a></h3>
-            <div class="desc">          
-              Khu vực thử nghiệm
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pagi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pagi.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pagi.wikidot.com">pagi</a></h3>
-            <div class="desc">          
-              
+              A Firmware-Only USB Driver for the AVR
             </div>
           </div>
         </div>
