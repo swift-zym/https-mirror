@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1608427196;
+        OZONE.request.timestamp = 1608445946;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,10 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ischool.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ischool.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ds10.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds10.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ischool.wikidot.com">iSchool High</a></h3>
+            <h3><a target="_blank" href="http://ds10.wikidot.com">מבני נתונים</a></h3>
+            <div class="desc">          
+              סמסטר ב&#039;, תש&quot;ע
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://pt851.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pt851.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://pt851.wikidot.com">Cell Biology of Disease and Exercise</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nagiros.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nagiros.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-foundation-origins.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-foundation-origins.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nagiros.wikidot.com">The Crab Den</a></h3>
+            <h3><a target="_blank" href="http://scp-foundation-origins.wikidot.com">Horizons</a></h3>
             <div class="desc">          
-              We Vibing 🦀
+              The RP about how it all continued... maybe.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://roseflood-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roseflood-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://harvey-capital-lectures.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/harvey-capital-lectures.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://roseflood-sandbox.wikidot.com">RoseFlood</a></h3>
+            <h3><a target="_blank" href="http://harvey-capital-lectures.wikidot.com">Harvey Capital Lectures</a></h3>
             <div class="desc">          
-              The best of diluvian writing.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://tibasicdev.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tibasicdev.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://tibasicdev.wikidot.com">TI-Basic Developer</a></h3>
-            <div class="desc">          
-              The TI-Basic Information Repository
+              Crowdsourced Transcription and Translation Project
             </div>
           </div>
         </div>

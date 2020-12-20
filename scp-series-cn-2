@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1608426982;
+        OZONE.request.timestamp = 1608446022;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -876,7 +876,7 @@
 <li><a href="/scp-cn-1331">SCP-CN-1331</a> - 直至死亡將我們分開</li>
 <li><a href="/scp-cn-1332">SCP-CN-1332</a> - 东方三博士</li>
 <li><a href="/scp-cn-1333">SCP-CN-1333</a> - 肢体</li>
-<li><a href="/scp-cn-1334">SCP-CN-1334</a> - <span style="text-decoration: line-through;">超赞的保温杯</span> 壶中毕方羽</li>
+<li><a class="newpage" href="/scp-cn-1334">SCP-CN-1334</a> - <span style="text-decoration: line-through;">超赞的保温杯</span> 壶中毕方羽</li>
 <li><a href="/scp-cn-1335">SCP-CN-1335</a> - 外丹</li>
 <li><a href="/scp-cn-1336">SCP-CN-1336</a> - 面对愚昧</li>
 <li><a href="/scp-cn-1337">SCP-CN-1337</a> - 小黑屋</li>
@@ -1058,7 +1058,7 @@
 <li><a href="/scp-cn-1505">SCP-CN-1505</a> - 魔术or魔方？</li>
 <li><a href="/scp-cn-1506">SCP-CN-1506</a> - 恶意</li>
 <li><a href="/scp-cn-1507">SCP-CN-1507</a> - 神奇自热水壶！</li>
-<li><a class="newpage" href="/scp-cn-1508">SCP-CN-1508</a> - 啸鸣灵猴</li>
+<li><a href="/scp-cn-1508">SCP-CN-1508</a> - 如意手镯</li>
 <li><a href="/scp-cn-1509">SCP-CN-1509</a> - 苹果树</li>
 <li><a href="/scp-cn-1510">SCP-CN-1510</a> - 程序五；真知眼</li>
 <li><a href="/scp-cn-1511">SCP-CN-1511</a> - 雨中漫步</li>
@@ -1340,7 +1340,7 @@
 <li><a href="/scp-cn-1779">SCP-CN-1779</a> - 迷城“The Lost City”</li>
 <li><a href="/scp-cn-1780">SCP-CN-1780</a> - 一二三，木头人</li>
 <li><a href="/scp-cn-1781">SCP-CN-1781</a> - 白垩纪制造</li>
-<li><a href="/scp-cn-1782">SCP-CN-1782</a> - 活性病毒</li>
+<li><a class="newpage" href="/scp-cn-1782">SCP-CN-1782</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1783">SCP-CN-1783</a> - 祈生花祝</li>
 <li><a href="/scp-cn-1784">SCP-CN-1784</a> - 异常天气现象（名称暂定）</li>
 <li><a href="/scp-cn-1785">SCP-CN-1785</a> - 温度是唯一的谎言</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3871, 最后编辑于: <span class="odate time_1608424291 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Dec 2020 00:31</span></div>
+                            <div id="page-info">页面版本: 3873, 最后编辑于: <span class="odate time_1608434008 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Dec 2020 03:13</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
@@ -1686,21 +1686,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://media.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/media.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://snowleopard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snowleopard.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://media.wikidot.com">My, media</a></h3>
+            <h3><a target="_blank" href="http://snowleopard.wikidot.com">Snow Leopard Compatibility</a></h3>
             <div class="desc">          
-              by the people, for the people
+              Which apps work with Mac OS X 10.6?
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://theskyremains.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theskyremains.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://jinsi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jinsi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://theskyremains.wikidot.com">The Sky Remains</a></h3>
+            <h3><a target="_blank" href="http://jinsi.wikidot.com">AckySHINE MiniSites | Best of 2020</a></h3>
             <div class="desc">          
               
             </div>
@@ -1708,23 +1708,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://magiamesterei.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magiamesterei.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kharon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kharon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://magiamesterei.wikidot.com">Mágia Mesterei Wiki</a></h3>
+            <h3><a target="_blank" href="http://kharon.wikidot.com">CEC Kharon</a></h3>
             <div class="desc">          
-              Segítség az online játékhoz
+              bsgkharon.com 5102
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dotflow.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dotflow.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://redsite.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/redsite.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dotflow.wikidot.com">.flow</a></h3>
+            <h3><a target="_blank" href="http://redsite.wikidot.com">RedPlay Wiki</a></h3>
             <div class="desc">          
-              Rusting Away
+              redplaywiki
             </div>
           </div>
         </div>
