@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1608402766;
+        OZONE.request.timestamp = 1608427108;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,45 +1685,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sandbox.scp-wiki.kr">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sandbox.scp-wiki.kr/80.jpg"/>
+            <a target="_blank" class="image" href="http://hfwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hfwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sandbox.scp-wiki.kr">SB-KO1</a></h3>
+            <h3><a target="_blank" href="http://hfwiki.wikidot.com">HammerfallWiki</a></h3>
             <div class="desc">          
-              SCP-KO 샌드박스 초호기
+              A Wiki for Hammerfall RPG on Facebook and Myspace
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bisgmit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bisgmit.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://roseflood-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roseflood-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bisgmit.wikidot.com">Bisgmit</a></h3>
+            <h3><a target="_blank" href="http://roseflood-sandbox.wikidot.com">RoseFlood</a></h3>
             <div class="desc">          
-              
+              The best of diluvian writing.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ubmh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmh.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chrysaliswiki.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ubmh.wikidot.com">地下黑市</a></h3>
+            <h3><a target="_blank" href="http://chrysaliswiki.com">Chrysalis</a></h3>
             <div class="desc">          
-              属于闲人的社区
+              A Final Fantasy Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://elogee-chamber.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/elogee-chamber.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://swageofmight.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/swageofmight.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://elogee-chamber.wikidot.com">Elogee Chamber</a></h3>
+            <h3><a target="_blank" href="http://swageofmight.wikidot.com">Star Wars: Age of Might</a></h3>
             <div class="desc">          
-              Ike for President
+              My Star Wars Saga
             </div>
           </div>
         </div>
