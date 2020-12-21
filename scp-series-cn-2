@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1608489376;
+        OZONE.request.timestamp = 1608514162;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1686,34 +1686,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://caughtnotsleeping.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caughtnotsleeping.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.hackingthursday.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.hackingthursday.org/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://caughtnotsleeping.wikidot.com">CaughtNotSleeping</a></h3>
+            <h3><a target="_blank" href="http://www.hackingthursday.org">Hacking Thursday</a></h3>
             <div class="desc">          
-              It&#039;s just a game...It&#039;s just a game...
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fasa-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fasa-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://jquery-easyui.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jquery-easyui.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fasa-sandbox.wikidot.com">FASA Sandbox</a></h3>
+            <h3><a target="_blank" href="http://jquery-easyui.wikidot.com">jQuery EasyUI</a></h3>
             <div class="desc">          
-              For Authoring Strange Anomalies
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://gurpswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gurpswiki.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://gurpswiki.wikidot.com">GURPS Repository</a></h3>
-            <div class="desc">          
-              A collection for your GURPS needs
+              easyui help you build your web page easily!
             </div>
           </div>
         </div>
@@ -1725,6 +1714,17 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
             <h3><a target="_blank" href="http://www.music-industrapedia.com">Music Industrapedia</a></h3>
             <div class="desc">          
               A Legacy of your Working Life in the Music Industry
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://wikiethica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiethica.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://wikiethica.wikidot.com">WikiEthica</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>

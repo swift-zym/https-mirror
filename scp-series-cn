@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1608489299;
+        OZONE.request.timestamp = 1608514398;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,45 +1685,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ds09.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds09.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://voyage34.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/voyage34.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ds09.wikidot.com">Data Structures</a></h3>
+            <h3><a target="_blank" href="http://voyage34.wikidot.com">+VOYAGE34+</a></h3>
+            <div class="desc">          
+              Is this trip really necessary?
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://java.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/java.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://java.wikidot.com">Learn Java!</a></h3>
+            <div class="desc">          
+              No... it&#039;s not coffee.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://johnmerritt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/johnmerritt.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://johnmerritt.wikidot.com">johnmerritt</a></h3>
+            <div class="desc">          
+              social studies
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://jinsi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jinsi.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://jinsi.wikidot.com">AckySHINE MiniSites | Best of 2020</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://keramik.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/keramik.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://keramik.wikidot.com">Keramiker - fabriker - stämplar och signaturer</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
-            <div class="desc">          
-              実験、実験、爆発
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ibphysicsstuff.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibphysicsstuff.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ibphysicsstuff.wikidot.com">IB Physics Stuff</a></h3>
-            <div class="desc">          
-              - Wikified -
             </div>
           </div>
         </div>
