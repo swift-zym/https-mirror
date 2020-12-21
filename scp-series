@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1608514172;
+        OZONE.request.timestamp = 1608532793;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,21 +1709,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kalgati.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kalgati.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://calu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/calu.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kalgati.wikidot.com">क्षत्रिय राजपूत इतिहास</a></h3>
-            <div class="desc">          
-              क्षत्रिय राजपूत
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://androidalchemy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/androidalchemy.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://androidalchemy.wikidot.com">Android Alchemy</a></h3>
+            <h3><a target="_blank" href="http://calu.wikidot.com">CalU Secondary Education Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1731,21 +1720,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://multiverse-crisis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/multiverse-crisis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.contraptor.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.contraptor.org/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://multiverse-crisis.wikidot.com">THIS WIKI CLOSED</a></h3>
+            <h3><a target="_blank" href="http://www.contraptor.org">Contraptor</a></h3>
             <div class="desc">          
-              Current Wiki @ multiversemush.com
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fallout2online.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fallout2online.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hswiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fallout2online.wikidot.com">Fallout Online: Requiem</a></h3>
+            <h3><a target="_blank" href="http://hswiki.wikidot.com">.</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ds2009a.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds2009a.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ds2009a.wikidot.com">Data Structures</a></h3>
             <div class="desc">          
               
             </div>
