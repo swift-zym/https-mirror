@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1608686521;
+        OZONE.request.timestamp = 1608705858;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,10 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bilbreyapwh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bilbreyapwh.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cunefc2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefc2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bilbreyapwh.wikidot.com">Mr. Bilbrey&#039;s AP World History</a></h3>
+            <h3><a target="_blank" href="http://cunefc2.wikidot.com">CUNEF Group C2</a></h3>
+            <div class="desc">          
+              For Your Work, Opinions and Discoveries!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://livesupport.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/livesupport.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://livesupport.wikidot.com">Wikidot Live Support</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pedhemoncreview.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pedhemoncreview.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://randomnautica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/randomnautica.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pedhemoncreview.wikidot.com">Pediatric Hematology &amp; Oncology Certification Review</a></h3>
+            <h3><a target="_blank" href="http://randomnautica.wikidot.com">Hearts of Randomnautica Wiki</a></h3>
+            <div class="desc">          
+              An interesting realm
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://green-house.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/green-house.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://green-house.wikidot.com">The Green House Wiki</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://mis213-2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mis213-2.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://mis213-2.wikidot.com">MIS 213-2</a></h3>
-            <div class="desc">          
-              Intro to IS
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://celesia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celesia.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://celesia.wikidot.com">Legends of Celesia</a></h3>
-            <div class="desc">          
-              A D&amp;D 3.5/Pathfinder Campaign
             </div>
           </div>
         </div>

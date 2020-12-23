@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1608686724;
+        OZONE.request.timestamp = 1608705704;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1217,7 +1217,7 @@
 <li><a href="/scp-cn-1660">SCP-CN-1660</a> - ███的诞生</li>
 <li><a href="/scp-cn-1661">SCP-CN-1661</a> - 何患无辞</li>
 <li><a href="/scp-cn-1662">SCP-CN-1662</a> - 瀕臨絕種動物專用獸餌</li>
-<li><a href="/scp-cn-1663">SCP-CN-1663</a> - “女人”</li>
+<li><a class="newpage" href="/scp-cn-1663">SCP-CN-1663</a> - “女人”</li>
 <li><a href="/scp-cn-1664">SCP-CN-1664</a> - 自知之碑</li>
 <li><a href="/scp-cn-1665">SCP-CN-1665</a> - dado的核爆失恋药</li>
 <li><a href="/scp-cn-1666">SCP-CN-1666</a> - 帷幕破碎</li>
@@ -1317,7 +1317,7 @@
 <li><a href="/scp-cn-1756">SCP-CN-1756</a> - 臆想灾难</li>
 <li><a href="/scp-cn-1757">SCP-CN-1757</a> - “墓志铭”</li>
 <li><a href="/scp-cn-1758">SCP-CN-1758</a> - 古战场</li>
-<li><a class="newpage" href="/scp-cn-1759">SCP-CN-1759</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1759">SCP-CN-1759</a> - 超印象派</li>
 <li><a href="/scp-cn-1760">SCP-CN-1760</a> - 谢谢惠顾</li>
 <li><a href="/scp-cn-1761">SCP-CN-1761</a> - 夺权</li>
 <li><a href="/scp-cn-1762">SCP-CN-1762</a> - <span style="text-decoration: line-through;">道路千万条，回家第一条</span></li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3877, 最后编辑于: <span class="odate time_1608562587 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Dec 2020 14:56</span></div>
+                            <div id="page-info">页面版本: 3878, 最后编辑于: <span class="odate time_1608687688 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Dec 2020 01:41</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
@@ -1686,43 +1686,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fondation-nsb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondation-nsb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://morphopedics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morphopedics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fondation-nsb.wikidot.com">Fondation NSB</a></h3>
+            <h3><a target="_blank" href="http://morphopedics.wikidot.com">Morphopedics</a></h3>
             <div class="desc">          
-              Branche non-officielle de nico_s_Block
+              Where Technology and Orthopedics Collides
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ibphysicsstuff.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibphysicsstuff.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/samvedna.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ibphysicsstuff.wikidot.com">IB Physics Stuff</a></h3>
+            <h3><a target="_blank" href="http://samvedna.wikidot.com">Samvedna Network</a></h3>
             <div class="desc">          
-              - Wikified -
+              Collaborative e-learning for children
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pofomultiquiz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pofomultiquiz.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scienceonlinelondon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scienceonlinelondon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pofomultiquiz.wikidot.com">Pofo MultiQuiz</a></h3>
+            <h3><a target="_blank" href="http://scienceonlinelondon.wikidot.com">Science Online London</a></h3>
             <div class="desc">          
-              
+              How is the Web changing science?
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://xanadu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/xanadu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aetherium.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aetherium.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://xanadu.wikidot.com">Xanadu Weyr</a></h3>
+            <h3><a target="_blank" href="http://aetherium.wikidot.com">Aetherium Enterprise</a></h3>
             <div class="desc">          
               
             </div>
