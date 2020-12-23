@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1608705719;
+        OZONE.request.timestamp = 1608727683;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1741,45 +1741,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://simtrackipedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/simtrackipedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://waywardsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/waywardsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://simtrackipedia.wikidot.com">SIMTrackipedia</a></h3>
+            <h3><a target="_blank" href="http://waywardsandbox.wikidot.com">Wayward Society Sandbox</a></h3>
             <div class="desc">          
-              A collection of tutorials for Bob&#039;s Track Builder, XPacker, and other related programs
+              Even secret societies need to draft.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fasa-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fasa-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
+            <h3><a target="_blank" href="http://fasa-sandbox.wikidot.com">FASA Sandbox</a></h3>
             <div class="desc">          
-              A World of Darkness Encyclopedia for Modern Nights
+              For Authoring Strange Anomalies
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://eng270.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eng270.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bandopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bandopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://eng270.wikidot.com">Intro to Creative Writing</a></h3>
+            <h3><a target="_blank" href="http://bandopedia.wikidot.com">bandOpedia</a></h3>
             <div class="desc">          
-              Professor Gabriel
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://maximum-tension.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maximum-tension.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://spartanfleet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spartanfleet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://maximum-tension.com">Maximum Tension</a></h3>
+            <h3><a target="_blank" href="http://spartanfleet.wikidot.com">Spartan Fleet</a></h3>
             <div class="desc">          
-              Programing / Design Lab.
+              Excellence in Simming.
             </div>
           </div>
         </div>
