@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1608792225;
+        OZONE.request.timestamp = 1608814283;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blackberrystorm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackberrystorm.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://paperworks.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paperworks.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blackberrystorm.wikidot.com">BlackBerry Storm Wiki</a></h3>
+            <h3><a target="_blank" href="http://paperworks.wikidot.com">the Paperworks</a></h3>
+            <div class="desc">          
+              codename /pw/
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://pfcuq.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pfcuq.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://pfcuq.wikidot.com">Pokémon Fan Club of UQ</a></h3>
+            <div class="desc">          
+              Spoopy
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cs0.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs0.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cs0.wikidot.com">免費電子書：C# 程式設計</a></h3>
+            <div class="desc">          
+              作者：陳鍾誠
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://jinsi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jinsi.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://jinsi.wikidot.com">AckySHINE MiniSites | Best of 2020</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://measurementcamp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/measurementcamp.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://measurementcamp.wikidot.com">Measurementcamp</a></h3>
-            <div class="desc">          
-              Open source movement measuring social media
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wikistoriaenciclopedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikistoriaenciclopedia.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wikistoriaenciclopedia.wikidot.com">Wikistória</a></h3>
-            <div class="desc">          
-              A enciclopédia de História feita por estudantes
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://paralelo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paralelo.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://paralelo.wikidot.com">Paralelo</a></h3>
-            <div class="desc">          
-              29 March - 2 April 2009
             </div>
           </div>
         </div>
