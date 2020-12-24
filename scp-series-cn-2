@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1608773344;
+        OZONE.request.timestamp = 1608792251;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -790,7 +790,7 @@
 <li><a href="/scp-cn-1249">SCP-CN-1249</a> - 有袋类海星</li>
 <li><a href="/scp-cn-1250">SCP-CN-1250</a> - 覆灭女巫</li>
 <li><a href="/scp-cn-1251">SCP-CN-1251</a> - 自行车观察者</li>
-<li><a href="/scp-cn-1252">SCP-CN-1252</a> - 暴云荒野</li>
+<li><a href="/scp-cn-1252">SCP-CN-1252</a> - 罪之子</li>
 <li><a href="/scp-cn-1253">SCP-CN-1253</a> - 回忆刻印于音乐之中</li>
 <li><a href="/scp-cn-1254">SCP-CN-1254</a> - 贪食的神</li>
 <li><a href="/scp-cn-1255">SCP-CN-1255</a> - 机械傀儡</li>
@@ -1228,7 +1228,7 @@
 <li><a href="/scp-cn-1671">SCP-CN-1671</a> - 不夜城</li>
 <li><a href="/scp-cn-1672">SCP-CN-1672</a> - “dado”的鮟鱇鱼药</li>
 <li><a href="/scp-cn-1673">SCP-CN-1673</a> - 剧透一时爽</li>
-<li><a href="/scp-cn-1674">SCP-CN-1674</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1674">SCP-CN-1674</a> - 倒影与应许之地</li>
 <li><a href="/scp-cn-1675">SCP-CN-1675</a> - 欢迎光临</li>
 <li><a href="/scp-cn-1676">SCP-CN-1676</a> - 难吃嘴臭小舌头</li>
 <li><a href="/scp-cn-1677">SCP-CN-1677</a> - 水灾</li>
@@ -1307,7 +1307,7 @@
 <li><a href="/scp-cn-1746">SCP-CN-1746</a> - 代号：希望之花</li>
 <li><a href="/scp-cn-1747">SCP-CN-1747</a> - 黄隧道……姑且如此</li>
 <li><a href="/scp-cn-1748">SCP-CN-1748</a> - 晚八点档红绿灯</li>
-<li><a href="/scp-cn-1749">SCP-CN-1749</a> - 夜之余晖</li>
+<li><a class="newpage" href="/scp-cn-1749">SCP-CN-1749</a> - 夜之余晖</li>
 <li><a href="/scp-cn-1750">SCP-CN-1750</a> - 让我们再来一次</li>
 <li><a href="/scp-cn-1751">SCP-CN-1751</a> - LandStunning睡眠买卖机。</li>
 <li><a href="/scp-cn-1752">SCP-CN-1752</a> - 杀戮童谣</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3878, 最后编辑于: <span class="odate time_1608687688 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Dec 2020 01:41</span></div>
+                            <div id="page-info">页面版本: 3880, 最后编辑于: <span class="odate time_1608787799 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Dec 2020 05:29</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://downsfolk.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/downsfolk.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://anime-planet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/anime-planet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://downsfolk.wikidot.com">Downs Folk</a></h3>
+            <h3><a target="_blank" href="http://anime-planet.wikidot.com">Anime Planet</a></h3>
             <div class="desc">          
-              Lives and times of folk of Toowoomba &amp; the Downs
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mis213-2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mis213-2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://techcomm.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/techcomm.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mis213-2.wikidot.com">MIS 213-2</a></h3>
+            <h3><a target="_blank" href="http://techcomm.wikidot.com">TechnicalCommunication</a></h3>
             <div class="desc">          
-              Intro to IS
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dragon-trees.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dragon-trees.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
+            <h3><a target="_blank" href="http://dragon-trees.wikidot.com">Dragon Trees</a></h3>
             <div class="desc">          
-              and what they&#039;re trying to tell you
+              A Dragon Cave Fansite
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://trap.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trap.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://morphopedics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morphopedics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://trap.wikidot.com">T.R.A.P.</a></h3>
+            <h3><a target="_blank" href="http://morphopedics.wikidot.com">Morphopedics</a></h3>
             <div class="desc">          
-              Target. Recover. Apprehend. Protect.
+              Where Technology and Orthopedics Collides
             </div>
           </div>
         </div>
