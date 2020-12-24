@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1608749367;
+        OZONE.request.timestamp = 1608773344;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1106,7 +1106,7 @@
 <li><a href="/scp-cn-1553">SCP-CN-1553</a> - 牺牲笼子，消灭隐患</li>
 <li><a href="/scp-cn-1554">SCP-CN-1554</a> - 无问前路，世间皆缄默</li>
 <li><a href="/scp-cn-1555">SCP-CN-1555</a> - 老先生和爱哭鬼</li>
-<li><a href="/scp-cn-1556">SCP-CN-1556</a> - 到底起啥名？</li>
+<li><a class="newpage" href="/scp-cn-1556">SCP-CN-1556</a> - 到底起啥名？</li>
 <li><a href="/scp-cn-1557">SCP-CN-1557</a> - 静之声</li>
 <li><a href="/scp-cn-1558">SCP-CN-1558</a> - 长恨歌.txt</li>
 <li><a href="/scp-cn-1559">SCP-CN-1559</a> - 青鸟</li>
@@ -1121,7 +1121,7 @@
 <li><a class="newpage" href="/scp-cn-1568">SCP-CN-1568</a> - 肉食性真菌</li>
 <li><a href="/scp-cn-1569">SCP-CN-1569</a> - 开窍</li>
 <li><a href="/scp-cn-1570">SCP-CN-1570</a> - 战争之月</li>
-<li><a href="/scp-cn-1571">SCP-CN-1571</a> - 机械生物的骨架</li>
+<li><a class="newpage" href="/scp-cn-1571">SCP-CN-1571</a> - 机械生物的骨架</li>
 <li><a href="/scp-cn-1572">SCP-CN-1572</a> - 预定的流程</li>
 <li><a href="/scp-cn-1573">SCP-CN-1573</a> - 特长收容措施</li>
 <li><a href="/scp-cn-1574">SCP-CN-1574</a> - 如果？</li>
@@ -1228,7 +1228,7 @@
 <li><a href="/scp-cn-1671">SCP-CN-1671</a> - 不夜城</li>
 <li><a href="/scp-cn-1672">SCP-CN-1672</a> - “dado”的鮟鱇鱼药</li>
 <li><a href="/scp-cn-1673">SCP-CN-1673</a> - 剧透一时爽</li>
-<li><a class="newpage" href="/scp-cn-1674">SCP-CN-1674</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1674">SCP-CN-1674</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1675">SCP-CN-1675</a> - 欢迎光临</li>
 <li><a href="/scp-cn-1676">SCP-CN-1676</a> - 难吃嘴臭小舌头</li>
 <li><a href="/scp-cn-1677">SCP-CN-1677</a> - 水灾</li>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thep-serc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thep-serc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://downsfolk.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/downsfolk.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thep-serc.wikidot.com">SERC Schools in THEP</a></h3>
+            <h3><a target="_blank" href="http://downsfolk.wikidot.com">Downs Folk</a></h3>
             <div class="desc">          
-              
+              Lives and times of folk of Toowoomba &amp; the Downs
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://suffadv.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/suffadv.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mis213-2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mis213-2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://suffadv.wikidot.com">Sufficiently Advanced</a></h3>
+            <h3><a target="_blank" href="http://mis213-2.wikidot.com">MIS 213-2</a></h3>
             <div class="desc">          
-              A Game of the Far Future
+              Intro to IS
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
+            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
             <div class="desc">          
-              
+              and what they&#039;re trying to tell you
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://anime-planet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/anime-planet.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://trap.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trap.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://anime-planet.wikidot.com">Anime Planet</a></h3>
+            <h3><a target="_blank" href="http://trap.wikidot.com">T.R.A.P.</a></h3>
             <div class="desc">          
-              
+              Target. Recover. Apprehend. Protect.
             </div>
           </div>
         </div>

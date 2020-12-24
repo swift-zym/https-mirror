@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1608749367;
+        OZONE.request.timestamp = 1608773371;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,10 +1711,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thep-serc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thep-serc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://community.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/community.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thep-serc.wikidot.com">SERC Schools in THEP</a></h3>
+            <h3><a target="_blank" href="http://community.wikidot.com">Wikidot Community</a></h3>
+            <div class="desc">          
+              hints / tips / help / discussion
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://thekingkillerchronicle.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thekingkillerchronicle.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://thekingkillerchronicle.wikidot.com">Хроника Убийцы Короля</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1733,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://suffadv.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/suffadv.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://finalfantasy14fr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/finalfantasy14fr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://suffadv.wikidot.com">Sufficiently Advanced</a></h3>
+            <h3><a target="_blank" href="http://finalfantasy14fr.wikidot.com">final fantasy XIV wiki encyclopédie en français</a></h3>
             <div class="desc">          
-              A Game of the Far Future
+              FFXIV final fantasy XIV 14 fr wiki FF14 français
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://istar.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/istar.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
+            <h3><a target="_blank" href="http://istar.wikidot.com">ISTAR</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://anime-planet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/anime-planet.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://anime-planet.wikidot.com">Anime Planet</a></h3>
-            <div class="desc">          
-              
+              International Society for Testate Amoeba Research
             </div>
           </div>
         </div>
