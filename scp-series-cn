@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1608814043;
+        OZONE.request.timestamp = 1608835769;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,10 +1685,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://algadon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/algadon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://under-welkin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/under-welkin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://algadon.wikidot.com">Algadon</a></h3>
+            <h3><a target="_blank" href="http://under-welkin.wikidot.com">天穹敻远</a></h3>
+            <div class="desc">          
+              列星安陈，众线何参
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://wiki.zeromq.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.zeromq.org/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://wiki.zeromq.org">zeromq</a></h3>
             <div class="desc">          
               
             </div>
@@ -1696,32 +1707,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://exploringsciencewiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exploringsciencewiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
+            <h3><a target="_blank" href="http://exploringsciencewiki.wikidot.com">The Exploring Our World Wiki</a></h3>
             <div class="desc">          
-              Fighting Spammers for Fun and Profit!
+              A Site for Everyone Interested in Teaching and Learning
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://academicwriting.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/academicwriting.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ischool.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ischool.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://academicwriting.wikidot.com">Academic Writing</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.cloudtw.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.cloudtw.org/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wiki.cloudtw.org">CloudTW</a></h3>
+            <h3><a target="_blank" href="http://ischool.wikidot.com">iSchool High</a></h3>
             <div class="desc">          
               
             </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1608814019;
+        OZONE.request.timestamp = 1608835721;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1102,7 +1102,7 @@
 <li><a href="/scp-cn-1549">SCP-CN-1549</a> - 🎴大🔪🙀</li>
 <li><a href="/scp-cn-1550">SCP-CN-1550</a> - <span style="text-decoration: line-through;">切勿</span>多疑，<span style="text-decoration: line-through;">切勿</span>深思，<span style="text-decoration: line-through;">切勿</span>相击</li>
 <li><a href="/scp-cn-1551">SCP-CN-1551</a> - 知觉之门</li>
-<li><a href="/scp-cn-1552">SCP-CN-1552</a> - 食墙虫</li>
+<li><a href="/scp-cn-1552">SCP-CN-1552</a> - 墙中之音</li>
 <li><a href="/scp-cn-1553">SCP-CN-1553</a> - 牺牲笼子，消灭隐患</li>
 <li><a href="/scp-cn-1554">SCP-CN-1554</a> - 无问前路，世间皆缄默</li>
 <li><a href="/scp-cn-1555">SCP-CN-1555</a> - 老先生和爱哭鬼</li>
@@ -1326,7 +1326,7 @@
 <li><a href="/scp-cn-1765">SCP-CN-1765</a> - 镜与遗憾</li>
 <li><a href="/scp-cn-1766">SCP-CN-1766</a> - 常态与特修斯之船</li>
 <li><a class="newpage" href="/scp-cn-1767">SCP-CN-1767</a> - [禁止访问]</li>
-<li><a href="/scp-cn-1768">SCP-CN-1768</a> - 永远深爱着你</li>
+<li><a href="/scp-cn-1768">SCP-CN-1768</a> - 汝等所爱之人</li>
 <li><a href="/scp-cn-1769">SCP-CN-1769</a> - 吾母之蛹</li>
 <li><a href="/scp-cn-1770">SCP-CN-1770</a> - 患病的怪物</li>
 <li><a href="/scp-cn-1771">SCP-CN-1771</a> - 幽灵过山车</li>
@@ -1340,7 +1340,7 @@
 <li><a href="/scp-cn-1779">SCP-CN-1779</a> - 迷城“The Lost City”</li>
 <li><a href="/scp-cn-1780">SCP-CN-1780</a> - 一二三，木头人</li>
 <li><a href="/scp-cn-1781">SCP-CN-1781</a> - 白垩纪制造</li>
-<li><a class="newpage" href="/scp-cn-1782">SCP-CN-1782</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1782">SCP-CN-1782</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1783">SCP-CN-1783</a> - 祈生花祝</li>
 <li><a href="/scp-cn-1784">SCP-CN-1784</a> - 异常天气现象（名称暂定）</li>
 <li><a href="/scp-cn-1785">SCP-CN-1785</a> - 温度是唯一的谎言</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3880, 最后编辑于: <span class="odate time_1608787799 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Dec 2020 05:29</span></div>
+                            <div id="page-info">页面版本: 3882, 最后编辑于: <span class="odate time_1608818411 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Dec 2020 14:00</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
@@ -1686,10 +1686,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://green-house.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/green-house.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://snowleopard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snowleopard.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://green-house.wikidot.com">The Green House Wiki</a></h3>
+            <h3><a target="_blank" href="http://snowleopard.wikidot.com">Snow Leopard Compatibility</a></h3>
+            <div class="desc">          
+              Which apps work with Mac OS X 10.6?
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://alveslima-edu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alveslima-edu.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://alveslima-edu.wikidot.com">WIKEDUCAÇÃO</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,34 +1708,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://storychip.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/storychip.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://porsche.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/porsche.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://storychip.wikidot.com">Story Chip</a></h3>
+            <h3><a target="_blank" href="http://porsche.wikidot.com">Porsche Wiki</a></h3>
             <div class="desc">          
-              Become a part of history, share your story.
+              Brought to You By RedLine Technik | RedLineTechnik.com
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://stallmanism.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/stallmanism.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://exploringsciencewiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exploringsciencewiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://stallmanism.wikidot.com">Stallmanism</a></h3>
+            <h3><a target="_blank" href="http://exploringsciencewiki.wikidot.com">The Exploring Our World Wiki</a></h3>
             <div class="desc">          
-              a Religion for the 21st Century
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpvakfisandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfisandbox.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpvakfisandbox.wikidot.com">SCP Vakfı Sandbox</a></h3>
-            <div class="desc">          
-              Atış poligonu
+              A Site for Everyone Interested in Teaching and Learning
             </div>
           </div>
         </div>
