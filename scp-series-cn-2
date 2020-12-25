@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1608859581;
+        OZONE.request.timestamp = 1608878192;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1067,7 +1067,7 @@
 <li><a href="/scp-cn-1514">SCP-CN-1514</a> - 带刺的玫瑰园</li>
 <li><a href="/scp-cn-1515">SCP-CN-1515</a> - 耳机派对</li>
 <li><a href="/scp-cn-1516">SCP-CN-1516</a> - 狐狸竖起耳朵</li>
-<li><a class="newpage" href="/scp-cn-1517">SCP-CN-1517</a> - 遗失塔</li>
+<li><a href="/scp-cn-1517">SCP-CN-1517</a> - Wondertainment博士的小小成年人套装</li>
 <li><a href="/scp-cn-1518">SCP-CN-1518</a> - 忆唐终曲</li>
 <li><a href="/scp-cn-1519">SCP-CN-1519</a> - 国之栋梁</li>
 <li><a href="/scp-cn-1520">SCP-CN-1520</a> - أمة</li>
@@ -1139,7 +1139,7 @@
 <li><a href="/scp-cn-1586">SCP-CN-1586</a> - 愚人种</li>
 <li><a href="/scp-cn-1587">SCP-CN-1587</a> - 剧组精美奢华典藏版合集</li>
 <li><a href="/scp-cn-1588">SCP-CN-1588</a> - 群居型蜘蛛</li>
-<li><a href="/scp-cn-1589">SCP-CN-1589</a> - 人心论，真心论</li>
+<li><a class="newpage" href="/scp-cn-1589">SCP-CN-1589</a> - 人心论，真心论</li>
 <li><a href="/scp-cn-1590">SCP-CN-1590</a> - 树下亡灵，似活却死</li>
 <li><a href="/scp-cn-1591">SCP-CN-1591</a> - 你所知的智慧</li>
 <li><a href="/scp-cn-1592">SCP-CN-1592</a> - SCP-CN-1592</li>
@@ -1228,7 +1228,7 @@
 <li><a href="/scp-cn-1671">SCP-CN-1671</a> - 不夜城</li>
 <li><a href="/scp-cn-1672">SCP-CN-1672</a> - “dado”的鮟鱇鱼药</li>
 <li><a href="/scp-cn-1673">SCP-CN-1673</a> - 剧透一时爽</li>
-<li><a href="/scp-cn-1674">SCP-CN-1674</a> - 倒影与应许之地</li>
+<li><a class="newpage" href="/scp-cn-1674">SCP-CN-1674</a> - 倒影与应许之地</li>
 <li><a href="/scp-cn-1675">SCP-CN-1675</a> - 欢迎光临</li>
 <li><a href="/scp-cn-1676">SCP-CN-1676</a> - 难吃嘴臭小舌头</li>
 <li><a href="/scp-cn-1677">SCP-CN-1677</a> - 水灾</li>
@@ -1264,7 +1264,7 @@
 <li><a href="/scp-cn-1703">SCP-CN-1703</a> - 安息噩兆</li>
 <li><a href="/scp-cn-1704">SCP-CN-1704</a> - 製“雀”之蜂</li>
 <li><a href="/scp-cn-1705">SCP-CN-1705</a> - 卡布莱耶奶奶的今日厨房！</li>
-<li><a href="/scp-cn-1706">SCP-CN-1706</a> - 秦俑方阵</li>
+<li><a class="newpage" href="/scp-cn-1706">SCP-CN-1706</a> - 秦俑方阵</li>
 <li><a href="/scp-cn-1707">SCP-CN-1707</a> - 推背去归休</li>
 <li><a class="newpage" href="/scp-cn-1708">SCP-CN-1708</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1709">SCP-CN-1709</a> - 沉浸式交响现场™️</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3882, 最后编辑于: <span class="odate time_1608818411 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Dec 2020 14:00</span></div>
+                            <div id="page-info">页面版本: 3883, 最后编辑于: <span class="odate time_1608869697 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">25 Dec 2020 04:14</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://iracing.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iracing.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hiddenprojectwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hiddenprojectwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://iracing.wikidot.com">iRacing.com Wiki</a></h3>
+            <h3><a target="_blank" href="http://hiddenprojectwiki.wikidot.com">Hidden Project</a></h3>
             <div class="desc">          
-              Your one-stop-shop for all iRacing setup help and knowledge.
+              Welcome to Hidden Project Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://signaturbogen.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/signaturbogen.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tibasicdev.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tibasicdev.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://signaturbogen.wikidot.com">Signaturbogen 2.0</a></h3>
+            <h3><a target="_blank" href="http://tibasicdev.wikidot.com">TI-Basic Developer</a></h3>
             <div class="desc">          
-              4.000 signaturer, 2.500 kunstnere
+              The TI-Basic Information Repository
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://summer350.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/summer350.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://puppet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/puppet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://summer350.wikidot.com">Summer 3500</a></h3>
+            <h3><a target="_blank" href="http://puppet.wikidot.com">Puppet中文wiki</a></h3>
             <div class="desc">          
-              Engineering Communications
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://connorscampaigns.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/connorscampaigns.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki-de.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-de.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://connorscampaigns.wikidot.com">Connors Campaigns</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki-de.wikidot.com">SCP Foundation</a></h3>
             <div class="desc">          
-              My dashboard for RPGs, Music, Sports, and more.
+              auf Deutsch
             </div>
           </div>
         </div>
