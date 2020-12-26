@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1608945910;
+        OZONE.request.timestamp = 1608964976;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,21 +1709,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://malkavian.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/malkavian.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eng270.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eng270.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://malkavian.wikidot.com">CCS Related</a></h3>
+            <h3><a target="_blank" href="http://eng270.wikidot.com">Intro to Creative Writing</a></h3>
             <div class="desc">          
-              Malkavian guide to CCS life
+              Professor Gabriel
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bisgmit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bisgmit.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.terrasdeportugal.pt">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.terrasdeportugal.pt/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bisgmit.wikidot.com">Bisgmit</a></h3>
+            <h3><a target="_blank" href="http://www.terrasdeportugal.pt">Terras de Portugal</a></h3>
+            <div class="desc">          
+              Portugal em pormenor!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://pcg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pcg.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://pcg.wikidot.com">Procedural Content Generation Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1731,23 +1742,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://denver.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/denver.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gazette-centrale.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gazette-centrale.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://denver.wikidot.com">Shadowrun: Denver</a></h3>
+            <h3><a target="_blank" href="http://gazette-centrale.wikidot.com">Gazette Centrale</a></h3>
             <div class="desc">          
-              Complicated Shadows
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://norron.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/norron.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://norron.wikidot.com">WikiNorron</a></h3>
-            <div class="desc">          
-              Almost as good as the guide, maybe better!
+              Censure, désinformation et corruption
             </div>
           </div>
         </div>
