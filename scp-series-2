@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1608986706;
+        OZONE.request.timestamp = 1609008377;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,10 +1711,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://lightworks.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lightworks.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://championsashes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/championsashes.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://lightworks.wikidot.com">Lightworks Unofficial Wiki</a></h3>
+            <h3><a target="_blank" href="http://championsashes.wikidot.com">Champion&#039;s Ashes</a></h3>
+            <div class="desc">          
+              The Official Wiki For Dark Souls III: Champion&#039;s Ashes
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://steelandstone.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/steelandstone.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://steelandstone.wikidot.com">Steel and Stone</a></h3>
+            <div class="desc">          
+              Wagering Lives to the Blade
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://hp-intothefire.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hp-intothefire.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://hp-intothefire.wikidot.com">Harry Potter: Into The Fire</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1744,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://under-welkin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/under-welkin.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rscsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rscsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://under-welkin.wikidot.com">天穹敻远</a></h3>
+            <h3><a target="_blank" href="http://rscsandbox.wikidot.com">RSC Sandbox</a></h3>
             <div class="desc">          
-              列星安陈，众线何参
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp-archive.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-archive.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-jp-archive.wikidot.com">SCP日本財団中枢資料室。</a></h3>
-            <div class="desc">          
-              収用
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://e-h-s.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/e-h-s.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://e-h-s.wikidot.com">Electromagnetic (Hyper)Sensitivity</a></h3>
-            <div class="desc">          
-              Causes of Electro Smog, EMF and Wireless Devices
+              RSC için Sandbox
             </div>
           </div>
         </div>

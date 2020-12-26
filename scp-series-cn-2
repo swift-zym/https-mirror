@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1608986516;
+        OZONE.request.timestamp = 1609008378;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                             <div id="page-info">页面版本: 3887, 最后编辑于: <span class="odate time_1608985597 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">26 Dec 2020 12:26</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
-<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+78</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+79</span>)</a>
 <a href="javascript:;" class="btn btn-default" id="tags-button">标签</a>
 <a href="/forum/t-8144004/scp-series-cn-2" class="btn btn-default" id="discuss-button">讨论 (66)</a>
 <a href="javascript:;" class="btn btn-default" id="history-button">历史记录</a>
@@ -1686,10 +1686,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zodiac-ffrpg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zodiac-ffrpg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://championsashes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/championsashes.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zodiac-ffrpg.wikidot.com">ZODIAC Final Fantasy RPG</a></h3>
+            <h3><a target="_blank" href="http://championsashes.wikidot.com">Champion&#039;s Ashes</a></h3>
+            <div class="desc">          
+              The Official Wiki For Dark Souls III: Champion&#039;s Ashes
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://steelandstone.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/steelandstone.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://steelandstone.wikidot.com">Steel and Stone</a></h3>
+            <div class="desc">          
+              Wagering Lives to the Blade
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://hp-intothefire.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hp-intothefire.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://hp-intothefire.wikidot.com">Harry Potter: Into The Fire</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,34 +1719,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ubmh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmh.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rscsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rscsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ubmh.wikidot.com">地下黑市</a></h3>
+            <h3><a target="_blank" href="http://rscsandbox.wikidot.com">RSC Sandbox</a></h3>
             <div class="desc">          
-              属于闲人的社区
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://rpc-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-jp.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://rpc-jp.wikidot.com">RPC機構</a></h3>
-            <div class="desc">          
-              研究、保護、収容
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.arlingtonlist.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.arlingtonlist.org/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wiki.arlingtonlist.org">Arlington, Mass.</a></h3>
-            <div class="desc">          
-              The Arlington Wiki - Arlington, MA
+              RSC için Sandbox
             </div>
           </div>
         </div>
