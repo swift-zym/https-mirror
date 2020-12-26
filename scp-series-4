@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1608964871;
+        OZONE.request.timestamp = 1608986618;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -858,7 +858,7 @@
 <li><a class="newpage" href="/scp-3308">SCP-3308</a> - Crooked Excavator</li>
 <li><a href="/scp-3309">SCP-3309</a> - 化为泡影之时，我们去往何方</li>
 <li><a href="/scp-3310">SCP-3310</a> - 湖中老人</li>
-<li><a href="/scp-3311">SCP-3311</a> - All the Little Chairs</li>
+<li><a href="/scp-3311">SCP-3311</a> - 全是椅子</li>
 <li><a href="/scp-3312">SCP-3312</a> - OwO这是啥米？</li>
 <li><a href="/scp-3313">SCP-3313</a> - 穷理查</li>
 <li><a href="/scp-3314">SCP-3314</a> - 思乡画家的作品</li>
@@ -1205,7 +1205,7 @@
 <li><a class="newpage" href="/scp-3643">SCP-3643</a> - Part 1: ANOMALY IS THE MOST DANGEROUS ANIMAL</li>
 <li><a class="newpage" href="/scp-3644">SCP-3644</a> - Part 2: Goddamn Sons-of-Beaches</li>
 <li><a class="newpage" href="/scp-3645">SCP-3645</a> - Part 3. The Meaty End</li>
-<li><a href="/scp-3646">SCP-3646</a> - 幻影之蚊</li>
+<li><a class="newpage" href="/scp-3646">SCP-3646</a> - 幻影之蚊</li>
 <li><a href="/scp-3647">SCP-3647</a> - 春花秋月何时了？</li>
 <li><a href="/scp-3648">SCP-3648</a> - 开天辟地</li>
 <li><a href="/scp-3649">SCP-3649</a> - 多云且势不可当</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 856, 最后编辑于: <span class="odate time_1607053866 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Dec 2020 03:51</span></div>
+                            <div id="page-info">页面版本: 857, 最后编辑于: <span class="odate time_1608986063 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">26 Dec 2020 12:34</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+3</span>)</a>
@@ -1710,10 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vwinterop.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vwinterop.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vwinterop.wikidot.com">Virtual World Interoperability</a></h3>
+            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vs-tcg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vs-tcg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.hackingthursday.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.hackingthursday.org/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vs-tcg.wikidot.com">Sparkling Victory!</a></h3>
+            <h3><a target="_blank" href="http://www.hackingthursday.org">Hacking Thursday</a></h3>
             <div class="desc">          
-              Time to Spark, Time for Victory...
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://irunath.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/irunath.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cyclods.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cyclods.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://irunath.wikidot.com">IRUNA Online Thailand WIKI</a></h3>
+            <h3><a target="_blank" href="http://cyclods.wikidot.com">CycloDS Revolution</a></h3>
             <div class="desc">          
-              by iruna th team
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://echobazaar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/echobazaar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-th.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-th.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://echobazaar.wikidot.com">Echo Bazaar</a></h3>
+            <h3><a target="_blank" href="http://scp-th.wikidot.com">สถาบัน SCP</a></h3>
             <div class="desc">          
-              Come to Fallen London
+              ควบคุม, กักกัน, ป้องกัน
             </div>
           </div>
         </div>
