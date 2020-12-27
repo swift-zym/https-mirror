@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1609073191;
+        OZONE.request.timestamp = 1609094830;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -878,7 +878,7 @@
 <li><a href="/scp-cn-1333">SCP-CN-1333</a> - 肢体</li>
 <li><a class="newpage" href="/scp-cn-1334">SCP-CN-1334</a> - <span style="text-decoration: line-through;">超赞的保温杯</span> 壶中毕方羽</li>
 <li><a href="/scp-cn-1335">SCP-CN-1335</a> - 外丹</li>
-<li><a href="/scp-cn-1336">SCP-CN-1336</a> - 面对愚昧</li>
+<li><a class="newpage" href="/scp-cn-1336">SCP-CN-1336</a> - 面对愚昧</li>
 <li><a href="/scp-cn-1337">SCP-CN-1337</a> - 小黑屋</li>
 <li><a href="/scp-cn-1338">SCP-CN-1338</a> - 孟姜女</li>
 <li><a href="/scp-cn-1339">SCP-CN-1339</a> - 云端跳蛛</li>
@@ -1307,7 +1307,7 @@
 <li><a href="/scp-cn-1746">SCP-CN-1746</a> - 代号：希望之花</li>
 <li><a href="/scp-cn-1747">SCP-CN-1747</a> - 黄隧道……姑且如此</li>
 <li><a href="/scp-cn-1748">SCP-CN-1748</a> - 晚八点档红绿灯</li>
-<li><a href="/scp-cn-1749">SCP-CN-1749</a> - 夜之余晖</li>
+<li><a href="/scp-cn-1749">SCP-CN-1749</a> - 别看了</li>
 <li><a href="/scp-cn-1750">SCP-CN-1750</a> - 让我们再来一次</li>
 <li><a href="/scp-cn-1751">SCP-CN-1751</a> - LandStunning睡眠买卖机。</li>
 <li><a href="/scp-cn-1752">SCP-CN-1752</a> - 杀戮童谣</li>
@@ -1340,7 +1340,7 @@
 <li><a href="/scp-cn-1779">SCP-CN-1779</a> - 迷城“The Lost City”</li>
 <li><a href="/scp-cn-1780">SCP-CN-1780</a> - 一二三，木头人</li>
 <li><a href="/scp-cn-1781">SCP-CN-1781</a> - 白垩纪制造</li>
-<li><a href="/scp-cn-1782">SCP-CN-1782</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1782">SCP-CN-1782</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1783">SCP-CN-1783</a> - 祈生花祝</li>
 <li><a href="/scp-cn-1784">SCP-CN-1784</a> - 异常天气现象（名称暂定）</li>
 <li><a href="/scp-cn-1785">SCP-CN-1785</a> - 温度是唯一的谎言</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3889, 最后编辑于: <span class="odate time_1609053307 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Dec 2020 07:15</span></div>
+                            <div id="page-info">页面版本: 3890, 最后编辑于: <span class="odate time_1609073442 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Dec 2020 12:50</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+79</span>)</a>
@@ -1686,10 +1686,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://techcomm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/techcomm.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpkosb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkosb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://techcomm.wikidot.com">TechnicalCommunication</a></h3>
+            <h3><a target="_blank" href="http://scpkosb.wikidot.com">SB-KO2</a></h3>
+            <div class="desc">          
+              SCP-KO 샌드박스 이호기
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://blmodding.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blmodding.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://blmodding.wikidot.com">Borderlands Modding Resource</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,34 +1708,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.mundohandball.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.mundohandball.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.capnbarefoot.info">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.capnbarefoot.info/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.mundohandball.com">wikihandball</a></h3>
+            <h3><a target="_blank" href="http://www.capnbarefoot.info">Captain Barefoot</a></h3>
             <div class="desc">          
-              La wiki de Mundohandball.com
+              The naturist guide to the Greek Islands
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://design-illustration.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/design-illustration.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://abarrelfull.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/abarrelfull.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://design-illustration.wikidot.com">Design &amp; Illustration</a></h3>
+            <h3><a target="_blank" href="http://abarrelfull.wikidot.com">A Barrel Full</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-eq.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-eq.org/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-eq.org">SCP基金会小马国分部</a></h3>
-            <div class="desc">          
-              控制 • 收容 • 保护
+              A Barrel Full of information for Oil Industry Professionals
             </div>
           </div>
         </div>
