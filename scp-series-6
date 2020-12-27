@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1609032370;
+        OZONE.request.timestamp = 1609051181;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -837,7 +837,7 @@
 <li><a class="newpage" href="/scp-5291">SCP-5291</a> - Transformational Writing</li>
 <li><a class="newpage" href="/scp-5292">SCP-5292</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5293">SCP-5293</a> - [拒绝访问]</li>
-<li><a href="/scp-5294">SCP-5294</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5294">SCP-5294</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5295">SCP-5295</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5296">SCP-5296</a> - An Unbelievable <strong>Mistake</strong></li>
 <li><a class="newpage" href="/scp-5297">SCP-5297</a> - [拒绝访问]</li>
@@ -1209,7 +1209,7 @@
 <li><a class="newpage" href="/scp-5647">SCP-5647</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5648">SCP-5648</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5649">SCP-5649</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5650">SCP-5650</a> - To Cut Salmon by Its Angles</li>
+<li><a href="/scp-5650">SCP-5650</a> - 用合适的角度切三文鱼</li>
 <li><a class="newpage" href="/scp-5651">SCP-5651</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5652">SCP-5652</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5653">SCP-5653</a> - [拒绝访问]</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 354, 最后编辑于: <span class="odate time_1608911883 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">25 Dec 2020 15:58</span></div>
+                            <div id="page-info">页面版本: 355, 最后编辑于: <span class="odate time_1609040263 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Dec 2020 03:37</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1710,32 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thegamerdome.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thegamerdome.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ipr11.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ipr11.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thegamerdome.wikidot.com">The Gamer Dome</a></h3>
-            <div class="desc">          
-              Community Game Design Projects
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://dragon-trees.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dragon-trees.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://dragon-trees.wikidot.com">Dragon Trees</a></h3>
-            <div class="desc">          
-              A Dragon Cave Fansite
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://hopkinswhpg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hopkinswhpg.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://hopkinswhpg.wikidot.com">World History/Physical Geo.</a></h3>
+            <h3><a target="_blank" href="http://ipr11.wikidot.com">IPR11</a></h3>
             <div class="desc">          
               
             </div>
@@ -1743,12 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sidowegraty.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sidowegraty.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-sandbox2-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox2-zh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sidowegraty.wikidot.com">Części Fiat i nie tylko</a></h3>
+            <h3><a target="_blank" href="http://scp-sandbox2-zh.wikidot.com">SCP繁中沙盒2.0</a></h3>
+            <div class="desc">          
+              生命之沙，繁星之盒
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://the-nexus.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/the-nexus.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://the-nexus.wikidot.com">Nexus Wiki</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://maximum-tension.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maximum-tension.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://maximum-tension.com">Maximum Tension</a></h3>
+            <div class="desc">          
+              Programing / Design Lab.
             </div>
           </div>
         </div>
