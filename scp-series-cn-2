@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1609224220;
+        OZONE.request.timestamp = 1609246268;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -896,7 +896,7 @@
 <li><a href="/scp-cn-1351">SCP-CN-1351</a> - 塔</li>
 <li><a href="/scp-cn-1352">SCP-CN-1352</a> - 坟头不埋骨</li>
 <li><a href="/scp-cn-1353">SCP-CN-1353</a> - 地西泮仪式</li>
-<li><a class="newpage" href="/scp-cn-1354">SCP-CN-1354</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1354">SCP-CN-1354</a> - 礼物盒</li>
 <li><a href="/scp-cn-1355">SCP-CN-1355</a> - 食子之村</li>
 <li><a href="/scp-cn-1356">SCP-CN-1356</a> - 可能是，或者不是</li>
 <li><a href="/scp-cn-1357">SCP-CN-1357</a> - 线上时光机</li>
@@ -1614,10 +1614,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3897, 最后编辑于: <span class="odate time_1609210763 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">29 Dec 2020 02:59</span></div>
+                            <div id="page-info">页面版本: 3898, 最后编辑于: <span class="odate time_1609230919 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">29 Dec 2020 08:35</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
-<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+79</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+80</span>)</a>
 <a href="javascript:;" class="btn btn-default" id="tags-button">标签</a>
 <a href="/forum/t-8144004/scp-series-cn-2" class="btn btn-default" id="discuss-button">讨论 (66)</a>
 <a href="javascript:;" class="btn btn-default" id="history-button">历史记录</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpguy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpguy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://soymilkls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soymilkls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpguy.wikidot.com">FakeProGaming Wiki Offical Website</a></h3>
+            <h3><a target="_blank" href="http://soymilkls.wikidot.com">Soymilk Linkshell</a></h3>
             <div class="desc">          
-              FakeProGaming Wiki Offical Website
+              Professional, drama-free dynamis since 2005!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.icondeposit.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.icondeposit.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fmi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.icondeposit.com">Icon Deposit</a></h3>
+            <h3><a target="_blank" href="http://fmi.wikidot.com">Лекциите на ФМИ</a></h3>
             <div class="desc">          
-              Design.Tutorials.Freebies
+              За да изглеждаме умни пред другите
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-sandbox-zh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox-zh.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blank-template.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blank-template.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-sandbox-zh.wikidot.com">SCP繁體中文沙盒</a></h3>
-            <div class="desc">          
-              發現，發掘，發佈
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.coscup.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.coscup.org/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wiki.coscup.org">COSCUP WIKI</a></h3>
+            <h3><a target="_blank" href="http://blank-template.wikidot.com">Blank Template</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://iracing.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iracing.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://iracing.wikidot.com">iRacing.com Wiki</a></h3>
+            <div class="desc">          
+              Your one-stop-shop for all iRacing setup help and knowledge.
             </div>
           </div>
         </div>
