@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1609181528;
+        OZONE.request.timestamp = 1609205368;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1710,10 +1710,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://inter-irc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inter-irc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://desenvolvimentodejogos.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/desenvolvimentodejogos.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://inter-irc.wikidot.com">Inter Irc</a></h3>
+            <h3><a target="_blank" href="http://desenvolvimentodejogos.wikidot.com">Desenvolvimento de Jogos</a></h3>
+            <div class="desc">          
+              Tecnologias para uso no desenvolver jogos
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://borradores-scp-es.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/borradores-scp-es.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://borradores-scp-es.wikidot.com">Borradores SCP-ES</a></h3>
+            <div class="desc">          
+              Sitio de borradores para miembros de la Fundación SCP-ES
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://machinima138.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/machinima138.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://machinima138.wikidot.com">Machinima 138</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://covid19tilekpaideusi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/covid19tilekpaideusi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpvnsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvnsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://covid19tilekpaideusi.wikidot.com">Covid-19: Πως επηρεάστηκε η καθημερινότητά μας.</a></h3>
+            <h3><a target="_blank" href="http://scpvnsandbox.wikidot.com">SCP-VN Sandbox</a></h3>
             <div class="desc">          
-              Εξ αποστάσεως εκπαίδευση
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://coffeetimex.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coffeetimex.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://coffeetimex.wikidot.com">Coffeetime Extra</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-sh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sh.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-sh.wikidot.com">SCP Fondacija</a></h3>
-            <div class="desc">          
-              Bosansko-Hrvatsko-Crnogorsko-Srpski Ogranak
+              Khu vực thử nghiệm
             </div>
           </div>
         </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1609181528;
+        OZONE.request.timestamp = 1609205563;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://inter-irc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inter-irc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-hu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-hu.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://inter-irc.wikidot.com">Inter Irc</a></h3>
+            <h3><a target="_blank" href="http://scp-hu.wikidot.com">SCP Alapítvány</a></h3>
             <div class="desc">          
-              
+              Magyarnyelvű ágazat
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://covid19tilekpaideusi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/covid19tilekpaideusi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aeternuscenter.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aeternuscenter.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://covid19tilekpaideusi.wikidot.com">Covid-19: Πως επηρεάστηκε η καθημερινότητά μας.</a></h3>
+            <h3><a target="_blank" href="http://aeternuscenter.wikidot.com">Aeternus Center</a></h3>
             <div class="desc">          
-              Εξ αποστάσεως εκπαίδευση
+              the ARG
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://coffeetimex.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coffeetimex.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sandbox.scpfoundation.ru">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sandbox.scpfoundation.ru/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://coffeetimex.wikidot.com">Coffeetime Extra</a></h3>
+            <h3><a target="_blank" href="http://sandbox.scpfoundation.ru">The SCP Sandbox</a></h3>
             <div class="desc">          
-              
+              Осторожно! Идут испытания!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-sh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sh.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-th.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-th.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-sh.wikidot.com">SCP Fondacija</a></h3>
+            <h3><a target="_blank" href="http://scp-th.wikidot.com">สถาบัน SCP</a></h3>
             <div class="desc">          
-              Bosansko-Hrvatsko-Crnogorsko-Srpski Ogranak
+              ควบคุม, กักกัน, ป้องกัน
             </div>
           </div>
         </div>
