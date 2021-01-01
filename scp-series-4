@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1609483396;
+        OZONE.request.timestamp = 1609505480;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,21 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://battlestargenesis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/battlestargenesis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kalgati.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kalgati.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://battlestargenesis.wikidot.com">BATTLESTAR GENESIS MUSH</a></h3>
+            <h3><a target="_blank" href="http://kalgati.wikidot.com">क्षत्रिय राजपूत इतिहास</a></h3>
             <div class="desc">          
-              battlestar.isunlimited.net    3012
+              क्षत्रिय राजपूत
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://guitarzero.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/guitarzero.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://vwinterop.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vwinterop.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://guitarzero.wikidot.com">Frontman Wiki</a></h3>
+            <h3><a target="_blank" href="http://vwinterop.wikidot.com">Virtual World Interoperability</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fondazionescp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondazionescp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://oversoulgame.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oversoulgame.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fondazionescp.wikidot.com">Fondazione SCP</a></h3>
+            <h3><a target="_blank" href="http://oversoulgame.wikidot.com">.</a></h3>
             <div class="desc">          
-              Branca Italiana della SCP Foundation
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://snippets.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snippets.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://radiohub.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/radiohub.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://snippets.wikidot.com">Wiki Code Snippets</a></h3>
+            <h3><a target="_blank" href="http://radiohub.wikidot.com">Radiohub</a></h3>
             <div class="desc">          
-              Snippets
+              Lossless Radiohead Hub Wiki
             </div>
           </div>
         </div>
