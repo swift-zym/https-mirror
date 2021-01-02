@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1609551346;
+        OZONE.request.timestamp = 1609569688;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -668,7 +668,7 @@
 <li><a href="/scp-4103">SCP-4103</a> - 节日的地狱</li>
 <li><a href="/scp-4104">SCP-4104</a> - <strong><tt><span style="color: #004d00">他欺骗了你们所有人</span></tt></strong></li>
 <li><a href="/scp-4105">SCP-4105</a> - 他们从河而来</li>
-<li><a href="/scp-4106">SCP-4106</a> - 爱情鹦鹉</li>
+<li><a class="newpage" href="/scp-4106">SCP-4106</a> - 爱情鹦鹉</li>
 <li><a href="/scp-4107">SCP-4107</a> - 死者</li>
 <li><a class="newpage" href="/scp-4108">SCP-4108</a> - Not Really a Catapult</li>
 <li><a href="/scp-4109">SCP-4109</a> - 最终结论：万事万物皆混沌且疯狂</li>
@@ -899,7 +899,7 @@
 <li><a href="/scp-4326">SCP-4326</a> - 蜜月新人</li>
 <li><a class="newpage" href="/scp-4327">SCP-4327</a> - Suppressive fire in, suppressive fire out! Do the hokey-pokey and that's what it's all about!</li>
 <li><a class="newpage" href="/scp-4328">SCP-4328</a> - Sinew and Cellulose</li>
-<li><a class="newpage" href="/scp-4329">SCP-4329</a> - [拒绝访问]</li>
+<li><a href="/scp-4329">SCP-4329</a> - [拒绝访问]</li>
 <li><a href="/scp-4330">SCP-4330</a> - 一瞬的寂静</li>
 <li><a class="newpage" href="/scp-4331">SCP-4331</a> - When Good Elk Go to War</li>
 <li><a href="/scp-4332">SCP-4332</a> - 把它吃得精光</li>
@@ -1629,7 +1629,7 @@
 
 
 <div class="footnotes-footer">
-<div class="title">脚注</div>
+<div class="title">Footnotes</div>
 <div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
 <div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
 </div>
@@ -1741,32 +1741,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://odrin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/odrin.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://odrin.wikidot.com">‏‏‏‏‏‏‏‏ODRIN</a></h3>
-            <div class="desc">          
-              ‏‏‏‏‏‏‏‏
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://roseflood-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roseflood-sandbox.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://roseflood-sandbox.wikidot.com">RoseFlood</a></h3>
-            <div class="desc">          
-              The best of diluvian writing.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://techcomm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/techcomm.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://techcomm.wikidot.com">TechnicalCommunication</a></h3>
+            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1774,12 +1752,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cst133a.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cst133a.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bloodborne.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bloodborne.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cst133a.wikidot.com">CST 133 A</a></h3>
+            <h3><a target="_blank" href="http://bloodborne.wikidot.com">Bloodborne</a></h3>
             <div class="desc">          
-              
+              From Software&#039;s new dark fantasy project. (Project Beast)
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-wiki-mc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-mc.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-wiki-mc.wikidot.com">SCP基金会Minecraft分部</a></h3>
+            <div class="desc">          
+              控制，收容，保护
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://biblio.etnolinguistica.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biblio.etnolinguistica.org/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://biblio.etnolinguistica.org">Biblioteca Digital Curt Nimuendajú</a></h3>
+            <div class="desc">          
+              livros e artigos sobre línguas sul-americanas
             </div>
           </div>
         </div>
