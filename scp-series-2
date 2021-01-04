@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1609764699;
+        OZONE.request.timestamp = 1609786211;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,45 +1711,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://caughtnotsleeping.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caughtnotsleeping.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://java.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/java.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://caughtnotsleeping.wikidot.com">CaughtNotSleeping</a></h3>
+            <h3><a target="_blank" href="http://java.wikidot.com">Learn Java!</a></h3>
             <div class="desc">          
-              It&#039;s just a game...It&#039;s just a game...
+              No... it&#039;s not coffee.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://languagearts8.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/languagearts8.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sons-of-athena.obscurative.ru">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sons-of-athena.obscurative.ru/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://languagearts8.wikidot.com">Language Arts (8)</a></h3>
+            <h3><a target="_blank" href="http://sons-of-athena.obscurative.ru">ВИК &quot;Сыны Афины&quot;</a></h3>
+            <div class="desc">          
+              ​
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://roboticspedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticspedia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://roboticspedia.wikidot.com">Roboticspedia</a></h3>
+            <div class="desc">          
+              All that you want to know about making robots
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandbox2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox2.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpsandbox2.wikidot.com">SCP Sandbox Wiki II</a></h3>
-            <div class="desc">          
-              Sandbox Harder
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wqa.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wqa.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wqa.wikidot.com">.</a></h3>
-            <div class="desc">          
-              wqa wiki
             </div>
           </div>
         </div>
