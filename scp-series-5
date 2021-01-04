@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1609551346;
+        OZONE.request.timestamp = 1609764463;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -668,7 +668,7 @@
 <li><a href="/scp-4103">SCP-4103</a> - 节日的地狱</li>
 <li><a href="/scp-4104">SCP-4104</a> - <strong><tt><span style="color: #004d00">他欺骗了你们所有人</span></tt></strong></li>
 <li><a href="/scp-4105">SCP-4105</a> - 他们从河而来</li>
-<li><a href="/scp-4106">SCP-4106</a> - 爱情鹦鹉</li>
+<li><a class="newpage" href="/scp-4106">SCP-4106</a> - 爱情鹦鹉</li>
 <li><a href="/scp-4107">SCP-4107</a> - 死者</li>
 <li><a class="newpage" href="/scp-4108">SCP-4108</a> - Not Really a Catapult</li>
 <li><a href="/scp-4109">SCP-4109</a> - 最终结论：万事万物皆混沌且疯狂</li>
@@ -848,7 +848,7 @@
 <li><a class="newpage" href="/scp-4279">SCP-4279</a> - A Toast to my Finished Thesis</li>
 <li><a href="/scp-4280">SCP-4280</a> - <em>跨维度侮辱惩罚罐</em>™</li>
 <li><a href="/scp-4281">SCP-4281</a> - 厕间谈话</li>
-<li><a class="newpage" href="/scp-4282">SCP-4282</a> - Mutiny's Bane</li>
+<li><a href="/scp-4282">SCP-4282</a> - Mutiny's Bane</li>
 <li><a href="/scp-4283">SCP-4283</a> - Ouachita之心</li>
 <li><a href="/scp-4284">SCP-4284</a> - 走路水塔</li>
 <li><a class="newpage" href="/scp-4285">SCP-4285</a> - Dank Memetics</li>
@@ -1154,7 +1154,7 @@
 <li><a class="newpage" href="/scp-4573">SCP-4573</a> - [拒绝访问]</li>
 <li><a href="/scp-4574">SCP-4574</a> - 旧石器时代的矛虎</li>
 <li><a class="newpage" href="/scp-4575">SCP-4575</a> - Seemingly Unconnected Events</li>
-<li><a href="/scp-4576">SCP-4576</a> - 最完美的计划</li>
+<li><a class="newpage" href="/scp-4576">SCP-4576</a> - 最完美的计划</li>
 <li><a href="/scp-4577">SCP-4577</a> - 我死后，就把我扔进垃圾里</li>
 <li><a href="/scp-4578">SCP-4578</a> - 持枪的好人</li>
 <li><a class="newpage" href="/scp-4579">SCP-4579</a> - Schrodinger's Duck&#8230; Or Not</li>
@@ -1609,7 +1609,7 @@
 <hr />
 <p><strong>归档页面</strong></p>
 <ul>
-<li><a href="/decommissioned-scps-arc">被废除的SCP</a> - 这些SCP是如此糟糕以至于我们写下了销毁它们的故事。我们不希望他们变得更多。</li>
+<li><a class="newpage" href="/decommissioned-scps-arc">被废除的SCP</a> - 这些SCP是如此糟糕以至于我们写下了销毁它们的故事。我们不希望他们变得更多。</li>
 <li><a href="/scp-removed">被删除的SCP</a> - 这些SCP在英文官网上已经被彻底搞掉了，所以你可能无法找到它们的原文，不过基金会网站管理员告诉我们应该保留它们的翻译稿件。</li>
 </ul>
 </div>
@@ -1629,7 +1629,7 @@
 
 
 <div class="footnotes-footer">
-<div class="title">脚注</div>
+<div class="title">Footnotes</div>
 <div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
 <div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
 </div>
@@ -1741,32 +1741,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://odrin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/odrin.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://igor.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/igor.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://odrin.wikidot.com">‏‏‏‏‏‏‏‏ODRIN</a></h3>
+            <h3><a target="_blank" href="http://igor.wikidot.com">Igor</a></h3>
             <div class="desc">          
-              ‏‏‏‏‏‏‏‏
+              Independent Generation of Research
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://roseflood-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roseflood-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mbitcoin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mbitcoin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://roseflood-sandbox.wikidot.com">RoseFlood</a></h3>
-            <div class="desc">          
-              The best of diluvian writing.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://techcomm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/techcomm.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://techcomm.wikidot.com">TechnicalCommunication</a></h3>
+            <h3><a target="_blank" href="http://mbitcoin.wikidot.com">BitCoin</a></h3>
             <div class="desc">          
               
             </div>
@@ -1774,10 +1763,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cst133a.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cst133a.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kindiy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kindiy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cst133a.wikidot.com">CST 133 A</a></h3>
+            <h3><a target="_blank" href="http://kindiy.wikidot.com">kinDIY</a></h3>
+            <div class="desc">          
+              for the DIY kindie community
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://design-illustration.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/design-illustration.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://design-illustration.wikidot.com">Design &amp; Illustration</a></h3>
             <div class="desc">          
               
             </div>

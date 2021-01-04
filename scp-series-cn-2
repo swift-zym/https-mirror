@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1609551306;
+        OZONE.request.timestamp = 1609764493;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -825,7 +825,7 @@
 <li><a href="/scp-cn-1284">SCP-CN-1284</a> - 紙包不住火</li>
 <li><a href="/scp-cn-1285">SCP-CN-1285</a> - 化合物ACC-K067，弑神者</li>
 <li><a href="/scp-cn-1286">SCP-CN-1286</a> - 流金岁月</li>
-<li><a href="/scp-cn-1287">SCP-CN-1287</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1287">SCP-CN-1287</a> - 前置</li>
 <li><a href="/scp-cn-1288">SCP-CN-1288</a> - 改造过的变形虫</li>
 <li><a href="/scp-cn-1289">SCP-CN-1289</a> - 灵感盒子</li>
 <li><a href="/scp-cn-1290">SCP-CN-1290</a> - 飞蛾扑火</li>
@@ -876,7 +876,7 @@
 <li><a href="/scp-cn-1331">SCP-CN-1331</a> - 直至死亡將我們分開</li>
 <li><a href="/scp-cn-1332">SCP-CN-1332</a> - 东方三博士</li>
 <li><a href="/scp-cn-1333">SCP-CN-1333</a> - 肢体</li>
-<li><a class="newpage" href="/scp-cn-1334">SCP-CN-1334</a> - 对位双子</li>
+<li><a href="/scp-cn-1334">SCP-CN-1334</a> - 异兽</li>
 <li><a href="/scp-cn-1335">SCP-CN-1335</a> - 外丹</li>
 <li><a href="/scp-cn-1336">SCP-CN-1336</a> - 神奇打印机</li>
 <li><a href="/scp-cn-1337">SCP-CN-1337</a> - 小黑屋</li>
@@ -896,16 +896,16 @@
 <li><a href="/scp-cn-1351">SCP-CN-1351</a> - 塔</li>
 <li><a href="/scp-cn-1352">SCP-CN-1352</a> - 坟头不埋骨</li>
 <li><a href="/scp-cn-1353">SCP-CN-1353</a> - 地西泮仪式</li>
-<li><a href="/scp-cn-1354">SCP-CN-1354</a> - 礼物盒</li>
+<li><a class="newpage" href="/scp-cn-1354">SCP-CN-1354</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1355">SCP-CN-1355</a> - 食子之村</li>
 <li><a href="/scp-cn-1356">SCP-CN-1356</a> - 可能是，或者不是</li>
 <li><a href="/scp-cn-1357">SCP-CN-1357</a> - 线上时光机</li>
 <li><a href="/scp-cn-1358">SCP-CN-1358</a> - 在圣莫尼卡市不定时播放</li>
 <li><a href="/scp-cn-1359">SCP-CN-1359</a> - <span style="color: #9e9e9e">宿命论</span></li>
 <li><a href="/scp-cn-1360">SCP-CN-1360</a> - 那是鸟？那是飞机？那是……</li>
-<li><a class="newpage" href="/scp-cn-1361">SCP-CN-1361</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1361">SCP-CN-1361</a> - <strong>你的手</strong></li>
 <li><a href="/scp-cn-1362">SCP-CN-1362</a> - 视角</li>
-<li><a href="/scp-cn-1363">SCP-CN-1363</a> - 地动仪</li>
+<li><a class="newpage" href="/scp-cn-1363">SCP-CN-1363</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1364">SCP-CN-1364</a> - 欲加之惧</li>
 <li><a href="/scp-cn-1365">SCP-CN-1365</a> - 花士证书</li>
 <li><a href="/scp-cn-1366">SCP-CN-1366</a> - 命若琴弦</li>
@@ -934,7 +934,7 @@
 <li><a href="/scp-cn-1389">SCP-CN-1389</a> - 镇岁堰</li>
 <li><a href="/scp-cn-1390">SCP-CN-1390</a> - 失格现实</li>
 <li><a href="/scp-cn-1391">SCP-CN-1391</a> - dado的仓鼠药</li>
-<li><a class="newpage" href="/scp-cn-1392">SCP-CN-1392</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1392">SCP-CN-1392</a> - 年轻人的第一场整形手术</li>
 <li><a href="/scp-cn-1393">SCP-CN-1393</a> - dado的招魂药</li>
 <li><a href="/scp-cn-1394">SCP-CN-1394</a> - 黑点</li>
 <li><a href="/scp-cn-1395">SCP-CN-1395</a> - 欲念之涉</li>
@@ -1033,7 +1033,7 @@
 <li><a href="/scp-cn-1484">SCP-CN-1484</a> - 我们的明天已化为灰烬</li>
 <li><a href="/scp-cn-1485">SCP-CN-1485</a> - 将尔晦明，彼凭一叩</li>
 <li><a href="/scp-cn-1486">SCP-CN-1486</a> - HMCL部门</li>
-<li><a href="/scp-cn-1487">SCP-CN-1487</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1487">SCP-CN-1487</a> - [无标题]</li>
 <li><a href="/scp-cn-1488">SCP-CN-1488</a> - 羽蛇神的重生</li>
 <li><a href="/scp-cn-1489">SCP-CN-1489</a> - 厌光性社群植物</li>
 <li><a href="/scp-cn-1490">SCP-CN-1490</a> - 吸水线虫</li>
@@ -1043,7 +1043,7 @@
 <li><a href="/scp-cn-1494">SCP-CN-1494</a> - 我一生的故事。</li>
 <li><a href="/scp-cn-1495">SCP-CN-1495</a> - 青冢月</li>
 <li><a href="/scp-cn-1496">SCP-CN-1496</a> - 受惠他人，善意传承</li>
-<li><a href="/scp-cn-1497">SCP-CN-1497</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1497">SCP-CN-1497</a> - [无标题]</li>
 <li><a href="/scp-cn-1498">SCP-CN-1498</a> - 半夜起身，身边人影<sup>憧</sup>憧</li>
 <li><a href="/scp-cn-1499">SCP-CN-1499</a> - 向那颗划过的流星许个愿吧</li>
 </ul>
@@ -1053,7 +1053,7 @@
 <li><a href="/scp-cn-1500">SCP-CN-1500</a> - pʰoʃma（普十麦）</li>
 <li><a href="/scp-cn-1501">SCP-CN-1501</a> - Mipicu</li>
 <li><a href="/scp-cn-1502">SCP-CN-1502</a> - 祝福之子</li>
-<li><a href="/scp-cn-1503">SCP-CN-1503</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1503">SCP-CN-1503</a> - [无标题]</li>
 <li><a href="/scp-cn-1504">SCP-CN-1504</a> - 变古乱常，成仁取义</li>
 <li><a href="/scp-cn-1505">SCP-CN-1505</a> - 魔术or魔方？</li>
 <li><a href="/scp-cn-1506">SCP-CN-1506</a> - 恶意</li>
@@ -1087,7 +1087,7 @@
 <li><a href="/scp-cn-1534">SCP-CN-1534</a> - 平衡之兽</li>
 <li><a href="/scp-cn-1535">SCP-CN-1535</a> - 城市，让生活更美好</li>
 <li><a href="/scp-cn-1536">SCP-CN-1536</a> - 异世界路人</li>
-<li><a class="newpage" href="/scp-cn-1537">SCP-CN-1537</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1537">SCP-CN-1537</a> - 叙事本</li>
 <li><a href="/scp-cn-1538">SCP-CN-1538</a> - 莲，于高山之巅萌发，为汝献上欢乐的颂歌</li>
 <li><a href="/scp-cn-1539">SCP-CN-1539</a> - 登高朝圣</li>
 <li><a href="/scp-cn-1540">SCP-CN-1540</a> - dado稀饭听摇滚</li>
@@ -1117,7 +1117,7 @@
 <li><a href="/scp-cn-1564">SCP-CN-1564</a> - 香“蝽”树</li>
 <li><a href="/scp-cn-1565">SCP-CN-1565</a> - 后人得之传此</li>
 <li><a href="/scp-cn-1566">SCP-CN-1566</a> - 它是什么？</li>
-<li><a href="/scp-cn-1567">SCP-CN-1567</a> - 窗之少女</li>
+<li><a class="newpage" href="/scp-cn-1567">SCP-CN-1567</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1568">SCP-CN-1568</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1569">SCP-CN-1569</a> - 开窍</li>
 <li><a href="/scp-cn-1570">SCP-CN-1570</a> - 战争之月</li>
@@ -1126,12 +1126,12 @@
 <li><a href="/scp-cn-1573">SCP-CN-1573</a> - 特长收容措施</li>
 <li><a href="/scp-cn-1574">SCP-CN-1574</a> - 如果？</li>
 <li><a href="/scp-cn-1575">SCP-CN-1575</a> - 最后遗愿</li>
-<li><a class="newpage" href="/scp-cn-1576">SCP-CN-1576</a> - 火灵剑</li>
+<li><a class="newpage" href="/scp-cn-1576">SCP-CN-1576</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1577">SCP-CN-1577</a> - 戴久了的面具摘不下</li>
 <li><a href="/scp-cn-1578">SCP-CN-1578</a> - 银针</li>
 <li><a href="/scp-cn-1579">SCP-CN-1579</a> - 沙漠肺鱼</li>
 <li><a href="/scp-cn-1580">SCP-CN-1580</a> - 梦碑与神之颞叶</li>
-<li><a href="/scp-cn-1581">SCP-CN-1581</a> - 神奇钢笔</li>
+<li><a class="newpage" href="/scp-cn-1581">SCP-CN-1581</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1582">SCP-CN-1582</a> - 洞口</li>
 <li><a href="/scp-cn-1583">SCP-CN-1583</a> - 世平若纸，维度何从</li>
 <li><a href="/scp-cn-1584">SCP-CN-1584</a> - 多喝热水</li>
@@ -1147,7 +1147,7 @@
 <li><a href="/scp-cn-1594">SCP-CN-1594</a> - 殘燭</li>
 <li><a href="/scp-cn-1595">SCP-CN-1595</a> - 神的游戏</li>
 <li><a href="/scp-cn-1596">SCP-CN-1596</a> - 夜晚的口中珍馐</li>
-<li><a href="/scp-cn-1597">SCP-CN-1597</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1597">SCP-CN-1597</a> - [无标题]</li>
 <li><a href="/scp-cn-1598">SCP-CN-1598</a> - 地球仪</li>
 <li><a href="/scp-cn-1599">SCP-CN-1599</a> - 支离破碎</li>
 </ul>
@@ -1217,7 +1217,7 @@
 <li><a href="/scp-cn-1660">SCP-CN-1660</a> - ███的诞生</li>
 <li><a href="/scp-cn-1661">SCP-CN-1661</a> - 何患无辞</li>
 <li><a href="/scp-cn-1662">SCP-CN-1662</a> - 瀕臨絕種動物專用獸餌</li>
-<li><a href="/scp-cn-1663">SCP-CN-1663</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1663">SCP-CN-1663</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1664">SCP-CN-1664</a> - 自知之碑</li>
 <li><a href="/scp-cn-1665">SCP-CN-1665</a> - dado的核爆失恋药</li>
 <li><a href="/scp-cn-1666">SCP-CN-1666</a> - 帷幕破碎</li>
@@ -1228,7 +1228,7 @@
 <li><a href="/scp-cn-1671">SCP-CN-1671</a> - 不夜城</li>
 <li><a href="/scp-cn-1672">SCP-CN-1672</a> - “dado”的鮟鱇鱼药</li>
 <li><a href="/scp-cn-1673">SCP-CN-1673</a> - 剧透一时爽</li>
-<li><a href="/scp-cn-1674">SCP-CN-1674</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1674">SCP-CN-1674</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1675">SCP-CN-1675</a> - 欢迎光临</li>
 <li><a href="/scp-cn-1676">SCP-CN-1676</a> - 难吃嘴臭小舌头</li>
 <li><a href="/scp-cn-1677">SCP-CN-1677</a> - 水灾</li>
@@ -1266,7 +1266,7 @@
 <li><a href="/scp-cn-1705">SCP-CN-1705</a> - 卡布莱耶奶奶的今日厨房！</li>
 <li><a class="newpage" href="/scp-cn-1706">SCP-CN-1706</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1707">SCP-CN-1707</a> - 推背去归休</li>
-<li><a class="newpage" href="/scp-cn-1708">SCP-CN-1708</a> - 打字机</li>
+<li><a class="newpage" href="/scp-cn-1708">SCP-CN-1708</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1709">SCP-CN-1709</a> - 沉浸式交响现场™️</li>
 <li><a href="/scp-cn-1710">SCP-CN-1710</a> - 免疫警戒</li>
 <li><a href="/scp-cn-1711">SCP-CN-1711</a> - 教室</li>
@@ -1384,7 +1384,7 @@
 <li><a href="/scp-cn-1819">SCP-CN-1819</a> - 图书馆</li>
 <li><a href="/scp-cn-1820">SCP-CN-1820</a> - 他们，凝望着我们的孤独</li>
 <li><a href="/scp-cn-1821">SCP-CN-1821</a> - 数字时钟</li>
-<li><a class="newpage" href="/scp-cn-1822">SCP-CN-1822</a> - 白色中学</li>
+<li><a class="newpage" href="/scp-cn-1822">SCP-CN-1822</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1823">SCP-CN-1823</a> - 悲歌当泣，远望当归</li>
 <li><a href="/scp-cn-1824">SCP-CN-1824</a> - 脱发的深夜诗人们</li>
 <li><a href="/scp-cn-1825">SCP-CN-1825</a> - 踏入神界的人们</li>
@@ -1525,7 +1525,7 @@
 <li><a href="/scp-cn-1956">SCP-CN-1956</a> - 重逢思念之人，然后再次失去</li>
 <li><a href="/scp-cn-1957">SCP-CN-1957</a> - 旧树</li>
 <li><a href="/scp-cn-1958">SCP-CN-1958</a> - 速食文明</li>
-<li><a href="/scp-cn-1959">SCP-CN-1959</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1959">SCP-CN-1959</a> - [无标题]</li>
 <li><a href="/scp-cn-1960">SCP-CN-1960</a> - 在路上</li>
 <li><a href="/scp-cn-1961">SCP-CN-1961</a> - 翠青蛇</li>
 <li><a href="/scp-cn-1962">SCP-CN-1962</a> - 修蛇</li>
@@ -1562,7 +1562,7 @@
 <li><a href="/scp-cn-1993">SCP-CN-1993</a> - 沉眠的城堡中，公主的绽放之刻</li>
 <li><a href="/scp-cn-1994">SCP-CN-1994</a> - 下向</li>
 <li><a href="/scp-cn-1995">SCP-CN-1995</a> - 都市传说</li>
-<li><a class="newpage" href="/scp-cn-1996">SCP-CN-1996</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1996">SCP-CN-1996</a> - 于是法医觉得恶心</li>
 <li><a href="/scp-cn-1997">SCP-CN-1997</a> - 當魔法與奇術交織之時</li>
 <li><a href="/scp-cn-1998">SCP-CN-1998</a> - 结晶</li>
 <li><a href="/scp-cn-1999">SCP-CN-1999</a> - 幻想遗物</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3913, 最后编辑于: <span class="odate time_1609501428 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">01 Jan 2021 11:43</span></div>
+                            <div id="page-info">页面版本: 3923, 最后编辑于: <span class="odate time_1609763866 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Jan 2021 12:37</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+80</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vyprmedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vyprmedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://vs-tcg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vs-tcg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vyprmedia.wikidot.com">VyprMedia</a></h3>
+            <h3><a target="_blank" href="http://vs-tcg.wikidot.com">Sparkling Victory!</a></h3>
             <div class="desc">          
-              
+              Time to Spark, Time for Victory...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://historynewmedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/historynewmedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
+            <h3><a target="_blank" href="http://historynewmedia.wikidot.com">History in the New Media</a></h3>
             <div class="desc">          
-              
+              Digital Project Design in Archives and Public History
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://alveslima-edu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alveslima-edu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://alveslima-edu.wikidot.com">WIKEDUCAÇÃO</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox2.wikidot.com">SCP Sandbox Wiki II</a></h3>
             <div class="desc">          
-              
+              Sandbox Harder
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fifabeapro360.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fifabeapro360.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rpc-jp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-jp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fifabeapro360.wikidot.com">Fifa Be A Pro 360</a></h3>
+            <h3><a target="_blank" href="http://rpc-jp.wikidot.com">RPC機構</a></h3>
             <div class="desc">          
-              
+              研究、保護、収容
             </div>
           </div>
         </div>
