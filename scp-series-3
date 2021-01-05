@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1609851047;
+        OZONE.request.timestamp = 1609872716;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1710,10 +1710,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cst133a.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cst133a.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://covid19tilekpaideusi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/covid19tilekpaideusi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cst133a.wikidot.com">CST 133 A</a></h3>
+            <h3><a target="_blank" href="http://covid19tilekpaideusi.wikidot.com">Covid-19: Πως επηρεάστηκε η καθημερινότητά μας.</a></h3>
+            <div class="desc">          
+              Εξ αποστάσεως εκπαίδευση
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://storychip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/storychip.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://storychip.wikidot.com">Story Chip</a></h3>
+            <div class="desc">          
+              Become a part of history, share your story.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://advent-ro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/advent-ro.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://advent-ro.wikidot.com">AdventRO Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darry.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darry.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://phylo.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/phylo.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darry.wikidot.com">Darry Container</a></h3>
+            <h3><a target="_blank" href="http://phylo.wikidot.com">PhyloWiki</a></h3>
             <div class="desc">          
-              We know our way out.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://thesimsonline.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thesimsonline.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://thesimsonline.wikidot.com">The Sims Online</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://geoffshousegames.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/geoffshousegames.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://geoffshousegames.wikidot.com">Geoff&#039;s House Games</a></h3>
-            <div class="desc">          
-              May Good Games Rise Again
+              Assisting research and education in phylogenetics and evolution
             </div>
           </div>
         </div>
