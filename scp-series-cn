@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1609896950;
+        OZONE.request.timestamp = 1609915871;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,32 +1685,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://masonic.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/masonic.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://roboticsclubucla.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticsclubucla.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://masonic.wikidot.com">Masonic</a></h3>
-            <div class="desc">          
-              A Freemason&#039;s Compendium
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wychwood.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wychwood.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wychwood.wikidot.com">Wikiwood</a></h3>
-            <div class="desc">          
-              Wychwood Warriors Wiki
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://tasker.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tasker.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://tasker.wikidot.com">Tasker Wiki</a></h3>
+            <h3><a target="_blank" href="http://roboticsclubucla.wikidot.com">Robotics Club @ UCLA Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1718,12 +1696,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://harvey-capital-lectures.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/harvey-capital-lectures.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cosmerezh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cosmerezh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://harvey-capital-lectures.wikidot.com">Harvey Capital Lectures</a></h3>
+            <h3><a target="_blank" href="http://cosmerezh.wikidot.com">山德森寰宇祕典</a></h3>
             <div class="desc">          
-              Crowdsourced Transcription and Translation Project
+              星河之間，無垠之上
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scienceonlinelondon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scienceonlinelondon.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scienceonlinelondon.wikidot.com">Science Online London</a></h3>
+            <div class="desc">          
+              How is the Web changing science?
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>

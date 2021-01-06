@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1609897182;
+        OZONE.request.timestamp = 1609915870;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -848,7 +848,7 @@
 <li><a class="newpage" href="/scp-4279">SCP-4279</a> - A Toast to my Finished Thesis</li>
 <li><a href="/scp-4280">SCP-4280</a> - <em>跨维度侮辱惩罚罐</em>™</li>
 <li><a href="/scp-4281">SCP-4281</a> - 厕间谈话</li>
-<li><a href="/scp-4282">SCP-4282</a> - Mutiny's Bane</li>
+<li><a class="newpage" href="/scp-4282">SCP-4282</a> - Mutiny's Bane</li>
 <li><a href="/scp-4283">SCP-4283</a> - Ouachita之心</li>
 <li><a href="/scp-4284">SCP-4284</a> - 走路水塔</li>
 <li><a class="newpage" href="/scp-4285">SCP-4285</a> - Dank Memetics</li>
@@ -1741,32 +1741,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://exploresecureprotect.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exploresecureprotect.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pottersarmy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pottersarmy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://exploresecureprotect.wikidot.com">ESP协会</a></h3>
-            <div class="desc">          
-              探索 控制 保护
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://2012hoax.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2012hoax.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://2012hoax.wikidot.com">2012hoax</a></h3>
-            <div class="desc">          
-              Debunking the &quot;2012 Doomsday&quot;
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://the-nexus.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/the-nexus.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://the-nexus.wikidot.com">Nexus Wiki</a></h3>
+            <h3><a target="_blank" href="http://pottersarmy.wikidot.com">Potter&#039;s Army</a></h3>
             <div class="desc">          
               
             </div>
@@ -1774,12 +1752,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://khaidoan.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/khaidoan.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://witchipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/witchipedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://khaidoan.wikidot.com">Khai&#039;s personal knowledge vault.</a></h3>
+            <h3><a target="_blank" href="http://witchipedia.wikidot.com">Witchipedia</a></h3>
             <div class="desc">          
-              Materials on this site are not original. When possible, references to original articles are listed on each page.
+              The online encyclopedia of magick, folklore and the occult
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://sharecokecodes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sharecokecodes.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://sharecokecodes.wikidot.com">Share Coke Codes</a></h3>
+            <div class="desc">          
+              Sharing happiness by sharing Coke rewards codes.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://musicandcyberculture.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/musicandcyberculture.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://musicandcyberculture.wikidot.com">Music and Cyberculture</a></h3>
+            <div class="desc">          
+              MUS 6314 - Topics in Ethnomusicology
             </div>
           </div>
         </div>
