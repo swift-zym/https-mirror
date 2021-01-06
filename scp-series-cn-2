@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1609872716;
+        OZONE.request.timestamp = 1609897002;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -896,7 +896,7 @@
 <li><a href="/scp-cn-1351">SCP-CN-1351</a> - 塔</li>
 <li><a href="/scp-cn-1352">SCP-CN-1352</a> - 坟头不埋骨</li>
 <li><a href="/scp-cn-1353">SCP-CN-1353</a> - 地西泮仪式</li>
-<li><a href="/scp-cn-1354">SCP-CN-1354</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1354">SCP-CN-1354</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1355">SCP-CN-1355</a> - 食子之村</li>
 <li><a href="/scp-cn-1356">SCP-CN-1356</a> - 可能是，或者不是</li>
 <li><a href="/scp-cn-1357">SCP-CN-1357</a> - 线上时光机</li>
@@ -1562,7 +1562,7 @@
 <li><a href="/scp-cn-1993">SCP-CN-1993</a> - 沉眠的城堡中，公主的绽放之刻</li>
 <li><a href="/scp-cn-1994">SCP-CN-1994</a> - 下向</li>
 <li><a href="/scp-cn-1995">SCP-CN-1995</a> - 都市传说</li>
-<li><a href="/scp-cn-1996">SCP-CN-1996</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1996">SCP-CN-1996</a> - 天海市</li>
 <li><a href="/scp-cn-1997">SCP-CN-1997</a> - 當魔法與奇術交織之時</li>
 <li><a href="/scp-cn-1998">SCP-CN-1998</a> - 结晶</li>
 <li><a href="/scp-cn-1999">SCP-CN-1999</a> - 幻想遗物</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3924, 最后编辑于: <span class="odate time_1609863704 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Jan 2021 16:21</span></div>
+                            <div id="page-info">页面版本: 3925, 最后编辑于: <span class="odate time_1609881252 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Jan 2021 21:14</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+80</span>)</a>
@@ -1686,32 +1686,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://covid19tilekpaideusi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/covid19tilekpaideusi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-jp-sandbox3.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-sandbox3.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://covid19tilekpaideusi.wikidot.com">Covid-19: Πως επηρεάστηκε η καθημερινότητά μας.</a></h3>
+            <h3><a target="_blank" href="http://scp-jp-sandbox3.wikidot.com">SCP-JPサンドボックスⅢ</a></h3>
             <div class="desc">          
-              Εξ αποστάσεως εκπαίδευση
+              a.k.a 下書きフォーラム v2
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://storychip.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/storychip.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-sandbox2-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox2-zh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://storychip.wikidot.com">Story Chip</a></h3>
+            <h3><a target="_blank" href="http://scp-sandbox2-zh.wikidot.com">SCP繁中沙盒2.0</a></h3>
             <div class="desc">          
-              Become a part of history, share your story.
+              生命之沙，繁星之盒
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://advent-ro.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/advent-ro.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://androidalchemy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/androidalchemy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://advent-ro.wikidot.com">AdventRO Wiki</a></h3>
+            <h3><a target="_blank" href="http://androidalchemy.wikidot.com">Android Alchemy</a></h3>
             <div class="desc">          
               
             </div>
@@ -1719,12 +1719,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://phylo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/phylo.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chimiex-bicaz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chimiex-bicaz.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://phylo.wikidot.com">PhyloWiki</a></h3>
+            <h3><a target="_blank" href="http://chimiex-bicaz.wikidot.com">Chimiex Bicaz</a></h3>
             <div class="desc">          
-              Assisting research and education in phylogenetics and evolution
+              
             </div>
           </div>
         </div>
