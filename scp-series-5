@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1609959196;
+        OZONE.request.timestamp = 1609983468;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1741,21 +1741,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chrysaliswiki.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
+            <h3><a target="_blank" href="http://chrysaliswiki.com">Chrysalis</a></h3>
             <div class="desc">          
-              A World of Darkness Encyclopedia for Modern Nights
+              A Final Fantasy Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://microchipdeveloper.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchipdeveloper.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://simtrackipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/simtrackipedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://microchipdeveloper.com">Developer Help</a></h3>
+            <h3><a target="_blank" href="http://simtrackipedia.wikidot.com">SIMTrackipedia</a></h3>
+            <div class="desc">          
+              A collection of tutorials for Bob&#039;s Track Builder, XPacker, and other related programs
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://puppet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/puppet.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://puppet.wikidot.com">Puppet中文wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1763,23 +1774,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sunnybrook-academy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sunnybrook-academy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sunnybrook-academy.wikidot.com">Fifth Sanctum School for The Supernatural</a></h3>
+            <h3><a target="_blank" href="http://www.wikidot.com">Wikidot - Free and Pro Wiki Hosting</a></h3>
             <div class="desc">          
-              fun and friendship in a semi-serious roleplay about teens in a school for supernatural
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pagi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pagi.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pagi.wikidot.com">pagi</a></h3>
-            <div class="desc">          
-              
+              your place on the web
             </div>
           </div>
         </div>
