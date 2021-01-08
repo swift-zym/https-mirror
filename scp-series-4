@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1610070136;
+        OZONE.request.timestamp = 1610088327;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://alicebot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alicebot.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wiki.thymio.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.thymio.org/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://alicebot.wikidot.com">Alicebot</a></h3>
+            <h3><a target="_blank" href="http://wiki.thymio.org">Thymio &amp; Aseba</a></h3>
             <div class="desc">          
-              Free AIML chat bot content
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://historynewmedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/historynewmedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cgp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://historynewmedia.wikidot.com">History in the New Media</a></h3>
+            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
             <div class="desc">          
-              Digital Project Design in Archives and Public History
+              CGP Students
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://the-ic.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/the-ic.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fearschemistry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fearschemistry.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://the-ic.wikidot.com">无尽长廊</a></h3>
+            <h3><a target="_blank" href="http://fearschemistry.wikidot.com">Chemistry</a></h3>
             <div class="desc">          
-              行于廊屋，游于万物
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gateofrealms.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gateofrealms.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cepfondazione.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cepfondazione.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gateofrealms.wikidot.com">诸界之门</a></h3>
+            <h3><a target="_blank" href="http://cepfondazione.wikidot.com">CEP</a></h3>
             <div class="desc">          
-              多元原创创作社区
+              Fondazione CEP
             </div>
           </div>
         </div>

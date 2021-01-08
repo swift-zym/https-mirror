@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1610070183;
+        OZONE.request.timestamp = 1610088585;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.arlingtonlist.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.arlingtonlist.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://librarylab.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/librarylab.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wiki.arlingtonlist.org">Arlington, Mass.</a></h3>
+            <h3><a target="_blank" href="http://librarylab.wikidot.com">CTC/Library Lab Wiki</a></h3>
             <div class="desc">          
-              The Arlington Wiki - Arlington, MA
+              The CTC mothership
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://therafimrpg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/therafimrpg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rtd1261.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rtd1261.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://therafimrpg.wikidot.com">Therafim RPG</a></h3>
+            <h3><a target="_blank" href="http://rtd1261.wikidot.com">RTD1261 MediaPlayer</a></h3>
             <div class="desc">          
-              Epic Destiny Awaits
+              Tweaking the Realtek RTD1261 Mediaplayer
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hoah-lab.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hoah-lab.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://liminal-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liminal-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hoah-lab.wikidot.com">hoah的私人实验室</a></h3>
+            <h3><a target="_blank" href="http://liminal-sandbox.wikidot.com">Liminal Sandbox</a></h3>
             <div class="desc">          
-              实验 爆炸 跑路
+              Sandbox for the Liminal Archives
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://alicebot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alicebot.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mkworld.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mkworld.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://alicebot.wikidot.com">Alicebot</a></h3>
+            <h3><a target="_blank" href="http://mkworld.wikidot.com">The World of Metamor Keep</a></h3>
             <div class="desc">          
-              Free AIML chat bot content
+              Welcome to Metamor Keep
             </div>
           </div>
         </div>
