@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1610088585;
+        OZONE.request.timestamp = 1610110698;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -896,7 +896,7 @@
 <li><a href="/scp-cn-1351">SCP-CN-1351</a> - 塔</li>
 <li><a href="/scp-cn-1352">SCP-CN-1352</a> - 坟头不埋骨</li>
 <li><a href="/scp-cn-1353">SCP-CN-1353</a> - 地西泮仪式</li>
-<li><a href="/scp-cn-1354">SCP-CN-1354</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1354">SCP-CN-1354</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1355">SCP-CN-1355</a> - 食子之村</li>
 <li><a href="/scp-cn-1356">SCP-CN-1356</a> - 可能是，或者不是</li>
 <li><a href="/scp-cn-1357">SCP-CN-1357</a> - 线上时光机</li>
@@ -905,7 +905,7 @@
 <li><a href="/scp-cn-1360">SCP-CN-1360</a> - 那是鸟？那是飞机？那是……</li>
 <li><a class="newpage" href="/scp-cn-1361">SCP-CN-1361</a> - <strong>你的手</strong></li>
 <li><a href="/scp-cn-1362">SCP-CN-1362</a> - 视角</li>
-<li><a href="/scp-cn-1363">SCP-CN-1363</a> - 它们</li>
+<li><a class="newpage" href="/scp-cn-1363">SCP-CN-1363</a> - 它们</li>
 <li><a href="/scp-cn-1364">SCP-CN-1364</a> - 欲加之惧</li>
 <li><a href="/scp-cn-1365">SCP-CN-1365</a> - 花士证书</li>
 <li><a href="/scp-cn-1366">SCP-CN-1366</a> - 命若琴弦</li>
@@ -928,7 +928,7 @@
 <li><a href="/scp-cn-1383">SCP-CN-1383</a> - 该队伍由“Lemon OBserver”牌汽水赞助</li>
 <li><a href="/scp-cn-1384">SCP-CN-1384</a> - 生将旋，死亦前</li>
 <li><a href="/scp-cn-1385">SCP-CN-1385</a> - 宅男游戏</li>
-<li><a class="newpage" href="/scp-cn-1386">SCP-CN-1386</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1386">SCP-CN-1386</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1387">SCP-CN-1387</a> - 一期一会の箸</li>
 <li><a href="/scp-cn-1388">SCP-CN-1388</a> - <span style="text-decoration: underline;">蛇，缠绕世界的祂</span></li>
 <li><a href="/scp-cn-1389">SCP-CN-1389</a> - 镇岁堰</li>
@@ -984,7 +984,7 @@
 <li><a href="/scp-cn-1435">SCP-CN-1435</a> - “地狱恶龙魂”</li>
 <li><a href="/scp-cn-1436">SCP-CN-1436</a> - 新生贺礼</li>
 <li><a href="/scp-cn-1437">SCP-CN-1437</a> - 临界区</li>
-<li><a class="newpage" href="/scp-cn-1438">SCP-CN-1438</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1438">解密：SCP-CN-1438 作者应该/不应该做的事</a></li>
 <li><a href="/scp-cn-1439">SCP-CN-1439</a> - 戏班</li>
 <li><a href="/scp-cn-1440">SCP-CN-1440</a> - 茶核</li>
 <li><a href="/scp-cn-1441">SCP-CN-1441</a> - 植物人</li>
@@ -1266,7 +1266,7 @@
 <li><a href="/scp-cn-1705">SCP-CN-1705</a> - 卡布莱耶奶奶的今日厨房！</li>
 <li><a class="newpage" href="/scp-cn-1706">SCP-CN-1706</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1707">SCP-CN-1707</a> - 推背去归休</li>
-<li><a href="/scp-cn-1708">SCP-CN-1708</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1708">SCP-CN-1708</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1709">SCP-CN-1709</a> - 沉浸式交响现场™️</li>
 <li><a href="/scp-cn-1710">SCP-CN-1710</a> - 免疫警戒</li>
 <li><a href="/scp-cn-1711">SCP-CN-1711</a> - 教室</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3926, 最后编辑于: <span class="odate time_1610012426 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Jan 2021 09:40</span></div>
+                            <div id="page-info">页面版本: 3927, 最后编辑于: <span class="odate time_1610107937 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Jan 2021 12:12</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+80</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://librarylab.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/librarylab.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aeternuscenter.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aeternuscenter.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://librarylab.wikidot.com">CTC/Library Lab Wiki</a></h3>
+            <h3><a target="_blank" href="http://aeternuscenter.wikidot.com">Aeternus Center</a></h3>
             <div class="desc">          
-              The CTC mothership
+              the ARG
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rtd1261.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rtd1261.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cuiltheory.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cuiltheory.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rtd1261.wikidot.com">RTD1261 MediaPlayer</a></h3>
+            <h3><a target="_blank" href="http://cuiltheory.wikidot.com">Cuil Theory</a></h3>
             <div class="desc">          
-              Tweaking the Realtek RTD1261 Mediaplayer
+              A Mathematical unit of Surrealism.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://liminal-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liminal-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://johnmerritt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/johnmerritt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://liminal-sandbox.wikidot.com">Liminal Sandbox</a></h3>
+            <h3><a target="_blank" href="http://johnmerritt.wikidot.com">johnmerritt</a></h3>
             <div class="desc">          
-              Sandbox for the Liminal Archives
+              social studies
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mkworld.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mkworld.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://prmagma-scpsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/prmagma-scpsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mkworld.wikidot.com">The World of Metamor Keep</a></h3>
+            <h3><a target="_blank" href="http://prmagma-scpsandbox.wikidot.com">Centre de Recherche</a></h3>
             <div class="desc">          
-              Welcome to Metamor Keep
+              S&#039;améliorer, Corriger, Partager
             </div>
           </div>
         </div>
