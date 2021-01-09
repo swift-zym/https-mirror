@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1610175020;
+        OZONE.request.timestamp = 1610196876;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -923,7 +923,7 @@
 <li><a class="newpage" href="/scp-3373">SCP-3373</a> - Our Whole Universe was in a Hot Dense State</li>
 <li><a class="newpage" href="/scp-3374">SCP-3374</a> - Aquaria Phenomena</li>
 <li><a href="/scp-3375">SCP-3375</a> - 旅者花园鳗</li>
-<li><a class="newpage" href="/scp-3376">SCP-3376</a> - The Dreaming Stone</li>
+<li><a href="/scp-3376">SCP-3376</a> - 做梦的石头</li>
 <li><a href="/scp-3377">SCP-3377</a> - 好心的红酒鉴赏家</li>
 <li><a class="newpage" href="/scp-3378">SCP-3378</a> - Info Drones</li>
 <li><a href="/scp-3379">SCP-3379</a> - D-11424与北极肉洞的无上奇观</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 858, 最后编辑于: <span class="odate time_1609738167 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Jan 2021 05:29</span></div>
+                            <div id="page-info">页面版本: 859, 最后编辑于: <span class="odate time_1610185556 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">09 Jan 2021 09:45</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1710,21 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://05command.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/05command.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://typesets.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/typesets.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://05command.wikidot.com">O5 Command</a></h3>
-            <div class="desc">          
-              Why they changed it I can&#039;t say. People just liked it better that way
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wiki.thymio.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.thymio.org/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wiki.thymio.org">Thymio &amp; Aseba</a></h3>
+            <h3><a target="_blank" href="http://typesets.wikidot.com">Type Set Coin Collecting</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://iaac-readings.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iaac-readings.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.etnolinguistica.org">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.etnolinguistica.org/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://iaac-readings.wikidot.com">iaac emergent culture glossary</a></h3>
+            <h3><a target="_blank" href="http://www.etnolinguistica.org">Biblioteca Digital Curt Nimuendajú</a></h3>
             <div class="desc">          
-              words, words, words
+              línguas e culturas indígenas sul-americanas
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://asoh.xyz">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/asoh.xyz/80.jpg"/>
+            <a target="_blank" class="image" href="http://parliamentarism.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/parliamentarism.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://asoh.xyz">Another Stage of History</a></h3>
+            <h3><a target="_blank" href="http://parliamentarism.wikidot.com">Парламентаризм России</a></h3>
             <div class="desc">          
-              A Character Creation and Edit Officer Site
+              Всё о парламенте и парламентариях
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://halfmoonbay.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/halfmoonbay.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://halfmoonbay.wikidot.com">Half Moon Bay Weyr</a></h3>
+            <div class="desc">          
+              Join us at paper.mudmagic.com Port:2211
             </div>
           </div>
         </div>
