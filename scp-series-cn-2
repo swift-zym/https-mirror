@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1610131873;
+        OZONE.request.timestamp = 1610156415;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1384,7 +1384,7 @@
 <li><a href="/scp-cn-1819">SCP-CN-1819</a> - 图书馆</li>
 <li><a href="/scp-cn-1820">SCP-CN-1820</a> - 他们，凝望着我们的孤独</li>
 <li><a href="/scp-cn-1821">SCP-CN-1821</a> - 数字时钟</li>
-<li><a class="newpage" href="/scp-cn-1822">SCP-CN-1822</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1822">SCP-CN-1822</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1823">SCP-CN-1823</a> - 悲歌当泣，远望当归</li>
 <li><a href="/scp-cn-1824">SCP-CN-1824</a> - 脱发的深夜诗人们</li>
 <li><a href="/scp-cn-1825">SCP-CN-1825</a> - 踏入神界的人们</li>
@@ -1686,43 +1686,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://grave-box.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/grave-box.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-sandbox2-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox2-zh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://grave-box.wikidot.com">The Grave-Box</a></h3>
+            <h3><a target="_blank" href="http://scp-sandbox2-zh.wikidot.com">SCP繁中沙盒2.0</a></h3>
             <div class="desc">          
-              Close that grave-box door
+              生命之沙，繁星之盒
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://excelencia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/excelencia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://soymilkls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soymilkls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://excelencia.wikidot.com">EXCELENCIA</a></h3>
+            <h3><a target="_blank" href="http://soymilkls.wikidot.com">Soymilk Linkshell</a></h3>
             <div class="desc">          
-              exploring, describing and promoting  great websites!
+              Professional, drama-free dynamis since 2005!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kfmapdb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kfmapdb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://jquery-easyui.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jquery-easyui.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kfmapdb.wikidot.com">Killing Floor Map Database</a></h3>
+            <h3><a target="_blank" href="http://jquery-easyui.wikidot.com">jQuery EasyUI</a></h3>
             <div class="desc">          
-              KFMapDB.com
+              easyui help you build your web page easily!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pedhemoncreview.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pedhemoncreview.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ds09.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds09.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pedhemoncreview.wikidot.com">Pediatric Hematology &amp; Oncology Certification Review</a></h3>
+            <h3><a target="_blank" href="http://ds09.wikidot.com">Data Structures</a></h3>
             <div class="desc">          
               
             </div>
