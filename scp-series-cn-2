@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1610196958;
+        OZONE.request.timestamp = 1610218461;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -896,7 +896,7 @@
 <li><a href="/scp-cn-1351">SCP-CN-1351</a> - 塔</li>
 <li><a href="/scp-cn-1352">SCP-CN-1352</a> - 坟头不埋骨</li>
 <li><a href="/scp-cn-1353">SCP-CN-1353</a> - 地西泮仪式</li>
-<li><a class="newpage" href="/scp-cn-1354">SCP-CN-1354</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1354">SCP-CN-1354</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1355">SCP-CN-1355</a> - 食子之村</li>
 <li><a href="/scp-cn-1356">SCP-CN-1356</a> - 可能是，或者不是</li>
 <li><a href="/scp-cn-1357">SCP-CN-1357</a> - 线上时光机</li>
@@ -928,7 +928,7 @@
 <li><a href="/scp-cn-1383">SCP-CN-1383</a> - 该队伍由“Lemon OBserver”牌汽水赞助</li>
 <li><a href="/scp-cn-1384">SCP-CN-1384</a> - 生将旋，死亦前</li>
 <li><a href="/scp-cn-1385">SCP-CN-1385</a> - 宅男游戏</li>
-<li><a class="newpage" href="/scp-cn-1386">SCP-CN-1386</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1386">SCP-CN-1386</a> - 冰虫的能力是有极限的</li>
 <li><a href="/scp-cn-1387">SCP-CN-1387</a> - 一期一会の箸</li>
 <li><a href="/scp-cn-1388">SCP-CN-1388</a> - <span style="text-decoration: underline;">蛇，缠绕世界的祂</span></li>
 <li><a href="/scp-cn-1389">SCP-CN-1389</a> - 镇岁堰</li>
@@ -1106,7 +1106,7 @@
 <li><a href="/scp-cn-1553">SCP-CN-1553</a> - 牺牲笼子，消灭隐患</li>
 <li><a href="/scp-cn-1554">SCP-CN-1554</a> - 无问前路，世间皆缄默</li>
 <li><a href="/scp-cn-1555">SCP-CN-1555</a> - 老先生和爱哭鬼</li>
-<li><a class="newpage" href="/scp-cn-1556">SCP-CN-1556</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1556">SCP-CN-1556</a> - 不要停下迈向星空的脚步</li>
 <li><a href="/scp-cn-1557">SCP-CN-1557</a> - 静之声</li>
 <li><a href="/scp-cn-1558">SCP-CN-1558</a> - 长恨歌.txt</li>
 <li><a href="/scp-cn-1559">SCP-CN-1559</a> - 青鸟</li>
@@ -1126,7 +1126,7 @@
 <li><a href="/scp-cn-1573">SCP-CN-1573</a> - 特长收容措施</li>
 <li><a href="/scp-cn-1574">SCP-CN-1574</a> - 如果？</li>
 <li><a href="/scp-cn-1575">SCP-CN-1575</a> - 最后遗愿</li>
-<li><a class="newpage" href="/scp-cn-1576">SCP-CN-1576</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1576">SCP-CN-1576</a> - 半身人溜冰场</li>
 <li><a href="/scp-cn-1577">SCP-CN-1577</a> - 戴久了的面具摘不下</li>
 <li><a href="/scp-cn-1578">SCP-CN-1578</a> - 银针</li>
 <li><a href="/scp-cn-1579">SCP-CN-1579</a> - 沙漠肺鱼</li>
@@ -1228,7 +1228,7 @@
 <li><a href="/scp-cn-1671">SCP-CN-1671</a> - 不夜城</li>
 <li><a href="/scp-cn-1672">SCP-CN-1672</a> - “dado”的鮟鱇鱼药</li>
 <li><a href="/scp-cn-1673">SCP-CN-1673</a> - 剧透一时爽</li>
-<li><a class="newpage" href="/scp-cn-1674">SCP-CN-1674</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1674">SCP-CN-1674</a> - 做个介绍，我是你</li>
 <li><a href="/scp-cn-1675">SCP-CN-1675</a> - 欢迎光临</li>
 <li><a href="/scp-cn-1676">SCP-CN-1676</a> - 难吃嘴臭小舌头</li>
 <li><a href="/scp-cn-1677">SCP-CN-1677</a> - 水灾</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3929, 最后编辑于: <span class="odate time_1610193343 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">09 Jan 2021 11:55</span></div>
+                            <div id="page-info">页面版本: 3933, 最后编辑于: <span class="odate time_1610210006 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">09 Jan 2021 16:33</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+80</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://backrooms-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gamemaker.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gamemaker.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://backrooms-wiki.wikidot.com">The Backrooms</a></h3>
+            <h3><a target="_blank" href="http://gamemaker.wikidot.com">GameMaker: Studio Wiki</a></h3>
             <div class="desc">          
-              Watch Your Back...
+              GameMaker: Studio Tutorials &amp; Resources
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://globalclimatechange.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/globalclimatechange.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://globalclimatechange.wikidot.com">Global Climate Destabilization</a></h3>
+            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
+            <div class="desc">          
+              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://fmi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmi.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://fmi.wikidot.com">Лекциите на ФМИ</a></h3>
+            <div class="desc">          
+              За да изглеждаме умни пред другите
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://extension.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extension.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://extension.wikidot.com">Wikidot Extension</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://www.oracle-wiki.net">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.oracle-wiki.net/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://www.oracle-wiki.net">Oracle Database</a></h3>
-            <div class="desc">          
-              All things oracle...
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-pt-br.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-pt-br.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-pt-br.wikidot.com">Fundação SCP</a></h3>
-            <div class="desc">          
-              Filial Lusófona
             </div>
           </div>
         </div>
