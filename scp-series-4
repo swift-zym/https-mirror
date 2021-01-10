@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1610261211;
+        OZONE.request.timestamp = 1610283461;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -890,7 +890,7 @@
 <li><a href="/scp-3340">SCP-3340</a> - 你们思，故我们在</li>
 <li><a href="/scp-3341">SCP-3341</a> - 阿拉伯人说的纳斯纳斯，亦即索马里人说的匈古夫</li>
 <li><a class="newpage" href="/scp-3342">SCP-3342</a> - The Blackfoot Potato Transplants</li>
-<li><a class="newpage" href="/scp-3343">SCP-3343</a> - Beelzebub</li>
+<li><a href="/scp-3343">SCP-3343</a> - 别西卜</li>
 <li><a href="/scp-3344">SCP-3344</a> - 丧子</li>
 <li><a class="newpage" href="/scp-3345">SCP-3345</a> - Crime Novel</li>
 <li><a href="/scp-3346">SCP-3346</a> - 忧虑帽</li>
@@ -1526,7 +1526,7 @@
 <li><a href="/scp-3952">SCP-3952</a> - 王牌飞行员</li>
 <li><a href="/scp-3953">SCP-3953</a> - 哥斯达黎加……<strong>在太空中</strong></li>
 <li><a class="newpage" href="/scp-3954">SCP-3954</a> - Scarecrow's Secrets</li>
-<li><a class="newpage" href="/scp-3955">SCP-3955</a> - Fit…for a bit.</li>
+<li><a href="/scp-3955">███-3955</a> - 八音符</li>
 <li><a class="newpage" href="/scp-3956">SCP-3956</a> - The Mealworm Song</li>
 <li><a class="newpage" href="/scp-3957">SCP-3957</a> - The Eternal Soviet Prison</li>
 <li><a class="newpage" href="/scp-3958">SCP-3958</a> - Little Brother</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 859, 最后编辑于: <span class="odate time_1610185556 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">09 Jan 2021 09:45</span></div>
+                            <div id="page-info">页面版本: 861, 最后编辑于: <span class="odate time_1610278102 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">10 Jan 2021 11:28</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1710,43 +1710,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://masonic.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/masonic.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://jquery-easyui.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jquery-easyui.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://masonic.wikidot.com">Masonic</a></h3>
+            <h3><a target="_blank" href="http://jquery-easyui.wikidot.com">jQuery EasyUI</a></h3>
             <div class="desc">          
-              A Freemason&#039;s Compendium
+              easyui help you build your web page easily!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://multiverse-crisis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/multiverse-crisis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://liminal-archives.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liminal-archives.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://multiverse-crisis.wikidot.com">THIS WIKI CLOSED</a></h3>
+            <h3><a target="_blank" href="http://liminal-archives.wikidot.com">Liminal Archives</a></h3>
             <div class="desc">          
-              Current Wiki @ multiversemush.com
+              Exploring spaces which shouldn&#039;t exist
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://l4dmapdb.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/l4dmapdb.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bisgmit.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bisgmit.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://l4dmapdb.com">L4D Map Database</a></h3>
+            <h3><a target="_blank" href="http://bisgmit.wikidot.com">Bisgmit</a></h3>
             <div class="desc">          
-              L4DMapDB.com
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://roboticsclubucla.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticsclubucla.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wiki.metrixcreatespace.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wiki.metrixcreatespace.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://roboticsclubucla.wikidot.com">Robotics Club @ UCLA Wiki</a></h3>
+            <h3><a target="_blank" href="http://wiki.metrixcreatespace.com">Metrix Create:Space</a></h3>
             <div class="desc">          
               
             </div>
