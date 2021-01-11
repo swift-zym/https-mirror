@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1610348211;
+        OZONE.request.timestamp = 1610370121;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1537,7 +1537,7 @@
 <li><a class="newpage" href="/scp-4940">SCP-4940</a> - Continuity Anchor</li>
 <li><a href="/scp-4941">SCP-4941</a> - 永远属于你</li>
 <li><a href="/scp-4942">SCP-4942</a> - 如何召唤一只柠檬</li>
-<li><a class="newpage" href="/scp-4943">SCP-4943</a> - Transcendence</li>
+<li><a href="/scp-4943">SCP-4943</a> - 超越</li>
 <li><a class="newpage" href="/scp-4944">SCP-4944</a> - A Coffee Machine, Except It's Literally Just A Cargo Ship</li>
 <li><a class="newpage" href="/scp-4945">SCP-4945</a> - Hi Hungry, I'm Dad</li>
 <li><a href="/scp-4946">SCP-4946</a> - 你已死于痢疾</li>
@@ -1669,7 +1669,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 736, 最后编辑于: <span class="odate time_1610342372 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Jan 2021 05:19</span></div>
+                            <div id="page-info">页面版本: 737, 最后编辑于: <span class="odate time_1610357160 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Jan 2021 09:26</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1741,45 +1741,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.ereticopedia.org">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.ereticopedia.org/80.jpg"/>
+            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.ereticopedia.org">ERETICOPEDIA</a></h3>
+            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
             <div class="desc">          
-              Mediterranean Digital &amp; Public Humanities
+              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://celtic-heroes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celtic-heroes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://swageofmight.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/swageofmight.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://celtic-heroes.wikidot.com">Celtic Heroes Wiki</a></h3>
+            <h3><a target="_blank" href="http://swageofmight.wikidot.com">Star Wars: Age of Might</a></h3>
             <div class="desc">          
-              A Wiki for the iPhone/iPad MMO Celtic Heroes
+              My Star Wars Saga
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gamedesign.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gamedesign.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.music-industrapedia.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.music-industrapedia.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gamedesign.wikidot.com">Game Design Novice</a></h3>
+            <h3><a target="_blank" href="http://www.music-industrapedia.com">Music Industrapedia</a></h3>
             <div class="desc">          
-              Learn to make video games.
+              A Legacy of your Working Life in the Music Industry
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cepfondazione.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cepfondazione.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blackberrystorm.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackberrystorm.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cepfondazione.wikidot.com">CEP</a></h3>
+            <h3><a target="_blank" href="http://blackberrystorm.wikidot.com">BlackBerry Storm Wiki</a></h3>
             <div class="desc">          
-              Fondazione CEP
+              
             </div>
           </div>
         </div>
