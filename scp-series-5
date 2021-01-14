@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1610589732;
+        OZONE.request.timestamp = 1610607847;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1292,7 +1292,7 @@
 <li><a href="/scp-4703">SCP-4703</a> - 完全合法</li>
 <li><a class="newpage" href="/scp-4704">SCP-4704</a> - You've Got Mail</li>
 <li><a class="newpage" href="/scp-4705">SCP-4705</a> - The Hell We Bring With</li>
-<li><a class="newpage" href="/scp-4706">SCP-4706</a> - An Array of Nonsense</li>
+<li><a href="/scp-4706">SCP-4706</a> - 无理之序</li>
 <li><a href="/scp-4707">SCP-4707</a> - R.E.A.D.</li>
 <li><a class="newpage" href="/scp-4708">SCP-4708</a> - Thpecial Containment Prothedure</li>
 <li><a class="newpage" href="/scp-4709">SCP-4709</a> - At The Risk Of Sounding Repetitive</li>
@@ -1669,7 +1669,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 738, 最后编辑于: <span class="odate time_1610420822 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">12 Jan 2021 03:07</span></div>
+                            <div id="page-info">页面版本: 739, 最后编辑于: <span class="odate time_1610606281 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">14 Jan 2021 06:38</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1741,32 +1741,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hexhouse.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hexhouse.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://zmk.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zmk.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hexhouse.wikidot.com">Hex House</a></h3>
+            <h3><a target="_blank" href="http://zmk.wikidot.com">Zagłębiowska Masa Krytyczna</a></h3>
             <div class="desc">          
-              A truly magical place...sort of.
+              Czwartek 3 Maja 2018 Godz.15:00
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://liminal-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liminal-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://liminal-sandbox.wikidot.com">Liminal Sandbox</a></h3>
-            <div class="desc">          
-              Sandbox for the Liminal Archives
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://hopkinswhpg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hopkinswhpg.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://hopkinswhpg.wikidot.com">World History/Physical Geo.</a></h3>
+            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1774,12 +1763,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpromania.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpromania.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://schoolsteachersparents.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/schoolsteachersparents.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpromania.wikidot.com">Fundația SCP</a></h3>
+            <h3><a target="_blank" href="http://schoolsteachersparents.wikidot.com">Schools - Teachers - Parents</a></h3>
             <div class="desc">          
-              Secure, Contain, Protect
+              Issues in Schooling
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>
