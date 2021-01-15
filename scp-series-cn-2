@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1610651601;
+        OZONE.request.timestamp = 1610675950;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -984,7 +984,7 @@
 <li><a href="/scp-cn-1435">SCP-CN-1435</a> - “地狱恶龙魂”</li>
 <li><a href="/scp-cn-1436">SCP-CN-1436</a> - 新生贺礼</li>
 <li><a href="/scp-cn-1437">SCP-CN-1437</a> - 临界区</li>
-<li><a href="/scp-cn-1438">解密：SCP-CN-1438 作者应该/不应该做的事</a></li>
+<li><a class="newpage" href="/scp-cn-1438">解密：SCP-CN-1438 作者应该/不应该做的事</a></li>
 <li><a href="/scp-cn-1439">SCP-CN-1439</a> - 戏班</li>
 <li><a href="/scp-cn-1440">SCP-CN-1440</a> - 茶核</li>
 <li><a href="/scp-cn-1441">SCP-CN-1441</a> - 植物人</li>
@@ -1006,7 +1006,7 @@
 <li><a href="/scp-cn-1457">SCP-CN-1457</a> - 朱雀</li>
 <li><a href="/scp-cn-1458">SCP-CN-1458</a> - 葫 芦 娃！</li>
 <li><a href="/scp-cn-1459">SCP-CN-1459</a> - dado不是很懂尼们二次元</li>
-<li><a class="newpage" href="/scp-cn-1460">SCP-CN-1460</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1460">SCP-CN-1460</a> - 起源？终结？</li>
 <li><a href="/scp-cn-1461">SCP-CN-1461</a> - 灾难公司</li>
 <li><a href="/scp-cn-1462">SCP-CN-1462</a> - 弹寿司</li>
 <li><a href="/scp-cn-1463">SCP-CN-1463</a> - Project Nekopara</li>
@@ -1019,7 +1019,7 @@
 <li><a href="/scp-cn-1470">SCP-CN-1470</a> - 混沌万世牌</li>
 <li><a href="/scp-cn-1471">SCP-CN-1471</a> - 诸界吞噬者John Aristides Silva</li>
 <li><a href="/scp-cn-1472">SCP-CN-1472</a> - 冒牌的“dado的开胃药片”</li>
-<li><a href="/scp-cn-1473">SCP-CN-1473</a> - 你们是我的小镇</li>
+<li><a class="newpage" href="/scp-cn-1473">SCP-CN-1473</a> - 你们是我的小镇</li>
 <li><a href="/scp-cn-1474">SCP-CN-1474</a> - 辐射之树</li>
 <li><a href="/scp-cn-1475">SCP-CN-1475</a> - 逝者之心</li>
 <li><a href="/scp-cn-1476">SCP-CN-1476</a> - 学无纸境</li>
@@ -1078,7 +1078,7 @@
 <li><a href="/scp-cn-1525">SCP-CN-1525</a> - 末世定义</li>
 <li><a href="/scp-cn-1526">SCP-CN-1526</a> - 宝宝巴适</li>
 <li><a href="/scp-cn-1527">SCP-CN-1527</a> - 冷冻打火机</li>
-<li><a href="/scp-cn-1528">SCP-CN-1528</a> - 血迹</li>
+<li><a class="newpage" href="/scp-cn-1528">SCP-CN-1528</a> - 血迹</li>
 <li><a href="/scp-cn-1529">SCP-CN-1529</a> - 猎杀夜之都市</li>
 <li><a href="/scp-cn-1530">SCP-CN-1530</a> - 眼球豆荚</li>
 <li><a href="/scp-cn-1531">SCP-CN-1531</a> - “无限”小虫</li>
@@ -1091,7 +1091,7 @@
 <li><a href="/scp-cn-1538">SCP-CN-1538</a> - 莲，于高山之巅萌发，为汝献上欢乐的颂歌</li>
 <li><a href="/scp-cn-1539">SCP-CN-1539</a> - 登高朝圣</li>
 <li><a href="/scp-cn-1540">SCP-CN-1540</a> - dado稀饭听摇滚</li>
-<li><a href="/scp-cn-1541">SCP-CN-1541</a> - 《我们英雄的祖辈》</li>
+<li><a class="newpage" href="/scp-cn-1541">SCP-CN-1541</a> - 《我们英雄的祖辈》</li>
 <li><a href="/scp-cn-1542">SCP-CN-1542</a> - ♬祝你生日快乐♬</li>
 <li><a href="/scp-cn-1543">SCP-CN-1543</a> - 我所忠心的</li>
 <li><a href="/scp-cn-1544">SCP-CN-1544</a> - 求道者</li>
@@ -1118,7 +1118,7 @@
 <li><a href="/scp-cn-1565">SCP-CN-1565</a> - 后人得之传此</li>
 <li><a href="/scp-cn-1566">SCP-CN-1566</a> - 它是什么？</li>
 <li><a class="newpage" href="/scp-cn-1567">SCP-CN-1567</a> - [禁止访问]</li>
-<li><a href="/scp-cn-1568">SCP-CN-1568</a> - 冬眠，吵闹的与</li>
+<li><a class="newpage" href="/scp-cn-1568">SCP-CN-1568</a> - 冬眠，吵闹的与</li>
 <li><a href="/scp-cn-1569">SCP-CN-1569</a> - 开窍</li>
 <li><a href="/scp-cn-1570">SCP-CN-1570</a> - 战争之月</li>
 <li><a href="/scp-cn-1571">SCP-CN-1571</a> - 无故事性玛丽苏</li>
@@ -1228,7 +1228,7 @@
 <li><a href="/scp-cn-1671">SCP-CN-1671</a> - 不夜城</li>
 <li><a href="/scp-cn-1672">SCP-CN-1672</a> - “dado”的鮟鱇鱼药</li>
 <li><a href="/scp-cn-1673">SCP-CN-1673</a> - 剧透一时爽</li>
-<li><a href="/scp-cn-1674">SCP-CN-1674</a> - 做个介绍，我是你</li>
+<li><a class="newpage" href="/scp-cn-1674">SCP-CN-1674</a> - 做个介绍，我是你</li>
 <li><a href="/scp-cn-1675">SCP-CN-1675</a> - 欢迎光临</li>
 <li><a href="/scp-cn-1676">SCP-CN-1676</a> - 难吃嘴臭小舌头</li>
 <li><a href="/scp-cn-1677">SCP-CN-1677</a> - 水灾</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3948, 最后编辑于: <span class="odate time_1610541372 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">13 Jan 2021 12:36</span></div>
+                            <div id="page-info">页面版本: 3949, 最后编辑于: <span class="odate time_1610674265 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">15 Jan 2021 01:31</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+80</span>)</a>
@@ -1686,43 +1686,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gateofrealms.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gateofrealms.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://voyage34.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/voyage34.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gateofrealms.wikidot.com">诸界之门</a></h3>
+            <h3><a target="_blank" href="http://voyage34.wikidot.com">+VOYAGE34+</a></h3>
             <div class="desc">          
-              多元原创创作社区
+              Is this trip really necessary?
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://psi-ppwg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psi-ppwg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
+            <h3><a target="_blank" href="http://psi-ppwg.wikidot.com">Performance &amp; Philosophy</a></h3>
             <div class="desc">          
-              実験、実験、爆発
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://norron.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/norron.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://excelencia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/excelencia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://norron.wikidot.com">WikiNorron</a></h3>
+            <h3><a target="_blank" href="http://excelencia.wikidot.com">EXCELENCIA</a></h3>
             <div class="desc">          
-              Almost as good as the guide, maybe better!
+              exploring, describing and promoting  great websites!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pedhemoncreview.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pedhemoncreview.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://iatkos.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iatkos.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pedhemoncreview.wikidot.com">Pediatric Hematology &amp; Oncology Certification Review</a></h3>
+            <h3><a target="_blank" href="http://iatkos.wikidot.com">Iatkos</a></h3>
             <div class="desc">          
               
             </div>
