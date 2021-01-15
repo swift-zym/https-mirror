@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1610715892;
+        OZONE.request.timestamp = 1610738117;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -621,7 +621,7 @@
 <li><a href="/scp-5083">SCP-5083</a> - 摘金争夺战！</li>
 <li><a href="/scp-5084">SCP-5084</a> - 哭泣的番茄</li>
 <li><a href="/scp-5085">SCP-5085</a> - 烧痕</li>
-<li><a class="newpage" href="/scp-5086">SCP-5086</a> -一顿美餐的好处</li>
+<li><a class="newpage" href="/scp-5086">SCP-5086</a> - The Merits Of A Good Meal</li>
 <li><a href="/scp-5087">SCP-5087</a> - 所去何年</li>
 <li><a href="/scp-5088">SCP-5088</a> - 空水池</li>
 <li><a href="/scp-5089">SCP-5089</a> - 克伦威尔颂</li>
@@ -1472,7 +1472,7 @@
 <h1 id="toc11"><span>5900到5999</span></h1>
 <ul>
 <li><a href="/scp-5900">SCP-5900</a> - 晦冥</li>
-<li><a class="newpage" href="/scp-5901">SCP-5901</a> - 普渡教堂</li>
+<li><a class="newpage" href="/scp-5901">SCP-5901</a> - World's Greatest Skeeball</li>
 <li><a href="/scp-5902">SCP-5902</a> - 管理部</li>
 <li><a class="newpage" href="/scp-5903">SCP-5903</a> - In Cauda Venenum (What Are You?)</li>
 <li><a class="newpage" href="/scp-5904">SCP-5904</a> - [拒绝访问]</li>
@@ -1531,7 +1531,7 @@
 <li><a class="newpage" href="/scp-5957">SCP-5957</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5958">SCP-5958</a> - [拒绝访问]</li>
 <li><a href="/scp-5959">SCP-5959</a> - 近地逆模因</li>
-<li><a class="newpage" href="/scp-5960">SCP-5960</a> - Webbey的振兴原始矮胖花生酱</li>
+<li><a class="newpage" href="/scp-5960">SCP-5960</a> - Webbey's Original Revitalizing Chunky Peanut Butter</li>
 <li><a class="newpage" href="/scp-5961">SCP-5961</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5962">SCP-5962</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5963">SCP-5963</a> - Dark Nights at ShowBiz Pizza Place</li>
@@ -1586,7 +1586,7 @@
 <hr />
 <p><strong>归档页面</strong></p>
 <ul>
-<li><a class="newpage" href="/decommissioned-scps-arc">被废除的SCP</a> - 这些SCP是如此糟糕以至于我们写下了销毁它们的故事。我们不希望他们变得更多。</li>
+<li><a href="/archived:decommissioned-scps">被废除的SCP</a> - 这些SCP是如此糟糕以至于我们写下了销毁它们的故事。我们不希望他们变得更多。</li>
 <li><a href="/scp-removed">被删除的SCP</a> - 这些SCP在英文官网上已经被彻底搞掉了，所以你可能无法找到它们的原文，不过基金会网站管理员告诉我们应该保留它们的翻译稿件。</li>
 </ul>
 </div>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 362, 最后编辑于: <span class="odate time_1610685325 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">15 Jan 2021 04:35</span></div>
+                            <div id="page-info">页面版本: 363, 最后编辑于: <span class="odate time_1610735967 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">15 Jan 2021 18:39</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1710,10 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://coffeetimex.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coffeetimex.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sliscomps.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sliscomps.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://coffeetimex.wikidot.com">Coffeetime Extra</a></h3>
+            <h3><a target="_blank" href="http://sliscomps.wikidot.com">CUA SLIS Comps Study Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hiddenprojectwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hiddenprojectwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bilbreyapwh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bilbreyapwh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hiddenprojectwiki.wikidot.com">Hidden Project</a></h3>
+            <h3><a target="_blank" href="http://bilbreyapwh.wikidot.com">Mr. Bilbrey&#039;s AP World History</a></h3>
             <div class="desc">          
-              Welcome to Hidden Project Wiki
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://schoolsteachersparents.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/schoolsteachersparents.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://zombiecafe.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zombiecafe.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://schoolsteachersparents.wikidot.com">Schools - Teachers - Parents</a></h3>
+            <h3><a target="_blank" href="http://zombiecafe.wikidot.com">Zombie Cafe Wiki</a></h3>
             <div class="desc">          
-              Issues in Schooling
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cuiltheory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cuiltheory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cuiltheory.wikidot.com">Cuil Theory</a></h3>
+            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
             <div class="desc">          
-              A Mathematical unit of Surrealism.
+              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
             </div>
           </div>
         </div>
