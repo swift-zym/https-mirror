@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1610675949;
+        OZONE.request.timestamp = 1610694219;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -679,7 +679,7 @@
 <li><a class="newpage" href="/scp-4114">SCP-4114</a> - Occult Escapologist</li>
 <li><a class="newpage" href="/scp-4115">SCP-4115</a> - Beast of the Crystal Caves</li>
 <li><a class="newpage" href="/scp-4116">SCP-4116</a> - The Nightmare King in The Palace of Dreams</li>
-<li><a href="/scp-4117">SCP-4117</a> - 桌子上的小小音乐家</li>
+<li><a href="/scp-4117">SCP-4117</a> - 桌上乐队</li>
 <li><a class="newpage" href="/scp-4118">SCP-4118</a> - Tube O' Dinos</li>
 <li><a href="/scp-4119">SCP-4119</a> - 炸药小姐</li>
 <li><a href="/scp-4120">SCP-4120</a> - 一只乖狗狗</li>
@@ -705,7 +705,7 @@
 <li><a class="newpage" href="/scp-4140">SCP-4140</a> - Sarkic Containment Procedures</li>
 <li><a href="/scp-4141">SCP-4141</a> - “你：实时自传”</li>
 <li><a href="/scp-4142">SCP-4142</a> - 星猛龙</li>
-<li><a class="newpage" href="/scp-4143">SCP-4143</a> - Infinitestine</li>
+<li><a href="/scp-4143">SCP-4143</a> - 超肠</li>
 <li><a href="/scp-4144">SCP-4144</a> - 早吃好</li>
 <li><a href="/scp-4145">SCP-4145</a> - 解離夢療法™</li>
 <li><a href="/scp-4146">SCP-4146</a> - Gaffsey的一磅黑肉</li>
@@ -1669,7 +1669,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 739, 最后编辑于: <span class="odate time_1610606281 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">14 Jan 2021 06:38</span></div>
+                            <div id="page-info">页面版本: 741, 最后编辑于: <span class="odate time_1610681522 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">15 Jan 2021 03:32</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1741,21 +1741,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://voyage34.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/voyage34.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://xanadu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/xanadu.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://voyage34.wikidot.com">+VOYAGE34+</a></h3>
-            <div class="desc">          
-              Is this trip really necessary?
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://psi-ppwg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psi-ppwg.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://psi-ppwg.wikidot.com">Performance &amp; Philosophy</a></h3>
+            <h3><a target="_blank" href="http://xanadu.wikidot.com">Xanadu Weyr</a></h3>
             <div class="desc">          
               
             </div>
@@ -1763,21 +1752,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://excelencia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/excelencia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pcg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pcg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://excelencia.wikidot.com">EXCELENCIA</a></h3>
+            <h3><a target="_blank" href="http://pcg.wikidot.com">Procedural Content Generation Wiki</a></h3>
             <div class="desc">          
-              exploring, describing and promoting  great websites!
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://iatkos.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iatkos.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ginnungagap.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ginnungagap.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://iatkos.wikidot.com">Iatkos</a></h3>
+            <h3><a target="_blank" href="http://ginnungagap.wikidot.com">Ginnungagap</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://marblehornets.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marblehornets.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://marblehornets.wikidot.com">Marble Hornets</a></h3>
             <div class="desc">          
               
             </div>
