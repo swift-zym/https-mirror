@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1610802538;
+        OZONE.request.timestamp = 1610824158;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,10 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wherearethejoneses.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wherearethejoneses.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blank-template.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blank-template.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wherearethejoneses.wikidot.com">Where are the Joneses Wiki.</a></h3>
+            <h3><a target="_blank" href="http://blank-template.wikidot.com">Blank Template</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://themes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/themes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://anime-planet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/anime-planet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://themes.wikidot.com">Wikidot Themes</a></h3>
+            <h3><a target="_blank" href="http://anime-planet.wikidot.com">Anime Planet</a></h3>
             <div class="desc">          
-              share your Wikidot theme with others!
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpkosb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkosb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://celesia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celesia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpkosb.wikidot.com">SB-KO2</a></h3>
+            <h3><a target="_blank" href="http://celesia.wikidot.com">Legends of Celesia</a></h3>
             <div class="desc">          
-              SCP-KO 샌드박스 이호기
+              A D&amp;D 3.5/Pathfinder Campaign
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ddscat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ddscat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sw-gis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sw-gis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ddscat.wikidot.com">DDSCAT</a></h3>
+            <h3><a target="_blank" href="http://sw-gis.wikidot.com">Smallworld GIS Wiki</a></h3>
             <div class="desc">          
-              Light Scattering Code
+              Help and references for the Smallworld Community
             </div>
           </div>
         </div>
