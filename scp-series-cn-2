@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1610975987;
+        OZONE.request.timestamp = 1610997312;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1078,7 +1078,7 @@
 <li><a href="/scp-cn-1525">SCP-CN-1525</a> - 末世定义</li>
 <li><a href="/scp-cn-1526">SCP-CN-1526</a> - 宝宝巴适</li>
 <li><a href="/scp-cn-1527">SCP-CN-1527</a> - 冷冻打火机</li>
-<li><a class="newpage" href="/scp-cn-1528">SCP-CN-1528</a> - 血迹</li>
+<li><a href="/scp-cn-1528">SCP-CN-1528</a> - 血迹</li>
 <li><a href="/scp-cn-1529">SCP-CN-1529</a> - 猎杀夜之都市</li>
 <li><a href="/scp-cn-1530">SCP-CN-1530</a> - 眼球豆荚</li>
 <li><a href="/scp-cn-1531">SCP-CN-1531</a> - “无限”小虫</li>
@@ -1324,7 +1324,7 @@
 <li><a href="/scp-cn-1763">SCP-CN-1763</a> - 电工</li>
 <li><a href="/scp-cn-1764">SCP-CN-1764</a> - 常生草</li>
 <li><a href="/scp-cn-1765">SCP-CN-1765</a> - 镜与遗憾</li>
-<li><a class="newpage" href="/scp-cn-1766">SCP-CN-1766</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1766">SCP-CN-1766</a> - 必应之劫</li>
 <li><a href="/scp-cn-1767">SCP-CN-1767</a> - 爸爸的妈妈叫什么？</li>
 <li><a href="/scp-cn-1768">SCP-CN-1768</a> - 汝等所爱之人</li>
 <li><a href="/scp-cn-1769">SCP-CN-1769</a> - 吾母之蛹</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3958, 最后编辑于: <span class="odate time_1610967847 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Jan 2021 11:04</span></div>
+                            <div id="page-info">页面版本: 3959, 最后编辑于: <span class="odate time_1610996191 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Jan 2021 18:56</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+80</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://warsztatywww.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/warsztatywww.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://retrowiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrowiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://warsztatywww.wikidot.com">WWW 10</a></h3>
+            <h3><a target="_blank" href="http://retrowiki.wikidot.com">RetroWIKI</a></h3>
             <div class="desc">          
-              Wakacyjne Warsztaty Wielodyscyplinarne 9
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fpt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fpt.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://2012hoax.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2012hoax.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fpt.wikidot.com">Parameterized Complexity</a></h3>
+            <h3><a target="_blank" href="http://2012hoax.wikidot.com">2012hoax</a></h3>
             <div class="desc">          
-              Did you say NP-hard?
+              Debunking the &quot;2012 Doomsday&quot;
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://therafimrpg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/therafimrpg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://therafimrpg.wikidot.com">Therafim RPG</a></h3>
+            <h3><a target="_blank" href="http://ci-wiki.wikidot.com">Chaos Insurgency</a></h3>
             <div class="desc">          
-              Epic Destiny Awaits
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp-sandbox3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-sandbox3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aq-3d.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aq-3d.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-jp-sandbox3.wikidot.com">SCP-JPサンドボックスⅢ</a></h3>
+            <h3><a target="_blank" href="http://aq-3d.wikidot.com">AQ3D</a></h3>
             <div class="desc">          
-              a.k.a 下書きフォーラム v2
+              AdventureQuest 3D Wiki
             </div>
           </div>
         </div>
