@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1611039795;
+        OZONE.request.timestamp = 1611062223;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,10 +1711,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://puppet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/puppet.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://johnmerritt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/johnmerritt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://puppet.wikidot.com">Puppet中文wiki</a></h3>
+            <h3><a target="_blank" href="http://johnmerritt.wikidot.com">johnmerritt</a></h3>
+            <div class="desc">          
+              social studies
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://indexhibit.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/indexhibit.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://indexhibit.wikidot.com">indexhibit customisations</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1733,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://community.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/community.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sandbox.scp-wiki.kr">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sandbox.scp-wiki.kr/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://community.wikidot.com">Wikidot Community</a></h3>
+            <h3><a target="_blank" href="http://sandbox.scp-wiki.kr">SB-KO1</a></h3>
             <div class="desc">          
-              hints / tips / help / discussion
+              SCP-KO 샌드박스 초호기
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://maegica.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maegica.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://myheavenwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/myheavenwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://maegica.wikidot.com">Maegica Wiki</a></h3>
+            <h3><a target="_blank" href="http://myheavenwiki.wikidot.com">My Heaven Wiki</a></h3>
             <div class="desc">          
-              Maegica Order In Chaos Online
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://chcc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chcc.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://chcc.wikidot.com">Capitol Hill Community Council</a></h3>
-            <div class="desc">          
-              a community site
+              
             </div>
           </div>
         </div>
