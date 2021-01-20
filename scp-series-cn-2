@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1611126513;
+        OZONE.request.timestamp = 1611148147;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1208,7 +1208,7 @@
 <li><a href="/scp-cn-1651">SCP-CN-1651</a> - 室温发酵</li>
 <li><a href="/scp-cn-1652">SCP-CN-1652</a> - 传染性显卡</li>
 <li><a href="/scp-cn-1653">SCP-CN-1653</a> - 不要相信他</li>
-<li><a class="newpage" href="/scp-cn-1654">SCP-CN-1654</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1654">SCP-CN-1654</a> - 铜镜与“梦”</li>
 <li><a href="/scp-cn-1655">SCP-CN-1655</a> - 当疼痛被连结，当疼痛被滥用</li>
 <li><a href="/scp-cn-1656">SCP-CN-1656</a> - 可食用美容套装</li>
 <li><a href="/scp-cn-1657">SCP-CN-1657</a> - 醉乡路稳</li>
@@ -1249,7 +1249,7 @@
 <li><a href="/scp-cn-1692">SCP-CN-1692</a> - 过去的故事/遗书</li>
 <li><a href="/scp-cn-1693">SCP-CN-1693</a> - 善良的恶魔</li>
 <li><a href="/scp-cn-1694">SCP-CN-1694</a> - game</li>
-<li><a class="newpage" href="/scp-cn-1695">SCP-CN-1695</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1695">SCP-CN-1695</a> - <em>我相信他还没死。</em></li>
 <li><a href="/scp-cn-1696">SCP-CN-1696</a> - 背包客专售贩卖机</li>
 <li><a href="/scp-cn-1697">SCP-CN-1697</a> - 莫洛托夫鸡尾酒</li>
 <li><a href="/scp-cn-1698">SCP-CN-1698</a> - 金条有腿</li>
@@ -1324,7 +1324,7 @@
 <li><a href="/scp-cn-1763">SCP-CN-1763</a> - 电工</li>
 <li><a href="/scp-cn-1764">SCP-CN-1764</a> - 常生草</li>
 <li><a href="/scp-cn-1765">SCP-CN-1765</a> - 镜与遗憾</li>
-<li><a class="newpage" href="/scp-cn-1766">SCP-CN-1766</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1766">SCP-CN-1766</a> - <span style="text-decoration: line-through;">环球金融中心</span>一只巨大的鹦鹉螺</li>
 <li><a href="/scp-cn-1767">SCP-CN-1767</a> - 爸爸的妈妈叫什么？</li>
 <li><a href="/scp-cn-1768">SCP-CN-1768</a> - 汝等所爱之人</li>
 <li><a href="/scp-cn-1769">SCP-CN-1769</a> - 吾母之蛹</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3964, 最后编辑于: <span class="odate time_1611069230 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">19 Jan 2021 15:13</span></div>
+                            <div id="page-info">页面版本: 3967, 最后编辑于: <span class="odate time_1611147738 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Jan 2021 13:02</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+80</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://generals.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/generals.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cgp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://generals.wikidot.com">Generalia</a></h3>
+            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
             <div class="desc">          
-              your one-stop shop for all things generals.
+              CGP Students
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://is2216.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/is2216.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://is2216.wikidot.com">IS2216 - JAVA WIKI</a></h3>
+            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
             <div class="desc">          
-              Java for beginners
+              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://maitreya.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maitreya.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://videoart.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/videoart.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://maitreya.wikidot.com">REACHA</a></h3>
-            <div class="desc">          
-              &#039;reaching out...touching lives&#039;
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://viscomclass.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/viscomclass.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://viscomclass.wikidot.com">VisCom</a></h3>
+            <h3><a target="_blank" href="http://videoart.wikidot.com">Interactive Media Design: Theory</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://chrysaliswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://chrysaliswiki.wikidot.com">Chrysalis</a></h3>
+            <div class="desc">          
+              A Final Fantasy Wiki
             </div>
           </div>
         </div>
