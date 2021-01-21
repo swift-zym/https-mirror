@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1611212504;
+        OZONE.request.timestamp = 1611234692;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1019,7 +1019,7 @@
 <li><a href="/scp-cn-1470">SCP-CN-1470</a> - 混沌万世牌</li>
 <li><a href="/scp-cn-1471">SCP-CN-1471</a> - 诸界吞噬者John Aristides Silva</li>
 <li><a href="/scp-cn-1472">SCP-CN-1472</a> - 冒牌的“dado的开胃药片”</li>
-<li><a class="newpage" href="/scp-cn-1473">SCP-CN-1473</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1473">SCP-CN-1473</a> - 站点员工死亡之谜</li>
 <li><a href="/scp-cn-1474">SCP-CN-1474</a> - 辐射之树</li>
 <li><a href="/scp-cn-1475">SCP-CN-1475</a> - 逝者之心</li>
 <li><a href="/scp-cn-1476">SCP-CN-1476</a> - 学无纸境</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3969, 最后编辑于: <span class="odate time_1611200071 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Jan 2021 03:34</span></div>
+                            <div id="page-info">页面版本: 3970, 最后编辑于: <span class="odate time_1611230791 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Jan 2021 12:06</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+81</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-jp-archive.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-archive.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-pl.wikidot.com">Fundacja SCP</a></h3>
+            <h3><a target="_blank" href="http://scp-jp-archive.wikidot.com">SCP日本財団中枢資料室。</a></h3>
             <div class="desc">          
-              Polska Filia SCP
+              収用
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://backrooms-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://livesupport.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/livesupport.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://backrooms-sandbox.wikidot.com">Backrooms Sandbox</a></h3>
+            <h3><a target="_blank" href="http://livesupport.wikidot.com">Wikidot Live Support</a></h3>
             <div class="desc">          
-              When your Sandbox just gets too Backrooms
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://oracledatabase.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oracledatabase.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hswiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://oracledatabase.wikidot.com">Oracle Database</a></h3>
+            <h3><a target="_blank" href="http://hswiki.wikidot.com">.</a></h3>
             <div class="desc">          
-              All things oracle...
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://retrolegends.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrolegends.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://colbycriminaljustice.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/colbycriminaljustice.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://retrolegends.wikidot.com">Retro Legends</a></h3>
+            <h3><a target="_blank" href="http://colbycriminaljustice.wikidot.com">Criminal Justice Collaboratory</a></h3>
             <div class="desc">          
-              The Definitive Database for Retro Gamers
+              Colby Community College
             </div>
           </div>
         </div>

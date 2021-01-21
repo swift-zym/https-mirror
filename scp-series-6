@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1611212731;
+        OZONE.request.timestamp = 1611234623;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -753,7 +753,7 @@
 <li><a class="newpage" href="/scp-5207">SCP-5207</a> - Fit For A King</li>
 <li><a class="newpage" href="/scp-5208">SCP-5208</a> - Part of Your Balanced Breakfast</li>
 <li><a class="newpage" href="/scp-5209">SCP-5209</a> - File Upload: Source Unknown</li>
-<li><a class="newpage" href="/scp-5210">SCP-5210</a> - The Goodest Boy</li>
+<li><a href="/scp-5210">SCP-5210</a> - The Goodest Boy</li>
 <li><a class="newpage" href="/scp-5211">SCP-5211</a> - FLAVORDROME</li>
 <li><a class="newpage" href="/scp-5212">SCP-5212</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5213">SCP-5213</a> - Menses</li>
@@ -1710,32 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://samvedna.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/samvedna.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://samvedna.wikidot.com">Samvedna Network</a></h3>
+            <h3><a target="_blank" href="http://www.wikidot.com">Wikidot - Free and Pro Wiki Hosting</a></h3>
             <div class="desc">          
-              Collaborative e-learning for children
+              your place on the web
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://multiverse-crisis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/multiverse-crisis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cs124project-2009.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs124project-2009.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://multiverse-crisis.wikidot.com">THIS WIKI CLOSED</a></h3>
-            <div class="desc">          
-              Current Wiki @ multiversemush.com
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://apmoderneuro.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/apmoderneuro.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://apmoderneuro.wikidot.com">Apmoderneuro</a></h3>
+            <h3><a target="_blank" href="http://cs124project-2009.wikidot.com">Computational Genetics Project</a></h3>
             <div class="desc">          
               
             </div>
@@ -1743,10 +1732,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zbananowani.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zbananowani.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eime.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eime.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zbananowani.wikidot.com">Zbananopedia</a></h3>
+            <h3><a target="_blank" href="http://eime.wikidot.com">EIME Projects</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://eventidemush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eventidemush.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://eventidemush.wikidot.com">Eventide MUSH</a></h3>
             <div class="desc">          
               
             </div>
