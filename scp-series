@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1611170245;
+        OZONE.request.timestamp = 1611194387;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,45 +1709,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://etnolinguistica.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/etnolinguistica.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nsb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nsb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://etnolinguistica.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
+            <h3><a target="_blank" href="http://nsb.wikidot.com">Nsb Notes</a></h3>
             <div class="desc">          
-              línguas e culturas indígenas sul-americanas
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wpts.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wpts.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kz9.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kz9.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wpts.wikidot.com">WPTS</a></h3>
+            <h3><a target="_blank" href="http://kz9.wikidot.com">刻章店</a></h3>
             <div class="desc">          
-              pittsburgh&#039;s progressive FM
+              快速专业刻章
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://witchipedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/witchipedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://roboticspedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticspedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://witchipedia.wikidot.com">Witchipedia</a></h3>
+            <h3><a target="_blank" href="http://roboticspedia.wikidot.com">Roboticspedia</a></h3>
             <div class="desc">          
-              The online encyclopedia of magick, folklore and the occult
+              All that you want to know about making robots
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://backrooms-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://backrooms-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://backrooms-wiki.wikidot.com">The Backrooms</a></h3>
+            <h3><a target="_blank" href="http://backrooms-sandbox.wikidot.com">Backrooms Sandbox</a></h3>
             <div class="desc">          
-              Watch Your Back...
+              When your Sandbox just gets too Backrooms
             </div>
           </div>
         </div>
