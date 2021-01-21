@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1611194377;
+        OZONE.request.timestamp = 1611212504;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -905,7 +905,7 @@
 <li><a href="/scp-cn-1360">SCP-CN-1360</a> - 那是鸟？那是飞机？那是……</li>
 <li><a href="/scp-cn-1361">SCP-CN-1361</a> - <span style="text-decoration: line-through;">对位双子</span> 拜托了，另一个我</li>
 <li><a href="/scp-cn-1362">SCP-CN-1362</a> - 视角</li>
-<li><a href="/scp-cn-1363">SCP-CN-1363</a> - 超时空篮球</li>
+<li><a class="newpage" href="/scp-cn-1363">SCP-CN-1363</a> - 超时空篮球</li>
 <li><a href="/scp-cn-1364">SCP-CN-1364</a> - 欲加之惧</li>
 <li><a href="/scp-cn-1365">SCP-CN-1365</a> - 花士证书</li>
 <li><a href="/scp-cn-1366">SCP-CN-1366</a> - 命若琴弦</li>
@@ -1006,7 +1006,7 @@
 <li><a href="/scp-cn-1457">SCP-CN-1457</a> - 朱雀</li>
 <li><a href="/scp-cn-1458">SCP-CN-1458</a> - 葫 芦 娃！</li>
 <li><a href="/scp-cn-1459">SCP-CN-1459</a> - dado不是很懂尼们二次元</li>
-<li><a href="/scp-cn-1460">SCP-CN-1460</a> - 起源？终结？</li>
+<li><a class="newpage" href="/scp-cn-1460">SCP-CN-1460</a> - 起源？终结？</li>
 <li><a href="/scp-cn-1461">SCP-CN-1461</a> - 灾难公司</li>
 <li><a href="/scp-cn-1462">SCP-CN-1462</a> - 弹寿司</li>
 <li><a href="/scp-cn-1463">SCP-CN-1463</a> - Project Nekopara</li>
@@ -1091,7 +1091,7 @@
 <li><a href="/scp-cn-1538">SCP-CN-1538</a> - 莲，于高山之巅萌发，为汝献上欢乐的颂歌</li>
 <li><a href="/scp-cn-1539">SCP-CN-1539</a> - 登高朝圣</li>
 <li><a href="/scp-cn-1540">SCP-CN-1540</a> - dado稀饭听摇滚</li>
-<li><a href="/scp-cn-1541">SCP-CN-1541</a> - 颗粒归仓</li>
+<li><a class="newpage" href="/scp-cn-1541">SCP-CN-1541</a> - 颗粒归仓</li>
 <li><a href="/scp-cn-1542">SCP-CN-1542</a> - ♬祝你生日快乐♬</li>
 <li><a href="/scp-cn-1543">SCP-CN-1543</a> - 我所忠心的</li>
 <li><a href="/scp-cn-1544">SCP-CN-1544</a> - 求道者</li>
@@ -1131,7 +1131,7 @@
 <li><a href="/scp-cn-1578">SCP-CN-1578</a> - 银针</li>
 <li><a href="/scp-cn-1579">SCP-CN-1579</a> - 沙漠肺鱼</li>
 <li><a href="/scp-cn-1580">SCP-CN-1580</a> - 梦碑与神之颞叶</li>
-<li><a class="newpage" href="/scp-cn-1581">SCP-CN-1581</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1581">SCP-CN-1581</a> - 进化海洋球</li>
 <li><a href="/scp-cn-1582">SCP-CN-1582</a> - 洞口</li>
 <li><a href="/scp-cn-1583">SCP-CN-1583</a> - 世平若纸，维度何从</li>
 <li><a href="/scp-cn-1584">SCP-CN-1584</a> - 多喝热水</li>
@@ -1337,7 +1337,7 @@
 <li><a href="/scp-cn-1776">SCP-CN-1776</a> - 采景于镜，予世与你</li>
 <li><a href="/scp-cn-1777">SCP-CN-1777</a> - 消磁機</li>
 <li><a href="/scp-cn-1778">SCP-CN-1778</a> - 于死亡之上绽放新生</li>
-<li><a href="/scp-cn-1779">SCP-CN-1779</a> - 迷城“The Lost City”</li>
+<li><a class="newpage" href="/scp-cn-1779">SCP-CN-1779</a> - 迷城“The Lost City”</li>
 <li><a href="/scp-cn-1780">SCP-CN-1780</a> - 一二三，木头人</li>
 <li><a href="/scp-cn-1781">SCP-CN-1781</a> - 白垩纪制造</li>
 <li><a href="/scp-cn-1782">SCP-CN-1782</a> - 换弹的诱惑</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3968, 最后编辑于: <span class="odate time_1611151542 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Jan 2021 14:05</span></div>
+                            <div id="page-info">页面版本: 3969, 最后编辑于: <span class="odate time_1611200071 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Jan 2021 03:34</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+81</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://professorallred.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/professorallred.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-pl.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-pl.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://professorallred.wikidot.com">Ammon Allred&#039;s Online Classroom</a></h3>
+            <h3><a target="_blank" href="http://scp-pl.wikidot.com">Fundacja SCP</a></h3>
             <div class="desc">          
-              University of Toledo Philosophy Professor
+              Polska Filia SCP
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bioproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bioproject.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://backrooms-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bioproject.wikidot.com">BIO-PRO</a></h3>
+            <h3><a target="_blank" href="http://backrooms-sandbox.wikidot.com">Backrooms Sandbox</a></h3>
             <div class="desc">          
-              Υγεία-Περιβάλλον-Εκπαίδευση
+              When your Sandbox just gets too Backrooms
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://phylo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/phylo.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://oracledatabase.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oracledatabase.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://phylo.wikidot.com">PhyloWiki</a></h3>
+            <h3><a target="_blank" href="http://oracledatabase.wikidot.com">Oracle Database</a></h3>
             <div class="desc">          
-              Assisting research and education in phylogenetics and evolution
+              All things oracle...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://retrolegends.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrolegends.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
+            <h3><a target="_blank" href="http://retrolegends.wikidot.com">Retro Legends</a></h3>
             <div class="desc">          
-              
+              The Definitive Database for Retro Gamers
             </div>
           </div>
         </div>
