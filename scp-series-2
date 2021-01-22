@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1611256319;
+        OZONE.request.timestamp = 1611280886;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,45 +1711,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://opencascade.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opencascade.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://alicebot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alicebot.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://opencascade.wikidot.com">Open CASCADE Wiki</a></h3>
+            <h3><a target="_blank" href="http://alicebot.wikidot.com">Alicebot</a></h3>
             <div class="desc">          
-              
+              Free AIML chat bot content
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://arlington.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arlington.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://arlington.wikidot.com">Arlington, Mass.</a></h3>
+            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
             <div class="desc">          
-              The Arlington Wiki - Arlington, MA
+              and what they&#039;re trying to tell you
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cuiltheory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cuiltheory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://morningsidemicro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningsidemicro.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cuiltheory.wikidot.com">Cuil Theory</a></h3>
+            <h3><a target="_blank" href="http://morningsidemicro.wikidot.com">Microbiology@Morningside</a></h3>
             <div class="desc">          
-              A Mathematical unit of Surrealism.
+              The wiki for students in BIO 252 at Morningside
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://arcana.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arcana.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darry.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://arcana.wikidot.com">The Arcana Wiki</a></h3>
+            <h3><a target="_blank" href="http://darry.wikidot.com">Darry Container</a></h3>
             <div class="desc">          
-              Distilling the Real World for Gaming
+              We know our way out.
             </div>
           </div>
         </div>

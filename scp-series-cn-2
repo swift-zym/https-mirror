@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1611256321;
+        OZONE.request.timestamp = 1611280675;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -542,7 +542,7 @@
 <li><a href="/scp-cn-1009">SCP-CN-1009</a> - 高投入与低回报</li>
 <li><a href="/scp-cn-1010">SCP-CN-1010</a> - 大撒幣</li>
 <li><a href="/scp-cn-1011">SCP-CN-1011</a> - 暗史皇后Alison Chao，虚渺不见理</li>
-<li><a href="/scp-cn-1012">SCP-CN-1012</a> - 别抛下我</li>
+<li><a href="/scp-cn-1012">SCP-CN-1012</a> - <span style="text-decoration: line-through;">水晶花</span> 游子身上衣</li>
 <li><a href="/scp-cn-1013">SCP-CN-1013</a> - 宰鸽宰鹉</li>
 <li><a href="/scp-cn-1014">SCP-CN-1014</a> - 微笑着的普通男子</li>
 <li><a href="/scp-cn-1015">SCP-CN-1015</a> - 如果死亡不再是终点，那你可以为我去死吗？</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3970, 最后编辑于: <span class="odate time_1611230791 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Jan 2021 12:06</span></div>
+                            <div id="page-info">页面版本: 3971, 最后编辑于: <span class="odate time_1611279925 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">22 Jan 2021 01:45</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+81</span>)</a>
@@ -1686,32 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://championsashes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/championsashes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://championsashes.wikidot.com">Champion&#039;s Ashes</a></h3>
-            <div class="desc">          
-              The Official Wiki For Dark Souls III: Champion&#039;s Ashes
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://uberoptions.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uberoptions.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://uberoptions.wikidot.com">uberOptions</a></h3>
-            <div class="desc">          
-              Enable all options on all buttons in SetPoint
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://game-maker.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/game-maker.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://game-maker.wikidot.com">GameMaker Wiki</a></h3>
+            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
             <div class="desc">          
               
             </div>
@@ -1719,12 +1697,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pedhemoncreview.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pedhemoncreview.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://astegoi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/astegoi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pedhemoncreview.wikidot.com">Pediatric Hematology &amp; Oncology Certification Review</a></h3>
+            <h3><a target="_blank" href="http://astegoi.wikidot.com">Οι συνθήκες ζωής των άστεγων.</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
+            <div class="desc">          
+              Where Writers Share Their Characters &amp; Worlds
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scpsandboxcn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxcn.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scpsandboxcn.wikidot.com">SCP基金會中文沙盒站</a></h3>
+            <div class="desc">          
+              千仞高塔，筑基于此
             </div>
           </div>
         </div>
