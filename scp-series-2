@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1611342763;
+        OZONE.request.timestamp = 1611367054;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,32 +1711,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpvakfi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
+            <h3><a target="_blank" href="http://scpvakfi.wikidot.com">SCP Vakfı</a></h3>
             <div class="desc">          
-              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
+              Yakala, Sakla, Koru
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sistdig.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sistdig.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
-            <div class="desc">          
-              OpenRPG Dungeons and Dragons 3.5
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://r.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/r.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://r.wikidot.com">Wikidot URL shortener</a></h3>
+            <h3><a target="_blank" href="http://sistdig.wikidot.com">Sistemas Digitales</a></h3>
             <div class="desc">          
               
             </div>
@@ -1744,12 +1733,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://battlestargenesis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/battlestargenesis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://psyc101.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psyc101.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://battlestargenesis.wikidot.com">BATTLESTAR GENESIS MUSH</a></h3>
+            <h3><a target="_blank" href="http://psyc101.wikidot.com">Intro to Psychology (PSYC 101)</a></h3>
             <div class="desc">          
-              battlestar.isunlimited.net    3012
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://music-industrapedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/music-industrapedia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://music-industrapedia.wikidot.com">Music Industrapedia</a></h3>
+            <div class="desc">          
+              A Legacy of your Working Life in the Music Industry
             </div>
           </div>
         </div>
