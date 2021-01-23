@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1611385396;
+        OZONE.request.timestamp = 1611407134;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -984,7 +984,7 @@
 <li><a href="/scp-cn-1435">SCP-CN-1435</a> - “地狱恶龙魂”</li>
 <li><a href="/scp-cn-1436">SCP-CN-1436</a> - 新生贺礼</li>
 <li><a href="/scp-cn-1437">SCP-CN-1437</a> - 临界区</li>
-<li><a class="newpage" href="/scp-cn-1438">SCP-CN-1438</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1438">SCP-CN-1438</a> - 马歇尔分体式电吉他音箱</li>
 <li><a href="/scp-cn-1439">SCP-CN-1439</a> - 戏班</li>
 <li><a href="/scp-cn-1440">SCP-CN-1440</a> - 茶核</li>
 <li><a href="/scp-cn-1441">SCP-CN-1441</a> - 植物人</li>
@@ -1006,7 +1006,7 @@
 <li><a href="/scp-cn-1457">SCP-CN-1457</a> - 朱雀</li>
 <li><a href="/scp-cn-1458">SCP-CN-1458</a> - 葫 芦 娃！</li>
 <li><a href="/scp-cn-1459">SCP-CN-1459</a> - dado不是很懂尼们二次元</li>
-<li><a class="newpage" href="/scp-cn-1460">SCP-CN-1460</a> - 起源？终结？</li>
+<li><a href="/scp-cn-1460">SCP-CN-1460</a> - 五山登</li>
 <li><a href="/scp-cn-1461">SCP-CN-1461</a> - 灾难公司</li>
 <li><a href="/scp-cn-1462">SCP-CN-1462</a> - 弹寿司</li>
 <li><a href="/scp-cn-1463">SCP-CN-1463</a> - Project Nekopara</li>
@@ -1337,7 +1337,7 @@
 <li><a href="/scp-cn-1776">SCP-CN-1776</a> - 采景于镜，予世与你</li>
 <li><a href="/scp-cn-1777">SCP-CN-1777</a> - 消磁機</li>
 <li><a href="/scp-cn-1778">SCP-CN-1778</a> - 于死亡之上绽放新生</li>
-<li><a class="newpage" href="/scp-cn-1779">SCP-CN-1779</a> - 迷城“The Lost City”</li>
+<li><a href="/scp-cn-1779">SCP-CN-1779</a> - 窗外</li>
 <li><a href="/scp-cn-1780">SCP-CN-1780</a> - 一二三，木头人</li>
 <li><a href="/scp-cn-1781">SCP-CN-1781</a> - 白垩纪制造</li>
 <li><a href="/scp-cn-1782">SCP-CN-1782</a> - 换弹的诱惑</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3974, 最后编辑于: <span class="odate time_1611378668 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Jan 2021 05:11</span></div>
+                            <div id="page-info">页面版本: 3978, 最后编辑于: <span class="odate time_1611405487 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Jan 2021 12:38</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+81</span>)</a>
@@ -1686,10 +1686,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://androidalchemy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/androidalchemy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://capnbarefoot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/capnbarefoot.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://androidalchemy.wikidot.com">Android Alchemy</a></h3>
+            <h3><a target="_blank" href="http://capnbarefoot.wikidot.com">Captain Barefoot</a></h3>
+            <div class="desc">          
+              The naturist guide to the Greek Islands
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://thep-serc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thep-serc.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://thep-serc.wikidot.com">SERC Schools in THEP</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,21 +1708,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpvakfi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ens.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ens.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpvakfi.wikidot.com">SCP Vakfı</a></h3>
-            <div class="desc">          
-              Yakala, Sakla, Koru
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://diatrofikessinithiesmathiton.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/diatrofikessinithiesmathiton.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://diatrofikessinithiesmathiton.wikidot.com">ΔΙΑΤΡΟΦΙΚΕΣ ΣΥΝΗΘΕΙΕΣ ΤΩΝ ΜΑΘΗΤΩΝ ΣΤΟ ΣΧΟΛΕΙΟ</a></h3>
+            <h3><a target="_blank" href="http://ens.wikidot.com">Ens Dictionary</a></h3>
             <div class="desc">          
               
             </div>
@@ -1719,12 +1719,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bandopedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bandopedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-sandbox2-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox2-zh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bandopedia.wikidot.com">bandOpedia</a></h3>
+            <h3><a target="_blank" href="http://scp-sandbox2-zh.wikidot.com">SCP繁中沙盒2.0</a></h3>
             <div class="desc">          
-              
+              生命之沙，繁星之盒
             </div>
           </div>
         </div>

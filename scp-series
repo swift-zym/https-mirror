@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1611385375;
+        OZONE.request.timestamp = 1611407007;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,45 +1709,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://beadersresourceguide.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/beadersresourceguide.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://timebox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/timebox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://beadersresourceguide.wikidot.com">Beader&#039;s Resource Guide</a></h3>
+            <h3><a target="_blank" href="http://timebox.wikidot.com">The Timebox</a></h3>
             <div class="desc">          
-              A place for those who love to bead.
+              Temporal writing bubble
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pkp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pkp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://abarrelfull.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/abarrelfull.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pkp.wikidot.com">Wiki.PKP.in</a></h3>
+            <h3><a target="_blank" href="http://abarrelfull.wikidot.com">A Barrel Full</a></h3>
+            <div class="desc">          
+              A Barrel Full of information for Oil Industry Professionals
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://energyclub.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://energyclub.wikidot.com">Energy Club</a></h3>
+            <div class="desc">          
+              University of Alberta
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://indexhibit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/indexhibit.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://indexhibit.wikidot.com">indexhibit customisations</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandbox-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox-pl.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpsandbox-pl.wikidot.com">SCP-PL Sandbox II</a></h3>
-            <div class="desc">          
-              Do pracy rodacy!
             </div>
           </div>
         </div>
