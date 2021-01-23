@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1611407264;
+        OZONE.request.timestamp = 1611428979;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1710,21 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://projects.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/projects.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://xanadu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/xanadu.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://projects.wikidot.com">projects.wikidot.com</a></h3>
-            <div class="desc">          
-              Wikidot Projects Forum
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pofomultiquiz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pofomultiquiz.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pofomultiquiz.wikidot.com">Pofo MultiQuiz</a></h3>
+            <h3><a target="_blank" href="http://xanadu.wikidot.com">Xanadu Weyr</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://firedawnfolder.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/firedawnfolder.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://alfamedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alfamedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://firedawnfolder.wikidot.com">FiredawnFolder</a></h3>
+            <h3><a target="_blank" href="http://alfamedia.wikidot.com">Alfamedia</a></h3>
             <div class="desc">          
-              The not-quite Inner Circle but close enough
+              Alfabetización mediática para educadores
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://comux.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/comux.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
+            <h3><a target="_blank" href="http://comux.wikidot.com">CoMUX</a></h3>
             <div class="desc">          
-              
+              Realities Combined
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://summer350.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/summer350.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://summer350.wikidot.com">Summer 3500</a></h3>
+            <div class="desc">          
+              Engineering Communications
             </div>
           </div>
         </div>

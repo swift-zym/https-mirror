@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1611407264;
+        OZONE.request.timestamp = 1611428728;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -749,7 +749,7 @@
 <li><a href="/scp-4184">SCP-4184</a> - 挽歌，哀歌，镇魂曲</li>
 <li><a class="newpage" href="/scp-4185">SCP-4185</a> - we outrun yourself</li>
 <li><a href="/scp-4186">SCP-4186</a> - 来自意大利的明信片</li>
-<li><a class="newpage" href="/scp-4187">SCP-4187</a> - 汉堡王</li>
+<li><a href="/scp-4187">SCP-4187</a> - 汉堡<sup>（bug）</sup>王</li>
 <li><a href="/scp-4188">SCP-4188</a> - 美梦成真</li>
 <li><a class="newpage" href="/scp-4189">SCP-4189</a> - Vengeful Assimilation Coral</li>
 <li><a href="/scp-4190">SCP-4190</a> - 遲延兩萬哩</li>
@@ -1629,7 +1629,7 @@
 
 
 <div class="footnotes-footer">
-<div class="title">脚注</div>
+<div class="title">Footnotes</div>
 <div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
 <div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
 </div>
@@ -1669,7 +1669,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 743, 最后编辑于: <span class="odate time_1611382807 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Jan 2021 06:20</span></div>
+                            <div id="page-info">页面版本: 744, 最后编辑于: <span class="odate time_1611408793 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Jan 2021 13:33</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1741,21 +1741,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://projects.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/projects.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eventidemush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eventidemush.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://projects.wikidot.com">projects.wikidot.com</a></h3>
-            <div class="desc">          
-              Wikidot Projects Forum
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pofomultiquiz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pofomultiquiz.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pofomultiquiz.wikidot.com">Pofo MultiQuiz</a></h3>
+            <h3><a target="_blank" href="http://eventidemush.wikidot.com">Eventide MUSH</a></h3>
             <div class="desc">          
               
             </div>
@@ -1763,21 +1752,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://firedawnfolder.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/firedawnfolder.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nsb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nsb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://firedawnfolder.wikidot.com">FiredawnFolder</a></h3>
+            <h3><a target="_blank" href="http://nsb.wikidot.com">Nsb Notes</a></h3>
             <div class="desc">          
-              The not-quite Inner Circle but close enough
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://caosinsurgente.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caosinsurgente.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
+            <h3><a target="_blank" href="http://caosinsurgente.wikidot.com">La Insurgencia del Caos</a></h3>
+            <div class="desc">          
+              Creando la Lógica De lo Ilógico
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://xanadu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/xanadu.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://xanadu.wikidot.com">Xanadu Weyr</a></h3>
             <div class="desc">          
               
             </div>

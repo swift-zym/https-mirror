@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1611407007;
+        OZONE.request.timestamp = 1611428837;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,45 +1709,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://timebox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/timebox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://upt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/upt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://timebox.wikidot.com">The Timebox</a></h3>
+            <h3><a target="_blank" href="http://upt.wikidot.com">UPT</a></h3>
             <div class="desc">          
-              Temporal writing bubble
+              Universal Protection Team [UPT]
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://abarrelfull.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/abarrelfull.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gdt2009.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gdt2009.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://abarrelfull.wikidot.com">A Barrel Full</a></h3>
-            <div class="desc">          
-              A Barrel Full of information for Oil Industry Professionals
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://energyclub.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://energyclub.wikidot.com">Energy Club</a></h3>
-            <div class="desc">          
-              University of Alberta
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
+            <h3><a target="_blank" href="http://gdt2009.wikidot.com">Game Dev Techniques</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://musicgames.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/musicgames.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://musicgames.wikidot.com">Games for Music</a></h3>
+            <div class="desc">          
+              Music Game Archive &amp; Community for Musicians of All Levels
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://desenvolvimentodejogos.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/desenvolvimentodejogos.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://desenvolvimentodejogos.wikidot.com">Desenvolvimento de Jogos</a></h3>
+            <div class="desc">          
+              Tecnologias para uso no desenvolver jogos
             </div>
           </div>
         </div>
