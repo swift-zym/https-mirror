@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1611493517;
+        OZONE.request.timestamp = 1611515390;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,32 +1685,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dpcwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dpcwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://edmw.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/edmw.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dpcwiki.wikidot.com">DPC Foundation</a></h3>
+            <h3><a target="_blank" href="http://edmw.wikidot.com">Eat-Drink-Man-Woman</a></h3>
             <div class="desc">          
-              Deport. Protect. Contain.
+              A hang-out place to relax and chit-chat about food and boy-girl stuff...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://liminal-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liminal-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://liminal-sandbox.wikidot.com">Liminal Sandbox</a></h3>
-            <div class="desc">          
-              Sandbox for the Liminal Archives
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://morningside-genetics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningside-genetics.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://morningside-genetics.wikidot.com">Morningside Genetics</a></h3>
+            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
             <div class="desc">          
               
             </div>
@@ -1718,12 +1707,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://karma-lab.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/karma-lab.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fondationscp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondationscp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://karma-lab.wikidot.com">Karma-Lab</a></h3>
+            <h3><a target="_blank" href="http://fondationscp.wikidot.com">Fondation SCP</a></h3>
             <div class="desc">          
-              KARMA Technology and the products incorporating it
+              Sécuriser, Contenir, Protéger
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://kz9.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kz9.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://kz9.wikidot.com">刻章店</a></h3>
+            <div class="desc">          
+              快速专业刻章
             </div>
           </div>
         </div>

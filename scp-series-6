@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1611493587;
+        OZONE.request.timestamp = 1611515390;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -696,7 +696,7 @@
 <li><a href="/scp-5154">SCP-5154</a> - 巫毒小孩</li>
 <li><a href="/scp-5155">SCP-5155</a> - 🇴🇭 🦌 <span style="color:transparent;">oh deer</span></li>
 <li><a class="newpage" href="/scp-5156">SCP-5156</a> - [拒绝访问]</li>
-<li><a href="/scp-5157">SCP-5157</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5157">SCP-5157</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5158">SCP-5158</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5159">SCP-5159</a> - [拒绝访问]</li>
 <li><a href="/scp-5160">SCP-5160</a> - 羊奶奶相信你</li>
@@ -1248,7 +1248,7 @@
 <li><a href="/scp-5686">SCP-5686</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5687">SCP-5687</a> - [拒绝访问]</li>
 <li><a href="/scp-5688">SCP-5688</a> - 魔手</li>
-<li><a class="newpage" href="/scp-5689">SCP-5689</a> - Him, His Devil, and Confessional</li>
+<li><a href="/scp-5689">SCP-5689</a> - 他，他的邪恶与忏悔</li>
 <li><a href="/scp-5690">SCP-5690</a> - 专业恶魔女王大人</li>
 <li><a class="newpage" href="/scp-5691">SCP-5691</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5692">SCP-5692</a> - [拒绝访问]</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 368, 最后编辑于: <span class="odate time_1611328880 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">22 Jan 2021 15:21</span></div>
+                            <div id="page-info">页面版本: 369, 最后编辑于: <span class="odate time_1611509219 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Jan 2021 17:26</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1710,21 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://philosophia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://edmw.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/edmw.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://philosophia.wikidot.com">Philosophia UAM</a></h3>
+            <h3><a target="_blank" href="http://edmw.wikidot.com">Eat-Drink-Man-Woman</a></h3>
             <div class="desc">          
-              Wiki studentów filozofii UAM
+              A hang-out place to relax and chit-chat about food and boy-girl stuff...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://academicwriting.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/academicwriting.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://academicwriting.wikidot.com">Academic Writing</a></h3>
+            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://neosteam.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/neosteam.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fondationscp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondationscp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://neosteam.wikidot.com">Neo Steam Wiki</a></h3>
+            <h3><a target="_blank" href="http://fondationscp.wikidot.com">Fondation SCP</a></h3>
             <div class="desc">          
-              May 2008 to February 2012
+              Sécuriser, Contenir, Protéger
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://galacticunity.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/galacticunity.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kz9.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kz9.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://galacticunity.wikidot.com">Star Wars - Galactic Unity</a></h3>
+            <h3><a target="_blank" href="http://kz9.wikidot.com">刻章店</a></h3>
             <div class="desc">          
-              A community of Star Wars Sims in Second Life.
+              快速专业刻章
             </div>
           </div>
         </div>
