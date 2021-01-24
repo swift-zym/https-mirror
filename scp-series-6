@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1611471733;
+        OZONE.request.timestamp = 1611493587;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1710,10 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-field-work.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-field-work.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://philosophia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-field-work.wikidot.com">SCP Field Work</a></h3>
+            <h3><a target="_blank" href="http://philosophia.wikidot.com">Philosophia UAM</a></h3>
+            <div class="desc">          
+              Wiki studentów filozofii UAM
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://academicwriting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/academicwriting.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://academicwriting.wikidot.com">Academic Writing</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://elogee-chamber.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/elogee-chamber.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://neosteam.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/neosteam.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://elogee-chamber.wikidot.com">Elogee Chamber</a></h3>
+            <h3><a target="_blank" href="http://neosteam.wikidot.com">Neo Steam Wiki</a></h3>
             <div class="desc">          
-              Ike for President
+              May 2008 to February 2012
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://galacticunity.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/galacticunity.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
+            <h3><a target="_blank" href="http://galacticunity.wikidot.com">Star Wars - Galactic Unity</a></h3>
             <div class="desc">          
-              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://colbycriminaljustice.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/colbycriminaljustice.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://colbycriminaljustice.wikidot.com">Criminal Justice Collaboratory</a></h3>
-            <div class="desc">          
-              Colby Community College
+              A community of Star Wars Sims in Second Life.
             </div>
           </div>
         </div>

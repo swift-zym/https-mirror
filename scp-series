@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1611471842;
+        OZONE.request.timestamp = 1611493452;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,21 +1709,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://finalfantasy14fr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/finalfantasy14fr.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fallout2online.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fallout2online.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://finalfantasy14fr.wikidot.com">final fantasy XIV wiki encyclopédie en français</a></h3>
-            <div class="desc">          
-              FFXIV final fantasy XIV 14 fr wiki FF14 français
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://xanadu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/xanadu.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://xanadu.wikidot.com">Xanadu Weyr</a></h3>
+            <h3><a target="_blank" href="http://fallout2online.wikidot.com">Fallout Online: Requiem</a></h3>
             <div class="desc">          
               
             </div>
@@ -1731,23 +1720,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://championsashes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/championsashes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kannadanudi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kannadanudi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://championsashes.wikidot.com">Champion&#039;s Ashes</a></h3>
+            <h3><a target="_blank" href="http://kannadanudi.wikidot.com">ಕನ್ನಡನುಡಿ</a></h3>
             <div class="desc">          
-              The Official Wiki For Dark Souls III: Champion&#039;s Ashes
+              ಕನ್ನಡ ಸಾಹಿತ್ಯಾಸಕ್ತರ ಕೂಟ
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pedhemoncreview.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pedhemoncreview.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://heroesmush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/heroesmush.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pedhemoncreview.wikidot.com">Pediatric Hematology &amp; Oncology Certification Review</a></h3>
+            <h3><a target="_blank" href="http://heroesmush.wikidot.com">Heroes MUSH</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ubmh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmh.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ubmh.wikidot.com">地下黑市</a></h3>
+            <div class="desc">          
+              属于闲人的社区
             </div>
           </div>
         </div>
