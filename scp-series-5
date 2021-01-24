@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1611428728;
+        OZONE.request.timestamp = 1611453838;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1580,7 +1580,7 @@
 <li><a class="newpage" href="/scp-4983">SCP-4983</a> - I'm dummy thicc and my ghost keeps alerting salarymen</li>
 <li><a href="/scp-4984">SCP-4984</a> - <em>记忆菌丝体</em></li>
 <li><a href="/scp-4985">SCP-4985</a> - 巨额融资</li>
-<li><a class="newpage" href="/scp-4986">SCP-4986</a> - 来自一位朋友的信</li>
+<li><a href="/scp-4986">SCP-4986</a> - 来自一位朋友的信</li>
 <li><a href="/scp-4987">SCP-4987</a> - 现在，面向北方</li>
 <li><a href="/scp-4988">SCP-4988</a> - 解决联络Avelar专业制造外包客服的应急策划中心</li>
 <li><a href="/scp-4989">SCP-4989</a> - Site 89之围</li>
@@ -1741,45 +1741,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://eventidemush.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eventidemush.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rpcauthority.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpcauthority.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://eventidemush.wikidot.com">Eventide MUSH</a></h3>
+            <h3><a target="_blank" href="http://rpcauthority.wikidot.com">RPC Authority</a></h3>
             <div class="desc">          
-              
+              Research, Protection, Containment
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nsb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nsb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://arlington.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arlington.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nsb.wikidot.com">Nsb Notes</a></h3>
+            <h3><a target="_blank" href="http://arlington.wikidot.com">Arlington, Mass.</a></h3>
             <div class="desc">          
-              
+              The Arlington Wiki - Arlington, MA
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://caosinsurgente.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caosinsurgente.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikiwealth.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiwealth.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://caosinsurgente.wikidot.com">La Insurgencia del Caos</a></h3>
+            <h3><a target="_blank" href="http://wikiwealth.wikidot.com">WikiWealth</a></h3>
             <div class="desc">          
-              Creando la Lógica De lo Ilógico
+              Stock, ETF and Mutual Fund Ratings | Commodity, Currency Research
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://xanadu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/xanadu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sons-of-athena.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sons-of-athena.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://xanadu.wikidot.com">Xanadu Weyr</a></h3>
+            <h3><a target="_blank" href="http://sons-of-athena.wikidot.com">ВИК &quot;Сыновья Афины&quot;</a></h3>
             <div class="desc">          
-              
+              ​
             </div>
           </div>
         </div>
