@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1611580448;
+        OZONE.request.timestamp = 1611602243;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1741,45 +1741,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://denver.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/denver.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://talkingpadproject.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/talkingpadproject.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://denver.wikidot.com">Shadowrun: Denver</a></h3>
+            <h3><a target="_blank" href="http://talkingpadproject.wikidot.com">TalkingPad Project</a></h3>
             <div class="desc">          
-              Complicated Shadows
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chcc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chcc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikirhye.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikirhye.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chcc.wikidot.com">Capitol Hill Community Council</a></h3>
+            <h3><a target="_blank" href="http://wikirhye.wikidot.com">Rhye&#039;s of Wiki</a></h3>
             <div class="desc">          
-              a community site
+              Wiki for Rhye&#039;s mods and general awesomeness
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://igor.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/igor.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-field-work.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-field-work.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://igor.wikidot.com">Igor</a></h3>
+            <h3><a target="_blank" href="http://scp-field-work.wikidot.com">SCP Field Work</a></h3>
             <div class="desc">          
-              Independent Generation of Research
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smsalgebra.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smsalgebra.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ucsdgrads.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ucsdgrads.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smsalgebra.wikidot.com">Variable Thinking Wiki</a></h3>
+            <h3><a target="_blank" href="http://ucsdgrads.wikidot.com">UCSD Grad Students</a></h3>
             <div class="desc">          
-              Life is a word problem
+              ...the information exchange and virtual community
             </div>
           </div>
         </div>
