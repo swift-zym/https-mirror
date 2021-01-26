@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1611665204;
+        OZONE.request.timestamp = 1611686827;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1314,7 +1314,7 @@
 <li><a class="newpage" href="/scp-5748">SCP-5748</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5749">SCP-5749</a> - [拒绝访问]</li>
 <li><a href="/scp-5750">SCP-5750</a> - 没人能拒绝小饼干！</li>
-<li><a class="newpage" href="/scp-5751">SCP-5751</a> - [拒绝访问]</li>
+<li><a href="/scp-5751">SCP-5751</a> - 遗言</li>
 <li><a class="newpage" href="/scp-5752">SCP-5752</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5753">SCP-5753</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5754">SCP-5754</a> - [拒绝访问]</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 369, 最后编辑于: <span class="odate time_1611509219 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Jan 2021 17:26</span></div>
+                            <div id="page-info">页面版本: 370, 最后编辑于: <span class="odate time_1611680442 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">26 Jan 2021 17:00</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1710,10 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://retrowiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrowiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wanderers-library-pl.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-library-pl.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://retrowiki.wikidot.com">RetroWIKI</a></h3>
+            <h3><a target="_blank" href="http://wanderers-library-pl.wikidot.com">Biblioteka Wędrowca</a></h3>
+            <div class="desc">          
+              Polska Filia
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ti-iseg-t12.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ti-iseg-t12.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ti-iseg-t12.wikidot.com">ISEG TI T12</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://downsfolk.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/downsfolk.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://extension.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extension.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://downsfolk.wikidot.com">Downs Folk</a></h3>
+            <h3><a target="_blank" href="http://extension.wikidot.com">Wikidot Extension</a></h3>
             <div class="desc">          
-              Lives and times of folk of Toowoomba &amp; the Downs
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://themes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/themes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mkworld.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mkworld.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://themes.wikidot.com">Wikidot Themes</a></h3>
+            <h3><a target="_blank" href="http://mkworld.wikidot.com">The World of Metamor Keep</a></h3>
             <div class="desc">          
-              share your Wikidot theme with others!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scienceonlinelondon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scienceonlinelondon.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scienceonlinelondon.wikidot.com">Science Online London</a></h3>
-            <div class="desc">          
-              How is the Web changing science?
+              Welcome to Metamor Keep
             </div>
           </div>
         </div>

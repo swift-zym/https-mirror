@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1611665189;
+        OZONE.request.timestamp = 1611686544;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,10 +1709,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://destiny.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/destiny.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://emchina2010.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/emchina2010.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://destiny.wikidot.com">Destiny</a></h3>
+            <h3><a target="_blank" href="http://emchina2010.wikidot.com">Emchina2010</a></h3>
+            <div class="desc">          
+              Trip to China 2010 Groep T
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scmapdb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scmapdb.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scmapdb.wikidot.com">Sven Co-op Map Database</a></h3>
+            <div class="desc">          
+              SCMapDB.com
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://zombiecafe.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zombiecafe.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://zombiecafe.wikidot.com">Zombie Cafe Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1720,34 +1742,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://analyticscamp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/analyticscamp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://covid19tilekpaideusi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/covid19tilekpaideusi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://analyticscamp.wikidot.com">AnalyticsCamp</a></h3>
+            <h3><a target="_blank" href="http://covid19tilekpaideusi.wikidot.com">Covid-19: Πως επηρεάστηκε η καθημερινότητά μας.</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://microchip.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://upt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/upt.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://upt.wikidot.com">UPT</a></h3>
-            <div class="desc">          
-              Universal Protection Team [UPT]
+              Εξ αποστάσεως εκπαίδευση
             </div>
           </div>
         </div>

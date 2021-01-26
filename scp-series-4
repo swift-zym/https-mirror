@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1611665088;
+        OZONE.request.timestamp = 1611686754;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,21 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ah-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ah-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hopkinswhpg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hopkinswhpg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ah-sandbox.wikidot.com">HSB Foundation</a></h3>
-            <div class="desc">          
-              Hormress&#039;s Sandbox
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
+            <h3><a target="_blank" href="http://hopkinswhpg.wikidot.com">World History/Physical Geo.</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://boec-wiki-cn.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/boec-wiki-cn.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://videoart.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/videoart.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://boec-wiki-cn.wikidot.com">错误修正局</a></h3>
+            <h3><a target="_blank" href="http://videoart.wikidot.com">Interactive Media Design: Theory</a></h3>
             <div class="desc">          
-              修正之名，守护世界
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://retrolegends.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrolegends.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fairfieldproject.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fairfieldproject.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://retrolegends.wikidot.com">Retro Legends</a></h3>
+            <h3><a target="_blank" href="http://fairfieldproject.wikidot.com">The Fairfield Project</a></h3>
             <div class="desc">          
-              The Definitive Database for Retro Gamers
+              The Delta Green wiki
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://freesmug.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/freesmug.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://freesmug.wikidot.com">FreeSMUG</a></h3>
+            <div class="desc">          
+              Free Open Source Software Mac User Group
             </div>
           </div>
         </div>
