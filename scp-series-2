@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1611602241;
+        OZONE.request.timestamp = 1611623728;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,10 +1711,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://talkingpadproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/talkingpadproject.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sunnybrook-academy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sunnybrook-academy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://talkingpadproject.wikidot.com">TalkingPad Project</a></h3>
+            <h3><a target="_blank" href="http://sunnybrook-academy.wikidot.com">Fifth Sanctum School for The Supernatural</a></h3>
+            <div class="desc">          
+              fun and friendship in a semi-serious roleplay about teens in a school for supernatural
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://randomnautica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/randomnautica.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://randomnautica.wikidot.com">Hearts of Randomnautica Wiki</a></h3>
+            <div class="desc">          
+              An interesting realm
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://morningside-genetics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningside-genetics.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://morningside-genetics.wikidot.com">Morningside Genetics</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1744,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikirhye.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikirhye.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chimiex-bicaz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chimiex-bicaz.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikirhye.wikidot.com">Rhye&#039;s of Wiki</a></h3>
-            <div class="desc">          
-              Wiki for Rhye&#039;s mods and general awesomeness
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-field-work.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-field-work.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-field-work.wikidot.com">SCP Field Work</a></h3>
+            <h3><a target="_blank" href="http://chimiex-bicaz.wikidot.com">Chimiex Bicaz</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ucsdgrads.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ucsdgrads.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ucsdgrads.wikidot.com">UCSD Grad Students</a></h3>
-            <div class="desc">          
-              ...the information exchange and virtual community
             </div>
           </div>
         </div>

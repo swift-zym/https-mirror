@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1611602177;
+        OZONE.request.timestamp = 1611623750;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,34 +1709,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wychwood.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wychwood.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bioproject.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bioproject.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wychwood.wikidot.com">Wikiwood</a></h3>
+            <h3><a target="_blank" href="http://bioproject.wikidot.com">BIO-PRO</a></h3>
             <div class="desc">          
-              Wychwood Warriors Wiki
+              Υγεία-Περιβάλλον-Εκπαίδευση
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wfh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wfh.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikialo.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikialo.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wfh.wikidot.com">Women&#039;s Film History Network</a></h3>
+            <h3><a target="_blank" href="http://wikialo.wikidot.com">Wikialo</a></h3>
             <div class="desc">          
-              
+              Un directorio wiki para blogs
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://textanalytics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/textanalytics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://circservices.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/circservices.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://textanalytics.wikidot.com">Text Analytics Wiki</a></h3>
+            <h3><a target="_blank" href="http://circservices.wikidot.com">Circulation Services</a></h3>
             <div class="desc">          
-              All things unstructured...
+              Library Circulation and Access Services
             </div>
           </div>
         </div>
