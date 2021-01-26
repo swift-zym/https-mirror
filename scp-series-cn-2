@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1611624012;
+        OZONE.request.timestamp = 1611642905;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1131,7 +1131,7 @@
 <li><a href="/scp-cn-1578">SCP-CN-1578</a> - 银针</li>
 <li><a href="/scp-cn-1579">SCP-CN-1579</a> - 沙漠肺鱼</li>
 <li><a href="/scp-cn-1580">SCP-CN-1580</a> - 梦碑与神之颞叶</li>
-<li><a href="/scp-cn-1581">SCP-CN-1581</a> - 进化海洋球</li>
+<li><a class="newpage" href="/scp-cn-1581">SCP-CN-1581</a> - 进化海洋球</li>
 <li><a href="/scp-cn-1582">SCP-CN-1582</a> - 洞口</li>
 <li><a href="/scp-cn-1583">SCP-CN-1583</a> - 世平若纸，维度何从</li>
 <li><a href="/scp-cn-1584">SCP-CN-1584</a> - 多喝热水</li>
@@ -1208,7 +1208,7 @@
 <li><a href="/scp-cn-1651">SCP-CN-1651</a> - 室温发酵</li>
 <li><a href="/scp-cn-1652">SCP-CN-1652</a> - 传染性显卡</li>
 <li><a href="/scp-cn-1653">SCP-CN-1653</a> - 不要相信他</li>
-<li><a class="newpage" href="/scp-cn-1654">SCP-CN-1654</a> - 铜镜与“梦”</li>
+<li><a class="newpage" href="/scp-cn-1654">SCP-CN-1654</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1655">SCP-CN-1655</a> - 当疼痛被连结，当疼痛被滥用</li>
 <li><a href="/scp-cn-1656">SCP-CN-1656</a> - 可食用美容套装</li>
 <li><a href="/scp-cn-1657">SCP-CN-1657</a> - 醉乡路稳</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3982, 最后编辑于: <span class="odate time_1611537447 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">25 Jan 2021 01:17</span></div>
+                            <div id="page-info">页面版本: 3983, 最后编辑于: <span class="odate time_1611630313 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">26 Jan 2021 03:05</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+81</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikihandball.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikihandball.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wanderers-library.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-library.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikihandball.wikidot.com">wikihandball</a></h3>
+            <h3><a target="_blank" href="http://wanderers-library.wikidot.com">The Wanderers&#039; Library</a></h3>
             <div class="desc">          
-              La wiki de Mundohandball.com
+              Fiction from another world.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://philippines-dd.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philippines-dd.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://uberoptions.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uberoptions.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://philippines-dd.wikidot.com">Philippines        #tagcoding</a></h3>
+            <h3><a target="_blank" href="http://uberoptions.wikidot.com">uberOptions</a></h3>
             <div class="desc">          
-              
+              Enable all options on all buttons in SetPoint
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sistdig.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sistdig.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://morningsidemicro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningsidemicro.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sistdig.wikidot.com">Sistemas Digitales</a></h3>
+            <h3><a target="_blank" href="http://morningsidemicro.wikidot.com">Microbiology@Morningside</a></h3>
             <div class="desc">          
-              
+              The wiki for students in BIO 252 at Morningside
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://insurrection-du-chaos-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/insurrection-du-chaos-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://l4dmapdb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/l4dmapdb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://insurrection-du-chaos-sandbox.wikidot.com">IC-FR Sandbox</a></h3>
+            <h3><a target="_blank" href="http://l4dmapdb.wikidot.com">L4D Map Database</a></h3>
             <div class="desc">          
-              Sandbox de l&#039;Insurrection du Chaos francophone
+              L4DMapDB.com
             </div>
           </div>
         </div>
