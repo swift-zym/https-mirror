@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1611838226;
+        OZONE.request.timestamp = 1611859742;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -984,7 +984,7 @@
 <li><a href="/scp-cn-1435">SCP-CN-1435</a> - “地狱恶龙魂”</li>
 <li><a href="/scp-cn-1436">SCP-CN-1436</a> - 新生贺礼</li>
 <li><a href="/scp-cn-1437">SCP-CN-1437</a> - 临界区</li>
-<li><a class="newpage" href="/scp-cn-1438">SCP-CN-1438</a> - 雨，好大的雨</li>
+<li><a href="/scp-cn-1438">SCP-CN-1438</a> - 铜镜与“梦”</li>
 <li><a href="/scp-cn-1439">SCP-CN-1439</a> - 戏班</li>
 <li><a href="/scp-cn-1440">SCP-CN-1440</a> - 茶核</li>
 <li><a href="/scp-cn-1441">SCP-CN-1441</a> - 植物人</li>
@@ -1019,7 +1019,7 @@
 <li><a href="/scp-cn-1470">SCP-CN-1470</a> - 混沌万世牌</li>
 <li><a href="/scp-cn-1471">SCP-CN-1471</a> - 诸界吞噬者John Aristides Silva</li>
 <li><a href="/scp-cn-1472">SCP-CN-1472</a> - 冒牌的“dado的开胃药片”</li>
-<li><a href="/scp-cn-1473">SCP-CN-1473</a> - 液化药水，复仇之路</li>
+<li><a class="newpage" href="/scp-cn-1473">SCP-CN-1473</a> - 崩泥</li>
 <li><a href="/scp-cn-1474">SCP-CN-1474</a> - 辐射之树</li>
 <li><a href="/scp-cn-1475">SCP-CN-1475</a> - 逝者之心</li>
 <li><a href="/scp-cn-1476">SCP-CN-1476</a> - 学无纸境</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3989, 最后编辑于: <span class="odate time_1611797543 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">28 Jan 2021 01:32</span></div>
+                            <div id="page-info">页面版本: 3991, 最后编辑于: <span class="odate time_1611841517 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">28 Jan 2021 13:45</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+82</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sfi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://etnolinguistica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/etnolinguistica.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sfi.wikidot.com">STARFIGHTER INFINITY</a></h3>
+            <h3><a target="_blank" href="http://etnolinguistica.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
             <div class="desc">          
-              Open Source Website
+              línguas e culturas indígenas sul-americanas
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://generals.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/generals.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://galacticunity.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/galacticunity.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://generals.wikidot.com">Generalia</a></h3>
+            <h3><a target="_blank" href="http://galacticunity.wikidot.com">Star Wars - Galactic Unity</a></h3>
             <div class="desc">          
-              your one-stop shop for all things generals.
+              A community of Star Wars Sims in Second Life.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://morningsidemicro.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningsidemicro.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://superjet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/superjet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://morningsidemicro.wikidot.com">Microbiology@Morningside</a></h3>
+            <h3><a target="_blank" href="http://superjet.wikidot.com">Sukhoi Superjet 100</a></h3>
             <div class="desc">          
-              The wiki for students in BIO 252 at Morningside
+              Реальность против домыслов
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rsc-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rsc-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rsc-wiki.wikidot.com">RSC Institution</a></h3>
+            <h3><a target="_blank" href="http://ci-sandbox.wikidot.com">Insu Sandbox</a></h3>
             <div class="desc">          
-              Research, Secure, Contain
+              &quot;Draft a little dream of me...&quot;
             </div>
           </div>
         </div>
