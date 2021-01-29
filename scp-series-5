@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1611902454;
+        OZONE.request.timestamp = 1611924449;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1741,10 +1741,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hackingthursday.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hackingthursday.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://heroesmush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/heroesmush.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hackingthursday.wikidot.com">Hacking Thursday</a></h3>
+            <h3><a target="_blank" href="http://heroesmush.wikidot.com">Heroes MUSH</a></h3>
             <div class="desc">          
               
             </div>
@@ -1752,34 +1752,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpcommune.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpcommune.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tauren.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tauren.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpcommune.wikidot.com">The SCP Commune</a></h3>
+            <h3><a target="_blank" href="http://tauren.wikidot.com">Tauren Ate My Grandma</a></h3>
             <div class="desc">          
-              Satirize, Collectivize, Politicize
+              has moved!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rpc-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://thecollaboratory.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thecollaboratory.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rpc-pl.wikidot.com">Autorytet RPC</a></h3>
+            <h3><a target="_blank" href="http://thecollaboratory.wikidot.com">The Collaboratory</a></h3>
             <div class="desc">          
-              Badania, Ochrona, Przechowywanie
+              at Colby Community College
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikiwealth.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiwealth.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikiwealth.wikidot.com">WikiWealth</a></h3>
+            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
             <div class="desc">          
-              Stock, ETF and Mutual Fund Ratings | Commodity, Currency Research
+              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
             </div>
           </div>
         </div>
