@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1611859748;
+        OZONE.request.timestamp = 1611883200;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,10 +1711,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hackingthursday.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hackingthursday.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bx-community.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bx-community.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hackingthursday.wikidot.com">Hacking Thursday</a></h3>
+            <h3><a target="_blank" href="http://bx-community.wikidot.com">Bidirectional Transformations</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,21 +1722,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandboxcn.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxcn.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://morningside-genetics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningside-genetics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandboxcn.wikidot.com">SCP基金會中文沙盒站</a></h3>
-            <div class="desc">          
-              千仞高塔，筑基于此
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://sniktbub.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sniktbub.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://sniktbub.wikidot.com">Marvel Untold MUX</a></h3>
+            <h3><a target="_blank" href="http://morningside-genetics.wikidot.com">Morningside Genetics</a></h3>
             <div class="desc">          
               
             </div>
@@ -1744,12 +1733,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://soymilkls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soymilkls.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tmduc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tmduc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://soymilkls.wikidot.com">Soymilk Linkshell</a></h3>
+            <h3><a target="_blank" href="http://tmduc.wikidot.com">TMD (uc)</a></h3>
             <div class="desc">          
-              Professional, drama-free dynamis since 2005!
+              creación colectiva
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://wanderers-library-pl.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-library-pl.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://wanderers-library-pl.wikidot.com">Biblioteka Wędrowca</a></h3>
+            <div class="desc">          
+              Polska Filia
             </div>
           </div>
         </div>
