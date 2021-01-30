@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1611969538;
+        OZONE.request.timestamp = 1611988594;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1641,7 +1641,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                             <div id="page-info">页面版本: 371, 最后编辑于: <span class="odate time_1611742355 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Jan 2021 10:12</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
-<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+21</span>)</a>
 <a href="javascript:;" class="btn btn-default" id="tags-button">标签</a>
 <a href="/forum/t-13021631/scp-series-6" class="btn btn-default" id="discuss-button">讨论 (45)</a>
 <a href="javascript:;" class="btn btn-default" id="history-button">历史记录</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://media.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/media.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ucsdgrads.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ucsdgrads.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://media.wikidot.com">My, media</a></h3>
+            <h3><a target="_blank" href="http://ucsdgrads.wikidot.com">UCSD Grad Students</a></h3>
             <div class="desc">          
-              by the people, for the people
+              ...the information exchange and virtual community
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://first-steps.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/first-steps.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://first-steps.wikidot.com">First Steps</a></h3>
+            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
             <div class="desc">          
-              Making Sense of Educational Research
+              OpenRPG Dungeons and Dragons 3.5
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://elogee-chamber.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/elogee-chamber.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://swageofmight.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/swageofmight.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://elogee-chamber.wikidot.com">Elogee Chamber</a></h3>
+            <h3><a target="_blank" href="http://swageofmight.wikidot.com">Star Wars: Age of Might</a></h3>
             <div class="desc">          
-              Ike for President
+              My Star Wars Saga
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://editora.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/editora.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://paradoxhaze.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paradoxhaze.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://editora.wikidot.com">CIN  7402 Editoração Científica</a></h3>
+            <h3><a target="_blank" href="http://paradoxhaze.wikidot.com">Paradox Haze</a></h3>
             <div class="desc">          
-              Disciplina na UFSC
+              
             </div>
           </div>
         </div>
