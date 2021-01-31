@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1612056149;
+        OZONE.request.timestamp = 1612074920;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -905,7 +905,7 @@
 <li><a href="/scp-cn-1360">SCP-CN-1360</a> - 那是鸟？那是飞机？那是……</li>
 <li><a href="/scp-cn-1361">SCP-CN-1361</a> - <span style="text-decoration: line-through;">对位双子</span> 拜托了，另一个我</li>
 <li><a href="/scp-cn-1362">SCP-CN-1362</a> - 视角</li>
-<li><a href="/scp-cn-1363">SCP-CN-1363</a> - “复读机收藏家”</li>
+<li><a class="newpage" href="/scp-cn-1363">SCP-CN-1363</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1364">SCP-CN-1364</a> - 欲加之惧</li>
 <li><a href="/scp-cn-1365">SCP-CN-1365</a> - 花士证书</li>
 <li><a href="/scp-cn-1366">SCP-CN-1366</a> - 命若琴弦</li>
@@ -1091,7 +1091,7 @@
 <li><a href="/scp-cn-1538">SCP-CN-1538</a> - 莲，于高山之巅萌发，为汝献上欢乐的颂歌</li>
 <li><a href="/scp-cn-1539">SCP-CN-1539</a> - 登高朝圣</li>
 <li><a href="/scp-cn-1540">SCP-CN-1540</a> - dado稀饭听摇滚</li>
-<li><a href="/scp-cn-1541">SCP-CN-1541</a> - 莫道别离</li>
+<li><a class="newpage" href="/scp-cn-1541">SCP-CN-1541</a> - 莫道别离</li>
 <li><a href="/scp-cn-1542">SCP-CN-1542</a> - ♬祝你生日快乐♬</li>
 <li><a href="/scp-cn-1543">SCP-CN-1543</a> - 我所忠心的</li>
 <li><a href="/scp-cn-1544">SCP-CN-1544</a> - 求道者</li>
@@ -1208,7 +1208,7 @@
 <li><a href="/scp-cn-1651">SCP-CN-1651</a> - 室温发酵</li>
 <li><a href="/scp-cn-1652">SCP-CN-1652</a> - 传染性显卡</li>
 <li><a href="/scp-cn-1653">SCP-CN-1653</a> - 不要相信他</li>
-<li><a href="/scp-cn-1654">SCP-CN-1654</a> - 信鸟</li>
+<li><a class="newpage" href="/scp-cn-1654">SCP-CN-1654</a> - 信鸟</li>
 <li><a href="/scp-cn-1655">SCP-CN-1655</a> - 当疼痛被连结，当疼痛被滥用</li>
 <li><a href="/scp-cn-1656">SCP-CN-1656</a> - 可食用美容套装</li>
 <li><a href="/scp-cn-1657">SCP-CN-1657</a> - 醉乡路稳</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3996, 最后编辑于: <span class="odate time_1611931526 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">29 Jan 2021 14:45</span></div>
+                            <div id="page-info">页面版本: 3997, 最后编辑于: <span class="odate time_1612066990 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">31 Jan 2021 04:23</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+82</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mbitcoin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mbitcoin.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ibphysicsstuff.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibphysicsstuff.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mbitcoin.wikidot.com">BitCoin</a></h3>
+            <h3><a target="_blank" href="http://ibphysicsstuff.wikidot.com">IB Physics Stuff</a></h3>
+            <div class="desc">          
+              - Wikified -
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://paralelo.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paralelo.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://paralelo.wikidot.com">Paralelo</a></h3>
+            <div class="desc">          
+              29 March - 2 April 2009
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://neosteam.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/neosteam.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://neosteam.wikidot.com">Neo Steam Wiki</a></h3>
+            <div class="desc">          
+              May 2008 to February 2012
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-migration.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-migration.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-migration.wikidot.com">SCP Database Migration</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://green-house.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/green-house.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://green-house.wikidot.com">The Green House Wiki</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://tmduc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tmduc.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://tmduc.wikidot.com">TMD (uc)</a></h3>
-            <div class="desc">          
-              creación colectiva
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://spaceepicuntitled.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spaceepicuntitled.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://spaceepicuntitled.wikidot.com">Space Epic Untitled</a></h3>
-            <div class="desc">          
-              From KUMA Games
             </div>
           </div>
         </div>
