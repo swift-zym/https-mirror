@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1612075047;
+        OZONE.request.timestamp = 1612118738;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -728,13 +728,13 @@
 <li><a href="/scp-3186">SCP-3186</a> - 我们的话语如此熟练地写划于天边</li>
 <li><a class="newpage" href="/scp-3187">SCP-3187</a> - Honu</li>
 <li><a href="/scp-3188">SCP-3188</a> - 这个男人必须死</li>
-<li><a class="newpage" href="/scp-3189">SCP-3189</a> - For The Man Who Has Everything</li>
+<li><a href="/scp-3189">SCP-3189</a> - 写给拥有一切者</li>
 <li><a href="/scp-3190">SCP-3190</a> - 还有一件事</li>
 <li><a href="/scp-3191">SCP-3191</a> - 意识模拟者</li>
 <li><a class="newpage" href="/scp-3192">SCP-3192</a> - When the Bell Tolls</li>
 <li><a class="newpage" href="/scp-3193">SCP-3193</a> - Christmas War</li>
 <li><a class="newpage" href="/scp-3194">SCP-3194</a> - Divine Presence</li>
-<li><a class="newpage" href="/scp-3195">SCP-3195</a> - Making Our Mark</li>
+<li><a href="/scp-3195">SCP-3195</a> - 总要留下些印记证明活过</li>
 <li><a href="/scp-3196">SCP-3196</a> - 《Rex Dangerly的大冒险》</li>
 <li><a href="/scp-3197">SCP-3197</a> - 当代的骗神</li>
 <li><a href="/scp-3198">SCP-3198</a> - 小小特遣队</li>
@@ -817,7 +817,7 @@
 <li><a href="/scp-3271">SCP-3271</a> - 那是一个月黑风高的骑士</li>
 <li><a href="/scp-3272">SCP-3272</a> - 英俊男子多如牛毛细雨，<strong>哈利路亚！</strong></li>
 <li><a class="newpage" href="/scp-3273">SCP-3273</a> - Self-Performed Brain Editing Manual</li>
-<li><a class="newpage" href="/scp-3274">SCP-3274</a> - Nowhere Else To Run</li>
+<li><a href="/scp-3274">SCP-3274</a> - 无处可逃</li>
 <li><a href="/scp-3275">SCP-3275</a> - 抱歉，这不是我点的披萨。</li>
 <li><a class="newpage" href="/scp-3276">SCP-3276</a> - Young Successful Independent Self-Employed CEOs</li>
 <li><a class="newpage" href="/scp-3277">SCP-3277</a> - Speak Softly And Carry A Big Stick</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 867, 最后编辑于: <span class="odate time_1610878334 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Jan 2021 10:12</span></div>
+                            <div id="page-info">页面版本: 870, 最后编辑于: <span class="odate time_1612111178 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">31 Jan 2021 16:39</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://coffeetimex.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coffeetimex.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-un.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-un.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://coffeetimex.wikidot.com">Coffeetime Extra</a></h3>
+            <h3><a target="_blank" href="http://scp-un.wikidot.com">SCP Foundation</a></h3>
             <div class="desc">          
-              
+              Underrepresented Languages Incubator
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://upt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/upt.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://halfmoonbay.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/halfmoonbay.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://upt.wikidot.com">UPT</a></h3>
+            <h3><a target="_blank" href="http://halfmoonbay.wikidot.com">Half Moon Bay Weyr</a></h3>
             <div class="desc">          
-              Universal Protection Team [UPT]
+              Join us at paper.mudmagic.com Port:2211
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-int-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
+            <h3><a target="_blank" href="http://scp-int-sandbox.wikidot.com">SCP Sandbox</a></h3>
             <div class="desc">          
-              
+              of the International Translation Archive
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://l4dmapdb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/l4dmapdb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://freesmug.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/freesmug.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://l4dmapdb.wikidot.com">L4D Map Database</a></h3>
+            <h3><a target="_blank" href="http://freesmug.wikidot.com">FreeSMUG</a></h3>
             <div class="desc">          
-              L4DMapDB.com
+              Free Open Source Software Mac User Group
             </div>
           </div>
         </div>
