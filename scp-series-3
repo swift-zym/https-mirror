@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1612355946;
+        OZONE.request.timestamp = 1612377539;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1710,32 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chrysaliswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://upt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/upt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chrysaliswiki.wikidot.com">Chrysalis</a></h3>
+            <h3><a target="_blank" href="http://upt.wikidot.com">UPT</a></h3>
             <div class="desc">          
-              A Final Fantasy Wiki
+              Universal Protection Team [UPT]
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://imocamp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/imocamp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://brian.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/brian.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://imocamp.wikidot.com">2021 IMOC</a></h3>
-            <div class="desc">          
-              2021 暑期奧林匹亞數學研習營網頁
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://righthandrobotics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/righthandrobotics.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://righthandrobotics.wikidot.com">RightHand Robotics</a></h3>
+            <h3><a target="_blank" href="http://brian.wikidot.com">Sector Asgard Delta</a></h3>
             <div class="desc">          
               
             </div>
@@ -1743,12 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://patriot-box-office.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/patriot-box-office.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://theskyremains.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theskyremains.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://patriot-box-office.wikidot.com">Patriot Box Office Media Player (PBO)</a></h3>
+            <h3><a target="_blank" href="http://theskyremains.wikidot.com">The Sky Remains</a></h3>
             <div class="desc">          
-              More Than Meets the Eye
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://championsashes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/championsashes.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://championsashes.wikidot.com">Champion&#039;s Ashes</a></h3>
+            <div class="desc">          
+              The Official Wiki For Dark Souls III: Champion&#039;s Ashes
             </div>
           </div>
         </div>

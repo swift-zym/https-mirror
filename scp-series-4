@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1612356168;
+        OZONE.request.timestamp = 1612377707;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,21 +1710,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://iracing.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iracing.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wanderers-library.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-library.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://iracing.wikidot.com">iRacing.com Wiki</a></h3>
+            <h3><a target="_blank" href="http://wanderers-library.wikidot.com">The Wanderers&#039; Library</a></h3>
             <div class="desc">          
-              Your one-stop-shop for all iRacing setup help and knowledge.
+              Fiction from another world.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://inter-irc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inter-irc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://istar.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/istar.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://inter-irc.wikidot.com">Inter Irc</a></h3>
+            <h3><a target="_blank" href="http://istar.wikidot.com">ISTAR</a></h3>
+            <div class="desc">          
+              International Society for Testate Amoeba Research
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://androidalchemy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/androidalchemy.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://androidalchemy.wikidot.com">Android Alchemy</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://larpard.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/larpard.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpkosb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkosb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://larpard.wikidot.com">Larpard</a></h3>
+            <h3><a target="_blank" href="http://scpkosb.wikidot.com">SB-KO2</a></h3>
             <div class="desc">          
-              Vše nejen o larpech ve východních Čechách
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://smd-ch.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smd-ch.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://smd-ch.wikidot.com">SMD超现实管制处</a></h3>
-            <div class="desc">          
-              异常 中转 管理
+              SCP-KO 샌드박스 이호기
             </div>
           </div>
         </div>
