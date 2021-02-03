@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1612334100;
+        OZONE.request.timestamp = 1612356168;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,21 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://iracing.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iracing.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-jp.wikidot.com">SCP財団</a></h3>
+            <h3><a target="_blank" href="http://iracing.wikidot.com">iRacing.com Wiki</a></h3>
             <div class="desc">          
-              確保、収容、保護
+              Your one-stop-shop for all iRacing setup help and knowledge.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://machinima138.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/machinima138.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://inter-irc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inter-irc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://machinima138.wikidot.com">Machinima 138</a></h3>
+            <h3><a target="_blank" href="http://inter-irc.wikidot.com">Inter Irc</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dpcwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dpcwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://larpard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/larpard.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dpcwiki.wikidot.com">DPC Foundation</a></h3>
+            <h3><a target="_blank" href="http://larpard.wikidot.com">Larpard</a></h3>
             <div class="desc">          
-              Deport. Protect. Contain.
+              Vše nejen o larpech ve východních Čechách
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dndis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dndis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://smd-ch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smd-ch.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dndis.wikidot.com">Dungeons &amp; Discourse</a></h3>
+            <h3><a target="_blank" href="http://smd-ch.wikidot.com">SMD超现实管制处</a></h3>
             <div class="desc">          
-              Gamma Edition
+              异常 中转 管理
             </div>
           </div>
         </div>
