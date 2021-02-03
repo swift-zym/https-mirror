@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1612314631;
+        OZONE.request.timestamp = 1612334161;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -870,7 +870,7 @@
 <li><a href="/scp-cn-1325">SCP-CN-1325</a> - 冈格尼尔</li>
 <li><a href="/scp-cn-1326">SCP-CN-1326</a> - 信息传输协议</li>
 <li><a href="/scp-cn-1327">SCP-CN-1327</a> - 操蛋地铁站</li>
-<li><a href="/scp-cn-1328">SCP-CN-1328</a> - 医者仁心</li>
+<li><a href="/scp-cn-1328">SCP-CN-1328</a> - 快转</li>
 <li><a href="/scp-cn-1329">SCP-CN-1329</a> - 死亡山脉</li>
 <li><a href="/scp-cn-1330">SCP-CN-1330</a> - 爱？</li>
 <li><a href="/scp-cn-1331">SCP-CN-1331</a> - 直至死亡將我們分開</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4007, 最后编辑于: <span class="odate time_1612313831 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 Feb 2021 00:57</span></div>
+                            <div id="page-info">页面版本: 4008, 最后编辑于: <span class="odate time_1612330208 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 Feb 2021 05:30</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+82</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hfwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hfwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://towngoodiesch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/towngoodiesch.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hfwiki.wikidot.com">HammerfallWiki</a></h3>
+            <h3><a target="_blank" href="http://towngoodiesch.wikidot.com">美國城鎮旅遊網</a></h3>
             <div class="desc">          
-              A Wiki for Hammerfall RPG on Facebook and Myspace
+              美國城市旅遊逛街活動指南
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mkworld.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mkworld.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpdsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpdsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mkworld.wikidot.com">The World of Metamor Keep</a></h3>
+            <h3><a target="_blank" href="http://scpdsandbox.wikidot.com">SCPDeclassified Sandbox</a></h3>
             <div class="desc">          
-              Welcome to Metamor Keep
+              Secure, Contain, Protect, Declassify
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://castleage.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/castleage.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kalgati.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kalgati.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://castleage.wikidot.com">Castle Age Wiki</a></h3>
+            <h3><a target="_blank" href="http://kalgati.wikidot.com">क्षत्रिय राजपूत इतिहास</a></h3>
             <div class="desc">          
-              Knowledge Database
+              क्षत्रिय राजपूत
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://the-nexus.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/the-nexus.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ten-sb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ten-sb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://the-nexus.wikidot.com">Nexus Wiki</a></h3>
+            <h3><a target="_blank" href="http://ten-sb.wikidot.com">The Employment Network of SB</a></h3>
             <div class="desc">          
-              
+              &quot;Don&#039;t Just Find A Job...Get a Job!!!&quot;
             </div>
           </div>
         </div>
