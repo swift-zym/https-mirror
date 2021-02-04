@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1612442699;
+        OZONE.request.timestamp = 1612463402;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1686,21 +1686,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://upt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/upt.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aspnet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aspnet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://upt.wikidot.com">UPT</a></h3>
+            <h3><a target="_blank" href="http://aspnet.wikidot.com">ASP.NET Wiki</a></h3>
             <div class="desc">          
-              Universal Protection Team [UPT]
+              This website is no longer actively supported
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://philippines-dd.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philippines-dd.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://towngoodiesch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/towngoodiesch.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://philippines-dd.wikidot.com">Philippines        #tagcoding</a></h3>
+            <h3><a target="_blank" href="http://towngoodiesch.wikidot.com">美國城鎮旅遊網</a></h3>
+            <div class="desc">          
+              美國城市旅遊逛街活動指南
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scala.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scala.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scala.wikidot.com">Scala Geography Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1708,23 +1719,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpcommune.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpcommune.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aviationknowledge.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aviationknowledge.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpcommune.wikidot.com">The SCP Commune</a></h3>
+            <h3><a target="_blank" href="http://aviationknowledge.wikidot.com">AviationKnowledge</a></h3>
             <div class="desc">          
-              Satirize, Collectivize, Politicize
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://malkavian.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/malkavian.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://malkavian.wikidot.com">CCS Related</a></h3>
-            <div class="desc">          
-              Malkavian guide to CCS life
+              
             </div>
           </div>
         </div>
