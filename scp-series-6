@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1612420310;
+        OZONE.request.timestamp = 1612442888;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -561,7 +561,7 @@
 <li><a href="/scp-5023">SCP-5023</a> - 人类原始冲动</li>
 <li><a href="/scp-5024">SCP-5024</a> - 流浪图书馆</li>
 <li><a class="newpage" href="/scp-5025">SCP-5025</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5026">SCP-5026</a> - your story</li>
+<li><a href="/scp-5026">SCP-5026</a> - 你的故事</li>
 <li><a href="/scp-5027">SCP-5027</a> - 薛定谔的人</li>
 <li><a href="/scp-5028">SCP-5028</a> - 安普利亚流亡者</li>
 <li><a href="/scp-5029">SCP-5029</a> - 你好，人，我能帮到你吗.png</li>
@@ -1182,7 +1182,7 @@
 <li><a href="/scp-5620">SCP-5620</a> - 巴吉里斯克之诗</li>
 <li><a href="/scp-5621">SCP-5621</a> - 嫉妒，谋杀，炼金术</li>
 <li><a class="newpage" href="/scp-5622">SCP-5622</a> - Your Indoor Neighbor</li>
-<li><a class="newpage" href="/scp-5623">SCP-5623</a> - [拒绝访问]</li>
+<li><a href="/scp-5623">SCP-5623</a> - 眠星者</li>
 <li><a class="newpage" href="/scp-5624">SCP-5624</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5625">SCP-5625</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5626">SCP-5626</a> - [拒绝访问]</li>
@@ -1549,7 +1549,7 @@
 <li><a class="newpage" href="/scp-5975">SCP-5975</a> - [拒绝访问]</li>
 <li><a href="/scp-5976">SCP-5976</a> - 噩梦优势点</li>
 <li><a href="/scp-5977">SCP-5977</a> - 持之以“熊”</li>
-<li><a class="newpage" href="/scp-5978">SCP-5978</a> - Simon Says</li>
+<li><a href="/scp-5978">SCP-5978</a> - 中毒</li>
 <li><a href="/scp-5979">SCP-5979</a> - 恶星情人</li>
 <li><a href="/scp-5980">SCP-5980</a> - 王者风范</li>
 <li><a href="/scp-5981">SCP-5981</a> - 核子市</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 371, 最后编辑于: <span class="odate time_1611742355 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Jan 2021 10:12</span></div>
+                            <div id="page-info">页面版本: 374, 最后编辑于: <span class="odate time_1612441625 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Feb 2021 12:27</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+21</span>)</a>
@@ -1710,10 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://diatrofikessinithiesmathiton.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/diatrofikessinithiesmathiton.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://alfamedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alfamedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://diatrofikessinithiesmathiton.wikidot.com">ΔΙΑΤΡΟΦΙΚΕΣ ΣΥΝΗΘΕΙΕΣ ΤΩΝ ΜΑΘΗΤΩΝ ΣΤΟ ΣΧΟΛΕΙΟ</a></h3>
+            <h3><a target="_blank" href="http://alfamedia.wikidot.com">Alfamedia</a></h3>
+            <div class="desc">          
+              Alfabetización mediática para educadores
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://myheavenwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/myheavenwiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://myheavenwiki.wikidot.com">My Heaven Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://coffeetimex.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coffeetimex.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpcommune.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpcommune.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://coffeetimex.wikidot.com">Coffeetime Extra</a></h3>
+            <h3><a target="_blank" href="http://scpcommune.wikidot.com">The SCP Commune</a></h3>
             <div class="desc">          
-              
+              Satirize, Collectivize, Politicize
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp-sandbox3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-sandbox3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://radiohub.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/radiohub.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-jp-sandbox3.wikidot.com">SCP-JPサンドボックスⅢ</a></h3>
+            <h3><a target="_blank" href="http://radiohub.wikidot.com">Radiohub</a></h3>
             <div class="desc">          
-              a.k.a 下書きフォーラム v2
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandboxbr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxbr.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpsandboxbr.wikidot.com">Sandbox SCP PT-BR</a></h3>
-            <div class="desc">          
-              Onde SCPs Nascem
+              Lossless Radiohead Hub Wiki
             </div>
           </div>
         </div>

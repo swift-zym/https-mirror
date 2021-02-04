@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1612420493;
+        OZONE.request.timestamp = 1612442712;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1253,7 +1253,7 @@
 <li><a class="newpage" href="/scp-2691">SCP-2691</a> - Covered Bridge</li>
 <li><a class="newpage" href="/scp-2692">SCP-2692</a> - Remains of Subterranean France</li>
 <li><a href="/scp-2693">SCP-2693</a> - 一只猫、一口井、以及一个空间异常</li>
-<li><a class="newpage" href="/scp-2694">SCP-2694</a> - These Old Bones</li>
+<li><a href="/scp-2694">SCP-2694</a> - 陈年之骨</li>
 <li><a href="/scp-2695">SCP-2695</a> - Lucibelle Perhacs</li>
 <li><a href="/scp-2696">SCP-2696</a> - 黑峰闹鬼公馆</li>
 <li><a href="/scp-2697">SCP-2697</a> - 野火周期</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 578, 最后编辑于: <span class="odate time_1610366558 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Jan 2021 12:02</span></div>
+                            <div id="page-info">页面版本: 579, 最后编辑于: <span class="odate time_1612442064 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Feb 2021 12:34</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+7</span>)</a>
@@ -1710,10 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://righthandrobotics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/righthandrobotics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mis213-2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mis213-2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://righthandrobotics.wikidot.com">RightHand Robotics</a></h3>
+            <h3><a target="_blank" href="http://mis213-2.wikidot.com">MIS 213-2</a></h3>
+            <div class="desc">          
+              Intro to IS
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gamedesign.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gamedesign.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dotflow.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dotflow.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gamedesign.wikidot.com">Game Design Novice</a></h3>
+            <h3><a target="_blank" href="http://dotflow.wikidot.com">.flow</a></h3>
             <div class="desc">          
-              Learn to make video games.
+              Rusting Away
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpvakfi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://celtic-heroes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celtic-heroes.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpvakfi.wikidot.com">SCP Vakfı</a></h3>
+            <h3><a target="_blank" href="http://celtic-heroes.wikidot.com">Celtic Heroes Wiki</a></h3>
             <div class="desc">          
-              Yakala, Sakla, Koru
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://snippets.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snippets.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://snippets.wikidot.com">Wiki Code Snippets</a></h3>
-            <div class="desc">          
-              Snippets
+              A Wiki for the iPhone/iPad MMO Celtic Heroes
             </div>
           </div>
         </div>
