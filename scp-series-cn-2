@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1612487072;
+        OZONE.request.timestamp = 1612506720;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -870,7 +870,7 @@
 <li><a href="/scp-cn-1325">SCP-CN-1325</a> - 冈格尼尔</li>
 <li><a href="/scp-cn-1326">SCP-CN-1326</a> - 信息传输协议</li>
 <li><a href="/scp-cn-1327">SCP-CN-1327</a> - 操蛋地铁站</li>
-<li><a href="/scp-cn-1328">SCP-CN-1328</a> - 快转</li>
+<li><a class="newpage" href="/scp-cn-1328">SCP-CN-1328</a> - 快转</li>
 <li><a href="/scp-cn-1329">SCP-CN-1329</a> - 死亡山脉</li>
 <li><a href="/scp-cn-1330">SCP-CN-1330</a> - 爱？</li>
 <li><a href="/scp-cn-1331">SCP-CN-1331</a> - 直至死亡將我們分開</li>
@@ -1106,7 +1106,7 @@
 <li><a href="/scp-cn-1553">SCP-CN-1553</a> - 牺牲笼子，消灭隐患</li>
 <li><a href="/scp-cn-1554">SCP-CN-1554</a> - 无问前路，世间皆缄默</li>
 <li><a href="/scp-cn-1555">SCP-CN-1555</a> - 老先生和爱哭鬼</li>
-<li><a href="/scp-cn-1556">SCP-CN-1556</a> - 不要停下迈向星空的脚步</li>
+<li><a href="/scp-cn-1556">SCP-CN-1556</a> - 迈向星空</li>
 <li><a href="/scp-cn-1557">SCP-CN-1557</a> - 静之声</li>
 <li><a href="/scp-cn-1558">SCP-CN-1558</a> - 长恨歌.txt</li>
 <li><a href="/scp-cn-1559">SCP-CN-1559</a> - 青鸟</li>
@@ -1251,7 +1251,7 @@
 <li><a href="/scp-cn-1694">SCP-CN-1694</a> - game</li>
 <li><a href="/scp-cn-1695">SCP-CN-1695</a> - <em>我相信他还没死。</em></li>
 <li><a href="/scp-cn-1696">SCP-CN-1696</a> - 背包客专售贩卖机</li>
-<li><a href="/scp-cn-1697">SCP-CN-1697</a> - 莫洛托夫鸡尾酒</li>
+<li><a class="newpage" href="/scp-cn-1697">SCP-CN-1697</a> - 莫洛托夫鸡尾酒</li>
 <li><a href="/scp-cn-1698">SCP-CN-1698</a> - 金条有腿</li>
 <li><a href="/scp-cn-1699">SCP-CN-1699</a> - 物遗想幻</li>
 </ul>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4008, 最后编辑于: <span class="odate time_1612330208 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 Feb 2021 05:30</span></div>
+                            <div id="page-info">页面版本: 4009, 最后编辑于: <span class="odate time_1612492018 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Feb 2021 02:26</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+82</span>)</a>
@@ -1686,10 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zeromq.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zeromq.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://indexhibit.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/indexhibit.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zeromq.wikidot.com">zeromq</a></h3>
+            <h3><a target="_blank" href="http://indexhibit.wikidot.com">indexhibit customisations</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,34 +1697,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fretsonfire.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fretsonfire.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://latindictionary.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/latindictionary.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fretsonfire.wikidot.com">Frets On Fire Wiki</a></h3>
+            <h3><a target="_blank" href="http://latindictionary.wikidot.com">The Latin Dictionary</a></h3>
             <div class="desc">          
-              courtesy of fretsonfire.org
+              Where Latin meets English
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hydadv.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hydadv.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://coffeetimex.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coffeetimex.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hydadv.wikidot.com">Great Hyderabad Adventure Club</a></h3>
+            <h3><a target="_blank" href="http://coffeetimex.wikidot.com">Coffeetime Extra</a></h3>
             <div class="desc">          
-              Advenutre and Nature Wiki
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://roboticspedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticspedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://vyprmedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vyprmedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://roboticspedia.wikidot.com">Roboticspedia</a></h3>
+            <h3><a target="_blank" href="http://vyprmedia.wikidot.com">VyprMedia</a></h3>
             <div class="desc">          
-              All that you want to know about making robots
+              
             </div>
           </div>
         </div>
