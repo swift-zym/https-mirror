@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1612573636;
+        OZONE.request.timestamp = 1612593048;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpko.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpko.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bandopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bandopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpko.wikidot.com">SCP 재단</a></h3>
-            <div class="desc">          
-              확보, 격리, 보호
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://albums-template.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/albums-template.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://albums-template.wikidot.com">Albums-template</a></h3>
-            <div class="desc">          
-              Your pictures
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://cs0.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs0.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://cs0.wikidot.com">免費電子書：C# 程式設計</a></h3>
-            <div class="desc">          
-              作者：陳鍾誠
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://the-nexus.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/the-nexus.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://the-nexus.wikidot.com">Nexus Wiki</a></h3>
+            <h3><a target="_blank" href="http://bandopedia.wikidot.com">bandOpedia</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://java.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/java.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://java.wikidot.com">Learn Java!</a></h3>
+            <div class="desc">          
+              No... it&#039;s not coffee.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://organicproducts.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/organicproducts.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://organicproducts.wikidot.com">ΒΙΟΛΟΓΙΚΑ ΠΡΟΪΟΝΤΑ</a></h3>
+            <div class="desc">          
+              οφέλη και επιπτώσεις
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://championsashes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/championsashes.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://championsashes.wikidot.com">Champion&#039;s Ashes</a></h3>
+            <div class="desc">          
+              The Official Wiki For Dark Souls III: Champion&#039;s Ashes
             </div>
           </div>
         </div>
