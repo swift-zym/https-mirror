@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1612614790;
+        OZONE.request.timestamp = 1612636250;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,45 +1709,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://devset.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/devset.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://devset.wikidot.com">Il Set di Dev</a></h3>
+            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
             <div class="desc">          
-              L&#039;Angolo di Scrittura di Dev, non solo SCP
+              実験、実験、爆発
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mis213-2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mis213-2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sparks.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sparks.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mis213-2.wikidot.com">MIS 213-2</a></h3>
+            <h3><a target="_blank" href="http://sparks.wikidot.com">Sparks</a></h3>
             <div class="desc">          
-              Intro to IS
+              d6 Star Wars Campaign
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://malkavian.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/malkavian.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
+            <h3><a target="_blank" href="http://malkavian.wikidot.com">CCS Related</a></h3>
             <div class="desc">          
-              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
+              Malkavian guide to CCS life
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://community.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/community.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://globalseminarhealth.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/globalseminarhealth.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://community.wikidot.com">Wikidot Community</a></h3>
+            <h3><a target="_blank" href="http://globalseminarhealth.wikidot.com">Health and Environment</a></h3>
             <div class="desc">          
-              hints / tips / help / discussion
+              
             </div>
           </div>
         </div>
