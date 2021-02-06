@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1612592849;
+        OZONE.request.timestamp = 1612614966;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1328,7 +1328,7 @@
 <li><a href="/scp-cn-768">SCP-CN-768</a> - 工作站</li>
 <li><a href="/scp-cn-769">SCP-CN-769</a> - 聚宝盆</li>
 <li><a href="/scp-cn-770">SCP-CN-770</a> - 娲皇殿</li>
-<li><a href="/scp-cn-771">SCP-CN-771</a> - 独自等待</li>
+<li><a href="/scp-cn-771">SCP-CN-771</a> - 亡魂</li>
 <li><a href="/scp-cn-772">SCP-CN-772</a> - 箱祟</li>
 <li><a href="/scp-cn-773">SCP-CN-773</a> - 句读之不知</li>
 <li><a href="/scp-cn-774">SCP-CN-774</a> - 后“启示”录</li>
@@ -1613,7 +1613,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3254, 最后编辑于: <span class="odate time_1612320834 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 Feb 2021 02:53</span></div>
+                            <div id="page-info">页面版本: 3255, 最后编辑于: <span class="odate time_1612609961 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">06 Feb 2021 11:12</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+68</span>)</a>
@@ -1685,45 +1685,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gd28.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gd28.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://theautocraticcountryofjayland.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theautocraticcountryofjayland.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gd28.wikidot.com">Great Dane 28 owners&#039; club</a></h3>
+            <h3><a target="_blank" href="http://theautocraticcountryofjayland.wikidot.com">The Autocratic Country Of Jayland</a></h3>
             <div class="desc">          
-              
+              MementoMori
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kuruni.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kuruni.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kuruni.wikidot.com">Mecha Documents</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox2.wikidot.com">SCP Sandbox Wiki II</a></h3>
             <div class="desc">          
-              The Collection
+              Sandbox Harder
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cwwangdu1.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cwwangdu1.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://khaidoan.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/khaidoan.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cwwangdu1.wikidot.com">cwwa</a></h3>
+            <h3><a target="_blank" href="http://khaidoan.wikidot.com">Khai&#039;s personal knowledge vault.</a></h3>
             <div class="desc">          
-              
+              Materials on this site are not original. When possible, references to original articles are listed on each page.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://backrooms-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aqwwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aqwwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://backrooms-wiki.wikidot.com">The Backrooms</a></h3>
+            <h3><a target="_blank" href="http://aqwwiki.wikidot.com">AQW</a></h3>
             <div class="desc">          
-              Watch Your Back...
+              AQWorlds Wiki
             </div>
           </div>
         </div>
