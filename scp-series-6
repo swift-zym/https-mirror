@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1612701378;
+        OZONE.request.timestamp = 1612723017;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1289,7 +1289,7 @@
 <li><a class="newpage" href="/scp-5723">SCP-5723</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5724">SCP-5724</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5725">SCP-5725</a> - We're Getting the Man Back Together Again</li>
-<li><a class="newpage" href="/scp-5726">SCP-5726</a> - [拒绝访问]</li>
+<li><a href="/scp-5726">SCP-5726</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5727">SCP-5727</a> - Reggie is OK</li>
 <li><a class="newpage" href="/scp-5728">SCP-5728</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5729">SCP-5729</a> - [拒绝访问]</li>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ten-sb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ten-sb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aq-3d.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aq-3d.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ten-sb.wikidot.com">The Employment Network of SB</a></h3>
+            <h3><a target="_blank" href="http://aq-3d.wikidot.com">AQ3D</a></h3>
             <div class="desc">          
-              &quot;Don&#039;t Just Find A Job...Get a Job!!!&quot;
+              AdventureQuest 3D Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://splinterverse.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/splinterverse.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tpswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tpswiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://splinterverse.wikidot.com">Splinterverse</a></h3>
+            <h3><a target="_blank" href="http://tpswiki.wikidot.com">TPSwiki.com</a></h3>
             <div class="desc">          
-              Ezboard Yuku Splinterverse Wiki
+              The Radiation Oncology Treatment Planning System Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://multiverse-crisis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/multiverse-crisis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
+            <h3><a target="_blank" href="http://multiverse-crisis.wikidot.com">THIS WIKI CLOSED</a></h3>
             <div class="desc">          
-              
+              Current Wiki @ multiversemush.com
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://the-ic.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/the-ic.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gurpswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gurpswiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://the-ic.wikidot.com">无尽长廊</a></h3>
+            <h3><a target="_blank" href="http://gurpswiki.wikidot.com">GURPS Repository</a></h3>
             <div class="desc">          
-              行于廊屋，游于万物
+              A collection for your GURPS needs
             </div>
           </div>
         </div>

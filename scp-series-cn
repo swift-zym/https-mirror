@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1612701469;
+        OZONE.request.timestamp = 1612722978;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1425,7 +1425,7 @@
 <li><a href="/scp-cn-861">SCP-CN-861</a> - 画中行人</li>
 <li><a href="/scp-cn-862">SCP-CN-862</a> - 复制是人类的本质</li>
 <li><a href="/scp-cn-863">SCP-CN-863</a> - 身后名</li>
-<li><a href="/scp-cn-864">SCP-CN-864</a> - 希望永不磨灭</li>
+<li><a href="/scp-cn-864">SCP-CN-864</a> - 建木</li>
 <li><a href="/scp-cn-865">SCP-CN-865</a> - 小滑块</li>
 <li><span style="background: url(/local--files/component:theme/logo.png) left no-repeat;background-size:5%;font-family: '等线';"><span style="background: url(/local--files/component:theme/logo.png) right no-repeat;background-size:5%;"><span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;</span>╣ <strong><a href="/scp-cn-866">格尼美德协议应急数据处理中心登入通道</a></strong> ╠<span style="white-space: pre-wrap;">&#32;&#32;&#32;&#32;&#32;&#32;</span></span></span> <span style="color:transparent;font-family: kaiti;"><em>篡史者滚！</em></span></li>
 <li><a href="/scp-cn-867">SCP-CN-867</a> - 跨次元游戏</li>
@@ -1613,7 +1613,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3255, 最后编辑于: <span class="odate time_1612609961 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">06 Feb 2021 11:12</span></div>
+                            <div id="page-info">页面版本: 3256, 最后编辑于: <span class="odate time_1612704990 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Feb 2021 13:36</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+68</span>)</a>
@@ -1685,10 +1685,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://typesets.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/typesets.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eng270.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eng270.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://typesets.wikidot.com">Type Set Coin Collecting</a></h3>
+            <h3><a target="_blank" href="http://eng270.wikidot.com">Intro to Creative Writing</a></h3>
+            <div class="desc">          
+              Professor Gabriel
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://bilbreyapwh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bilbreyapwh.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://bilbreyapwh.wikidot.com">Mr. Bilbrey&#039;s AP World History</a></h3>
             <div class="desc">          
               
             </div>
@@ -1696,34 +1707,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kindiy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kindiy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://iracing.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iracing.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kindiy.wikidot.com">kinDIY</a></h3>
+            <h3><a target="_blank" href="http://iracing.wikidot.com">iRacing.com Wiki</a></h3>
             <div class="desc">          
-              for the DIY kindie community
+              Your one-stop-shop for all iRacing setup help and knowledge.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://marvelrevolution.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marvelrevolution.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
+            <h3><a target="_blank" href="http://marvelrevolution.wikidot.com">Marvel Revolution MUCK</a></h3>
             <div class="desc">          
-              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-field-work.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-field-work.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-field-work.wikidot.com">SCP Field Work</a></h3>
-            <div class="desc">          
-              
+              Join the Revolution
             </div>
           </div>
         </div>
