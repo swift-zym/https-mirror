@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1612660138;
+        OZONE.request.timestamp = 1612679482;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1031,7 +1031,7 @@
 <li><a href="/scp-4454">SCP-4454</a> - 寻一人共观天下</li>
 <li><a href="/scp-4455">SCP-4455</a> - 长话短说……</li>
 <li><a href="/scp-4456">SCP-4456-D</a> - 没人期望西班牙废除！</li>
-<li><a class="newpage" href="/scp-4457">SCP-4457</a> - 尻足类</li>
+<li><a href="/scp-4457">SCP-4457</a> - 尻足类</li>
 <li><a class="newpage" href="/scp-4458">SCP-4458</a> - jaws is gonna get ya</li>
 <li><a class="newpage" href="/scp-4459">SCP-4459</a> - The Ringmaster's Crown</li>
 <li><a class="newpage" href="/scp-4460">SCP-4460</a> - Humorous Factory</li>
@@ -1629,7 +1629,7 @@
 
 
 <div class="footnotes-footer">
-<div class="title">脚注</div>
+<div class="title">Footnotes</div>
 <div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
 <div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
 </div>
@@ -1741,34 +1741,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hydadv.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hydadv.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://freesmug.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/freesmug.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hydadv.wikidot.com">Great Hyderabad Adventure Club</a></h3>
+            <h3><a target="_blank" href="http://freesmug.wikidot.com">FreeSMUG</a></h3>
             <div class="desc">          
-              Advenutre and Nature Wiki
+              Free Open Source Software Mac User Group
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikirmaphil.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikirmaphil.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://neosteam.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/neosteam.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikirmaphil.wikidot.com">WikiRMAPhil</a></h3>
+            <h3><a target="_blank" href="http://neosteam.wikidot.com">Neo Steam Wiki</a></h3>
             <div class="desc">          
-              Community Site for UU RMA Philosophy Students
+              May 2008 to February 2012
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hmswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hmswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-sandbox-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox-zh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hmswiki.wikidot.com">HMS Anomalous Items Wiki</a></h3>
+            <h3><a target="_blank" href="http://scp-sandbox-zh.wikidot.com">SCP繁體中文沙盒</a></h3>
             <div class="desc">          
-              We don&#039;t do that here.
+              發現，發掘，發佈
             </div>
           </div>
         </div>

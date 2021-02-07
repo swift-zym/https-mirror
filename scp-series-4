@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1612660351;
+        OZONE.request.timestamp = 1612679414;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -904,7 +904,7 @@
 <li><a class="newpage" href="/scp-3354">SCP-3354</a> - Killmotor Hill</li>
 <li><a href="/scp-3355">SCP-3355</a> - 圣Nick</li>
 <li><a class="newpage" href="/scp-3356">SCP-3356</a> - The Unity of the Prokaryote</li>
-<li><a class="newpage" href="/scp-3357">SCP-3357</a> - Practice Makes Perfect</li>
+<li><a href="/scp-3357">SCP-3357</a> - 熟能生巧</li>
 <li><a href="/scp-3358">SCP-3358</a> - <span style="text-decoration: line-through;">异常者公寓</span> Site-316</li>
 <li><a class="newpage" href="/scp-3359">SCP-3359</a> - The Dry Guy</li>
 <li><a href="/scp-3360">SCP-3360</a> - Proletariar，创作者San Francisco Jones</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 871, 最后编辑于: <span class="odate time_1612615050 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">06 Feb 2021 12:37</span></div>
+                            <div id="page-info">页面版本: 872, 最后编辑于: <span class="odate time_1612677878 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Feb 2021 06:04</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://eng270.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eng270.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://alicebot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alicebot.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://eng270.wikidot.com">Intro to Creative Writing</a></h3>
+            <h3><a target="_blank" href="http://alicebot.wikidot.com">Alicebot</a></h3>
             <div class="desc">          
-              Professor Gabriel
+              Free AIML chat bot content
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nirn.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nirn.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bzhlab.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bzhlab.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nirn.wikidot.com">Nirn</a></h3>
+            <h3><a target="_blank" href="http://bzhlab.wikidot.com">BZHLab</a></h3>
             <div class="desc">          
-              The Nirn Project
+              Makers goes west!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ru-backrooms-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ru-backrooms-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://randomnautica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/randomnautica.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ru-backrooms-wiki.wikidot.com">База данных Backrooms</a></h3>
+            <h3><a target="_blank" href="http://randomnautica.wikidot.com">Hearts of Randomnautica Wiki</a></h3>
             <div class="desc">          
-              Оглядывайтесь почаще...
+              An interesting realm
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandbox-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://typesets.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/typesets.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandbox-pl.wikidot.com">SCP-PL Sandbox II</a></h3>
+            <h3><a target="_blank" href="http://typesets.wikidot.com">Type Set Coin Collecting</a></h3>
             <div class="desc">          
-              Do pracy rodacy!
+              
             </div>
           </div>
         </div>

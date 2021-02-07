@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1612660305;
+        OZONE.request.timestamp = 1612679307;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,10 +1711,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://evilhat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/evilhat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://trb-mux.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trb-mux.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://evilhat.wikidot.com">Evil Hat Productions Wiki</a></h3>
+            <h3><a target="_blank" href="http://trb-mux.wikidot.com">The Rock Bottom MUX</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,10 +1722,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hp-intothefire.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hp-intothefire.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bx-community.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bx-community.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hp-intothefire.wikidot.com">Harry Potter: Into The Fire</a></h3>
+            <h3><a target="_blank" href="http://bx-community.wikidot.com">Bidirectional Transformations</a></h3>
             <div class="desc">          
               
             </div>
@@ -1733,23 +1733,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpguy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpguy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://schrijven.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/schrijven.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpguy.wikidot.com">FakeProGaming Wiki Offical Website</a></h3>
+            <h3><a target="_blank" href="http://schrijven.wikidot.com">www.schrijven.wikidot.com</a></h3>
             <div class="desc">          
-              FakeProGaming Wiki Offical Website
+              Voor teksten, artikelen, verhalen en poëzie
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://towngoodiesch.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/towngoodiesch.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ccpd.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ccpd.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://towngoodiesch.wikidot.com">美國城鎮旅遊網</a></h3>
+            <h3><a target="_blank" href="http://ccpd.wikidot.com">Pieces of Our Minds</a></h3>
             <div class="desc">          
-              美國城市旅遊逛街活動指南
+              Creative Communication and Portfolio Development e-Learning Project
             </div>
           </div>
         </div>
