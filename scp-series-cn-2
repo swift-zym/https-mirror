@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1612787835;
+        OZONE.request.timestamp = 1612809714;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -870,7 +870,7 @@
 <li><a href="/scp-cn-1325">SCP-CN-1325</a> - 冈格尼尔</li>
 <li><a href="/scp-cn-1326">SCP-CN-1326</a> - 信息传输协议</li>
 <li><a href="/scp-cn-1327">SCP-CN-1327</a> - 操蛋地铁站</li>
-<li><a href="/scp-cn-1328">SCP-CN-1328</a> - 误传部（DoMC）</li>
+<li><a href="/scp-cn-1328">SCP-CN-1328</a> - 跳楼机</li>
 <li><a href="/scp-cn-1329">SCP-CN-1329</a> - 死亡山脉</li>
 <li><a href="/scp-cn-1330">SCP-CN-1330</a> - 爱？</li>
 <li><a href="/scp-cn-1331">SCP-CN-1331</a> - 直至死亡將我們分開</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4018, 最后编辑于: <span class="odate time_1612764159 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Feb 2021 06:02</span></div>
+                            <div id="page-info">页面版本: 4019, 最后编辑于: <span class="odate time_1612807374 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Feb 2021 18:02</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+82</span>)</a>
@@ -1686,21 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ten-sb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ten-sb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://veritasbatheo.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/veritasbatheo.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ten-sb.wikidot.com">The Employment Network of SB</a></h3>
-            <div class="desc">          
-              &quot;Don&#039;t Just Find A Job...Get a Job!!!&quot;
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://zbananowani.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zbananowani.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://zbananowani.wikidot.com">Zbananopedia</a></h3>
+            <h3><a target="_blank" href="http://veritasbatheo.wikidot.com">Batheo</a></h3>
             <div class="desc">          
               
             </div>
@@ -1708,23 +1697,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kannadanudi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kannadanudi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://philippines-dd.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philippines-dd.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kannadanudi.wikidot.com">ಕನ್ನಡನುಡಿ</a></h3>
+            <h3><a target="_blank" href="http://philippines-dd.wikidot.com">Philippines        #tagcoding</a></h3>
             <div class="desc">          
-              ಕನ್ನಡ ಸಾಹಿತ್ಯಾಸಕ್ತರ ಕೂಟ
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://agiat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/agiat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://porsche.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/porsche.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://agiat.wikidot.com">AGIAT</a></h3>
+            <h3><a target="_blank" href="http://porsche.wikidot.com">Porsche Wiki</a></h3>
             <div class="desc">          
-              Agencia global de investigación de amenazas taumatúrgicas
+              Brought to You By RedLine Technik | RedLineTechnik.com
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://r.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/r.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://r.wikidot.com">Wikidot URL shortener</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>

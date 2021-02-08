@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1612787922;
+        OZONE.request.timestamp = 1612809506;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,21 +1711,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-ar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-ar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gd28.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gd28.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-ar.wikidot.com">SCP مؤسسة</a></h3>
-            <div class="desc">          
-              أَمِن، إحتًوي، إحْمي
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ens.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ens.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ens.wikidot.com">Ens Dictionary</a></h3>
+            <h3><a target="_blank" href="http://gd28.wikidot.com">Great Dane 28 owners&#039; club</a></h3>
             <div class="desc">          
               
             </div>
@@ -1733,23 +1722,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-pt-br.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-pt-br.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikihandball.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikihandball.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-pt-br.wikidot.com">Fundação SCP</a></h3>
+            <h3><a target="_blank" href="http://wikihandball.wikidot.com">wikihandball</a></h3>
             <div class="desc">          
-              Filial Lusófona
+              La wiki de Mundohandball.com
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://biol-117.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biol-117.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://biol-117.wikidot.com">Principles of Biology II</a></h3>
+            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
             <div class="desc">          
-              
+              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://myvineyard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/myvineyard.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://myvineyard.wikidot.com">Wiki for &#039;My Vineyard&#039;</a></h3>
+            <div class="desc">          
+              A Facebook Application
             </div>
           </div>
         </div>
