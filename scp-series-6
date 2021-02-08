@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1612746458;
+        OZONE.request.timestamp = 1612766425;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -658,7 +658,7 @@
 <li><a class="newpage" href="/scp-5116">SCP-5116</a> - The Art of the Deal with the Devil</li>
 <li><a href="/scp-5117">SCP-5117</a> - <span style="color: red">Alex？</span>我很孤独。</li>
 <li><a href="/scp-5118">SCP-5118</a> - 永远当个好孩子</li>
-<li><a class="newpage" href="/scp-5119">SCP-5119</a> - [拒绝访问]</li>
+<li><a href="/scp-5119">SCP-5119</a> - 查理叔叔的玩具商店和游戏厅</li>
 <li><a class="newpage" href="/scp-5120">SCP-5120</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5121">SCP-5121</a> - Ev'rwyn Spire</li>
 <li><a class="newpage" href="/scp-5122">SCP-5122</a> - <tt>Eros Bendato</tt></li>
@@ -767,7 +767,7 @@
 <li><a class="newpage" href="/scp-5221">SCP-5221</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5222">SCP-5222</a> - Lord Explosion's Pyrotechnic Playground and Daycare</li>
 <li><a class="newpage" href="/scp-5223">SCP-5223</a> - [拒绝访问]</li>
-<li><a href="/scp-5224">SCP-5224</a> - [拒绝访问]</li>
+<li><a href="/scp-5224">SCP-5224</a> - 海奎特的青蛙</li>
 <li><a href="/scp-5225">SCP-5225</a> - 深渊回眸</li>
 <li><a class="newpage" href="/scp-5226">SCP-5226</a> - [拒绝访问]</li>
 <li><a href="/scp-5227">SCP-5227</a> - <span style="white-space: pre-wrap;">F.O.G&#32;///&#32;畏神</span></li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 376, 最后编辑于: <span class="odate time_1612500536 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Feb 2021 04:48</span></div>
+                            <div id="page-info">页面版本: 378, 最后编辑于: <span class="odate time_1612764990 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Feb 2021 06:16</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+21</span>)</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpromania.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpromania.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
+            <h3><a target="_blank" href="http://scpromania.wikidot.com">Fundația SCP</a></h3>
             <div class="desc">          
-              OpenRPG Dungeons and Dragons 3.5
+              Secure, Contain, Protect
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://biol252-biol319.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biol252-biol319.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://arlington.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arlington.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://biol252-biol319.wikidot.com">Micro &amp; Epi @ Morningside Wiki</a></h3>
+            <h3><a target="_blank" href="http://arlington.wikidot.com">Arlington, Mass.</a></h3>
+            <div class="desc">          
+              The Arlington Wiki - Arlington, MA
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
+            <div class="desc">          
+              Where Writers Share Their Characters &amp; Worlds
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://tasker.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tasker.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://tasker.wikidot.com">Tasker Wiki</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://cgp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
-            <div class="desc">          
-              CGP Students
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wychwood.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wychwood.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wychwood.wikidot.com">Wikiwood</a></h3>
-            <div class="desc">          
-              Wychwood Warriors Wiki
             </div>
           </div>
         </div>
