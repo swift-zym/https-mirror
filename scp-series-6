@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1612723017;
+        OZONE.request.timestamp = 1612746458;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://aq-3d.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aq-3d.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://aq-3d.wikidot.com">AQ3D</a></h3>
+            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
             <div class="desc">          
-              AdventureQuest 3D Wiki
+              OpenRPG Dungeons and Dragons 3.5
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tpswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tpswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://biol252-biol319.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biol252-biol319.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tpswiki.wikidot.com">TPSwiki.com</a></h3>
+            <h3><a target="_blank" href="http://biol252-biol319.wikidot.com">Micro &amp; Epi @ Morningside Wiki</a></h3>
             <div class="desc">          
-              The Radiation Oncology Treatment Planning System Wiki
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://multiverse-crisis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/multiverse-crisis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cgp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://multiverse-crisis.wikidot.com">THIS WIKI CLOSED</a></h3>
+            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
             <div class="desc">          
-              Current Wiki @ multiversemush.com
+              CGP Students
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gurpswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gurpswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wychwood.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wychwood.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gurpswiki.wikidot.com">GURPS Repository</a></h3>
+            <h3><a target="_blank" href="http://wychwood.wikidot.com">Wikiwood</a></h3>
             <div class="desc">          
-              A collection for your GURPS needs
+              Wychwood Warriors Wiki
             </div>
           </div>
         </div>
