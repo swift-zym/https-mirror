@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1612918851;
+        OZONE.request.timestamp = 1612938661;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1197,7 +1197,7 @@
 <li><a href="/scp-3635">SCP-3635</a> - 被忘却的档案</li>
 <li><a href="/scp-3636">SCP-3636</a> - 全世界最伟大的自动点唱机</li>
 <li><a href="/scp-3637">SCP-3637</a> - 大水</li>
-<li><a class="newpage" href="/scp-3638">SCP-3638</a> - You can't be serious!</li>
+<li><a href="/scp-3638">SCP-3638</a> - 你不会是认真的吧！</li>
 <li><a class="newpage" href="/scp-3639">SCP-3639</a> - What-a-boots</li>
 <li><a href="/scp-3640">SCP-3640</a> - 惊魂妙妙屋</li>
 <li><a class="newpage" href="/scp-3641">SCP-3641</a> - Remember <span style="text-decoration: line-through;">Apollo-99</span> Nased</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 872, 最后编辑于: <span class="odate time_1612677878 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Feb 2021 06:04</span></div>
+                            <div id="page-info">页面版本: 873, 最后编辑于: <span class="odate time_1612929340 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">10 Feb 2021 03:55</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1710,10 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hp-intothefire.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hp-intothefire.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://arknights.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arknights.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hp-intothefire.wikidot.com">Harry Potter: Into The Fire</a></h3>
+            <h3><a target="_blank" href="http://arknights.wikidot.com">明日方舟</a></h3>
+            <div class="desc">          
+              -重铸未来        方舟启航-
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://pagi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pagi.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://pagi.wikidot.com">pagi</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://randomnautica.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/randomnautica.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bioproject.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bioproject.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://randomnautica.wikidot.com">Hearts of Randomnautica Wiki</a></h3>
+            <h3><a target="_blank" href="http://bioproject.wikidot.com">BIO-PRO</a></h3>
             <div class="desc">          
-              An interesting realm
+              Υγεία-Περιβάλλον-Εκπαίδευση
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kalgati.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kalgati.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://alicebot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alicebot.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kalgati.wikidot.com">क्षत्रिय राजपूत इतिहास</a></h3>
+            <h3><a target="_blank" href="http://alicebot.wikidot.com">Alicebot</a></h3>
             <div class="desc">          
-              क्षत्रिय राजपूत
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-sandbox-zh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox-zh.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-sandbox-zh.wikidot.com">SCP繁體中文沙盒</a></h3>
-            <div class="desc">          
-              發現，發掘，發佈
+              Free AIML chat bot content
             </div>
           </div>
         </div>

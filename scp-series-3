@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1612918996;
+        OZONE.request.timestamp = 1612938753;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1710,10 +1710,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ens.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ens.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ksemoudania.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ksemoudania.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ens.wikidot.com">Ens Dictionary</a></h3>
+            <h3><a target="_blank" href="http://ksemoudania.wikidot.com">ΚΣΕ ΜΟΥΔΑΝΙΩΝ Επιμόρφωση Β&#039; Επιπέδου</a></h3>
+            <div class="desc">          
+              «Όποιος τολμάει να διδάξει δεν πρέπει ποτέ να πάψει να μαθαίνει» John Cotton Dana
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://rsc-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rsc-wiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://rsc-wiki.wikidot.com">RSC Institution</a></h3>
+            <div class="desc">          
+              Research, Secure, Contain
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://hp-intothefire.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hp-intothefire.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://hp-intothefire.wikidot.com">Harry Potter: Into The Fire</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://norron.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/norron.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://devset.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/devset.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://norron.wikidot.com">WikiNorron</a></h3>
+            <h3><a target="_blank" href="http://devset.wikidot.com">Il Set di Dev</a></h3>
             <div class="desc">          
-              Almost as good as the guide, maybe better!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://r.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/r.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://r.wikidot.com">Wikidot URL shortener</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://metrixcreate.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metrixcreate.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://metrixcreate.wikidot.com">Metrix Create:Space</a></h3>
-            <div class="desc">          
-              
+              L&#039;Angolo di Scrittura di Dev, non solo SCP
             </div>
           </div>
         </div>
