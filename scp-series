@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1612895983;
+        OZONE.request.timestamp = 1612919014;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,10 +1709,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://professorallred.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/professorallred.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
+            <h3><a target="_blank" href="http://professorallred.wikidot.com">Ammon Allred&#039;s Online Classroom</a></h3>
+            <div class="desc">          
+              University of Toledo Philosophy Professor
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1720,34 +1731,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://summer350.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/summer350.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rpc-pl-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-pl-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://summer350.wikidot.com">Summer 3500</a></h3>
+            <h3><a target="_blank" href="http://rpc-pl-sandbox.wikidot.com">Sandbox Autorytetu RPC</a></h3>
             <div class="desc">          
-              Engineering Communications
+              Love is in the sand.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandboxbr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxbr.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cf-vanguard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cf-vanguard.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandboxbr.wikidot.com">Sandbox SCP PT-BR</a></h3>
+            <h3><a target="_blank" href="http://cf-vanguard.wikidot.com">Vanguard Rider</a></h3>
             <div class="desc">          
-              Onde SCPs Nascem
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://opencascade.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opencascade.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://opencascade.wikidot.com">Open CASCADE Wiki</a></h3>
-            <div class="desc">          
-              
+              CARDFIGHT!! Vanguard English Wiki
             </div>
           </div>
         </div>

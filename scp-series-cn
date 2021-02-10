@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1612895892;
+        OZONE.request.timestamp = 1612918966;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,10 +1685,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mkworld.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mkworld.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
+            <h3><a target="_blank" href="http://mkworld.wikidot.com">The World of Metamor Keep</a></h3>
+            <div class="desc">          
+              Welcome to Metamor Keep
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://biol-117.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biol-117.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://biol-117.wikidot.com">Principles of Biology II</a></h3>
             <div class="desc">          
               
             </div>
@@ -1696,34 +1707,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://summer350.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/summer350.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://splinterverse.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/splinterverse.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://summer350.wikidot.com">Summer 3500</a></h3>
+            <h3><a target="_blank" href="http://splinterverse.wikidot.com">Splinterverse</a></h3>
             <div class="desc">          
-              Engineering Communications
+              Ezboard Yuku Splinterverse Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandboxbr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxbr.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://liblivadia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liblivadia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandboxbr.wikidot.com">Sandbox SCP PT-BR</a></h3>
+            <h3><a target="_blank" href="http://liblivadia.wikidot.com">ΔΗΜΟΣΙΑ ΚΕΝΤΡΙΚΗ ΒΙΒΛΙΟΘΗΚΗ ΛΕΒΑΔΕΙΑΣ</a></h3>
             <div class="desc">          
-              Onde SCPs Nascem
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://opencascade.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opencascade.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://opencascade.wikidot.com">Open CASCADE Wiki</a></h3>
-            <div class="desc">          
-              
+              Levadia Library
             </div>
           </div>
         </div>
