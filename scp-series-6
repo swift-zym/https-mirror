@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1612938754;
+        OZONE.request.timestamp = 1612960752;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -799,7 +799,7 @@
 <li><a href="/scp-5253">SCP-5253</a> - 原始前寒武紀生物</li>
 <li><a class="newpage" href="/scp-5254">SCP-5254</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5255">SCP-5255</a> - Primordial Truth</li>
-<li><a class="newpage" href="/scp-5256">SCP-5256</a> - Perspective</li>
+<li><a href="/scp-5256">SCP-5256</a> - 透视</li>
 <li><a class="newpage" href="/scp-5257">SCP-5257</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5258">SCP-5258</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5259">SCP-5259</a> - [拒绝访问]</li>
@@ -1229,7 +1229,7 @@
 <li><a class="newpage" href="/scp-5667">SCP-5667</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5668">SCP-5668</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5669">SCP-5669</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5670">SCP-5670</a> - To Pet a Pile of Cars</li>
+<li><a href="/scp-5670">SCP-5670</a> - 养一堆车</li>
 <li><a class="newpage" href="/scp-5671">SCP-5671</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5672">SCP-5672</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5673">SCP-5673</a> - [拒绝访问]</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 382, 最后编辑于: <span class="odate time_1612883316 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">09 Feb 2021 15:08</span></div>
+                            <div id="page-info">页面版本: 384, 最后编辑于: <span class="odate time_1612954687 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">10 Feb 2021 10:58</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+21</span>)</a>
@@ -1710,32 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ksemoudania.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ksemoudania.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cst133a.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cst133a.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ksemoudania.wikidot.com">ΚΣΕ ΜΟΥΔΑΝΙΩΝ Επιμόρφωση Β&#039; Επιπέδου</a></h3>
-            <div class="desc">          
-              «Όποιος τολμάει να διδάξει δεν πρέπει ποτέ να πάψει να μαθαίνει» John Cotton Dana
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://rsc-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rsc-wiki.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://rsc-wiki.wikidot.com">RSC Institution</a></h3>
-            <div class="desc">          
-              Research, Secure, Contain
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://hp-intothefire.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hp-intothefire.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://hp-intothefire.wikidot.com">Harry Potter: Into The Fire</a></h3>
+            <h3><a target="_blank" href="http://cst133a.wikidot.com">CST 133 A</a></h3>
             <div class="desc">          
               
             </div>
@@ -1743,12 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://devset.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/devset.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://borradores-ots.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/borradores-ots.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://devset.wikidot.com">Il Set di Dev</a></h3>
+            <h3><a target="_blank" href="http://borradores-ots.wikidot.com">Borradores OTS</a></h3>
             <div class="desc">          
-              L&#039;Angolo di Scrittura di Dev, non solo SCP
+              Tu lugar de imaginación para los OTS, relatos y mucho más
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://rxwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rxwiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://rxwiki.wikidot.com">Reactive Framework (Rx) Wiki</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://wikistoriaenciclopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikistoriaenciclopedia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://wikistoriaenciclopedia.wikidot.com">Wikistória</a></h3>
+            <div class="desc">          
+              A enciclopédia de História feita por estudantes
             </div>
           </div>
         </div>
