@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1612960623;
+        OZONE.request.timestamp = 1612981755;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,21 +1711,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dotflow.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dotflow.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-hu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-hu.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dotflow.wikidot.com">.flow</a></h3>
+            <h3><a target="_blank" href="http://scp-hu.wikidot.com">SCP Alapítvány</a></h3>
             <div class="desc">          
-              Rusting Away
+              Magyarnyelvű ágazat
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ischool.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ischool.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cs0.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs0.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ischool.wikidot.com">iSchool High</a></h3>
+            <h3><a target="_blank" href="http://cs0.wikidot.com">免費電子書：C# 程式設計</a></h3>
+            <div class="desc">          
+              作者：陳鍾誠
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-field-work.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-field-work.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-field-work.wikidot.com">SCP Field Work</a></h3>
             <div class="desc">          
               
             </div>
@@ -1733,23 +1744,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://backrooms-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://lasthaiku.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lasthaiku.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://backrooms-sandbox.wikidot.com">Backrooms Sandbox</a></h3>
+            <h3><a target="_blank" href="http://lasthaiku.wikidot.com">Legend of the Five Rings</a></h3>
             <div class="desc">          
-              When your Sandbox just gets too Backrooms
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://superjet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/superjet.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://superjet.wikidot.com">Sukhoi Superjet 100</a></h3>
-            <div class="desc">          
-              Реальность против домыслов
+              
             </div>
           </div>
         </div>
