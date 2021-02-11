@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1613025134;
+        OZONE.request.timestamp = 1613047103;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,21 +1711,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bloodborne.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bloodborne.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://energyfuture.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyfuture.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bloodborne.wikidot.com">Bloodborne</a></h3>
+            <h3><a target="_blank" href="http://energyfuture.wikidot.com">The Future of Energy</a></h3>
             <div class="desc">          
-              From Software&#039;s new dark fantasy project. (Project Beast)
+              Analyzing The Options
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-field-work.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-field-work.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-int-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-field-work.wikidot.com">SCP Field Work</a></h3>
+            <h3><a target="_blank" href="http://scp-int-sandbox.wikidot.com">SCP Sandbox</a></h3>
+            <div class="desc">          
+              of the International Translation Archive
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://bx-community.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bx-community.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://bx-community.wikidot.com">Bidirectional Transformations</a></h3>
             <div class="desc">          
               
             </div>
@@ -1733,23 +1744,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://jisluuscps.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jisluuscps.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://amiii.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/amiii.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://jisluuscps.wikidot.com">My SCPS</a></h3>
+            <h3><a target="_blank" href="http://amiii.wikidot.com">Análise Matemática III</a></h3>
             <div class="desc">          
-              random site that I made to be able to have the wikidot things
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-de.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-de.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-wiki-de.wikidot.com">SCP Foundation</a></h3>
-            <div class="desc">          
-              auf Deutsch
+              
             </div>
           </div>
         </div>
