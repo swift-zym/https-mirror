@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1613047028;
+        OZONE.request.timestamp = 1613068608;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -564,7 +564,7 @@
 <li><a href="/scp-cn-1031">SCP-CN-1031</a> - 终焉</li>
 <li><a href="/scp-cn-1032">SCP-CN-1032</a> - 自殺少女</li>
 <li><a href="/scp-cn-1033">SCP-CN-1033</a> - “站宠”</li>
-<li><a class="newpage" href="/scp-cn-1034">SCP-CN-1034</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1034">SCP-CN-1034</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1035">SCP-CN-1035</a> - 惡魔的賭局</li>
 <li><a href="/scp-cn-1036">SCP-CN-1036</a> - 孤寂的淤泥</li>
 <li><a href="/scp-cn-1037">SCP-CN-1037</a> - 好孩子诅咒</li>
@@ -984,7 +984,7 @@
 <li><a href="/scp-cn-1435">SCP-CN-1435</a> - “地狱恶龙魂”</li>
 <li><a href="/scp-cn-1436">SCP-CN-1436</a> - 新生贺礼</li>
 <li><a href="/scp-cn-1437">SCP-CN-1437</a> - 临界区</li>
-<li><a href="/scp-cn-1438">SCP-CN-1438</a> - 杀戮竹箫</li>
+<li><a class="newpage" href="/scp-cn-1438">SCP-CN-1438</a> - 杀戮竹箫</li>
 <li><a href="/scp-cn-1439">SCP-CN-1439</a> - 戏班</li>
 <li><a href="/scp-cn-1440">SCP-CN-1440</a> - 茶核</li>
 <li><a href="/scp-cn-1441">SCP-CN-1441</a> - 植物人</li>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://paralelo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paralelo.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://talkingpadproject.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/talkingpadproject.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://paralelo.wikidot.com">Paralelo</a></h3>
-            <div class="desc">          
-              29 March - 2 April 2009
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://sons-of-athena.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sons-of-athena.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://sons-of-athena.wikidot.com">Obscurative</a></h3>
-            <div class="desc">          
-              ​
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://masonic.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/masonic.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://masonic.wikidot.com">Masonic</a></h3>
-            <div class="desc">          
-              A Freemason&#039;s Compendium
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://bilbreyapwh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bilbreyapwh.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://bilbreyapwh.wikidot.com">Mr. Bilbrey&#039;s AP World History</a></h3>
+            <h3><a target="_blank" href="http://talkingpadproject.wikidot.com">TalkingPad Project</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://languagearts8.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/languagearts8.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://languagearts8.wikidot.com">Language Arts (8)</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-un.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-un.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-un.wikidot.com">SCP Foundation</a></h3>
+            <div class="desc">          
+              Underrepresented Languages Incubator
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://aq-3d.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aq-3d.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://aq-3d.wikidot.com">AQ3D</a></h3>
+            <div class="desc">          
+              AdventureQuest 3D Wiki
             </div>
           </div>
         </div>
