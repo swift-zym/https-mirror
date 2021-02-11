@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1613005250;
+        OZONE.request.timestamp = 1613025123;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -564,7 +564,7 @@
 <li><a href="/scp-cn-1031">SCP-CN-1031</a> - 终焉</li>
 <li><a href="/scp-cn-1032">SCP-CN-1032</a> - 自殺少女</li>
 <li><a href="/scp-cn-1033">SCP-CN-1033</a> - “站宠”</li>
-<li><a href="/scp-cn-1034">SCP-CN-1034</a> - 悲音</li>
+<li><a class="newpage" href="/scp-cn-1034">SCP-CN-1034</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1035">SCP-CN-1035</a> - 惡魔的賭局</li>
 <li><a href="/scp-cn-1036">SCP-CN-1036</a> - 孤寂的淤泥</li>
 <li><a href="/scp-cn-1037">SCP-CN-1037</a> - 好孩子诅咒</li>
@@ -984,7 +984,7 @@
 <li><a href="/scp-cn-1435">SCP-CN-1435</a> - “地狱恶龙魂”</li>
 <li><a href="/scp-cn-1436">SCP-CN-1436</a> - 新生贺礼</li>
 <li><a href="/scp-cn-1437">SCP-CN-1437</a> - 临界区</li>
-<li><a href="/scp-cn-1438">SCP-CN-1438</a> - 蚍蜉撼树</li>
+<li><a href="/scp-cn-1438">SCP-CN-1438</a> - 杀戮竹箫</li>
 <li><a href="/scp-cn-1439">SCP-CN-1439</a> - 戏班</li>
 <li><a href="/scp-cn-1440">SCP-CN-1440</a> - 茶核</li>
 <li><a href="/scp-cn-1441">SCP-CN-1441</a> - 植物人</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4019, 最后编辑于: <span class="odate time_1612807374 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Feb 2021 18:02</span></div>
+                            <div id="page-info">页面版本: 4021, 最后编辑于: <span class="odate time_1613020197 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Feb 2021 05:09</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+82</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://morningsidemicro.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningsidemicro.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://smsalgebra.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smsalgebra.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://morningsidemicro.wikidot.com">Microbiology@Morningside</a></h3>
+            <h3><a target="_blank" href="http://smsalgebra.wikidot.com">Variable Thinking Wiki</a></h3>
             <div class="desc">          
-              The wiki for students in BIO 252 at Morningside
+              Life is a word problem
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ddscat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ddscat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ddscat.wikidot.com">DDSCAT</a></h3>
+            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
             <div class="desc">          
-              Light Scattering Code
+              A World of Darkness Encyclopedia for Modern Nights
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fondationscp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondationscp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://lgam.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lgam.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fondationscp.wikidot.com">Fondation SCP</a></h3>
+            <h3><a target="_blank" href="http://lgam.wikidot.com">LGAM Knowledge Base</a></h3>
             <div class="desc">          
-              Sécuriser, Contenir, Protéger
+              Local Government Knowledge Sharing
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://superjet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/superjet.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pofomultiquiz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pofomultiquiz.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://superjet.wikidot.com">Sukhoi Superjet 100</a></h3>
+            <h3><a target="_blank" href="http://pofomultiquiz.wikidot.com">Pofo MultiQuiz</a></h3>
             <div class="desc">          
-              Реальность против домыслов
+              
             </div>
           </div>
         </div>
