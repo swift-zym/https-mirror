@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1613133508;
+        OZONE.request.timestamp = 1613154593;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,45 +1709,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki.wikidot.com">SCP Foundation</a></h3>
             <div class="desc">          
-              OpenRPG Dungeons and Dragons 3.5
+              Secure, Contain, Protect
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tpswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tpswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tpswiki.wikidot.com">TPSwiki.com</a></h3>
+            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
             <div class="desc">          
-              The Radiation Oncology Treatment Planning System Wiki
+              Where Writers Share Their Characters &amp; Worlds
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://lulu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lulu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://lulu.wikidot.com">UK Wiki Lulu</a></h3>
+            <h3><a target="_blank" href="http://ci-wiki.wikidot.com">Chaos Insurgency</a></h3>
             <div class="desc">          
-              The website for the UK creators at Lulu.com
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wanderers-library-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-library-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wanderers-library-pl.wikidot.com">Biblioteka Wędrowca</a></h3>
+            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
             <div class="desc">          
-              Polska Filia
+              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
             </div>
           </div>
         </div>

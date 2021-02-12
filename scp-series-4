@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1613133319;
+        OZONE.request.timestamp = 1613154630;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,21 +1710,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rpc-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://historynewmedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/historynewmedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rpc-pl.wikidot.com">Autorytet RPC</a></h3>
+            <h3><a target="_blank" href="http://historynewmedia.wikidot.com">History in the New Media</a></h3>
             <div class="desc">          
-              Badania, Ochrona, Przechowywanie
+              Digital Project Design in Archives and Public History
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wherearethejoneses.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wherearethejoneses.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://roboticspedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticspedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wherearethejoneses.wikidot.com">Where are the Joneses Wiki.</a></h3>
+            <h3><a target="_blank" href="http://roboticspedia.wikidot.com">Roboticspedia</a></h3>
+            <div class="desc">          
+              All that you want to know about making robots
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ubmedicinefaqs.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmedicinefaqs.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ubmedicinefaqs.wikidot.com">UBMedicineFAQ</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ifrasite66.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ifrasite66.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-jp-archive.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-archive.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ifrasite66.wikidot.com">IFRA 医疗协会</a></h3>
+            <h3><a target="_blank" href="http://scp-jp-archive.wikidot.com">SCP日本財団中枢資料室。</a></h3>
             <div class="desc">          
-              速，信，责，精
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://hexhouse.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hexhouse.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://hexhouse.wikidot.com">Hex House</a></h3>
-            <div class="desc">          
-              A truly magical place...sort of.
+              収用
             </div>
           </div>
         </div>

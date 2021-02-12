@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1613133313;
+        OZONE.request.timestamp = 1613154560;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1710,10 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://psychjobsearch.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychjobsearch.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nsb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nsb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://psychjobsearch.wikidot.com">Psychology Job Wiki</a></h3>
+            <h3><a target="_blank" href="http://nsb.wikidot.com">Nsb Notes</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nobilis-aleph.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nobilis-aleph.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://smlt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smlt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nobilis-aleph.wikidot.com">Chancel Aleph</a></h3>
+            <h3><a target="_blank" href="http://smlt.wikidot.com">SMLT Container</a></h3>
             <div class="desc">          
-              A Nobilis Fansite
+              The SCP Sandbox by Nerds for Nerds.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mkworld.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mkworld.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kingswaypreint.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kingswaypreint.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mkworld.wikidot.com">The World of Metamor Keep</a></h3>
+            <h3><a target="_blank" href="http://kingswaypreint.wikidot.com">Kingsway Pre-Intermediate</a></h3>
             <div class="desc">          
-              Welcome to Metamor Keep
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://devset.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/devset.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki-mc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-mc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://devset.wikidot.com">Il Set di Dev</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki-mc.wikidot.com">SCP基金会Minecraft分部</a></h3>
             <div class="desc">          
-              L&#039;Angolo di Scrittura di Dev, non solo SCP
+              控制，收容，保护
             </div>
           </div>
         </div>

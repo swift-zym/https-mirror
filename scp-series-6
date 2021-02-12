@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1613133580;
+        OZONE.request.timestamp = 1613154775;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -988,7 +988,7 @@
 <li><a class="newpage" href="/scp-5434">SCP-5434</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5435">SCP-5435</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5436">SCP-5436</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5437">SCP-5437</a> - A Beast Cast From Heaven</li>
+<li><a href="/scp-5437">SCP-5437</a> - A Beast Cast From Heaven</li>
 <li><a class="newpage" href="/scp-5438">SCP-5438</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5439">SCP-5439</a> - [拒绝访问]</li>
 <li><a href="/scp-5440">SCP-5440</a> - 热线摩西</li>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mis213-2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mis213-2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
+            <h3><a target="_blank" href="http://mis213-2.wikidot.com">MIS 213-2</a></h3>
             <div class="desc">          
-              
+              Intro to IS
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://veritasbatheo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/veritasbatheo.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://phylo.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/phylo.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://veritasbatheo.wikidot.com">Batheo</a></h3>
+            <h3><a target="_blank" href="http://phylo.wikidot.com">PhyloWiki</a></h3>
             <div class="desc">          
-              
+              Assisting research and education in phylogenetics and evolution
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://retrolegends.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrolegends.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://brtff.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/brtff.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://retrolegends.wikidot.com">Retro Legends</a></h3>
+            <h3><a target="_blank" href="http://brtff.wikidot.com">BRTFF</a></h3>
             <div class="desc">          
-              The Definitive Database for Retro Gamers
+              Passion on the Top
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp-archive.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-archive.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://snippets.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snippets.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-jp-archive.wikidot.com">SCP日本財団中枢資料室。</a></h3>
+            <h3><a target="_blank" href="http://snippets.wikidot.com">Wiki Code Snippets</a></h3>
             <div class="desc">          
-              収用
+              Snippets
             </div>
           </div>
         </div>

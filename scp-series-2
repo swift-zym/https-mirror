@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1613133488;
+        OZONE.request.timestamp = 1613154775;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,45 +1711,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://paperworks.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paperworks.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mis213-2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mis213-2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://paperworks.wikidot.com">the Paperworks</a></h3>
+            <h3><a target="_blank" href="http://mis213-2.wikidot.com">MIS 213-2</a></h3>
             <div class="desc">          
-              codename /pw/
+              Intro to IS
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://softwarecraftsmanship.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/softwarecraftsmanship.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://phylo.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/phylo.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://softwarecraftsmanship.wikidot.com">Software Craftsmanship</a></h3>
+            <h3><a target="_blank" href="http://phylo.wikidot.com">PhyloWiki</a></h3>
             <div class="desc">          
-              A conference all about building it right
+              Assisting research and education in phylogenetics and evolution
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://soymilkls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soymilkls.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://brtff.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/brtff.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://soymilkls.wikidot.com">Soymilk Linkshell</a></h3>
+            <h3><a target="_blank" href="http://brtff.wikidot.com">BRTFF</a></h3>
             <div class="desc">          
-              Professional, drama-free dynamis since 2005!
+              Passion on the Top
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://jquery-easyui.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jquery-easyui.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://snippets.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snippets.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://jquery-easyui.wikidot.com">jQuery EasyUI</a></h3>
+            <h3><a target="_blank" href="http://snippets.wikidot.com">Wiki Code Snippets</a></h3>
             <div class="desc">          
-              easyui help you build your web page easily!
+              Snippets
             </div>
           </div>
         </div>
