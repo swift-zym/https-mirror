@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1613219644;
+        OZONE.request.timestamp = 1613240913;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -564,7 +564,7 @@
 <li><a href="/scp-cn-1031">SCP-CN-1031</a> - 终焉</li>
 <li><a href="/scp-cn-1032">SCP-CN-1032</a> - 自殺少女</li>
 <li><a href="/scp-cn-1033">SCP-CN-1033</a> - “站宠”</li>
-<li><a class="newpage" href="/scp-cn-1034">SCP-CN-1034</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1034">SCP-CN-1034</a> - 非常普通的aic</li>
 <li><a href="/scp-cn-1035">SCP-CN-1035</a> - 惡魔的賭局</li>
 <li><a href="/scp-cn-1036">SCP-CN-1036</a> - 孤寂的淤泥</li>
 <li><a href="/scp-cn-1037">SCP-CN-1037</a> - 好孩子诅咒</li>
@@ -937,7 +937,7 @@
 <li><a href="/scp-cn-1392">SCP-CN-1392</a> - 年轻人的第一场整形手术</li>
 <li><a href="/scp-cn-1393">SCP-CN-1393</a> - dado的招魂药</li>
 <li><a href="/scp-cn-1394">SCP-CN-1394</a> - 黑点</li>
-<li><a class="newpage" href="/scp-cn-1395">SCP-CN-1395</a> - 欲念之涉</li>
+<li><a class="newpage" href="/scp-cn-1395">SCP-CN-1395</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1396">SCP-CN-1396</a> - 镜中世界</li>
 <li><a href="/scp-cn-1397">SCP-CN-1397</a> - 蚀物之风</li>
 <li><a href="/scp-cn-1398">SCP-CN-1398</a> - 恶行易施</li>
@@ -984,7 +984,7 @@
 <li><a href="/scp-cn-1435">SCP-CN-1435</a> - “地狱恶龙魂”</li>
 <li><a href="/scp-cn-1436">SCP-CN-1436</a> - 新生贺礼</li>
 <li><a href="/scp-cn-1437">SCP-CN-1437</a> - 临界区</li>
-<li><a class="newpage" href="/scp-cn-1438">SCP-CN-1438</a> - 杀戮竹箫</li>
+<li><a class="newpage" href="/scp-cn-1438">SCP-CN-1438</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1439">SCP-CN-1439</a> - 戏班</li>
 <li><a href="/scp-cn-1440">SCP-CN-1440</a> - 茶核</li>
 <li><a href="/scp-cn-1441">SCP-CN-1441</a> - 植物人</li>
@@ -1091,7 +1091,7 @@
 <li><a href="/scp-cn-1538">SCP-CN-1538</a> - 莲，于高山之巅萌发，为汝献上欢乐的颂歌</li>
 <li><a href="/scp-cn-1539">SCP-CN-1539</a> - 登高朝圣</li>
 <li><a href="/scp-cn-1540">SCP-CN-1540</a> - dado稀饭听摇滚</li>
-<li><a class="newpage" href="/scp-cn-1541">SCP-CN-1541</a> - 秦俑方阵</li>
+<li><a class="newpage" href="/scp-cn-1541">SCP-CN-1541</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1542">SCP-CN-1542</a> - ♬祝你生日快乐♬</li>
 <li><a href="/scp-cn-1543">SCP-CN-1543</a> - 我所忠心的</li>
 <li><a href="/scp-cn-1544">SCP-CN-1544</a> - 求道者</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4023, 最后编辑于: <span class="odate time_1613206624 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">13 Feb 2021 08:57</span></div>
+                            <div id="page-info">页面版本: 4025, 最后编辑于: <span class="odate time_1613230557 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">13 Feb 2021 15:35</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+82</span>)</a>
@@ -1686,10 +1686,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://educ400-401.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/educ400-401.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://educ400-401.wikidot.com">Dyslexia Connection</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox2.wikidot.com">SCP Sandbox Wiki II</a></h3>
+            <div class="desc">          
+              Sandbox Harder
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://igor.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/igor.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://igor.wikidot.com">Igor</a></h3>
+            <div class="desc">          
+              Independent Generation of Research
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://kingswayeap.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kingswayeap.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://kingswayeap.wikidot.com">Kingsway EAP</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,34 +1719,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://music-industrapedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/music-industrapedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://thep-serc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thep-serc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://music-industrapedia.wikidot.com">Music Industrapedia</a></h3>
+            <h3><a target="_blank" href="http://thep-serc.wikidot.com">SERC Schools in THEP</a></h3>
             <div class="desc">          
-              A Legacy of your Working Life in the Music Industry
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
-            <div class="desc">          
-              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://capnbarefoot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/capnbarefoot.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://capnbarefoot.wikidot.com">Captain Barefoot</a></h3>
-            <div class="desc">          
-              The naturist guide to the Greek Islands
+              
             </div>
           </div>
         </div>

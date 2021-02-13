@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1613219793;
+        OZONE.request.timestamp = 1613240888;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1710,28 +1710,6 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nycmush.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nycmush.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://nycmush.wikidot.com">NYC: Veil of Shadows</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpnc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpnc.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpnc.wikidot.com">SCP-NC</a></h3>
-            <div class="desc">          
-              Non-Canon
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
             <a target="_blank" class="image" href="http://wikirhye.wikidot.com">
               <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikirhye.wikidot.com/80.jpg"/>
             </a>
@@ -1743,12 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wow-arrakis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wow-arrakis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://simtrackipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/simtrackipedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wow-arrakis.wikidot.com">WoW-Arrakis</a></h3>
+            <h3><a target="_blank" href="http://simtrackipedia.wikidot.com">SIMTrackipedia</a></h3>
             <div class="desc">          
-              Clan Hordeño de C&#039;Thun
+              A collection of tutorials for Bob&#039;s Track Builder, XPacker, and other related programs
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://uberoptions.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uberoptions.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://uberoptions.wikidot.com">uberOptions</a></h3>
+            <div class="desc">          
+              Enable all options on all buttons in SetPoint
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://steelandstone.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/steelandstone.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://steelandstone.wikidot.com">Steel and Stone</a></h3>
+            <div class="desc">          
+              Wagering Lives to the Blade
             </div>
           </div>
         </div>
