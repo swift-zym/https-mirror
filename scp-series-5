@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1613457024;
+        OZONE.request.timestamp = 1613479086;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1405,7 +1405,7 @@
 <li><a href="/scp-4812">SCP-4812</a> - 愤怒</li>
 <li><a href="/scp-4813">SCP-4813</a> - 我唯一的出路就是忘掉我还需要出路。</li>
 <li><a href="/scp-4814">SCP-4814</a> - 啄木人</li>
-<li><a href="/scp-4815">SCP-4815</a> - Busted Oracle</li>
+<li><a href="/scp-4815">SCP-4815</a> - 失败的预言</li>
 <li><a href="/scp-4816">SCP-4816</a> - 我的生活照 :)</li>
 <li><a class="newpage" href="/scp-4817">SCP-4817</a> - Horseman Holiday Rentals in scenic King Louis XVI of France</li>
 <li><a href="/scp-4818">SCP-4818</a> - 我需要一位英雄</li>
@@ -1570,7 +1570,7 @@
 <li><a class="newpage" href="/scp-4973">SCP-4973</a> - Dead Men Walking</li>
 <li><a href="/scp-4974">SCP-4974</a> - 鼠类SCP</li>
 <li><a href="/scp-4975">SCP-4975</a> - 时辰已到</li>
-<li><a class="newpage" href="/scp-4976">SCP-4976</a> - Vacation Photos</li>
+<li><a href="/scp-4976">SCP-4976</a> - 人性一刻</li>
 <li><a href="/scp-4977">SCP-4977</a> - 少年William Kleiger的清醒一梦</li>
 <li><a href="/scp-4978">SCP-4978</a> - <strong>民 风 彪 悍</strong></li>
 <li><a href="/scp-4979">SCP-4979</a> - 遥远未来的残酷黑暗</li>
@@ -1629,7 +1629,7 @@
 
 
 <div class="footnotes-footer">
-<div class="title">Footnotes</div>
+<div class="title">脚注</div>
 <div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
 <div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
 </div>
@@ -1669,7 +1669,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 746, 最后编辑于: <span class="odate time_1612961520 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">10 Feb 2021 12:52</span></div>
+                            <div id="page-info">页面版本: 748, 最后编辑于: <span class="odate time_1613464730 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">16 Feb 2021 08:38</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1741,45 +1741,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://magmabox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magmabox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
+            <h3><a target="_blank" href="http://magmabox.wikidot.com">Centre de Recherche</a></h3>
             <div class="desc">          
-              
+              Là où le loup chasse
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://psychjobsearch.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychjobsearch.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-un.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-un.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://psychjobsearch.wikidot.com">Psychology Job Wiki</a></h3>
+            <h3><a target="_blank" href="http://scp-un.wikidot.com">SCP Foundation</a></h3>
             <div class="desc">          
-              
+              Underrepresented Languages Incubator
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-de.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-de.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ds3-cinders.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds3-cinders.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki-de.wikidot.com">SCP Foundation</a></h3>
+            <h3><a target="_blank" href="http://ds3-cinders.wikidot.com">Cinders</a></h3>
             <div class="desc">          
-              auf Deutsch
+              Cinders
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-ar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-ar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://therafimrpg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/therafimrpg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-ar.wikidot.com">SCP مؤسسة</a></h3>
+            <h3><a target="_blank" href="http://therafimrpg.wikidot.com">Therafim RPG</a></h3>
             <div class="desc">          
-              أَمِن، إحتًوي، إحْمي
+              Epic Destiny Awaits
             </div>
           </div>
         </div>
