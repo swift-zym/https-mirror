@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1613479086;
+        OZONE.request.timestamp = 1613500579;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -899,7 +899,7 @@
 <li><a href="/scp-4326">SCP-4326</a> - 蜜月新人</li>
 <li><a class="newpage" href="/scp-4327">SCP-4327</a> - Suppressive fire in, suppressive fire out! Do the hokey-pokey and that's what it's all about!</li>
 <li><a class="newpage" href="/scp-4328">SCP-4328</a> - Sinew and Cellulose</li>
-<li><a class="newpage" href="/scp-4329">SCP-4329</a> - [拒绝访问]</li>
+<li><a href="/scp-4329">SCP-4329</a> - [拒绝访问]</li>
 <li><a href="/scp-4330">SCP-4330</a> - 一瞬的寂静</li>
 <li><a class="newpage" href="/scp-4331">SCP-4331</a> - When Good Elk Go to War</li>
 <li><a href="/scp-4332">SCP-4332</a> - 把它吃得精光</li>
@@ -1629,7 +1629,7 @@
 
 
 <div class="footnotes-footer">
-<div class="title">脚注</div>
+<div class="title">Footnotes</div>
 <div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
 <div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
 </div>
@@ -1741,45 +1741,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://magmabox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magmabox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://albums-template.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/albums-template.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://magmabox.wikidot.com">Centre de Recherche</a></h3>
+            <h3><a target="_blank" href="http://albums-template.wikidot.com">Albums-template</a></h3>
             <div class="desc">          
-              Là où le loup chasse
+              Your pictures
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-un.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-un.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://phylo.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/phylo.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-un.wikidot.com">SCP Foundation</a></h3>
+            <h3><a target="_blank" href="http://phylo.wikidot.com">PhyloWiki</a></h3>
             <div class="desc">          
-              Underrepresented Languages Incubator
+              Assisting research and education in phylogenetics and evolution
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ds3-cinders.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds3-cinders.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ds3-cinders.wikidot.com">Cinders</a></h3>
+            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
             <div class="desc">          
-              Cinders
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://therafimrpg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/therafimrpg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tauren.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tauren.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://therafimrpg.wikidot.com">Therafim RPG</a></h3>
+            <h3><a target="_blank" href="http://tauren.wikidot.com">Tauren Ate My Grandma</a></h3>
             <div class="desc">          
-              Epic Destiny Awaits
+              has moved!
             </div>
           </div>
         </div>
