@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1613523813;
+        OZONE.request.timestamp = 1613543358;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1280,7 +1280,7 @@
 <li><a href="/scp-2714">SCP-2714</a> - 天打雷劈！罪该万死！</li>
 <li><a href="/scp-2715">SCP-2715</a> - 自责的姐姐</li>
 <li><a href="/scp-2716">SCP-2716</a> - <span style="color: purple">宇航员史密斯的太空-壮景寻宝大冒险！</span></li>
-<li><a class="newpage" href="/scp-2717">SCP-2717</a> - Fatberg</li>
+<li><a href="/scp-2717">SCP-2717</a> - 法特伯格</li>
 <li><a href="/scp-2718">SCP-2718</a> - 身后事</li>
 <li><a href="/scp-2719">SCP-2719</a> - 内部</li>
 <li><a href="/scp-2720">SCP-2720</a> - 企鹅蜜月套房</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 581, 最后编辑于: <span class="odate time_1613400659 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">15 Feb 2021 14:50</span></div>
+                            <div id="page-info">页面版本: 582, 最后编辑于: <span class="odate time_1613542483 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Feb 2021 06:14</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+7</span>)</a>
@@ -1710,32 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://signaturbogen.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/signaturbogen.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://heroesmush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/heroesmush.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://signaturbogen.wikidot.com">Signaturbogen 2.0</a></h3>
-            <div class="desc">          
-              3.000+ kunstnere, 4.500+ signaturer
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scr-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scr-wiki.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scr-wiki.wikidot.com">SCR公司</a></h3>
-            <div class="desc">          
-              安全.收容.研究
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://aviationknowledge.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aviationknowledge.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://aviationknowledge.wikidot.com">AviationKnowledge</a></h3>
+            <h3><a target="_blank" href="http://heroesmush.wikidot.com">Heroes MUSH</a></h3>
             <div class="desc">          
               
             </div>
@@ -1743,12 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sliscomps.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sliscomps.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://backrooms-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sliscomps.wikidot.com">CUA SLIS Comps Study Wiki</a></h3>
+            <h3><a target="_blank" href="http://backrooms-sandbox.wikidot.com">Backrooms Sandbox</a></h3>
             <div class="desc">          
-              
+              When your Sandbox just gets too Backrooms
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ozradonc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ozradonc.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ozradonc.wikidot.com">OzRadOnc</a></h3>
+            <div class="desc">          
+              A collection of thoughts and notes
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://f650cs.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/f650cs.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://f650cs.wikidot.com">F650CS FAQ</a></h3>
+            <div class="desc">          
+              Alternative / Supplement  to Black Belt Gang FAQ&#039;s for the BMW Scarver
             </div>
           </div>
         </div>

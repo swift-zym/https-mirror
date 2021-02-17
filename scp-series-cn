@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1613523860;
+        OZONE.request.timestamp = 1613543165;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,45 +1685,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ecadmin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecadmin.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ecadmin.wikidot.com">Early Childhood Program Administration</a></h3>
-            <div class="desc">          
-              Resources, Training, Best Practices, Sharing
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls3.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://darksouls3.wikidot.com">Darksouls3</a></h3>
-            <div class="desc">          
-              Your trusted source of information for Dark Souls 3
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://lspr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lspr.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://lspr.wikidot.com">Lopside Raccoons</a></h3>
-            <div class="desc">          
-              Not Rightside, But Lopside!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-migration.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-migration.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-migration.wikidot.com">SCP Database Migration</a></h3>
+            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://alfamedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alfamedia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://alfamedia.wikidot.com">Alfamedia</a></h3>
+            <div class="desc">          
+              Alfabetización mediática para educadores
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://fightcorruption.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fightcorruption.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://fightcorruption.wikidot.com">Fight Corruption Now</a></h3>
+            <div class="desc">          
+              Fight Corruption NOW Before It Is Too Late
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://mkworld.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mkworld.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://mkworld.wikidot.com">The World of Metamor Keep</a></h3>
+            <div class="desc">          
+              Welcome to Metamor Keep
             </div>
           </div>
         </div>

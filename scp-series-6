@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1613523702;
+        OZONE.request.timestamp = 1613543455;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1275,7 +1275,7 @@
 <li><a class="newpage" href="/scp-5709">SCP-5709</a> - [拒绝访问]</li>
 <li><a href="/scp-5710">SCP-5710</a> - 《巴赫作品目录》</li>
 <li><a class="newpage" href="/scp-5711">SCP-5711</a> - Threat Level: MIDNIGHT</li>
-<li><a href="/scp-5712">SCP-5712</a> - Associated with Demons, Memes, and Supercomputers</li>
+<li><a href="/scp-5712">SCP-5712</a> - 恶魔，模因和超级计算机</li>
 <li><a class="newpage" href="/scp-5713">SCP-5713</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5714">SCP-5714</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5715">SCP-5715</a> - [拒绝访问]</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 387, 最后编辑于: <span class="odate time_1613321602 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">14 Feb 2021 16:53</span></div>
+                            <div id="page-info">页面版本: 388, 最后编辑于: <span class="odate time_1613524031 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Feb 2021 01:07</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+21</span>)</a>
@@ -1710,10 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://demonssouls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/demonssouls.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://defunct-elitequestworlds.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/defunct-elitequestworlds.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://demonssouls.wikidot.com">Demon&#039;s Souls English Wiki</a></h3>
+            <h3><a target="_blank" href="http://defunct-elitequestworlds.wikidot.com">EliteQuest Worlds</a></h3>
+            <div class="desc">          
+              Eqwwiki
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://algadon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/algadon.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://algadon.wikidot.com">Algadon</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://measurementcamp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/measurementcamp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://apr-wiki-cn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/apr-wiki-cn.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://measurementcamp.wikidot.com">Measurementcamp</a></h3>
+            <h3><a target="_blank" href="http://apr-wiki-cn.wikidot.com">星际异常管理局</a></h3>
             <div class="desc">          
-              Open source movement measuring social media
+              管理，保护，研究
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ens.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ens.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://igor.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/igor.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ens.wikidot.com">Ens Dictionary</a></h3>
+            <h3><a target="_blank" href="http://igor.wikidot.com">Igor</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://boec-wiki-cn.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/boec-wiki-cn.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://boec-wiki-cn.wikidot.com">错误修正局</a></h3>
-            <div class="desc">          
-              修正之名，守护世界
+              Independent Generation of Research
             </div>
           </div>
         </div>
