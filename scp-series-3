@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1613610257;
+        OZONE.request.timestamp = 1613629683;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1280,7 +1280,7 @@
 <li><a href="/scp-2714">SCP-2714</a> - 天打雷劈！罪该万死！</li>
 <li><a href="/scp-2715">SCP-2715</a> - 自责的姐姐</li>
 <li><a href="/scp-2716">SCP-2716</a> - <span style="color: purple">宇航员史密斯的太空-壮景寻宝大冒险！</span></li>
-<li><a href="/scp-2717">SCP-2717</a> - 法特伯格</li>
+<li><a href="/scp-2717">SCP-2717</a> - 油脂山</li>
 <li><a href="/scp-2718">SCP-2718</a> - 身后事</li>
 <li><a href="/scp-2719">SCP-2719</a> - 内部</li>
 <li><a href="/scp-2720">SCP-2720</a> - 企鹅蜜月套房</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 582, 最后编辑于: <span class="odate time_1613542483 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Feb 2021 06:14</span></div>
+                            <div id="page-info">页面版本: 583, 最后编辑于: <span class="odate time_1613616292 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Feb 2021 02:44</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+7</span>)</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://insurrection-du-chaos.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/insurrection-du-chaos.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://jadecrossing.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jadecrossing.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://insurrection-du-chaos.wikidot.com">Insurrection du Chaos</a></h3>
+            <h3><a target="_blank" href="http://jadecrossing.wikidot.com">Jade Crossing</a></h3>
             <div class="desc">          
-              Branche Francophone.
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://alicebot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alicebot.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cyclods.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cyclods.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://alicebot.wikidot.com">Alicebot</a></h3>
+            <h3><a target="_blank" href="http://cyclods.wikidot.com">CycloDS Revolution</a></h3>
             <div class="desc">          
-              Free AIML chat bot content
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://himetop.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/himetop.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://johnmerritt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/johnmerritt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://himetop.wikidot.com">Himetop</a></h3>
+            <h3><a target="_blank" href="http://johnmerritt.wikidot.com">johnmerritt</a></h3>
             <div class="desc">          
-              The History of Medicine Topographical Database
+              social studies
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rhetoricalgoddess.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rhetoricalgoddess.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://team-exterius.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/team-exterius.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rhetoricalgoddess.wikidot.com">The Rhetorical Goddess Wiki</a></h3>
+            <h3><a target="_blank" href="http://team-exterius.wikidot.com">Team Exterius</a></h3>
             <div class="desc">          
-              Because the Truth and That Which Resembles It Belong to the Same Capacity
+              
             </div>
           </div>
         </div>
