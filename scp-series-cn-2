@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1613586460;
+        OZONE.request.timestamp = 1613610370;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -564,7 +564,7 @@
 <li><a href="/scp-cn-1031">SCP-CN-1031</a> - 终焉</li>
 <li><a href="/scp-cn-1032">SCP-CN-1032</a> - 自殺少女</li>
 <li><a href="/scp-cn-1033">SCP-CN-1033</a> - “站宠”</li>
-<li><a href="/scp-cn-1034">SCP-CN-1034</a> - 非常普通的aic</li>
+<li><a href="/scp-cn-1034">SCP-CN-1034</a> - ［数据删除］</li>
 <li><a href="/scp-cn-1035">SCP-CN-1035</a> - 惡魔的賭局</li>
 <li><a href="/scp-cn-1036">SCP-CN-1036</a> - 孤寂的淤泥</li>
 <li><a href="/scp-cn-1037">SCP-CN-1037</a> - 好孩子诅咒</li>
@@ -937,7 +937,7 @@
 <li><a href="/scp-cn-1392">SCP-CN-1392</a> - 年轻人的第一场整形手术</li>
 <li><a href="/scp-cn-1393">SCP-CN-1393</a> - dado的招魂药</li>
 <li><a href="/scp-cn-1394">SCP-CN-1394</a> - 黑点</li>
-<li><a href="/scp-cn-1395">SCP-CN-1395</a> - 只是一份mp3文件</li>
+<li><a href="/scp-cn-1395">SCP-CN-1395</a> - 众生海棠</li>
 <li><a href="/scp-cn-1396">SCP-CN-1396</a> - 镜中世界</li>
 <li><a href="/scp-cn-1397">SCP-CN-1397</a> - 蚀物之风</li>
 <li><a href="/scp-cn-1398">SCP-CN-1398</a> - 恶行易施</li>
@@ -1614,12 +1614,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4032, 最后编辑于: <span class="odate time_1613525779 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Feb 2021 01:36</span></div>
+                            <div id="page-info">页面版本: 4034, 最后编辑于: <span class="odate time_1613608268 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Feb 2021 00:31</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+83</span>)</a>
 <a href="javascript:;" class="btn btn-default" id="tags-button">标签</a>
-<a href="/forum/t-8144004/scp-series-cn-2" class="btn btn-default" id="discuss-button">讨论 (67)</a>
+<a href="/forum/t-8144004/scp-series-cn-2" class="btn btn-default" id="discuss-button">讨论 (69)</a>
 <a href="javascript:;" class="btn btn-default" id="history-button">历史记录</a>
 <a href="javascript:;" class="btn btn-default" id="files-button">附件</a>
 <a href="javascript:;" class="btn btn-default" id="print-button">打印</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rpc-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandboxcn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxcn.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rpc-pl.wikidot.com">Autorytet RPC</a></h3>
+            <h3><a target="_blank" href="http://scpsandboxcn.wikidot.com">SCP基金會中文沙盒站</a></h3>
             <div class="desc">          
-              Badania, Ochrona, Przechowywanie
+              千仞高塔，筑基于此
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rsc-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rsc-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rsc-wiki.wikidot.com">RSC Institution</a></h3>
+            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
             <div class="desc">          
-              Research, Secure, Contain
+              実験、実験、爆発
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://softwarecraftsmanship.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/softwarecraftsmanship.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://echobazaar.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/echobazaar.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://softwarecraftsmanship.wikidot.com">Software Craftsmanship</a></h3>
+            <h3><a target="_blank" href="http://echobazaar.wikidot.com">Echo Bazaar</a></h3>
             <div class="desc">          
-              A conference all about building it right
+              Come to Fallen London
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://norron.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/norron.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://norron.wikidot.com">WikiNorron</a></h3>
+            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
             <div class="desc">          
-              Almost as good as the guide, maybe better!
+              
             </div>
           </div>
         </div>
