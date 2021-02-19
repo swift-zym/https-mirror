@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1613738337;
+        OZONE.request.timestamp = 1613759541;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1049,7 +1049,7 @@
 <li><a class="newpage" href="/scp-4472">SCP-4472</a> - Auger</li>
 <li><a href="/scp-4473">SCP-4473</a> - 你让我感觉像</li>
 <li><a href="/scp-4474">SCP-4474</a> - Steve，或者0外的神</li>
-<li><a class="newpage" href="/scp-4475">SCP-4475</a> - So Long, and Thanks for All the Milk</li>
+<li><a href="/scp-4475">SCP-4475</a> - 一直以来，感谢所有牛奶</li>
 <li><a class="newpage" href="/scp-4476">SCP-4476</a> - <em>Le Famille Natau</em></li>
 <li><a href="/scp-4477">SCP-4477</a> - 给耶稣留点地儿！</li>
 <li><a href="/scp-4478">SCP-4478</a> - <strong>楼梯</strong></li>
@@ -1629,7 +1629,7 @@
 
 
 <div class="footnotes-footer">
-<div class="title">Footnotes</div>
+<div class="title">脚注</div>
 <div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
 <div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
 </div>
@@ -1669,7 +1669,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 748, 最后编辑于: <span class="odate time_1613464730 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">16 Feb 2021 08:38</span></div>
+                            <div id="page-info">页面版本: 749, 最后编辑于: <span class="odate time_1613750436 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">19 Feb 2021 16:00</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1741,45 +1741,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://eventidemush.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eventidemush.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://maitreya.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maitreya.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://eventidemush.wikidot.com">Eventide MUSH</a></h3>
+            <h3><a target="_blank" href="http://maitreya.wikidot.com">REACHA</a></h3>
+            <div class="desc">          
+              &#039;reaching out...touching lives&#039;
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://under-welkin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/under-welkin.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://under-welkin.wikidot.com">天穹敻远</a></h3>
+            <div class="desc">          
+              列星安陈，众线何参
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
+            <div class="desc">          
+              OpenRPG Dungeons and Dragons 3.5
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://coscup.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coscup.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://coscup.wikidot.com">COSCUP WIKI</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://funclubfrp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/funclubfrp.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://funclubfrp.wikidot.com">FUNCLUB FullRP</a></h3>
-            <div class="desc">          
-              База данных зоны 81F
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://paperworks.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paperworks.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://paperworks.wikidot.com">the Paperworks</a></h3>
-            <div class="desc">          
-              codename /pw/
             </div>
           </div>
         </div>
