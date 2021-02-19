@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1613673008;
+        OZONE.request.timestamp = 1613696676;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1741,10 +1741,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nsb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nsb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sliscomps.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sliscomps.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nsb.wikidot.com">Nsb Notes</a></h3>
+            <h3><a target="_blank" href="http://sliscomps.wikidot.com">CUA SLIS Comps Study Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1752,34 +1752,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://iracing.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iracing.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://boec-wiki-cn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/boec-wiki-cn.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://iracing.wikidot.com">iRacing.com Wiki</a></h3>
+            <h3><a target="_blank" href="http://boec-wiki-cn.wikidot.com">错误修正局</a></h3>
             <div class="desc">          
-              Your one-stop-shop for all iRacing setup help and knowledge.
+              修正之名，守护世界
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dragon-trees.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dragon-trees.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://irunath.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/irunath.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dragon-trees.wikidot.com">Dragon Trees</a></h3>
+            <h3><a target="_blank" href="http://irunath.wikidot.com">IRUNA Online Thailand WIKI</a></h3>
             <div class="desc">          
-              A Dragon Cave Fansite
+              by iruna th team
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fightcorruption.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fightcorruption.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fightcorruption.wikidot.com">Fight Corruption Now</a></h3>
+            <h3><a target="_blank" href="http://ci-wiki.wikidot.com">Chaos Insurgency</a></h3>
             <div class="desc">          
-              Fight Corruption NOW Before It Is Too Late
+              
             </div>
           </div>
         </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1613673199;
+        OZONE.request.timestamp = 1613696693;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1710,21 +1710,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://suffadv.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/suffadv.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eng270.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eng270.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://suffadv.wikidot.com">Sufficiently Advanced</a></h3>
+            <h3><a target="_blank" href="http://eng270.wikidot.com">Intro to Creative Writing</a></h3>
             <div class="desc">          
-              A Game of the Far Future
+              Professor Gabriel
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://heroesmush.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/heroesmush.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sw-gis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sw-gis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://heroesmush.wikidot.com">Heroes MUSH</a></h3>
+            <h3><a target="_blank" href="http://sw-gis.wikidot.com">Smallworld GIS Wiki</a></h3>
+            <div class="desc">          
+              Help and references for the Smallworld Community
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://demonssouls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/demonssouls.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://demonssouls.wikidot.com">Demon&#039;s Souls English Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://perceptionstudio.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/perceptionstudio.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://maitreya.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maitreya.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://perceptionstudio.wikidot.com">Perceptionstudio</a></h3>
+            <h3><a target="_blank" href="http://maitreya.wikidot.com">REACHA</a></h3>
             <div class="desc">          
-              The Wiki for Perception Studio
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://retrolegends.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrolegends.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://retrolegends.wikidot.com">Retro Legends</a></h3>
-            <div class="desc">          
-              The Definitive Database for Retro Gamers
+              &#039;reaching out...touching lives&#039;
             </div>
           </div>
         </div>
