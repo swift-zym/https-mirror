@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1613696646;
+        OZONE.request.timestamp = 1613716325;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1316,7 +1316,7 @@
 <li><a href="/scp-cn-1755">SCP-CN-1755</a> - 蝴蝶男孩</li>
 <li><a href="/scp-cn-1756">SCP-CN-1756</a> - 臆想灾难</li>
 <li><a href="/scp-cn-1757">SCP-CN-1757</a> - “墓志铭”</li>
-<li><a href="/scp-cn-1758">SCP-CN-1758</a> - 必应之劫</li>
+<li><a href="/scp-cn-1758">SCP-CN-1758</a> - 神奇剪刀</li>
 <li><a href="/scp-cn-1759">SCP-CN-1759</a> - 超印象派</li>
 <li><a href="/scp-cn-1760">SCP-CN-1760</a> - 谢谢惠顾</li>
 <li><a href="/scp-cn-1761">SCP-CN-1761</a> - 夺权</li>
@@ -1614,12 +1614,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4035, 最后编辑于: <span class="odate time_1613662101 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Feb 2021 15:28</span></div>
+                            <div id="page-info">页面版本: 4037, 最后编辑于: <span class="odate time_1613715907 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">19 Feb 2021 06:25</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+83</span>)</a>
 <a href="javascript:;" class="btn btn-default" id="tags-button">标签</a>
-<a href="/forum/t-8144004/scp-series-cn-2" class="btn btn-default" id="discuss-button">讨论 (69)</a>
+<a href="/forum/t-8144004/scp-series-cn-2" class="btn btn-default" id="discuss-button">讨论 (70)</a>
 <a href="javascript:;" class="btn btn-default" id="history-button">历史记录</a>
 <a href="javascript:;" class="btn btn-default" id="files-button">附件</a>
 <a href="javascript:;" class="btn btn-default" id="print-button">打印</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hiddenprojectwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hiddenprojectwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bandopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bandopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hiddenprojectwiki.wikidot.com">Hidden Project</a></h3>
+            <h3><a target="_blank" href="http://bandopedia.wikidot.com">bandOpedia</a></h3>
             <div class="desc">          
-              Welcome to Hidden Project Wiki
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://soymilkls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soymilkls.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hopkinswhpg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hopkinswhpg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://soymilkls.wikidot.com">Soymilk Linkshell</a></h3>
+            <h3><a target="_blank" href="http://hopkinswhpg.wikidot.com">World History/Physical Geo.</a></h3>
             <div class="desc">          
-              Professional, drama-free dynamis since 2005!
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://exploringsciencewiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exploringsciencewiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpalex-fh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpalex-fh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://exploringsciencewiki.wikidot.com">The Exploring Our World Wiki</a></h3>
+            <h3><a target="_blank" href="http://scpalex-fh.wikidot.com">Sandbox SCP L. Alex</a></h3>
             <div class="desc">          
-              A Site for Everyone Interested in Teaching and Learning
+              Et n&#039;oubliez pas l&#039;orthographe !
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cunefa2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefa2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blank-template.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blank-template.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cunefa2.wikidot.com">CUNEF Group A2</a></h3>
+            <h3><a target="_blank" href="http://blank-template.wikidot.com">Blank Template</a></h3>
             <div class="desc">          
-              For Your Work, Opinions and Discoveries!
+              
             </div>
           </div>
         </div>
