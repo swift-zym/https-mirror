@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1613783078;
+        OZONE.request.timestamp = 1613802631;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,10 +1685,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://connorscampaigns.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/connorscampaigns.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
+            <h3><a target="_blank" href="http://connorscampaigns.wikidot.com">Connors Campaigns</a></h3>
+            <div class="desc">          
+              My dashboard for RPGs, Music, Sports, and more.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://rhetoricalgoddess.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rhetoricalgoddess.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://rhetoricalgoddess.wikidot.com">The Rhetorical Goddess Wiki</a></h3>
+            <div class="desc">          
+              Because the Truth and That Which Resembles It Belong to the Same Capacity
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ubmedicinefaqs.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmedicinefaqs.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ubmedicinefaqs.wikidot.com">UBMedicineFAQ</a></h3>
             <div class="desc">          
               
             </div>
@@ -1696,34 +1718,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pfcuq.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pfcuq.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://plimmires.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/plimmires.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pfcuq.wikidot.com">Pokémon Fan Club of UQ</a></h3>
+            <h3><a target="_blank" href="http://plimmires.wikidot.com">Πλημμύρες</a></h3>
             <div class="desc">          
-              Spoopy
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpcommune.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpcommune.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpcommune.wikidot.com">The SCP Commune</a></h3>
-            <div class="desc">          
-              Satirize, Collectivize, Politicize
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://bioproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bioproject.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://bioproject.wikidot.com">BIO-PRO</a></h3>
-            <div class="desc">          
-              Υγεία-Περιβάλλον-Εκπαίδευση
+              
             </div>
           </div>
         </div>

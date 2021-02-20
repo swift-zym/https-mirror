@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1613782928;
+        OZONE.request.timestamp = 1613802522;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1686,21 +1686,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://badwebcomics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/badwebcomics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-int.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://badwebcomics.wikidot.com">The Bad Webcomics Wiki</a></h3>
+            <h3><a target="_blank" href="http://scp-int.wikidot.com">International Translation Archive</a></h3>
             <div class="desc">          
-              Improving our media, with hatred
+              of the SCP Foundation
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://plimmires.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/plimmires.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://zodiac-ffrpg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zodiac-ffrpg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://plimmires.wikidot.com">Πλημμύρες</a></h3>
+            <h3><a target="_blank" href="http://zodiac-ffrpg.wikidot.com">ZODIAC Final Fantasy RPG</a></h3>
             <div class="desc">          
               
             </div>
@@ -1708,23 +1708,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://exploringsciencewiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exploringsciencewiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpguy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpguy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://exploringsciencewiki.wikidot.com">The Exploring Our World Wiki</a></h3>
+            <h3><a target="_blank" href="http://scpguy.wikidot.com">FakeProGaming Wiki Offical Website</a></h3>
             <div class="desc">          
-              A Site for Everyone Interested in Teaching and Learning
+              FakeProGaming Wiki Offical Website
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zombiecafe.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zombiecafe.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ucsdgrads.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ucsdgrads.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zombiecafe.wikidot.com">Zombie Cafe Wiki</a></h3>
+            <h3><a target="_blank" href="http://ucsdgrads.wikidot.com">UCSD Grad Students</a></h3>
             <div class="desc">          
-              
+              ...the information exchange and virtual community
             </div>
           </div>
         </div>
