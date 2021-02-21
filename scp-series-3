@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1613889138;
+        OZONE.request.timestamp = 1613911096;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1280,7 +1280,7 @@
 <li><a href="/scp-2714">SCP-2714</a> - 天打雷劈！罪该万死！</li>
 <li><a href="/scp-2715">SCP-2715</a> - 自责的姐姐</li>
 <li><a href="/scp-2716">SCP-2716</a> - <span style="color: purple">宇航员史密斯的太空-壮景寻宝大冒险！</span></li>
-<li><a href="/scp-2717">SCP-2717</a> - 油脂山</li>
+<li><a class="newpage" href="/scp-2717">SCP-2717</a> - 油脂山</li>
 <li><a href="/scp-2718">SCP-2718</a> - 身后事</li>
 <li><a href="/scp-2719">SCP-2719</a> - 内部</li>
 <li><a href="/scp-2720">SCP-2720</a> - 企鹅蜜月套房</li>
@@ -1586,7 +1586,7 @@
 <hr />
 <p><strong>归档页面</strong></p>
 <ul>
-<li><a class="newpage" href="/decommissioned-scps-arc">被废除的SCP</a> - 这些SCP是如此糟糕以至于我们写下了销毁它们的故事。我们不希望他们变得更多。</li>
+<li><a href="/archived:decommissioned-scps">被废除的SCP</a> - 这些SCP是如此糟糕以至于我们写下了销毁它们的故事。我们不希望他们变得更多。</li>
 <li><a href="/scp-removed">被删除的SCP</a> - 这些SCP在英文官网上已经被彻底搞掉了，所以你可能无法找到它们的原文，不过基金会网站管理员告诉我们应该保留它们的翻译稿件。</li>
 </ul>
 </div>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 583, 最后编辑于: <span class="odate time_1613616292 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Feb 2021 02:44</span></div>
+                            <div id="page-info">页面版本: 584, 最后编辑于: <span class="odate time_1613902264 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Feb 2021 10:11</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+7</span>)</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fairfieldproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fairfieldproject.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://morningside-genetics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningside-genetics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fairfieldproject.wikidot.com">The Fairfield Project</a></h3>
+            <h3><a target="_blank" href="http://morningside-genetics.wikidot.com">Morningside Genetics</a></h3>
             <div class="desc">          
-              The Delta Green wiki
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-equestria.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-equestria.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kz9.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kz9.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-equestria.wikidot.com">SCP基金会小马国分部</a></h3>
+            <h3><a target="_blank" href="http://kz9.wikidot.com">刻章店</a></h3>
             <div class="desc">          
-              控制 • 收容 • 保护
+              快速专业刻章
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandboxcn.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxcn.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://metrixcreate.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metrixcreate.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandboxcn.wikidot.com">SCP基金會中文沙盒站</a></h3>
+            <h3><a target="_blank" href="http://metrixcreate.wikidot.com">Metrix Create:Space</a></h3>
             <div class="desc">          
-              千仞高塔，筑基于此
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpdsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpdsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://brian.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/brian.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpdsandbox.wikidot.com">SCPDeclassified Sandbox</a></h3>
+            <h3><a target="_blank" href="http://brian.wikidot.com">Sector Asgard Delta</a></h3>
             <div class="desc">          
-              Secure, Contain, Protect, Declassify
+              
             </div>
           </div>
         </div>

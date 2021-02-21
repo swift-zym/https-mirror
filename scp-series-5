@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1613888956;
+        OZONE.request.timestamp = 1613911107;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1609,7 +1609,7 @@
 <hr />
 <p><strong>归档页面</strong></p>
 <ul>
-<li><a class="newpage" href="/decommissioned-scps-arc">被废除的SCP</a> - 这些SCP是如此糟糕以至于我们写下了销毁它们的故事。我们不希望他们变得更多。</li>
+<li><a href="/archived:decommissioned-scps">被废除的SCP</a> - 这些SCP是如此糟糕以至于我们写下了销毁它们的故事。我们不希望他们变得更多。</li>
 <li><a href="/scp-removed">被删除的SCP</a> - 这些SCP在英文官网上已经被彻底搞掉了，所以你可能无法找到它们的原文，不过基金会网站管理员告诉我们应该保留它们的翻译稿件。</li>
 </ul>
 </div>
@@ -1669,7 +1669,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 749, 最后编辑于: <span class="odate time_1613750436 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">19 Feb 2021 16:00</span></div>
+                            <div id="page-info">页面版本: 750, 最后编辑于: <span class="odate time_1613902465 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Feb 2021 10:14</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1741,10 +1741,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://algadon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/algadon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cst133a.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cst133a.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://algadon.wikidot.com">Algadon</a></h3>
+            <h3><a target="_blank" href="http://cst133a.wikidot.com">CST 133 A</a></h3>
             <div class="desc">          
               
             </div>
@@ -1752,34 +1752,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-int-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://is2216.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/is2216.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-int-sandbox.wikidot.com">SCP Sandbox</a></h3>
+            <h3><a target="_blank" href="http://is2216.wikidot.com">IS2216 - JAVA WIKI</a></h3>
             <div class="desc">          
-              of the International Translation Archive
+              Java for beginners
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://extrabees.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extrabees.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikiwealth.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiwealth.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://extrabees.wikidot.com">Extra Bees</a></h3>
+            <h3><a target="_blank" href="http://wikiwealth.wikidot.com">WikiWealth</a></h3>
             <div class="desc">          
-              Plugin for the Forestry Mod
+              Stock, ETF and Mutual Fund Ratings | Commodity, Currency Research
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kindiy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kindiy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bloodborne.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bloodborne.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kindiy.wikidot.com">kinDIY</a></h3>
+            <h3><a target="_blank" href="http://bloodborne.wikidot.com">Bloodborne</a></h3>
             <div class="desc">          
-              for the DIY kindie community
+              From Software&#039;s new dark fantasy project. (Project Beast)
             </div>
           </div>
         </div>

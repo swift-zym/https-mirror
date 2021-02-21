@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1613888883;
+        OZONE.request.timestamp = 1613910999;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -560,7 +560,7 @@
 <li><a href="/scp-5022">SCP-5022</a> - 孩子头</li>
 <li><a href="/scp-5023">SCP-5023</a> - 人类原始冲动</li>
 <li><a href="/scp-5024">SCP-5024</a> - 流浪图书馆</li>
-<li><a href="/scp-5025">SCP-5025</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5025">SCP-5025</a> - [拒绝访问]</li>
 <li><a href="/scp-5026">SCP-5026</a> - 你的故事</li>
 <li><a href="/scp-5027">SCP-5027</a> - 薛定谔的人</li>
 <li><a href="/scp-5028">SCP-5028</a> - 安普利亚流亡者</li>
@@ -655,7 +655,7 @@
 <li><a href="/scp-5113">SCP-5113</a> - 喵主席与武当狗的生活</li>
 <li><a href="/scp-5114">SCP-5114</a> - 官僚主义大作战</li>
 <li><a href="/scp-5115">SCP-5115</a> - 超然物外</li>
-<li><a href="/scp-5116">SCP-5116</a> - 与恶魔交易的艺术</li>
+<li><a class="newpage" href="/scp-5116">SCP-5116</a> - 与恶魔交易的艺术</li>
 <li><a href="/scp-5117">SCP-5117</a> - <span style="color: red">Alex？</span>我很孤独。</li>
 <li><a href="/scp-5118">SCP-5118</a> - 永远当个好孩子</li>
 <li><a href="/scp-5119">SCP-5119</a> - 查理叔叔的玩具商店和游戏厅</li>
@@ -775,7 +775,7 @@
 <li><a class="newpage" href="/scp-5229">SCP-5229</a> - [拒绝访问]</li>
 <li><a href="/scp-5230">SCP-5230</a> - 甜蜜的玩偶孤儿院</li>
 <li><a class="newpage" href="/scp-5231">SCP-5231</a> - 127.0.0.WAN</li>
-<li><a class="newpage" href="/scp-5232">SCP-5232</a> - [拒绝访问]</li>
+<li><a href="/scp-5232">SCP-5232</a> - 她眼中的玫瑰</li>
 <li><a class="newpage" href="/scp-5233">SCP-5233</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5234">SCP-5234</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5235">SCP-5235</a> - Thief of Time</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 391, 最后编辑于: <span class="odate time_1613822434 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Feb 2021 12:00</span></div>
+                            <div id="page-info">页面版本: 392, 最后编辑于: <span class="odate time_1613905738 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Feb 2021 11:08</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+21</span>)</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gurpswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gurpswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mactutorial.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mactutorial.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gurpswiki.wikidot.com">GURPS Repository</a></h3>
+            <h3><a target="_blank" href="http://mactutorial.wikidot.com">Mac Video Tutorial</a></h3>
             <div class="desc">          
-              A collection for your GURPS needs
+              Mac OS X video tutorial i18n subtitles project
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://spaceepicuntitled.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spaceepicuntitled.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dndis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dndis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://spaceepicuntitled.wikidot.com">Space Epic Untitled</a></h3>
+            <h3><a target="_blank" href="http://dndis.wikidot.com">Dungeons &amp; Discourse</a></h3>
             <div class="desc">          
-              From KUMA Games
+              Gamma Edition
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zmk.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zmk.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/handbook.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zmk.wikidot.com">Zagłębiowska Masa Krytyczna</a></h3>
+            <h3><a target="_blank" href="http://handbook.wikidot.com">Handbook</a></h3>
             <div class="desc">          
-              Czwartek 3 Maja 2018 Godz.15:00
+              The Wikidot Handbook
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://viscomclass.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/viscomclass.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chrysaliswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://viscomclass.wikidot.com">VisCom</a></h3>
+            <h3><a target="_blank" href="http://chrysaliswiki.wikidot.com">Chrysalis</a></h3>
             <div class="desc">          
-              
+              A Final Fantasy Wiki
             </div>
           </div>
         </div>

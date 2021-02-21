@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1613888874;
+        OZONE.request.timestamp = 1613911002;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -731,7 +731,7 @@
 <li><a href="/scp-cn-1194">SCP-CN-1194</a> - 返回深海前，请记得洗脸刷牙</li>
 <li><a href="/scp-cn-1195">SCP-CN-1195</a> - 我们是一体的</li>
 <li><a href="/scp-cn-1196">SCP-CN-1196</a> - 水星来<em><strong>客</strong></em></li>
-<li><a href="/scp-cn-1197">SCP-CN-1197</a> - “乐群湖水怪”</li>
+<li><a href="/scp-cn-1197">SCP-CN-1197</a> - 乐群湖水怪</li>
 <li><a href="/scp-cn-1198">SCP-CN-1198</a> - 贫腿虫零食</li>
 <li><a href="/scp-cn-1199">SCP-CN-1199</a> - 渡河，渡河</li>
 </ul>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4038, 最后编辑于: <span class="odate time_1613720315 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">19 Feb 2021 07:38</span></div>
+                            <div id="page-info">页面版本: 4039, 最后编辑于: <span class="odate time_1613900402 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Feb 2021 09:40</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+84</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpvnsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvnsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://join.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/join.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpvnsandbox.wikidot.com">SCP-VN Sandbox</a></h3>
+            <h3><a target="_blank" href="http://join.wikidot.com">Join this Site!</a></h3>
             <div class="desc">          
-              Khu vực thử nghiệm
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://redsite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/redsite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://waywardsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/waywardsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://redsite.wikidot.com">RedPlay Wiki</a></h3>
+            <h3><a target="_blank" href="http://waywardsandbox.wikidot.com">Wayward Society Sandbox</a></h3>
             <div class="desc">          
-              redplaywiki
+              Even secret societies need to draft.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://denver.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/denver.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://demonssouls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/demonssouls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://denver.wikidot.com">Shadowrun: Denver</a></h3>
+            <h3><a target="_blank" href="http://demonssouls.wikidot.com">Demon&#039;s Souls English Wiki</a></h3>
             <div class="desc">          
-              Complicated Shadows
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hmswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hmswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fondationscp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondationscp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hmswiki.wikidot.com">HMS Anomalous Items Wiki</a></h3>
+            <h3><a target="_blank" href="http://fondationscp.wikidot.com">Fondation SCP</a></h3>
             <div class="desc">          
-              We don&#039;t do that here.
+              Sécuriser, Contenir, Protéger
             </div>
           </div>
         </div>
