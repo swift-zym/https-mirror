@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1613869494;
+        OZONE.request.timestamp = 1613888939;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1685,10 +1685,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hackingthursday.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hackingthursday.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://phylo.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/phylo.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hackingthursday.wikidot.com">Hacking Thursday</a></h3>
+            <h3><a target="_blank" href="http://phylo.wikidot.com">PhyloWiki</a></h3>
+            <div class="desc">          
+              Assisting research and education in phylogenetics and evolution
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://rxwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rxwiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://rxwiki.wikidot.com">Reactive Framework (Rx) Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1696,34 +1707,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://guitarzero.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/guitarzero.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://perceptionstudio.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/perceptionstudio.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://guitarzero.wikidot.com">Frontman Wiki</a></h3>
+            <h3><a target="_blank" href="http://perceptionstudio.wikidot.com">Perceptionstudio</a></h3>
+            <div class="desc">          
+              The Wiki for Perception Studio
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://bilbreyapwh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bilbreyapwh.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://bilbreyapwh.wikidot.com">Mr. Bilbrey&#039;s AP World History</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-jp.wikidot.com">SCP財団</a></h3>
-            <div class="desc">          
-              確保、収容、保護
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
-            <div class="desc">          
-              Fighting Spammers for Fun and Profit!
             </div>
           </div>
         </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1613869644;
+        OZONE.request.timestamp = 1613888940;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,21 +1709,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smalltown.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smalltown.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smalltown.wikidot.com">小城的问候</a></h3>
+            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
             <div class="desc">          
-              Greetings from afar...
+              実験、実験、爆発
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://techcomm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/techcomm.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aetherium.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aetherium.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://techcomm.wikidot.com">TechnicalCommunication</a></h3>
+            <h3><a target="_blank" href="http://aetherium.wikidot.com">Aetherium Enterprise</a></h3>
             <div class="desc">          
               
             </div>
@@ -1731,21 +1731,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blackmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackmarches.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://boec-wiki-cn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/boec-wiki-cn.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blackmarches.wikidot.com">Black Marches</a></h3>
+            <h3><a target="_blank" href="http://boec-wiki-cn.wikidot.com">错误修正局</a></h3>
             <div class="desc">          
-              Roll20 Pathfinder
+              修正之名，守护世界
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://startup-australia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/startup-australia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://morningside-genetics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningside-genetics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://startup-australia.wikidot.com">Startup Australia</a></h3>
+            <h3><a target="_blank" href="http://morningside-genetics.wikidot.com">Morningside Genetics</a></h3>
             <div class="desc">          
               
             </div>

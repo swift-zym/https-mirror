@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1613869739;
+        OZONE.request.timestamp = 1613888874;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scmapdb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scmapdb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpvnsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvnsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scmapdb.wikidot.com">Sven Co-op Map Database</a></h3>
+            <h3><a target="_blank" href="http://scpvnsandbox.wikidot.com">SCP-VN Sandbox</a></h3>
             <div class="desc">          
-              SCMapDB.com
+              Khu vực thử nghiệm
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bua581.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bua581.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://redsite.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/redsite.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bua581.wikidot.com">Managing Information Systems</a></h3>
+            <h3><a target="_blank" href="http://redsite.wikidot.com">RedPlay Wiki</a></h3>
             <div class="desc">          
-              BUA 581 - Rick Sprenkle
+              redplaywiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://multiverse-crisis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/multiverse-crisis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://denver.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/denver.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://multiverse-crisis.wikidot.com">THIS WIKI CLOSED</a></h3>
+            <h3><a target="_blank" href="http://denver.wikidot.com">Shadowrun: Denver</a></h3>
             <div class="desc">          
-              Current Wiki @ multiversemush.com
+              Complicated Shadows
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://larpard.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/larpard.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hmswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hmswiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://larpard.wikidot.com">Larpard</a></h3>
+            <h3><a target="_blank" href="http://hmswiki.wikidot.com">HMS Anomalous Items Wiki</a></h3>
             <div class="desc">          
-              Vše nejen o larpech ve východních Čechách
+              We don&#039;t do that here.
             </div>
           </div>
         </div>
