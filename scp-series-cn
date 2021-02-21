@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1613910828;
+        OZONE.request.timestamp = 1613932349;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1288,7 +1288,7 @@
 <li><a href="/scp-cn-728">SCP-CN-728</a> - 鸟笼公式</li>
 <li><a href="/scp-cn-729">SCP-CN-729</a> - 目夺</li>
 <li><a href="/scp-cn-730">SCP-CN-730</a> - <span style="text-decoration: line-through;">水雾异像</span>血泪控诉</li>
-<li><a href="/scp-cn-731">SCP-CN-731</a> - 依需，附建。照求，<span style="text-decoration: line-through;">突破</span>收容。</li>
+<li><a href="/scp-cn-731">SCP-CN-731</a> - 并非戒指</li>
 <li><a href="/scp-cn-732">SCP-CN-732</a> - 危險猛獸</li>
 <li><a href="/scp-cn-733">SCP-CN-733</a> - 血窗</li>
 <li><a href="/scp-cn-734">SCP-CN-734</a> - 背景人物</li>
@@ -1613,7 +1613,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3256, 最后编辑于: <span class="odate time_1612704990 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Feb 2021 13:36</span></div>
+                            <div id="page-info">页面版本: 3257, 最后编辑于: <span class="odate time_1613924920 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Feb 2021 16:28</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+69</span>)</a>
@@ -1685,10 +1685,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zombiecafe.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zombiecafe.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://osx86.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/osx86.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zombiecafe.wikidot.com">Zombie Cafe Wiki</a></h3>
+            <h3><a target="_blank" href="http://osx86.wikidot.com">InfiniteMac Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1696,21 +1696,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tauren.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tauren.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://evilhat.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/evilhat.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tauren.wikidot.com">Tauren Ate My Grandma</a></h3>
-            <div class="desc">          
-              has moved!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://plimmires.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/plimmires.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://plimmires.wikidot.com">Πλημμύρες</a></h3>
+            <h3><a target="_blank" href="http://evilhat.wikidot.com">Evil Hat Productions Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1718,12 +1707,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thelaststory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thelaststory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scmapdb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scmapdb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thelaststory.wikidot.com">The Last Story</a></h3>
+            <h3><a target="_blank" href="http://scmapdb.wikidot.com">Sven Co-op Map Database</a></h3>
             <div class="desc">          
-              
+              SCMapDB.com
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://radiohub.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/radiohub.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://radiohub.wikidot.com">Radiohub</a></h3>
+            <div class="desc">          
+              Lossless Radiohead Hub Wiki
             </div>
           </div>
         </div>

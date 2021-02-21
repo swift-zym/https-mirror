@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1613911002;
+        OZONE.request.timestamp = 1613932064;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1522,7 +1522,7 @@
 <li><a href="/scp-cn-1953">SCP-CN-1953</a> - 無後續調查必要</li>
 <li><a href="/scp-cn-1954">SCP-CN-1954</a> - Shop&amp;Company Plan</li>
 <li><a href="/scp-cn-1955">SCP-CN-1955</a> - 一具女尸和她的孩子</li>
-<li><a href="/scp-cn-1956">SCP-CN-1956</a> - 重逢思念之人，然后再次失去</li>
+<li><a href="/scp-cn-1956">SCP-CN-1956</a> - 备份世界</li>
 <li><a href="/scp-cn-1957">SCP-CN-1957</a> - 旧树</li>
 <li><a href="/scp-cn-1958">SCP-CN-1958</a> - 速食文明</li>
 <li><a href="/scp-cn-1959">SCP-CN-1959</a> - [无标题]</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4039, 最后编辑于: <span class="odate time_1613900402 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Feb 2021 09:40</span></div>
+                            <div id="page-info">页面版本: 4040, 最后编辑于: <span class="odate time_1613926812 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Feb 2021 17:00</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+84</span>)</a>
@@ -1686,10 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://join.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/join.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blmodding.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blmodding.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://join.wikidot.com">Join this Site!</a></h3>
+            <h3><a target="_blank" href="http://blmodding.wikidot.com">Borderlands Modding Resource</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,21 +1697,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://waywardsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/waywardsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://2d6.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2d6.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://waywardsandbox.wikidot.com">Wayward Society Sandbox</a></h3>
-            <div class="desc">          
-              Even secret societies need to draft.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://demonssouls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/demonssouls.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://demonssouls.wikidot.com">Demon&#039;s Souls English Wiki</a></h3>
+            <h3><a target="_blank" href="http://2d6.wikidot.com">2d6++</a></h3>
             <div class="desc">          
               
             </div>
@@ -1719,12 +1708,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fondationscp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondationscp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pedhemoncreview.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pedhemoncreview.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fondationscp.wikidot.com">Fondation SCP</a></h3>
+            <h3><a target="_blank" href="http://pedhemoncreview.wikidot.com">Pediatric Hematology &amp; Oncology Certification Review</a></h3>
             <div class="desc">          
-              Sécuriser, Contenir, Protéger
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://bx-community.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bx-community.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://bx-community.wikidot.com">Bidirectional Transformations</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>
