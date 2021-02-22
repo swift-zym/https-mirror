@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1613975476;
+        OZONE.request.timestamp = 1613996984;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,10 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kingswaypreint.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kingswaypreint.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://2012hoax.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2012hoax.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kingswaypreint.wikidot.com">Kingsway Pre-Intermediate</a></h3>
+            <h3><a target="_blank" href="http://2012hoax.wikidot.com">2012hoax</a></h3>
+            <div class="desc">          
+              Debunking the &quot;2012 Doomsday&quot;
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://microchip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://battlestargenesis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/battlestargenesis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://narutomushrivalry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/narutomushrivalry.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://battlestargenesis.wikidot.com">BATTLESTAR GENESIS MUSH</a></h3>
+            <h3><a target="_blank" href="http://narutomushrivalry.wikidot.com">Naruto Mush Rivalry</a></h3>
             <div class="desc">          
-              battlestar.isunlimited.net    3012
+              Ninja of the world, REJOICE!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ereticopedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ereticopedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://puppet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/puppet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ereticopedia.wikidot.com">ERETICOPEDIA</a></h3>
+            <h3><a target="_blank" href="http://puppet.wikidot.com">Puppet中文wiki</a></h3>
             <div class="desc">          
-              Mediterranean Digital &amp; Public Humanities
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://mathaerobics4samvedna.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mathaerobics4samvedna.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://mathaerobics4samvedna.wikidot.com">Math Aerobics</a></h3>
-            <div class="desc">          
-              ADIDAS - All Day I Dream About Sums..!!
+              
             </div>
           </div>
         </div>

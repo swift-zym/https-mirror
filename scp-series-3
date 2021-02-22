@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1613975483;
+        OZONE.request.timestamp = 1613997213;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1710,21 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fmi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-ar.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-ar.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fmi.wikidot.com">Лекциите на ФМИ</a></h3>
+            <h3><a target="_blank" href="http://scp-ar.wikidot.com">SCP مؤسسة</a></h3>
             <div class="desc">          
-              За да изглеждаме умни пред другите
+              أَمِن، إحتًوي، إحْمي
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://enchantedbros.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/enchantedbros.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ubmedicinefaqs.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmedicinefaqs.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://enchantedbros.wikidot.com">Enchanted Bros wiki</a></h3>
+            <h3><a target="_blank" href="http://ubmedicinefaqs.wikidot.com">UBMedicineFAQ</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://battlestargenesis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/battlestargenesis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://liblivadia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liblivadia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://battlestargenesis.wikidot.com">BATTLESTAR GENESIS MUSH</a></h3>
+            <h3><a target="_blank" href="http://liblivadia.wikidot.com">ΔΗΜΟΣΙΑ ΚΕΝΤΡΙΚΗ ΒΙΒΛΙΟΘΗΚΗ ΛΕΒΑΔΕΙΑΣ</a></h3>
             <div class="desc">          
-              battlestar.isunlimited.net    3012
+              Levadia Library
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rscsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rscsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://historynewmedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/historynewmedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rscsandbox.wikidot.com">RSC Sandbox</a></h3>
+            <h3><a target="_blank" href="http://historynewmedia.wikidot.com">History in the New Media</a></h3>
             <div class="desc">          
-              RSC için Sandbox
+              Digital Project Design in Archives and Public History
             </div>
           </div>
         </div>
