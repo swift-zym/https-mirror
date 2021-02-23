@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1614061832;
+        OZONE.request.timestamp = 1614083934;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -706,7 +706,7 @@
 <li><a class="newpage" href="/scp-5164">SCP-5164</a> - [拒绝访问]</li>
 <li><a href="/scp-5165">SCP-5165</a> - 一叠纸</li>
 <li><a href="/scp-5166">SCP-5166</a> - 点子多又多</li>
-<li><a class="newpage" href="/scp-5167">SCP-5167</a> - [拒绝访问]</li>
+<li><a href="/scp-5167">SCP-5167</a> - When The Impostor Is Sus</li>
 <li><a class="newpage" href="/scp-5168">SCP-5168</a> - [拒绝访问]</li>
 <li><a href="/scp-5169">SCP-5169</a> - 劲爆充气娃娃</li>
 <li><a href="/scp-5170">SCP-5170</a> - <span style="color: #191970;font-family: &quot;Times New Roman&quot;;"><strong>相啸魔大人</strong></span> 💼⚖️</li>
@@ -774,7 +774,7 @@
 <li><a class="newpage" href="/scp-5228">SCP-5228</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5229">SCP-5229</a> - [拒绝访问]</li>
 <li><a href="/scp-5230">SCP-5230</a> - 甜蜜的玩偶孤儿院</li>
-<li><a class="newpage" href="/scp-5231">SCP-5231</a> - 127.0.0.WAN</li>
+<li><a href="/scp-5231">SCP-5231</a> - 127.0.0.WAN</li>
 <li><a href="/scp-5232">SCP-5232</a> - 她眼中的玫瑰</li>
 <li><a class="newpage" href="/scp-5233">SCP-5233</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5234">SCP-5234</a> - [拒绝访问]</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 396, 最后编辑于: <span class="odate time_1614053986 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Feb 2021 04:19</span></div>
+                            <div id="page-info">页面版本: 397, 最后编辑于: <span class="odate time_1614076259 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Feb 2021 10:30</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+21</span>)</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ci-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://musicgames.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/musicgames.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ci-sandbox.wikidot.com">Insu Sandbox</a></h3>
+            <h3><a target="_blank" href="http://musicgames.wikidot.com">Games for Music</a></h3>
             <div class="desc">          
-              &quot;Draft a little dream of me...&quot;
+              Music Game Archive &amp; Community for Musicians of All Levels
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vs-tcg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vs-tcg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ereticopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ereticopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vs-tcg.wikidot.com">Sparkling Victory!</a></h3>
+            <h3><a target="_blank" href="http://ereticopedia.wikidot.com">ERETICOPEDIA</a></h3>
             <div class="desc">          
-              Time to Spark, Time for Victory...
+              Mediterranean Digital &amp; Public Humanities
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ci-cn-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-cn-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eldritch00.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eldritch00.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ci-cn-wiki.wikidot.com">混沌分裂者</a></h3>
+            <h3><a target="_blank" href="http://eldritch00.wikidot.com">A Shining Brainless Beacon</a></h3>
             <div class="desc">          
-              中国分部   于无理之中创造逻辑
+              I Have a Special Plan for This World
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zeromq.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zeromq.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://caughtnotsleeping.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caughtnotsleeping.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zeromq.wikidot.com">zeromq</a></h3>
+            <h3><a target="_blank" href="http://caughtnotsleeping.wikidot.com">CaughtNotSleeping</a></h3>
             <div class="desc">          
-              
+              It&#039;s just a game...It&#039;s just a game...
             </div>
           </div>
         </div>

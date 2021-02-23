@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1614061917;
+        OZONE.request.timestamp = 1614084098;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1193,7 +1193,7 @@
 <li><a class="newpage" href="/scp-4608">SCP-4608</a> - Appleseed</li>
 <li><a href="/scp-4609">SCP-4609</a> - 一个项目</li>
 <li><a href="/scp-4610">SCP-4610</a> - dado的云计算</li>
-<li><a class="newpage" href="/scp-4611">SCP-4611</a> - The Bears And The Bees</li>
+<li><a href="/scp-4611">SCP-4611</a> - 熊与蜂</li>
 <li><a href="/scp-4612">SCP-4612</a> - 并非所有的神都会腐朽</li>
 <li><a href="/scp-4613">SCP-4613</a> - 爱德华·詹姆斯·几乎是</li>
 <li><a class="newpage" href="/scp-4614">SCP-4614</a> - [拒绝访问]</li>
@@ -1669,7 +1669,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 750, 最后编辑于: <span class="odate time_1613902465 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Feb 2021 10:14</span></div>
+                            <div id="page-info">页面版本: 751, 最后编辑于: <span class="odate time_1614079331 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Feb 2021 11:22</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1741,45 +1741,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thecollaboratory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thecollaboratory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mbitcoin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mbitcoin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thecollaboratory.wikidot.com">The Collaboratory</a></h3>
+            <h3><a target="_blank" href="http://mbitcoin.wikidot.com">BitCoin</a></h3>
             <div class="desc">          
-              at Colby Community College
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpjp-fansite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpjp-fansite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://abstractum.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/abstractum.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpjp-fansite.wikidot.com">SCP-JP-FS</a></h3>
+            <h3><a target="_blank" href="http://abstractum.wikidot.com">Abstractum</a></h3>
             <div class="desc">          
-              確保、収容、遊べ！
+              It Took Them Away
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://neosteam.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/neosteam.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://righthandrobotics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/righthandrobotics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://neosteam.wikidot.com">Neo Steam Wiki</a></h3>
+            <h3><a target="_blank" href="http://righthandrobotics.wikidot.com">RightHand Robotics</a></h3>
             <div class="desc">          
-              May 2008 to February 2012
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wanderers-library.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-library.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://etnolinguistica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/etnolinguistica.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wanderers-library.wikidot.com">The Wanderers&#039; Library</a></h3>
+            <h3><a target="_blank" href="http://etnolinguistica.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
             <div class="desc">          
-              Fiction from another world.
+              línguas e culturas indígenas sul-americanas
             </div>
           </div>
         </div>
