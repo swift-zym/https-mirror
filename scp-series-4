@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1614084187;
+        OZONE.request.timestamp = 1614104832;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1508,7 +1508,7 @@
 <li><a href="/scp-3934">SCP-3934</a> - 尼斯湖水怪有售</li>
 <li><a href="/scp-3935">SCP-3935</a> - 此地静谧疯狂</li>
 <li><a href="/scp-3936">SCP-3936</a> - 如预定地那样工作</li>
-<li><a class="newpage" href="/scp-3937">SCP-3937</a> - Site-112</li>
+<li><a href="/scp-3937">SCP-3937</a> - Site-112</li>
 <li><a class="newpage" href="/scp-3938">SCP-3938</a> - Dr. Wondertainment's Take-You-Anywhere Machine</li>
 <li><a href="/scp-3939">SCP-3939</a> - [编号保留，以待研究员]</li>
 <li><a href="/scp-3940">SCP-3940</a> - 圣经对兔八哥的复仇</li>
@@ -1710,21 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bloodborne.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bloodborne.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ens.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ens.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bloodborne.wikidot.com">Bloodborne</a></h3>
-            <div class="desc">          
-              From Software&#039;s new dark fantasy project. (Project Beast)
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ltt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ltt.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ltt.wikidot.com">Living Through Technology</a></h3>
+            <h3><a target="_blank" href="http://ens.wikidot.com">Ens Dictionary</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,23 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://biblio.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biblio.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://neosteam.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/neosteam.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://biblio.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
+            <h3><a target="_blank" href="http://neosteam.wikidot.com">Neo Steam Wiki</a></h3>
             <div class="desc">          
-              livros e artigos sobre línguas sul-americanas
+              May 2008 to February 2012
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp-archive.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-archive.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-el.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-el.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-jp-archive.wikidot.com">SCP日本財団中枢資料室。</a></h3>
+            <h3><a target="_blank" href="http://scp-el.wikidot.com">Το Ίδρυμα SCP</a></h3>
             <div class="desc">          
-              収用
+              Ελληνόφωνος κλάδος
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://hmswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hmswiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://hmswiki.wikidot.com">HMS Anomalous Items Wiki</a></h3>
+            <div class="desc">          
+              We don&#039;t do that here.
             </div>
           </div>
         </div>
