@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1614148452;
+        OZONE.request.timestamp = 1614170721;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1336,7 +1336,7 @@
 <li><a href="/scp-2770">SCP-2770</a> - 诱饵</li>
 <li><a href="/scp-2771">SCP-2771</a> - 边检</li>
 <li><a href="/scp-2772">SCP-2772</a> - 向虚拟世界的悼念</li>
-<li><a class="newpage" href="/scp-2773">SCP-2773</a> - Panic Attacks</li>
+<li><a href="/scp-2773">SCP-2773</a> - Panic Attacks</li>
 <li><a href="/scp-2774">SCP-2774</a> - 折虐树懒</li>
 <li><a href="/scp-2775">SCP-2775</a> - 仿冒仁类</li>
 <li><a href="/scp-2776">SCP-2776</a> - 总统先生</li>
@@ -1710,43 +1710,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ci-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-cn-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-cn-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ci-sandbox.wikidot.com">Insu Sandbox</a></h3>
+            <h3><a target="_blank" href="http://ci-cn-wiki.wikidot.com">混沌分裂者</a></h3>
             <div class="desc">          
-              &quot;Draft a little dream of me...&quot;
+              中国分部   于无理之中创造逻辑
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://exploresecureprotect.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exploresecureprotect.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://philippines-dd.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philippines-dd.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://exploresecureprotect.wikidot.com">ESP协会</a></h3>
+            <h3><a target="_blank" href="http://philippines-dd.wikidot.com">Philippines        #tagcoding</a></h3>
             <div class="desc">          
-              探索 控制 保护
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thecollaboratory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thecollaboratory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpkosb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkosb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thecollaboratory.wikidot.com">The Collaboratory</a></h3>
+            <h3><a target="_blank" href="http://scpkosb.wikidot.com">SB-KO2</a></h3>
             <div class="desc">          
-              at Colby Community College
+              SCP-KO 샌드박스 이호기
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ladyhood66.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ladyhood66.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://extension.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extension.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ladyhood66.wikidot.com">welcome</a></h3>
+            <h3><a target="_blank" href="http://extension.wikidot.com">Wikidot Extension</a></h3>
             <div class="desc">          
               
             </div>
