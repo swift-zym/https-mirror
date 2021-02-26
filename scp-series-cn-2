@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1614343523;
+        OZONE.request.timestamp = 1614364426;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1686,21 +1686,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpko.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpko.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tauren.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tauren.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpko.wikidot.com">SCP 재단</a></h3>
+            <h3><a target="_blank" href="http://tauren.wikidot.com">Tauren Ate My Grandma</a></h3>
             <div class="desc">          
-              확보, 격리, 보호
+              has moved!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://r.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/r.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://psychjobsearch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychjobsearch.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://r.wikidot.com">Wikidot URL shortener</a></h3>
+            <h3><a target="_blank" href="http://psychjobsearch.wikidot.com">Psychology Job Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1708,23 +1708,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wpts.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wpts.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://is2216.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/is2216.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wpts.wikidot.com">WPTS</a></h3>
+            <h3><a target="_blank" href="http://is2216.wikidot.com">IS2216 - JAVA WIKI</a></h3>
             <div class="desc">          
-              pittsburgh&#039;s progressive FM
+              Java for beginners
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rxwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rxwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://connorscampaigns.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/connorscampaigns.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rxwiki.wikidot.com">Reactive Framework (Rx) Wiki</a></h3>
+            <h3><a target="_blank" href="http://connorscampaigns.wikidot.com">Connors Campaigns</a></h3>
             <div class="desc">          
-              
+              My dashboard for RPGs, Music, Sports, and more.
             </div>
           </div>
         </div>
