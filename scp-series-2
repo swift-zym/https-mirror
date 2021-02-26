@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1614321094;
+        OZONE.request.timestamp = 1614343312;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,21 +1711,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://apr-wiki-cn.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/apr-wiki-cn.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://apr-wiki-cn.wikidot.com">星际异常管理局</a></h3>
-            <div class="desc">          
-              管理，保护，研究
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://bisgmit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bisgmit.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://bisgmit.wikidot.com">Bisgmit</a></h3>
+            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
             <div class="desc">          
               
             </div>
@@ -1733,23 +1722,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://uberoptions.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uberoptions.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://emchina2010.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/emchina2010.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://uberoptions.wikidot.com">uberOptions</a></h3>
+            <h3><a target="_blank" href="http://emchina2010.wikidot.com">Emchina2010</a></h3>
             <div class="desc">          
-              Enable all options on all buttons in SetPoint
+              Trip to China 2010 Groep T
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fretsonfire.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fretsonfire.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://marvelrevolution.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marvelrevolution.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fretsonfire.wikidot.com">Frets On Fire Wiki</a></h3>
+            <h3><a target="_blank" href="http://marvelrevolution.wikidot.com">Marvel Revolution MUCK</a></h3>
             <div class="desc">          
-              courtesy of fretsonfire.org
+              Join the Revolution
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cf-vanguard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cf-vanguard.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cf-vanguard.wikidot.com">Vanguard Rider</a></h3>
+            <div class="desc">          
+              CARDFIGHT!! Vanguard English Wiki
             </div>
           </div>
         </div>

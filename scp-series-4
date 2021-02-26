@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1614321005;
+        OZONE.request.timestamp = 1614343448;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,10 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://calu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/calu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://biol-117.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biol-117.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://calu.wikidot.com">CalU Secondary Education Wiki</a></h3>
+            <h3><a target="_blank" href="http://biol-117.wikidot.com">Principles of Biology II</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://acr-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/acr-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ereticopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ereticopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://acr-wiki.wikidot.com">ACR Girişimi</a></h3>
+            <h3><a target="_blank" href="http://ereticopedia.wikidot.com">ERETICOPEDIA</a></h3>
             <div class="desc">          
-              Anomali Muhafaza ve Araştırma
+              Mediterranean Digital &amp; Public Humanities
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wanderers-sandbox-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-sandbox-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://energyfuture.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyfuture.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wanderers-sandbox-pl.wikidot.com">Sandbox Wędrowca</a></h3>
+            <h3><a target="_blank" href="http://energyfuture.wikidot.com">The Future of Energy</a></h3>
+            <div class="desc">          
+              Analyzing The Options
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://bisgmit.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bisgmit.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://bisgmit.wikidot.com">Bisgmit</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://aqwwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aqwwiki.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://aqwwiki.wikidot.com">AQW</a></h3>
-            <div class="desc">          
-              AQWorlds Wiki
             </div>
           </div>
         </div>
