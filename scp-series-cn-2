@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1614387855;
+        OZONE.request.timestamp = 1614407333;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -854,7 +854,7 @@
 <li><a href="/scp-cn-1309">SCP-CN-1309</a> - 太阳，探针，与未来骗局</li>
 <li><a href="/scp-cn-1310">SCP-CN-1310</a> - 绕梁余音</li>
 <li><a href="/scp-cn-1311">SCP-CN-1311</a> - 跳跃字符</li>
-<li><a href="/scp-cn-1312">SCP-CN-1312</a> - 硅基之惧</li>
+<li><a href="/scp-cn-1312">SCP-CN-1312</a> - 马桶</li>
 <li><a href="/scp-cn-1313">SCP-CN-1313</a> - <strong>幻梦锡杖</strong>与<em>佛指舍利</em></li>
 <li><a href="/scp-cn-1314">SCP-CN-1314</a> - 月老花</li>
 <li><a href="/scp-cn-1315">SCP-CN-1315</a> - 小心你的脑子</li>
@@ -1614,7 +1614,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4041, 最后编辑于: <span class="odate time_1613969907 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">22 Feb 2021 04:58</span></div>
+                            <div id="page-info">页面版本: 4042, 最后编辑于: <span class="odate time_1614402384 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Feb 2021 05:06</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+85</span>)</a>
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://magmabox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magmabox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://trueblood-dallas.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trueblood-dallas.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://magmabox.wikidot.com">Centre de Recherche</a></h3>
-            <div class="desc">          
-              Là où le loup chasse
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpdsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpdsandbox.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpdsandbox.wikidot.com">SCPDeclassified Sandbox</a></h3>
-            <div class="desc">          
-              Secure, Contain, Protect, Declassify
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scienceonlinelondon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scienceonlinelondon.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scienceonlinelondon.wikidot.com">Science Online London</a></h3>
-            <div class="desc">          
-              How is the Web changing science?
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://lightworks.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lightworks.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://lightworks.wikidot.com">Lightworks Unofficial Wiki</a></h3>
+            <h3><a target="_blank" href="http://trueblood-dallas.wikidot.com">Trueblood: Dallas</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://metrixcreate.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metrixcreate.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://metrixcreate.wikidot.com">Metrix Create:Space</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cunefc2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefc2.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cunefc2.wikidot.com">CUNEF Group C2</a></h3>
+            <div class="desc">          
+              For Your Work, Opinions and Discoveries!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://awwshop.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/awwshop.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://awwshop.wikidot.com">Awwshop</a></h3>
+            <div class="desc">          
+              A mousewheel link click opens in a new tab.
             </div>
           </div>
         </div>
