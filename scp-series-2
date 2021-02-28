@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1614493808;
+        OZONE.request.timestamp = 1614515709;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1711,10 +1711,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://2d6.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2d6.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpkrsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkrsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://2d6.wikidot.com">2d6++</a></h3>
+            <h3><a target="_blank" href="http://scpkrsandbox.wikidot.com">SB-KO1</a></h3>
+            <div class="desc">          
+              SCP-KO 샌드박스 초호기
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://colbycriminaljustice.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/colbycriminaljustice.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://colbycriminaljustice.wikidot.com">Criminal Justice Collaboratory</a></h3>
+            <div class="desc">          
+              Colby Community College
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://chavezbraintrust.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chavezbraintrust.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://chavezbraintrust.wikidot.com">Chavez Brain Trust</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1744,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://excelencia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/excelencia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://suffadv.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/suffadv.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://excelencia.wikidot.com">EXCELENCIA</a></h3>
+            <h3><a target="_blank" href="http://suffadv.wikidot.com">Sufficiently Advanced</a></h3>
             <div class="desc">          
-              exploring, describing and promoting  great websites!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ereticopedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ereticopedia.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ereticopedia.wikidot.com">ERETICOPEDIA</a></h3>
-            <div class="desc">          
-              Mediterranean Digital &amp; Public Humanities
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://indexhibit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/indexhibit.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://indexhibit.wikidot.com">indexhibit customisations</a></h3>
-            <div class="desc">          
-              
+              A Game of the Far Future
             </div>
           </div>
         </div>

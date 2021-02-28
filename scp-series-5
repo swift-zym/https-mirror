@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1614493993;
+        OZONE.request.timestamp = 1614515961;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -995,7 +995,7 @@
 <li><a href="/scp-4418">SCP-4418</a> - 至死不渝</li>
 <li><a href="/scp-4419">SCP-4419</a> - 屠夫的战车</li>
 <li><a href="/scp-4420">SCP-4420</a> - 马铃薯口渴</li>
-<li><a href="/scp-4421">SCP-4421</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4421">SCP-4421</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-4422">SCP-4422</a> - O Tempestas, O Mores</li>
 <li><a href="/scp-4423">SCP-4423</a> - 我的魔鬼继父</li>
 <li><a href="/scp-4424">SCP-4424</a> - 无终班列</li>
@@ -1087,7 +1087,7 @@
 <li><a href="/scp-4506">SCP-4506</a> - 永远的童星</li>
 <li><a class="newpage" href="/scp-4507">SCP-4507</a> - The Solitary Path to Enlightenment</li>
 <li><a href="/scp-4508">SCP-4508</a> - 水獭先知</li>
-<li><a class="newpage" href="/scp-4509">SCP-4509</a> - The Windigo Cold Cases</li>
+<li><a href="/scp-4509">SCP-4509</a> - 爱人巷</li>
 <li><a href="/scp-4510">SCP-4510</a> - 阿维乐快递一等优品速运™！</li>
 <li><a href="/scp-4511">SCP-4511</a> - <strong>猪神</strong></li>
 <li><a href="/scp-4512">SCP-4512</a> - 超猥琐传送泳池</li>
@@ -1114,7 +1114,7 @@
 <li><a href="/scp-4533">SCP-4533</a> - 条款和条件应得适用</li>
 <li><a href="/scp-4534">SCP-4534</a> - 美人美照</li>
 <li><a class="newpage" href="/scp-4535">SCP-4535</a> - The Better Man</li>
-<li><a href="/scp-4536">SCP-4536</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-4536">SCP-4536</a> - [拒绝访问]</li>
 <li><a href="/scp-4537">SCP-4537</a> - 艺术家综合症</li>
 <li><a href="/scp-4538">SCP-4538</a> - 闪闪闪！炸炸炸！</li>
 <li><a href="/scp-4539">SCP-4539</a> - 史上最差计算器</li>
@@ -1629,7 +1629,7 @@
 
 
 <div class="footnotes-footer">
-<div class="title">Footnotes</div>
+<div class="title">脚注</div>
 <div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
 <div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
 </div>
@@ -1669,7 +1669,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 752, 最后编辑于: <span class="odate time_1614130676 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Feb 2021 01:37</span></div>
+                            <div id="page-info">页面版本: 753, 最后编辑于: <span class="odate time_1614510299 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">28 Feb 2021 11:04</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1741,21 +1741,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://snippets.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snippets.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fed20.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fed20.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://snippets.wikidot.com">Wiki Code Snippets</a></h3>
+            <h3><a target="_blank" href="http://fed20.wikidot.com">Fire Emblem d20</a></h3>
             <div class="desc">          
-              Snippets
+              A tabletop version of the RPG/Strategy game!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://eime.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eime.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://playstation3hacksandmods.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/playstation3hacksandmods.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://eime.wikidot.com">EIME Projects</a></h3>
+            <h3><a target="_blank" href="http://playstation3hacksandmods.wikidot.com">The PS3 Index</a></h3>
             <div class="desc">          
               
             </div>
@@ -1763,23 +1763,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aetherium.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aetherium.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
+            <h3><a target="_blank" href="http://aetherium.wikidot.com">Aetherium Enterprise</a></h3>
             <div class="desc">          
-              実験、実験、爆発
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://badwebcomics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/badwebcomics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://epimreth.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/epimreth.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://badwebcomics.wikidot.com">The Bad Webcomics Wiki</a></h3>
+            <h3><a target="_blank" href="http://epimreth.wikidot.com">Επιμόρφωση Β&#039;  στο Ρέθυμνο</a></h3>
             <div class="desc">          
-              Improving our media, with hatred
+              
             </div>
           </div>
         </div>
