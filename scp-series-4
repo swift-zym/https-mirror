@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1614474660;
+        OZONE.request.timestamp = 1614493694;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1225,7 +1225,7 @@
 <li><a class="newpage" href="/scp-3663">SCP-3663</a> - The Adventure of the Cardboard Box</li>
 <li><a href="/scp-3664">SCP-3664</a> - 你唯一需要的武器就在心中</li>
 <li><a href="/scp-3665">SCP-3665</a> - 速成恶魔，只需添加血液！</li>
-<li><a class="newpage" href="/scp-3666">SCP-3666</a> - Repairing the Mask</li>
+<li><a href="/scp-3666">SCP-3666</a> - 修补假面</li>
 <li><a href="/scp-3667">SCP-3667</a> - 地狱好，便皆大欢喜</li>
 <li><a class="newpage" href="/scp-3668">SCP-3668</a> - Provenance</li>
 <li><a class="newpage" href="/scp-3669">SCP-3669</a> - A Mathematics Self Help Book</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 879, 最后编辑于: <span class="odate time_1614246804 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">25 Feb 2021 09:53</span></div>
+                            <div id="page-info">页面版本: 880, 最后编辑于: <span class="odate time_1614491443 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">28 Feb 2021 05:50</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pandora-saga.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pandora-saga.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nre509.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nre509.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pandora-saga.wikidot.com">Pandora Saga Online Wiki</a></h3>
+            <h3><a target="_blank" href="http://nre509.wikidot.com">Nre509</a></h3>
             <div class="desc">          
-              NYANICORN!!!!!!
+              Ecology: Science of Context and Interaction
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zmk.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zmk.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://trb-mux.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trb-mux.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zmk.wikidot.com">Zagłębiowska Masa Krytyczna</a></h3>
+            <h3><a target="_blank" href="http://trb-mux.wikidot.com">The Rock Bottom MUX</a></h3>
             <div class="desc">          
-              Czwartek 3 Maja 2018 Godz.15:00
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mis213-2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mis213-2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://margopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/margopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mis213-2.wikidot.com">MIS 213-2</a></h3>
+            <h3><a target="_blank" href="http://margopedia.wikidot.com">Margopedia</a></h3>
             <div class="desc">          
-              Intro to IS
+              Połączenie wikipedii i nonsensopedii...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://emchina2010.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/emchina2010.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpnc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpnc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://emchina2010.wikidot.com">Emchina2010</a></h3>
+            <h3><a target="_blank" href="http://scpnc.wikidot.com">SCP-NC</a></h3>
             <div class="desc">          
-              Trip to China 2010 Groep T
+              Non-Canon
             </div>
           </div>
         </div>
