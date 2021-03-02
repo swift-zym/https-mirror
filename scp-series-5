@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1614688228;
+        OZONE.request.timestamp = 1614709895;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -885,7 +885,7 @@
 <li><a href="/scp-4312">SCP-4312</a> - 坠向天空</li>
 <li><a href="/scp-4313">SCP-4313</a> - 银河中的风暴海</li>
 <li><a href="/scp-4314">SCP-4314</a> - 一个无理数</li>
-<li><a href="/scp-4315">SCP-4315</a> - S·C·P·洛夫克拉夫特</li>
+<li><a href="/scp-4315">SCP-4315</a> - S.C.P.洛夫克拉夫特</li>
 <li><a href="/scp-4316">SCP-4316</a> - 夏长水暖</li>
 <li><a href="/scp-4317">SCP-4317</a> - 猫抓抓</li>
 <li><a class="newpage" href="/scp-4318">SCP-4318</a> - A HORRIFIC, DEADLY, EVIL Chemical [BEWARE]</li>
@@ -1669,7 +1669,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 753, 最后编辑于: <span class="odate time_1614510299 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">28 Feb 2021 11:04</span></div>
+                            <div id="page-info">页面版本: 754, 最后编辑于: <span class="odate time_1614688423 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Mar 2021 12:33</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1741,45 +1741,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-th.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-th.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikistoriaenciclopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikistoriaenciclopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-th.wikidot.com">สถาบัน SCP</a></h3>
+            <h3><a target="_blank" href="http://wikistoriaenciclopedia.wikidot.com">Wikistória</a></h3>
             <div class="desc">          
-              ควบคุม, กักกัน, ป้องกัน
+              A enciclopédia de História feita por estudantes
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://terrasdeportugal.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/terrasdeportugal.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://lightcrown.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lightcrown.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://terrasdeportugal.wikidot.com">Terras de Portugal</a></h3>
+            <h3><a target="_blank" href="http://lightcrown.wikidot.com">耀冕星环</a></h3>
             <div class="desc">          
-              Portugal em pormenor!
+              LIGHTCROWN
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://advent-ro.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/advent-ro.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://is2216.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/is2216.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://advent-ro.wikidot.com">AdventRO Wiki</a></h3>
+            <h3><a target="_blank" href="http://is2216.wikidot.com">IS2216 - JAVA WIKI</a></h3>
             <div class="desc">          
-              
+              Java for beginners
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-yerko-4.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-yerko-4.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://caosinsurgente.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caosinsurgente.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-yerko-4.wikidot.com">Yerko&#039;s Sandbox IV</a></h3>
+            <h3><a target="_blank" href="http://caosinsurgente.wikidot.com">La Insurgencia del Caos</a></h3>
             <div class="desc">          
-              ¿Cuatro ya? LeL
+              Creando la Lógica De lo Ilógico
             </div>
           </div>
         </div>

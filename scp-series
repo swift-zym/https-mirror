@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1614688369;
+        OZONE.request.timestamp = 1614709904;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,45 +1709,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://perceptionstudio.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/perceptionstudio.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cgp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://perceptionstudio.wikidot.com">Perceptionstudio</a></h3>
+            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
             <div class="desc">          
-              The Wiki for Perception Studio
+              CGP Students
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://abarrelfull.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/abarrelfull.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cwwangdu1.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cwwangdu1.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://abarrelfull.wikidot.com">A Barrel Full</a></h3>
+            <h3><a target="_blank" href="http://cwwangdu1.wikidot.com">cwwa</a></h3>
             <div class="desc">          
-              A Barrel Full of information for Oil Industry Professionals
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpminecraft.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpminecraft.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://witchipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/witchipedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpminecraft.wikidot.com">SCP Minecraft</a></h3>
+            <h3><a target="_blank" href="http://witchipedia.wikidot.com">Witchipedia</a></h3>
             <div class="desc">          
-              Spiders. Creepers. Pigs. Minecraft.
+              The online encyclopedia of magick, folklore and the occult
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://paralelo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paralelo.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://community.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/community.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://paralelo.wikidot.com">Paralelo</a></h3>
+            <h3><a target="_blank" href="http://community.wikidot.com">Wikidot Community</a></h3>
             <div class="desc">          
-              29 March - 2 April 2009
+              hints / tips / help / discussion
             </div>
           </div>
         </div>
