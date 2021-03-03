@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1614775185;
+        OZONE.request.timestamp = 1614796893;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1741,45 +1741,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpvakfisandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfisandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hexhouse.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hexhouse.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpvakfisandbox.wikidot.com">SCP Vakfı Sandbox</a></h3>
+            <h3><a target="_blank" href="http://hexhouse.wikidot.com">Hex House</a></h3>
             <div class="desc">          
-              Atış poligonu
+              A truly magical place...sort of.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-zh-tr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-zh-tr.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://philosophiesoflife.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophiesoflife.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-zh-tr.wikidot.com">SCP基金會</a></h3>
+            <h3><a target="_blank" href="http://philosophiesoflife.wikidot.com">WikiPlan</a></h3>
             <div class="desc">          
-              控制，收容，保護
+              tools for participatory design of cities
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sandboxscpfr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sandboxscpfr.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-sandbox-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox-zh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sandboxscpfr.wikidot.com">SCP Sandbox FR</a></h3>
+            <h3><a target="_blank" href="http://scp-sandbox-zh.wikidot.com">SCP繁體中文沙盒</a></h3>
             <div class="desc">          
-              Réservé aux auteurs et traducteurs du Wiki
+              發現，發掘，發佈
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://evilhat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/evilhat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://halflifetr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/halflifetr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://evilhat.wikidot.com">Evil Hat Productions Wiki</a></h3>
+            <h3><a target="_blank" href="http://halflifetr.wikidot.com">Half-Life Wiki</a></h3>
             <div class="desc">          
-              
+              TR
             </div>
           </div>
         </div>

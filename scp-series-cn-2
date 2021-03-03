@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1614774983;
+        OZONE.request.timestamp = 1614796893;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1686,45 +1686,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pcg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pcg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hexhouse.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hexhouse.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pcg.wikidot.com">Procedural Content Generation Wiki</a></h3>
+            <h3><a target="_blank" href="http://hexhouse.wikidot.com">Hex House</a></h3>
             <div class="desc">          
-              
+              A truly magical place...sort of.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://green-house.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/green-house.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://philosophiesoflife.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophiesoflife.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://green-house.wikidot.com">The Green House Wiki</a></h3>
+            <h3><a target="_blank" href="http://philosophiesoflife.wikidot.com">WikiPlan</a></h3>
             <div class="desc">          
-              
+              tools for participatory design of cities
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://microchip.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-sandbox-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox-zh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
+            <h3><a target="_blank" href="http://scp-sandbox-zh.wikidot.com">SCP繁體中文沙盒</a></h3>
             <div class="desc">          
-              
+              發現，發掘，發佈
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thekingkillerchronicle.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thekingkillerchronicle.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://halflifetr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/halflifetr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thekingkillerchronicle.wikidot.com">Хроника Убийцы Короля</a></h3>
+            <h3><a target="_blank" href="http://halflifetr.wikidot.com">Half-Life Wiki</a></h3>
             <div class="desc">          
-              
+              TR
             </div>
           </div>
         </div>
