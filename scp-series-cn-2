@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1614753173;
+        OZONE.request.timestamp = 1614774983;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1686,10 +1686,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://eventidemush.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eventidemush.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pcg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pcg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://eventidemush.wikidot.com">Eventide MUSH</a></h3>
+            <h3><a target="_blank" href="http://pcg.wikidot.com">Procedural Content Generation Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1697,32 +1697,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpvakfisandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfisandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://green-house.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/green-house.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpvakfisandbox.wikidot.com">SCP Vakfı Sandbox</a></h3>
+            <h3><a target="_blank" href="http://green-house.wikidot.com">The Green House Wiki</a></h3>
             <div class="desc">          
-              Atış poligonu
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://surreal64ce.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/surreal64ce.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://microchip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://surreal64ce.wikidot.com">Surreal64 CE</a></h3>
+            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
             <div class="desc">          
-              Nintendo 64 Emulation for XBOX
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://the-nexus.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/the-nexus.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://thekingkillerchronicle.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thekingkillerchronicle.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://the-nexus.wikidot.com">Nexus Wiki</a></h3>
+            <h3><a target="_blank" href="http://thekingkillerchronicle.wikidot.com">Хроника Убийцы Короля</a></h3>
             <div class="desc">          
               
             </div>

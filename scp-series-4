@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1614753144;
+        OZONE.request.timestamp = 1614775256;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -761,7 +761,7 @@
 <li><a class="newpage" href="/scp-3215">SCP-3215</a> - Delicious Anemone</li>
 <li><a href="/scp-3216">SCP-3216</a> - 纽约建筑“三兄弟”</li>
 <li><a href="/scp-3217">SCP-3217</a> - 邮件“H”，代表“Hero”。</li>
-<li><a class="newpage" href="/scp-3218">SCP-3218</a> - Animals in Boxes</li>
+<li><a href="/scp-3218">SCP-3218</a> - 匣中动物</li>
 <li><a href="/scp-3219">SCP-3219</a> - This Sour Earth</li>
 <li><a href="/scp-3220">SCP-3220</a> - 圆形监狱II号</li>
 <li><a href="/scp-3221">SCP-3221</a> - 不破的祭司王约翰</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 882, 最后编辑于: <span class="odate time_1614651539 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Mar 2021 02:18</span></div>
+                            <div id="page-info">页面版本: 883, 最后编辑于: <span class="odate time_1614759258 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 Mar 2021 08:14</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1710,21 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kfmapdb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kfmapdb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://smsalgebra.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smsalgebra.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kfmapdb.wikidot.com">Killing Floor Map Database</a></h3>
+            <h3><a target="_blank" href="http://smsalgebra.wikidot.com">Variable Thinking Wiki</a></h3>
             <div class="desc">          
-              KFMapDB.com
+              Life is a word problem
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://managerzonemexico.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/managerzonemexico.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://biol-117.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biol-117.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://managerzonemexico.wikidot.com">La Wiki de ManagerZone México</a></h3>
+            <h3><a target="_blank" href="http://biol-117.wikidot.com">Principles of Biology II</a></h3>
             <div class="desc">          
               
             </div>
@@ -1732,10 +1732,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://jadecrossing.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jadecrossing.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://digitalvomit.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/digitalvomit.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://jadecrossing.wikidot.com">Jade Crossing</a></h3>
+            <h3><a target="_blank" href="http://digitalvomit.wikidot.com">Digital Vomit Records</a></h3>
             <div class="desc">          
               
             </div>
@@ -1743,12 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://biblio.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biblio.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://microchip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://biblio.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
+            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
             <div class="desc">          
-              livros e artigos sobre línguas sul-americanas
+              
             </div>
           </div>
         </div>
