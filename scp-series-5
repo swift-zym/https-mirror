@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1614733743;
+        OZONE.request.timestamp = 1614753133;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1741,21 +1741,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rpc-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://anime-planet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/anime-planet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rpc-pl.wikidot.com">Autorytet RPC</a></h3>
-            <div class="desc">          
-              Badania, Ochrona, Przechowywanie
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wanderers-sandbox-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-sandbox-pl.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wanderers-sandbox-pl.wikidot.com">Sandbox Wędrowca</a></h3>
+            <h3><a target="_blank" href="http://anime-planet.wikidot.com">Anime Planet</a></h3>
             <div class="desc">          
               
             </div>
@@ -1763,23 +1752,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-pt-br.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-pt-br.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://agiat.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/agiat.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-pt-br.wikidot.com">Fundação SCP</a></h3>
+            <h3><a target="_blank" href="http://agiat.wikidot.com">AGIAT</a></h3>
             <div class="desc">          
-              Filial Lusófona
+              Agencia global de investigación de amenazas taumatúrgicas
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blackmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackmarches.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darry.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blackmarches.wikidot.com">Black Marches</a></h3>
+            <h3><a target="_blank" href="http://darry.wikidot.com">Darry Container</a></h3>
             <div class="desc">          
-              Roll20 Pathfinder
+              We know our way out.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://circservices.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/circservices.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://circservices.wikidot.com">Circulation Services</a></h3>
+            <div class="desc">          
+              Library Circulation and Access Services
             </div>
           </div>
         </div>
