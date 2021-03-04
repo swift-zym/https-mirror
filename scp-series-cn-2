@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1614861499;
+        OZONE.request.timestamp = 1614882681;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1686,21 +1686,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikistoriaenciclopedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikistoriaenciclopedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://asoh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/asoh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikistoriaenciclopedia.wikidot.com">Wikistória</a></h3>
+            <h3><a target="_blank" href="http://asoh.wikidot.com">Another Stage of History</a></h3>
             <div class="desc">          
-              A enciclopédia de História feita por estudantes
+              A Character Creation and Edit Officer Site
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zodiac-ffrpg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zodiac-ffrpg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://trueblood-dallas.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trueblood-dallas.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zodiac-ffrpg.wikidot.com">ZODIAC Final Fantasy RPG</a></h3>
+            <h3><a target="_blank" href="http://trueblood-dallas.wikidot.com">Trueblood: Dallas</a></h3>
             <div class="desc">          
               
             </div>
@@ -1708,21 +1708,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpjp-fansite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpjp-fansite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hiddenprojectwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hiddenprojectwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpjp-fansite.wikidot.com">SCP-JP-FS</a></h3>
+            <h3><a target="_blank" href="http://hiddenprojectwiki.wikidot.com">Hidden Project</a></h3>
             <div class="desc">          
-              確保、収容、遊べ！
+              Welcome to Hidden Project Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nsb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nsb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://enss.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/enss.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nsb.wikidot.com">Nsb Notes</a></h3>
+            <h3><a target="_blank" href="http://enss.wikidot.com">ens.wiki</a></h3>
             <div class="desc">          
               
             </div>
