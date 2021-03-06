@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1615034232;
+        OZONE.request.timestamp = 1615055631;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -554,7 +554,7 @@
 <li><a href="/scp-5016">SCP-5016</a> - 秘中之秘藏于其下</li>
 <li><a href="/scp-5017">SCP-5017</a> - 硬着陆</li>
 <li><a href="/scp-5018">SCP-5018</a> - 破碎玫瑰</li>
-<li><a class="newpage" href="/scp-5019">SCP-5019</a> - LoOpy LiLLy</li>
+<li><a href="/scp-5019">SCP-5019</a> - LoOpy LiLLy</li>
 <li><a href="/scp-5020">SCP-5020</a> - 昆虫寄生机™</li>
 <li><a href="/scp-5021">SCP-5021</a> - 长臂伸伸</li>
 <li><a href="/scp-5022">SCP-5022</a> - 孩子头</li>
@@ -605,7 +605,7 @@
 <li><a href="/scp-5067">SCP-5067</a> - 核心记忆</li>
 <li><a class="newpage" href="/scp-5068">SCP-5068</a> - The Microbes Must Be Crazy</li>
 <li><a href="/scp-5069">SCP-5069</a> - 八正道</li>
-<li><a class="newpage" href="/scp-5070">SCP-5070</a> - Man's (Only) Best Friend</li>
+<li><a href="/scp-5070">SCP-5070</a> - 他（唯一）的好朋友</li>
 <li><a class="newpage" href="/scp-5071">SCP-5071</a> - Exquisite Corpses</li>
 <li><a class="newpage" href="/scp-5072">SCP-5072</a> - Some Fireflies in Need</li>
 <li><a href="/scp-5073">SCP-5073</a> - 热巧克力好喝到爆</li>
@@ -1538,7 +1538,7 @@
 <li><a class="newpage" href="/scp-5964">SCP-5964</a> - [拒绝访问]</li>
 <li><a href="/scp-5965">SCP-5965</a> - 死亡冲击</li>
 <li><a href="/scp-5966">SCP-5966</a> - 艺术家与赞助人</li>
-<li><a href="/scp-5967">SCP-5967</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5967">SCP-5967</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5968">SCP-5968</a> - [拒绝访问]</li>
 <li><a href="/scp-5969">SCP-5969</a> - 花之力</li>
 <li><a href="/scp-5970">SCP-5970</a> - 尘埃至上（永远为你）</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 401, 最后编辑于: <span class="odate time_1614682470 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Mar 2021 10:54</span></div>
+                            <div id="page-info">页面版本: 402, 最后编辑于: <span class="odate time_1615041718 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">06 Mar 2021 14:41</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1710,23 +1710,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rpc-pl-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-pl-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rpc-pl-sandbox.wikidot.com">Sandbox Autorytetu RPC</a></h3>
+            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
             <div class="desc">          
-              Love is in the sand.
+              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bvs.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bvs.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bvs.wikidot.com">Billy Vs. SNAKEMAN Wiki</a></h3>
+            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
             <div class="desc">          
-              Be the Ultimate Ninja.
+              and what they&#039;re trying to tell you
             </div>
           </div>
         </div>
@@ -1743,12 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://smsalgebra.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smsalgebra.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
+            <h3><a target="_blank" href="http://smsalgebra.wikidot.com">Variable Thinking Wiki</a></h3>
             <div class="desc">          
-              Fighting Spammers for Fun and Profit!
+              Life is a word problem
             </div>
           </div>
         </div>
