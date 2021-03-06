@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1615012250;
+        OZONE.request.timestamp = 1615034320;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1709,45 +1709,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://exciting.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exciting.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://lspr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lspr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://exciting.wikidot.com">exciting</a></h3>
+            <h3><a target="_blank" href="http://lspr.wikidot.com">Lopside Raccoons</a></h3>
             <div class="desc">          
-              exciting, all electron DFT
+              Not Rightside, But Lopside!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://championsashes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/championsashes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://crosswindsgarou.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/crosswindsgarou.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://championsashes.wikidot.com">Champion&#039;s Ashes</a></h3>
+            <h3><a target="_blank" href="http://crosswindsgarou.wikidot.com">Crosswindsgarou</a></h3>
             <div class="desc">          
-              The Official Wiki For Dark Souls III: Champion&#039;s Ashes
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://l4dmapdb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/l4dmapdb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scr-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scr-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://l4dmapdb.wikidot.com">L4D Map Database</a></h3>
+            <h3><a target="_blank" href="http://scr-wiki.wikidot.com">SCR公司</a></h3>
             <div class="desc">          
-              L4DMapDB.com
+              安全.收容.研究
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikiofscience.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiofscience.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandbox.wikidot.com">The SCP Sandbox</a></h3>
+            <h3><a target="_blank" href="http://wikiofscience.wikidot.com">WikiofScience</a></h3>
             <div class="desc">          
-              Осторожно! Идут испытания!
+              Everything learned, and nothing forgotten
             </div>
           </div>
         </div>

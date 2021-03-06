@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1615012265;
+        OZONE.request.timestamp = 1615034251;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1710,45 +1710,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zodiac-ffrpg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zodiac-ffrpg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpkosb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkosb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zodiac-ffrpg.wikidot.com">ZODIAC Final Fantasy RPG</a></h3>
+            <h3><a target="_blank" href="http://scpkosb.wikidot.com">SB-KO2</a></h3>
             <div class="desc">          
-              
+              SCP-KO 샌드박스 이호기
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://jisluuscps.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jisluuscps.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpexplained.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpexplained.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://jisluuscps.wikidot.com">My SCPS</a></h3>
+            <h3><a target="_blank" href="http://scpexplained.wikidot.com">SCP Explained</a></h3>
             <div class="desc">          
-              random site that I made to be able to have the wikidot things
+              Simplify, Condense, Paraphrase
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nirn.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nirn.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://boec-wiki-cn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/boec-wiki-cn.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nirn.wikidot.com">Nirn</a></h3>
+            <h3><a target="_blank" href="http://boec-wiki-cn.wikidot.com">错误修正局</a></h3>
             <div class="desc">          
-              The Nirn Project
+              修正之名，守护世界
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thegamerdome.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thegamerdome.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://agiat.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/agiat.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thegamerdome.wikidot.com">The Gamer Dome</a></h3>
+            <h3><a target="_blank" href="http://agiat.wikidot.com">AGIAT</a></h3>
             <div class="desc">          
-              Community Game Design Projects
+              Agencia global de investigación de amenazas taumatúrgicas
             </div>
           </div>
         </div>
