@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1615098807;
+        OZONE.request.timestamp = 1615120555;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -932,7 +932,7 @@
 <li><a href="/scp-3382">SCP-3382</a> - 病中心愿</li>
 <li><a href="/scp-3383">SCP-3383</a> - 栖虺之湖</li>
 <li><a href="/scp-3384">SCP-3384</a> - 尝试别笑</li>
-<li><a href="/scp-3385">SCP-3385</a> - The Last Voyage of the <em>Far Horizon</em>.</li>
+<li><a href="/scp-3385">SCP-3385</a> - 终点站：<em>远方天际</em></li>
 <li><a class="newpage" href="/scp-3386">SCP-3386</a> - Night Owls</li>
 <li><a class="newpage" href="/scp-3387">SCP-3387</a> - A Small World After All</li>
 <li><a href="/scp-3388">SCP-3388</a> - 仙苏鲁</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 883, 最后编辑于: <span class="odate time_1614759258 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 Mar 2021 08:14</span></div>
+                            <div id="page-info">页面版本: 884, 最后编辑于: <span class="odate time_1615112241 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Mar 2021 10:17</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1710,10 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rmitvnim2007b.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rmitvnim2007b.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://legendspring.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/legendspring.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rmitvnim2007b.wikidot.com">RMIT Vietnam IM 2007B</a></h3>
+            <h3><a target="_blank" href="http://legendspring.wikidot.com">LegendSpring</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rpcauthority.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpcauthority.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikiofscience.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiofscience.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rpcauthority.wikidot.com">RPC Authority</a></h3>
+            <h3><a target="_blank" href="http://wikiofscience.wikidot.com">WikiofScience</a></h3>
             <div class="desc">          
-              Research, Protection, Containment
+              Everything learned, and nothing forgotten
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://capnbarefoot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/capnbarefoot.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://timebox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/timebox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://capnbarefoot.wikidot.com">Captain Barefoot</a></h3>
+            <h3><a target="_blank" href="http://timebox.wikidot.com">The Timebox</a></h3>
             <div class="desc">          
-              The naturist guide to the Greek Islands
+              Temporal writing bubble
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://celesia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celesia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
+            <h3><a target="_blank" href="http://celesia.wikidot.com">Legends of Celesia</a></h3>
             <div class="desc">          
-              Where Writers Share Their Characters &amp; Worlds
+              A D&amp;D 3.5/Pathfinder Campaign
             </div>
           </div>
         </div>
