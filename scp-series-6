@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1615120554;
+        OZONE.request.timestamp = 1615141927;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1710,10 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://legendspring.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/legendspring.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cs0.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs0.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://legendspring.wikidot.com">LegendSpring</a></h3>
+            <h3><a target="_blank" href="http://cs0.wikidot.com">免費電子書：C# 程式設計</a></h3>
+            <div class="desc">          
+              作者：陳鍾誠
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://zbananowani.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zbananowani.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://zbananowani.wikidot.com">Zbananopedia</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikiofscience.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiofscience.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rpc-pl.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-pl.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikiofscience.wikidot.com">WikiofScience</a></h3>
+            <h3><a target="_blank" href="http://rpc-pl.wikidot.com">Autorytet RPC</a></h3>
             <div class="desc">          
-              Everything learned, and nothing forgotten
+              Badania, Ochrona, Przechowywanie
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://timebox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/timebox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://faragocsaba.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/faragocsaba.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://timebox.wikidot.com">The Timebox</a></h3>
+            <h3><a target="_blank" href="http://faragocsaba.wikidot.com">Faragó Csaba</a></h3>
             <div class="desc">          
-              Temporal writing bubble
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://celesia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celesia.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://celesia.wikidot.com">Legends of Celesia</a></h3>
-            <div class="desc">          
-              A D&amp;D 3.5/Pathfinder Campaign
+              
             </div>
           </div>
         </div>

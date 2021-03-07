@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1615120763;
+        OZONE.request.timestamp = 1615142027;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1741,12 +1741,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://game-maker.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/game-maker.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mkworld.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mkworld.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://game-maker.wikidot.com">GameMaker Wiki</a></h3>
+            <h3><a target="_blank" href="http://mkworld.wikidot.com">The World of Metamor Keep</a></h3>
             <div class="desc">          
-              
+              Welcome to Metamor Keep
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://extrabees.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extrabees.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://extrabees.wikidot.com">Extra Bees</a></h3>
+            <div class="desc">          
+              Plugin for the Forestry Mod
             </div>
           </div>
         </div>
@@ -1763,23 +1774,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://roboticsclubucla.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticsclubucla.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://java.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/java.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://roboticsclubucla.wikidot.com">Robotics Club @ UCLA Wiki</a></h3>
+            <h3><a target="_blank" href="http://java.wikidot.com">Learn Java!</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://languagearts8.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/languagearts8.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://languagearts8.wikidot.com">Language Arts (8)</a></h3>
-            <div class="desc">          
-              
+              No... it&#039;s not coffee.
             </div>
           </div>
         </div>
