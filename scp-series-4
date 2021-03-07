@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1615079512;
+        OZONE.request.timestamp = 1615098807;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -932,7 +932,7 @@
 <li><a href="/scp-3382">SCP-3382</a> - 病中心愿</li>
 <li><a href="/scp-3383">SCP-3383</a> - 栖虺之湖</li>
 <li><a href="/scp-3384">SCP-3384</a> - 尝试别笑</li>
-<li><a class="newpage" href="/scp-3385">SCP-3385</a> - The Last Voyage of the <em>Far Horizon</em>.</li>
+<li><a href="/scp-3385">SCP-3385</a> - The Last Voyage of the <em>Far Horizon</em>.</li>
 <li><a class="newpage" href="/scp-3386">SCP-3386</a> - Night Owls</li>
 <li><a class="newpage" href="/scp-3387">SCP-3387</a> - A Small World After All</li>
 <li><a href="/scp-3388">SCP-3388</a> - 仙苏鲁</li>
@@ -1710,32 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ds3-cinders.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds3-cinders.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rmitvnim2007b.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rmitvnim2007b.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ds3-cinders.wikidot.com">Cinders</a></h3>
-            <div class="desc">          
-              Cinders
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://johnmerritt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/johnmerritt.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://johnmerritt.wikidot.com">johnmerritt</a></h3>
-            <div class="desc">          
-              social studies
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://2d6.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2d6.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://2d6.wikidot.com">2d6++</a></h3>
+            <h3><a target="_blank" href="http://rmitvnim2007b.wikidot.com">RMIT Vietnam IM 2007B</a></h3>
             <div class="desc">          
               
             </div>
@@ -1743,12 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://energyclub4samvedna.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub4samvedna.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rpcauthority.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpcauthority.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://energyclub4samvedna.wikidot.com">Save Energy, Save Future</a></h3>
+            <h3><a target="_blank" href="http://rpcauthority.wikidot.com">RPC Authority</a></h3>
             <div class="desc">          
-              &quot;The collabrative efforts for Energy saving&quot;
+              Research, Protection, Containment
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://capnbarefoot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/capnbarefoot.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://capnbarefoot.wikidot.com">Captain Barefoot</a></h3>
+            <div class="desc">          
+              The naturist guide to the Greek Islands
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
+            <div class="desc">          
+              Where Writers Share Their Characters &amp; Worlds
             </div>
           </div>
         </div>
