@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1615207104;
+        OZONE.request.timestamp = 1615228629;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1210,7 +1210,7 @@
 <li><a href="/scp-3648">SCP-3648</a> - 开天辟地</li>
 <li><a href="/scp-3649">SCP-3649</a> - 多云且势不可当</li>
 <li><a class="newpage" href="/scp-3650">SCP-3650</a> - Wanderlust</li>
-<li><a href="/scp-3651">SCP-3651</a> - 要做爱，不要作战</li>
+<li><a href="/scp-3651">SCP-3651</a> - 粉笔童</li>
 <li><a class="newpage" href="/scp-3652">SCP-3652</a> - Inverting Box</li>
 <li><a class="newpage" href="/scp-3653">SCP-3653</a> - A Calendar with Extra Days</li>
 <li><a class="newpage" href="/scp-3654">SCP-3654</a> - WarTime</li>
@@ -1402,7 +1402,7 @@
 <li><a class="newpage" href="/scp-3832">SCP-3832</a> - Surprise Pillow Fight</li>
 <li><a href="/scp-3833">SCP-3833</a> - 欢迎来到山顶</li>
 <li><a href="/scp-3834">SCP-3834</a> - 化石<span class="ruby">唱片<span class="rt">纪录</span></span></li>
-<li><a href="/scp-3835">SCP-3835</a> - 不是所有狗都会去天堂（一些愿永远陪伴在主人左右）</li>
+<li><a class="newpage" href="/scp-3835">SCP-3835</a> - [拒绝访问]</li>
 <li><a href="/scp-3836">SCP-3836</a> - 抹了油般的猩猩和对<span style="font-size:110%;">速度</span>的追寻</li>
 <li><a class="newpage" href="/scp-3837">SCP-3837</a> - Corn Goblin</li>
 <li><a href="/scp-3838">SCP-3838</a> - 四维草原的游牧民</li>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 884, 最后编辑于: <span class="odate time_1615112241 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Mar 2021 10:17</span></div>
+                            <div id="page-info">页面版本: 886, 最后编辑于: <span class="odate time_1615219490 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Mar 2021 16:04</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1710,10 +1710,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://faragocsaba.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/faragocsaba.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://epimreth.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/epimreth.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://faragocsaba.wikidot.com">Faragó Csaba</a></h3>
+            <h3><a target="_blank" href="http://epimreth.wikidot.com">Επιμόρφωση Β&#039;  στο Ρέθυμνο</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,34 +1721,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tasker.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tasker.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scr-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scr-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tasker.wikidot.com">Tasker Wiki</a></h3>
+            <h3><a target="_blank" href="http://scr-wiki.wikidot.com">SCR公司</a></h3>
             <div class="desc">          
-              
+              安全.收容.研究
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://margopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/margopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
+            <h3><a target="_blank" href="http://margopedia.wikidot.com">Margopedia</a></h3>
             <div class="desc">          
-              
+              Połączenie wikipedii i nonsensopedii...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://amiii.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/amiii.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aq-3d.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aq-3d.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://amiii.wikidot.com">Análise Matemática III</a></h3>
+            <h3><a target="_blank" href="http://aq-3d.wikidot.com">AQ3D</a></h3>
             <div class="desc">          
-              
+              AdventureQuest 3D Wiki
             </div>
           </div>
         </div>

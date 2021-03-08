@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1615207102;
+        OZONE.request.timestamp = 1615228883;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -858,7 +858,7 @@
 <li><a href="/scp-5308">SCP-5308</a> - 杂物</li>
 <li><a href="/scp-5309">SCP-5309</a>需不存在。</li>
 <li><a href="/scp-5310">SCP-5310</a> - 并联/整合/有机生物</li>
-<li><a class="newpage" href="/scp-5311">SCP-5311</a> - Delicious Drivers</li>
+<li><a href="/scp-5311">SCP-5311</a> - Delicious Drivers</li>
 <li><a class="newpage" href="/scp-5312">SCP-5312</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5313">SCP-5313</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5314">SCP-5314</a> - [拒绝访问]</li>
@@ -1323,7 +1323,7 @@
 <li><a class="newpage" href="/scp-5757">SCP-5757</a> - Curse of the Everglade</li>
 <li><a class="newpage" href="/scp-5758">SCP-5758</a> - The Moth Tide</li>
 <li><a class="newpage" href="/scp-5759">SCP-5759</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5760">SCP-5760</a> - 一个安静的夜晚</li>
+<li><a href="/scp-5760">SCP-5760</a> - 赎罪先生</li>
 <li><a class="newpage" href="/scp-5761">SCP-5761</a> - [拒绝访问]</li>
 <li><a href="/scp-5762">SCP-5762</a> - 一日一医生</li>
 <li><a class="newpage" href="/scp-5763">SCP-5763</a> - [拒绝访问]</li>
@@ -1361,7 +1361,7 @@
 <li><a class="newpage" href="/scp-5795">SCP-5795</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5796">SCP-5796</a> - [拒绝访问]</li>
 <li><a href="/scp-5797">SCP-5797</a> - “超速”</li>
-<li><a class="newpage" href="/scp-5798">SCP-5798</a> - [拒绝访问]</li>
+<li><a href="/scp-5798">SCP-5798</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5799">SCP-5799</a> - The Tooth Striders</li>
 </ul>
 <p><a name="5800"></a></p>
@@ -1638,7 +1638,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 403, 最后编辑于: <span class="odate time_1615118359 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Mar 2021 11:59</span></div>
+                            <div id="page-info">页面版本: 404, 最后编辑于: <span class="odate time_1615214450 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Mar 2021 14:40</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1710,32 +1710,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gurpswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gurpswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://odrin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/odrin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gurpswiki.wikidot.com">GURPS Repository</a></h3>
+            <h3><a target="_blank" href="http://odrin.wikidot.com">‏‏‏‏‏‏‏‏ODRIN</a></h3>
             <div class="desc">          
-              A collection for your GURPS needs
+              ‏‏‏‏‏‏‏‏
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bzhlab.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bzhlab.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://team-exterius.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/team-exterius.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bzhlab.wikidot.com">BZHLab</a></h3>
-            <div class="desc">          
-              Makers goes west!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://extension.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extension.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://extension.wikidot.com">Wikidot Extension</a></h3>
+            <h3><a target="_blank" href="http://team-exterius.wikidot.com">Team Exterius</a></h3>
             <div class="desc">          
               
             </div>
@@ -1743,12 +1732,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fpt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fpt.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://johnmerritt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/johnmerritt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fpt.wikidot.com">Parameterized Complexity</a></h3>
+            <h3><a target="_blank" href="http://johnmerritt.wikidot.com">johnmerritt</a></h3>
             <div class="desc">          
-              Did you say NP-hard?
+              social studies
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://backrooms-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://backrooms-sandbox.wikidot.com">Backrooms Sandbox</a></h3>
+            <div class="desc">          
+              When your Sandbox just gets too Backrooms
             </div>
           </div>
         </div>
