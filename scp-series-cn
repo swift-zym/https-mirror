@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1615293498;
+        OZONE.request.timestamp = 1615315073;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -194,6 +194,7 @@
 </li>
 <li>SCP-CN系列
 <ul>
+<li><a href="/scp-series-cn-3">CN系列 III (CN-2000 - CN-2999)</a></li>
 <li><a href="/scp-series-cn-2">CN系列 II (CN-1000 - CN-1999)</a></li>
 <li><a href="/scp-series-cn">CN系列 I (CN-001 - CN-999)</a></li>
 <li><a href="/joke-scps-cn">搞笑SCP-CN</a></li>
@@ -211,18 +212,18 @@
 <ul>
 <li><a href="/scp-international">SCP国际翻译中心</a></li>
 <li><a href="http://scp-int.wikidot.com/">SCP国际翻译站</a></li>
-<li><a href="http://scpfoundation.net/">Russian Branch(-RU)</a></li>
-<li><a href="http://ko.scp-wiki.net/">SCP 재단(-KO)</a></li>
-<li><a href="http://fondationscp.wikidot.com/">Fondation SCP(-FR)</a></li>
-<li><a href="http://scp-wiki.net.pl/">Fundacja SCP(-PL)</a></li>
-<li><a href="http://scp-es.com/">La Fundación SCP(-ES)</a></li>
-<li><a href="http://scp-th.wikidot.com/">สถาบัน SCP(-TH)</a></li>
-<li><a href="http://ja.scp-wiki.net/">SCP財団(-JP)</a></li>
-<li><a href="http://scp-wiki-de.wikidot.com/">SCP auf Deutsch(-DE)</a></li>
-<li><a href="http://fondazionescp.wikidot.com/">Fondazione SCP(-IT)</a></li>
-<li><a href="http://scp-ukrainian.wikidot.com/">Ukrainian Branch(-UA)</a></li>
-<li><a href="http://scp-pt-br.wikidot.com/">Fundação SCP(-PT/BR)</a></li>
-<li><a href="http://scp-cs.wikidot.com/">SCP Nadace(-CZ)</a></li>
+<li><a href="http://scpfoundation.net/">Фонд SCP (-RU)</a></li>
+<li><a href="http://ko.scp-wiki.net/">SCP 재단 (-KO)</a></li>
+<li><a href="http://fondationscp.wikidot.com/">Fondation SCP (-FR)</a></li>
+<li><a href="http://scp-wiki.net.pl/">Fundacja SCP (-PL)</a></li>
+<li><a href="http://scp-es.com/">La Fundación SCP (-ES)</a></li>
+<li><a href="http://scp-th.wikidot.com/">สถาบัน SCP (-TH)</a></li>
+<li><a href="http://scp-jp.wikidot.com/">SCP財団 (-JP)</a></li>
+<li><a href="http://scp-wiki-de.wikidot.com/">SCP Foundation (-DE)</a></li>
+<li><a href="http://fondazionescp.wikidot.com/">Fondazione SCP (-IT)</a></li>
+<li><a href="http://scp-ukrainian.wikidot.com/">Фонд SCP (-UA)</a></li>
+<li><a href="http://scp-pt-br.wikidot.com/">Fundação SCP (-PT/BR)</a></li>
+<li><a href="http://scp-cs.wikidot.com/">SCP Nadace (-CS)</a></li>
 </ul>
 </li>
 <li>背景资料
@@ -266,6 +267,7 @@
 <ul>
 <li>SCP系列
 <ul>
+<li><a href="/scp-series-cn-3">CN系列 III (CN-2000 - CN-2999)</a></li>
 <li><a href="/scp-series-cn-2">CN系列 II (CN-1000 - CN-1999)</a></li>
 <li><a href="/scp-series-cn">CN系列 I (CN-001 - CN-999)</a></li>
 <li><a href="/joke-scps-cn">搞笑SCP-CN</a></li>
@@ -383,7 +385,7 @@
 <div class="heading">
 <p>SCP-CN系列</p>
 </div>
-<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /> <a href="/scp-series-cn">I</a> | <a href="/scp-series-cn-2">II</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /> <a href="/scp-series-cn">I</a> | <a href="/scp-series-cn-2">II</a> | <a href="/scp-series-cn-3">III</a></div>
 <div class="heading">
 <p>SCP系列</p>
 </div>
@@ -515,6 +517,7 @@
 <a href="/scp-series-cn#800">800 至 899</a><br />
 <a href="/scp-series-cn#900">900 至 999</a><br />
 <a href="/scp-series-cn-2">1000 至 1999</a><br />
+<a href="/scp-series-cn-3">2000 至 2999</a><br />
 <a href="/scp-series-cn#content">归档内容</a></p>
 </div>
 <br />
@@ -1613,7 +1616,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3259, 最后编辑于: <span class="odate time_1614246498 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">25 Feb 2021 09:48</span></div>
+                            <div id="page-info">页面版本: 3260, 最后编辑于: <span class="odate time_1615295424 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">09 Mar 2021 13:10</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+69</span>)</a>
@@ -1685,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cunefa2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefa2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kuruni.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kuruni.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cunefa2.wikidot.com">CUNEF Group A2</a></h3>
+            <h3><a target="_blank" href="http://kuruni.wikidot.com">Mecha Documents</a></h3>
             <div class="desc">          
-              For Your Work, Opinions and Discoveries!
+              The Collection
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://handbook.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/handbook.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://uniofbeds.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uniofbeds.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://handbook.wikidot.com">Handbook</a></h3>
+            <h3><a target="_blank" href="http://uniofbeds.wikidot.com">Uniofbeds</a></h3>
             <div class="desc">          
-              The Wikidot Handbook
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ds3-cinders.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds3-cinders.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mathaerobics4samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mathaerobics4samvedna.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ds3-cinders.wikidot.com">Cinders</a></h3>
+            <h3><a target="_blank" href="http://mathaerobics4samvedna.wikidot.com">Math Aerobics</a></h3>
             <div class="desc">          
-              Cinders
+              ADIDAS - All Day I Dream About Sums..!!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tradewithsaint.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradewithsaint.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://thegamerdome.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thegamerdome.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tradewithsaint.wikidot.com">Trading With The Flow!!!</a></h3>
+            <h3><a target="_blank" href="http://thegamerdome.wikidot.com">The Gamer Dome</a></h3>
             <div class="desc">          
-              The Art of Trading the NOW
+              Community Game Design Projects
             </div>
           </div>
         </div>
