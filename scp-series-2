@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1615357871;
+        OZONE.request.timestamp = 1615379830;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,45 +1713,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://surreal64ce.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/surreal64ce.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dpcwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dpcwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://surreal64ce.wikidot.com">Surreal64 CE</a></h3>
+            <h3><a target="_blank" href="http://dpcwiki.wikidot.com">DPC Foundation</a></h3>
             <div class="desc">          
-              Nintendo 64 Emulation for XBOX
+              Deport. Protect. Contain.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://morningsidemicro.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningsidemicro.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://morningsidemicro.wikidot.com">Microbiology@Morningside</a></h3>
+            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
             <div class="desc">          
-              The wiki for students in BIO 252 at Morningside
+              Where Writers Share Their Characters &amp; Worlds
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://grave-box.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/grave-box.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cyclods.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cyclods.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://grave-box.wikidot.com">The Grave-Box</a></h3>
-            <div class="desc">          
-              Close that grave-box door
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://rmitvnim2007b.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rmitvnim2007b.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://rmitvnim2007b.wikidot.com">RMIT Vietnam IM 2007B</a></h3>
+            <h3><a target="_blank" href="http://cyclods.wikidot.com">CycloDS Revolution</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
+            <div class="desc">          
+              OpenRPG Dungeons and Dragons 3.5
             </div>
           </div>
         </div>

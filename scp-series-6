@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1615358080;
+        OZONE.request.timestamp = 1615379908;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -760,7 +760,7 @@
 <li><a href="/scp-5212">SCP-5212</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5213">SCP-5213</a> - Menses</li>
 <li><a class="newpage" href="/scp-5214">SCP-5214</a> - Lieder für meine toten Töchter</li>
-<li><a class="newpage" href="/scp-5215">SCP-5215</a> - [拒绝访问]</li>
+<li><a href="/scp-5215">SCP-5215</a> - 好吧，天空闹鬼了</li>
 <li><a class="newpage" href="/scp-5216">SCP-5216</a> - 更多美味食谱</li>
 <li><a class="newpage" href="/scp-5217">SCP-5217</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5218">SCP-5218</a> - [拒绝访问]</li>
@@ -1362,7 +1362,7 @@
 <li><a class="newpage" href="/scp-5794">SCP-5794</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5795">SCP-5795</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5796">SCP-5796</a> - [拒绝访问]</li>
-<li><a href="/scp-5797">SCP-5797</a> - “超速”</li>
+<li><a class="newpage" href="/scp-5797">SCP-5797</a> - “超速”</li>
 <li><a href="/scp-5798">SCP-5798</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5799">SCP-5799</a> - The Tooth Striders</li>
 </ul>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 404, 最后编辑于: <span class="odate time_1615214450 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Mar 2021 14:40</span></div>
+                            <div id="page-info">页面版本: 405, 最后编辑于: <span class="odate time_1615378818 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">10 Mar 2021 12:20</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://music-industrapedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/music-industrapedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://softwarecraftsmanship.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/softwarecraftsmanship.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://music-industrapedia.wikidot.com">Music Industrapedia</a></h3>
+            <h3><a target="_blank" href="http://softwarecraftsmanship.wikidot.com">Software Craftsmanship</a></h3>
             <div class="desc">          
-              A Legacy of your Working Life in the Music Industry
+              A conference all about building it right
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nsb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nsb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://alicebot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alicebot.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nsb.wikidot.com">Nsb Notes</a></h3>
+            <h3><a target="_blank" href="http://alicebot.wikidot.com">Alicebot</a></h3>
             <div class="desc">          
-              
+              Free AIML chat bot content
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chimiex-bicaz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chimiex-bicaz.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mathaerobics4samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mathaerobics4samvedna.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chimiex-bicaz.wikidot.com">Chimiex Bicaz</a></h3>
+            <h3><a target="_blank" href="http://mathaerobics4samvedna.wikidot.com">Math Aerobics</a></h3>
             <div class="desc">          
-              
+              ADIDAS - All Day I Dream About Sums..!!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://extension.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extension.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cubesat.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cubesat.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://extension.wikidot.com">Wikidot Extension</a></h3>
+            <h3><a target="_blank" href="http://cubesat.wikidot.com">CubeSat</a></h3>
             <div class="desc">          
-              
+              University of Leicester CubeSat Project
             </div>
           </div>
         </div>

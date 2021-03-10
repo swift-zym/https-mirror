@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1615357972;
+        OZONE.request.timestamp = 1615380105;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,21 +1689,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp-sandbox3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-sandbox3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ccpd.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ccpd.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-jp-sandbox3.wikidot.com">SCP-JPサンドボックスⅢ</a></h3>
+            <h3><a target="_blank" href="http://ccpd.wikidot.com">Pieces of Our Minds</a></h3>
             <div class="desc">          
-              a.k.a 下書きフォーラム v2
+              Creative Communication and Portfolio Development e-Learning Project
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://typesets.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/typesets.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kalgati.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kalgati.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://typesets.wikidot.com">Type Set Coin Collecting</a></h3>
+            <h3><a target="_blank" href="http://kalgati.wikidot.com">क्षत्रिय राजपूत इतिहास</a></h3>
+            <div class="desc">          
+              क्षत्रिय राजपूत
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://guitarzero.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/guitarzero.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://guitarzero.wikidot.com">Frontman Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1711,23 +1722,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://energyclub.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
+            <h3><a target="_blank" href="http://energyclub.wikidot.com">Energy Club</a></h3>
             <div class="desc">          
-              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://retrowiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrowiki.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://retrowiki.wikidot.com">RetroWIKI</a></h3>
-            <div class="desc">          
-              
+              University of Alberta
             </div>
           </div>
         </div>

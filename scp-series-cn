@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1615357882;
+        OZONE.request.timestamp = 1615380080;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,21 +1688,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hopkinswhpg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hopkinswhpg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls3.wikidot.com">Darksouls3</a></h3>
-            <div class="desc">          
-              Your trusted source of information for Dark Souls 3
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wfh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wfh.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wfh.wikidot.com">Women&#039;s Film History Network</a></h3>
+            <h3><a target="_blank" href="http://hopkinswhpg.wikidot.com">World History/Physical Geo.</a></h3>
             <div class="desc">          
               
             </div>
@@ -1710,10 +1699,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://morningside-genetics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningside-genetics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pedhemoncreview.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pedhemoncreview.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://morningside-genetics.wikidot.com">Morningside Genetics</a></h3>
+            <h3><a target="_blank" href="http://pedhemoncreview.wikidot.com">Pediatric Hematology &amp; Oncology Certification Review</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,12 +1710,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://metrixcreate.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metrixcreate.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bioproject.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bioproject.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://metrixcreate.wikidot.com">Metrix Create:Space</a></h3>
+            <h3><a target="_blank" href="http://bioproject.wikidot.com">BIO-PRO</a></h3>
             <div class="desc">          
-              
+              Υγεία-Περιβάλλον-Εκπαίδευση
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://tradewithsaint.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradewithsaint.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://tradewithsaint.wikidot.com">Trading With The Flow!!!</a></h3>
+            <div class="desc">          
+              The Art of Trading the NOW
             </div>
           </div>
         </div>

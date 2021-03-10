@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1615358080;
+        OZONE.request.timestamp = 1615380021;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,45 +1743,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://music-industrapedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/music-industrapedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rshsalcseries.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rshsalcseries.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://music-industrapedia.wikidot.com">Music Industrapedia</a></h3>
+            <h3><a target="_blank" href="http://rshsalcseries.wikidot.com">Series Tracker</a></h3>
             <div class="desc">          
-              A Legacy of your Working Life in the Music Industry
+              Series found in the RSHS ALC
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nsb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nsb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://editora.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/editora.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nsb.wikidot.com">Nsb Notes</a></h3>
+            <h3><a target="_blank" href="http://editora.wikidot.com">CIN  7402 Editoração Científica</a></h3>
             <div class="desc">          
-              
+              Disciplina na UFSC
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chimiex-bicaz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chimiex-bicaz.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://steelandstone.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/steelandstone.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chimiex-bicaz.wikidot.com">Chimiex Bicaz</a></h3>
+            <h3><a target="_blank" href="http://steelandstone.wikidot.com">Steel and Stone</a></h3>
             <div class="desc">          
-              
+              Wagering Lives to the Blade
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://extension.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extension.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chessopeningsforengines.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessopeningsforengines.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://extension.wikidot.com">Wikidot Extension</a></h3>
+            <h3><a target="_blank" href="http://chessopeningsforengines.wikidot.com">Chess Openings for Engine Competition</a></h3>
             <div class="desc">          
-              
+              Opening lines that are known in Master play and that are biased for one side
             </div>
           </div>
         </div>
