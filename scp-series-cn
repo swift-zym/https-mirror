@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1615315073;
+        OZONE.request.timestamp = 1615338593;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,21 +1688,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kuruni.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kuruni.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kuruni.wikidot.com">Mecha Documents</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki.wikidot.com">SCP Foundation</a></h3>
             <div class="desc">          
-              The Collection
+              Secure, Contain, Protect
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://uniofbeds.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uniofbeds.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://join.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/join.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://uniofbeds.wikidot.com">Uniofbeds</a></h3>
+            <h3><a target="_blank" href="http://join.wikidot.com">Join this Site!</a></h3>
             <div class="desc">          
               
             </div>
@@ -1710,23 +1710,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mathaerobics4samvedna.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mathaerobics4samvedna.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wow-arrakis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wow-arrakis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mathaerobics4samvedna.wikidot.com">Math Aerobics</a></h3>
+            <h3><a target="_blank" href="http://wow-arrakis.wikidot.com">WoW-Arrakis</a></h3>
             <div class="desc">          
-              ADIDAS - All Day I Dream About Sums..!!
+              Clan Hordeño de C&#039;Thun
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thegamerdome.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thegamerdome.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://latindictionary.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/latindictionary.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thegamerdome.wikidot.com">The Gamer Dome</a></h3>
+            <h3><a target="_blank" href="http://latindictionary.wikidot.com">The Latin Dictionary</a></h3>
             <div class="desc">          
-              Community Game Design Projects
+              Where Latin meets English
             </div>
           </div>
         </div>
