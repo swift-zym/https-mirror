@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1615444413;
+        OZONE.request.timestamp = 1615466320;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -920,7 +920,7 @@
 <li><a class="newpage" href="/scp-5368">SCP-5368</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5369">SCP-5369</a> - [拒绝访问]</li>
 <li><a href="/scp-5370">SCP-5370</a> - 棋境</li>
-<li><a class="newpage" href="/scp-5371">SCP-5371</a> - [拒绝访问]</li>
+<li><a href="/scp-5371">SCP-5371</a> - 雕像 -<strong>创立之作</strong></li>
 <li><a class="newpage" href="/scp-5372">SCP-5372</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5373">SCP-5373</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5374">SCP-5374</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 407, 最后编辑于: <span class="odate time_1615439259 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Mar 2021 05:07</span></div>
+                            <div id="page-info">页面版本: 408, 最后编辑于: <span class="odate time_1615453329 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Mar 2021 09:02</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpkosb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkosb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
+            <h3><a target="_blank" href="http://scpkosb.wikidot.com">SB-KO2</a></h3>
             <div class="desc">          
-              A World of Darkness Encyclopedia for Modern Nights
+              SCP-KO 샌드박스 이호기
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mathaerobics4samvedna.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mathaerobics4samvedna.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nycmush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nycmush.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mathaerobics4samvedna.wikidot.com">Math Aerobics</a></h3>
+            <h3><a target="_blank" href="http://nycmush.wikidot.com">NYC: Veil of Shadows</a></h3>
             <div class="desc">          
-              ADIDAS - All Day I Dream About Sums..!!
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://extension.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extension.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-jp.wikidot.com">SCP財団</a></h3>
+            <h3><a target="_blank" href="http://extension.wikidot.com">Wikidot Extension</a></h3>
             <div class="desc">          
-              確保、収容、保護
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://marvelrevolution.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marvelrevolution.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://circservices.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/circservices.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://marvelrevolution.wikidot.com">Marvel Revolution MUCK</a></h3>
+            <h3><a target="_blank" href="http://circservices.wikidot.com">Circulation Services</a></h3>
             <div class="desc">          
-              Join the Revolution
+              Library Circulation and Access Services
             </div>
           </div>
         </div>
