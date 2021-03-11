@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1615466504;
+        OZONE.request.timestamp = 1615487822;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -722,7 +722,7 @@
 <li><a href="/scp-4155">SCP-4155</a> - 喵淇淋</li>
 <li><a href="/scp-4156">SCP-4156</a> - 最后的堡垒</li>
 <li><a href="/scp-4157">SCP-4157</a> - 想要狗吗</li>
-<li><a class="newpage" href="/scp-4158">SCP-4158</a> - Big Charlie The Big Cow</li>
+<li><a href="/scp-4158">SCP-4158</a> - 巨牛查理</li>
 <li><a href="/scp-4159">SCP-4159</a> - 老天爷啊有什么东西碰了我的腿</li>
 <li><a href="/scp-4160">SCP-4160</a> - 不以史为鉴者</li>
 <li><a href="/scp-4161">SCP-4161</a> - 轮回。</li>
@@ -1671,7 +1671,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 756, 最后编辑于: <span class="odate time_1615112442 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Mar 2021 10:20</span></div>
+                            <div id="page-info">页面版本: 757, 最后编辑于: <span class="odate time_1615468796 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Mar 2021 13:19</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1743,32 +1743,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://towngoodiesch.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/towngoodiesch.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://me1065.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/me1065.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://towngoodiesch.wikidot.com">美國城鎮旅遊網</a></h3>
-            <div class="desc">          
-              美國城市旅遊逛街活動指南
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://simtrackipedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/simtrackipedia.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://simtrackipedia.wikidot.com">SIMTrackipedia</a></h3>
-            <div class="desc">          
-              A collection of tutorials for Bob&#039;s Track Builder, XPacker, and other related programs
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://videoart.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/videoart.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://videoart.wikidot.com">Interactive Media Design: Theory</a></h3>
+            <h3><a target="_blank" href="http://me1065.wikidot.com">Thermal Systems</a></h3>
             <div class="desc">          
               
             </div>
@@ -1776,12 +1754,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chavezbraintrust.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chavezbraintrust.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://perceptionstudio.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/perceptionstudio.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chavezbraintrust.wikidot.com">Chavez Brain Trust</a></h3>
+            <h3><a target="_blank" href="http://perceptionstudio.wikidot.com">Perceptionstudio</a></h3>
+            <div class="desc">          
+              The Wiki for Perception Studio
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://iatkos.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iatkos.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://iatkos.wikidot.com">Iatkos</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://hydadv.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hydadv.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://hydadv.wikidot.com">Great Hyderabad Adventure Club</a></h3>
+            <div class="desc">          
+              Advenutre and Nature Wiki
             </div>
           </div>
         </div>
