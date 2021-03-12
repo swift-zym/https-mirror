@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1615552773;
+        OZONE.request.timestamp = 1615575945;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -556,7 +556,7 @@
 <li><a href="/scp-5016">SCP-5016</a> - 秘中之秘藏于其下</li>
 <li><a href="/scp-5017">SCP-5017</a> - 硬着陆</li>
 <li><a href="/scp-5018">SCP-5018</a> - 破碎玫瑰</li>
-<li><a href="/scp-5019">SCP-5019</a> - LoOpy LiLLy</li>
+<li><a class="newpage" href="/scp-5019">SCP-5019</a> - LoOpy LiLLy</li>
 <li><a href="/scp-5020">SCP-5020</a> - 昆虫寄生机™</li>
 <li><a href="/scp-5021">SCP-5021</a> - 长臂伸伸</li>
 <li><a href="/scp-5022">SCP-5022</a> - 孩子头</li>
@@ -1569,7 +1569,7 @@
 <li><a href="/scp-5993">SCP-5993</a> - 欢迎上天堂，别和蜜蜂勾搭了</li>
 <li><a href="/scp-5994">SCP-5994</a> - 猪上不能叠猪</li>
 <li><a href="/scp-5995">SCP-5995</a> - 毒蛇与新生儿</li>
-<li><a class="newpage" href="/scp-5996">SCP-5996</a> - The Human Amnestic</li>
+<li><a href="/scp-5996">SCP-5996</a> - 人形记忆删除剂</li>
 <li><a href="/scp-5997">SCP-5997</a> - 回忆之河</li>
 <li><a href="/scp-5998">SCP-5998</a> - 人类，扬升</li>
 <li><a href="/scp-5999">SCP-5999</a> - 这是我的死地</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 408, 最后编辑于: <span class="odate time_1615453329 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Mar 2021 09:02</span></div>
+                            <div id="page-info">页面版本: 409, 最后编辑于: <span class="odate time_1615562556 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">12 Mar 2021 15:22</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://opend6.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opend6.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wherearethejoneses.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wherearethejoneses.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://opend6.wikidot.com">OpenD6</a></h3>
+            <h3><a target="_blank" href="http://wherearethejoneses.wikidot.com">Where are the Joneses Wiki.</a></h3>
             <div class="desc">          
-              The OpenD6 System Reference Document
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://irunath.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/irunath.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-jp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://irunath.wikidot.com">IRUNA Online Thailand WIKI</a></h3>
+            <h3><a target="_blank" href="http://scp-jp.wikidot.com">SCP財団</a></h3>
             <div class="desc">          
-              by iruna th team
+              確保、収容、保護
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dotflow.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dotflow.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://faragocsaba.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/faragocsaba.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dotflow.wikidot.com">.flow</a></h3>
+            <h3><a target="_blank" href="http://faragocsaba.wikidot.com">Faragó Csaba</a></h3>
             <div class="desc">          
-              Rusting Away
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cunefa2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefa2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sparks.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sparks.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cunefa2.wikidot.com">CUNEF Group A2</a></h3>
+            <h3><a target="_blank" href="http://sparks.wikidot.com">Sparks</a></h3>
             <div class="desc">          
-              For Your Work, Opinions and Discoveries!
+              d6 Star Wars Campaign
             </div>
           </div>
         </div>
