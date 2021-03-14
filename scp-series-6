@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1615684438;
+        OZONE.request.timestamp = 1615703638;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1147,7 +1147,7 @@
 <li><a class="newpage" href="/scp-5587">SCP-5587</a> - [拒绝访问]</li>
 <li><a href="/scp-5588">SCP-5588</a> - 被俘之星依旧闪亮</li>
 <li><a class="newpage" href="/scp-5589">SCP-5589</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5590">SCP-5590</a> - That Little Bastard Robot</li>
+<li><a href="/scp-5590">SCP-5590</a> - That Little Bastard Robot</li>
 <li><a class="newpage" href="/scp-5591">SCP-5591</a> - Easy-Fake Oven</li>
 <li><a class="newpage" href="/scp-5592">SCP-5592</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5593">SCP-5593</a> - [拒绝访问]</li>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tmduc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tmduc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sons-of-athena.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sons-of-athena.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tmduc.wikidot.com">TMD (uc)</a></h3>
+            <h3><a target="_blank" href="http://sons-of-athena.wikidot.com">Obscurative</a></h3>
             <div class="desc">          
-              creación colectiva
+              ​
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://superjet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/superjet.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ti-iseg-t12.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ti-iseg-t12.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://superjet.wikidot.com">Sukhoi Superjet 100</a></h3>
-            <div class="desc">          
-              Реальность против домыслов
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://snowleopard.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snowleopard.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://snowleopard.wikidot.com">Snow Leopard Compatibility</a></h3>
-            <div class="desc">          
-              Which apps work with Mac OS X 10.6?
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://algadon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/algadon.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://algadon.wikidot.com">Algadon</a></h3>
+            <h3><a target="_blank" href="http://ti-iseg-t12.wikidot.com">ISEG TI T12</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://wikiofscience.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiofscience.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://wikiofscience.wikidot.com">WikiofScience</a></h3>
+            <div class="desc">          
+              Everything learned, and nothing forgotten
             </div>
           </div>
         </div>

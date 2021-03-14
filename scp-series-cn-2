@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1615684453;
+        OZONE.request.timestamp = 1615703536;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1290,7 +1290,7 @@
 <li><a href="/scp-cn-1726">SCP-CN-1726</a> - 秘法配方</li>
 <li><a href="/scp-cn-1727">SCP-CN-1727</a> - 臆眼鸦群</li>
 <li><a href="/scp-cn-1728">SCP-CN-1728</a> - 无力</li>
-<li><a href="/scp-cn-1729">SCP-CN-1729</a> - 替罪羊</li>
+<li><a href="/scp-cn-1729">SCP-CN-1729</a> - 梦与未来</li>
 <li><a href="/scp-cn-1730">SCP-CN-1730</a> - 何日见“人”心</li>
 <li><a href="/scp-cn-1731">SCP-CN-1731</a> - 学校的地下四层</li>
 <li><a href="/scp-cn-1732">SCP-CN-1732</a> - 银鱼浮纸，无字天书</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4046, 最后编辑于: <span class="odate time_1615295384 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">09 Mar 2021 13:09</span></div>
+                            <div id="page-info">页面版本: 4047, 最后编辑于: <span class="odate time_1615691566 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">14 Mar 2021 03:12</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+86</span>)</a>
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://simtrackipedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/simtrackipedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nirn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nirn.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://simtrackipedia.wikidot.com">SIMTrackipedia</a></h3>
+            <h3><a target="_blank" href="http://nirn.wikidot.com">Nirn</a></h3>
             <div class="desc">          
-              A collection of tutorials for Bob&#039;s Track Builder, XPacker, and other related programs
+              The Nirn Project
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smalltown.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smalltown.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://snippets.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snippets.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smalltown.wikidot.com">小城的问候</a></h3>
+            <h3><a target="_blank" href="http://snippets.wikidot.com">Wiki Code Snippets</a></h3>
             <div class="desc">          
-              Greetings from afar...
+              Snippets
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sped.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sped.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://editora.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/editora.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sped.wikidot.com">The Special Ed Wiki</a></h3>
+            <h3><a target="_blank" href="http://editora.wikidot.com">CIN  7402 Editoração Científica</a></h3>
             <div class="desc">          
-              sarah irvine belson (sarah@american.edu)
+              Disciplina na UFSC
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gkbvakfi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gkbvakfi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandbox.wikidot.com">The SCP Sandbox</a></h3>
+            <h3><a target="_blank" href="http://gkbvakfi.wikidot.com">GKB</a></h3>
             <div class="desc">          
-              Осторожно! Идут испытания!
+              Goril Kontrol Birliği
             </div>
           </div>
         </div>
