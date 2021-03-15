@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1615770475;
+        OZONE.request.timestamp = 1615789981;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://corwyn.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/corwyn.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://algadon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/algadon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://corwyn.wikidot.com">Corwyn</a></h3>
-            <div class="desc">          
-              A Fantasy  Campaign Setting
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://backrooms-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://backrooms-sandbox.wikidot.com">Backrooms Sandbox</a></h3>
-            <div class="desc">          
-              When your Sandbox just gets too Backrooms
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ozradonc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ozradonc.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ozradonc.wikidot.com">OzRadOnc</a></h3>
-            <div class="desc">          
-              A collection of thoughts and notes
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://nsb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nsb.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://nsb.wikidot.com">Nsb Notes</a></h3>
+            <h3><a target="_blank" href="http://algadon.wikidot.com">Algadon</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://microchip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://roboticspedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticspedia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://roboticspedia.wikidot.com">Roboticspedia</a></h3>
+            <div class="desc">          
+              All that you want to know about making robots
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://speaker.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/speaker.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://speaker.wikidot.com">Kanji Speaker</a></h3>
+            <div class="desc">          
+              at Whatcom Creek
             </div>
           </div>
         </div>
