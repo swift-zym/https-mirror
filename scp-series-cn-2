@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1615833050;
+        OZONE.request.timestamp = 1615856969;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpguy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpguy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpguy.wikidot.com">FakeProGaming Wiki Offical Website</a></h3>
-            <div class="desc">          
-              FakeProGaming Wiki Offical Website
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://kittyliterature.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kittyliterature.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://kittyliterature.wikidot.com">小猫文学</a></h3>
-            <div class="desc">          
-              源于生活 低于生活
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://sw-gis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sw-gis.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://sw-gis.wikidot.com">Smallworld GIS Wiki</a></h3>
-            <div class="desc">          
-              Help and references for the Smallworld Community
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://legendspring.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/legendspring.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://legendspring.wikidot.com">LegendSpring</a></h3>
+            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://design-illustration.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/design-illustration.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://design-illustration.wikidot.com">Design &amp; Illustration</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://aspnet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aspnet.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://aspnet.wikidot.com">ASP.NET Wiki</a></h3>
+            <div class="desc">          
+              This website is no longer actively supported
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://odrin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/odrin.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://odrin.wikidot.com">‏‏‏‏‏‏‏‏ODRIN</a></h3>
+            <div class="desc">          
+              ‏‏‏‏‏‏‏‏
             </div>
           </div>
         </div>
