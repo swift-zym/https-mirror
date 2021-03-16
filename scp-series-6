@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1615898379;
+        OZONE.request.timestamp = 1615919648;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -718,7 +718,7 @@
 <li><a class="newpage" href="/scp-5174">SCP-5174</a> - [拒绝访问]</li>
 <li><a href="/scp-5175">SCP-5175</a> - <tt>死刀</tt></li>
 <li><a class="newpage" href="/scp-5176">SCP-5176</a> - [拒绝访问]</li>
-<li><a href="/scp-5177">SCP-5177</a> - 迷失与被遗忘</li>
+<li><a class="newpage" href="/scp-5177">SCP-5177</a> - 迷失与被遗忘</li>
 <li><a class="newpage" href="/scp-5178">SCP-5178</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5179">SCP-5179</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5180">SCP-5180</a> - The Federation Awaits, Anomalous Apes</li>
@@ -832,7 +832,7 @@
 <li><a class="newpage" href="/scp-5284">SCP-5284</a> - [拒绝访问]</li>
 <li><a href="/scp-5285">SCP-5285</a> - 伤害之经济</li>
 <li><a class="newpage" href="/scp-5286">SCP-5286</a> - Autophagia</li>
-<li><a class="newpage" href="/scp-5287">SCP-5287</a> - [拒绝访问]</li>
+<li><a href="/scp-5287">SCP-5287</a> - 小小的噩梦</li>
 <li><a href="/scp-5288">SCP-5288</a> - 一星</li>
 <li><a class="newpage" href="/scp-5289">SCP-5289</a> - [拒绝访问]</li>
 <li><a href="/scp-5290">SCP-5290</a> - 多重稜鏡</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 413, 最后编辑于: <span class="odate time_1615802415 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">15 Mar 2021 10:00</span></div>
+                            <div id="page-info">页面版本: 414, 最后编辑于: <span class="odate time_1615906322 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">16 Mar 2021 14:52</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rpc-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpcommune.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpcommune.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rpc-pl.wikidot.com">Autorytet RPC</a></h3>
+            <h3><a target="_blank" href="http://scpcommune.wikidot.com">The SCP Commune</a></h3>
             <div class="desc">          
-              Badania, Ochrona, Przechowywanie
+              Satirize, Collectivize, Politicize
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blackmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackmarches.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://desenvolvimentodejogos.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/desenvolvimentodejogos.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blackmarches.wikidot.com">Black Marches</a></h3>
+            <h3><a target="_blank" href="http://desenvolvimentodejogos.wikidot.com">Desenvolvimento de Jogos</a></h3>
             <div class="desc">          
-              Roll20 Pathfinder
+              Tecnologias para uso no desenvolver jogos
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://indexhibit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/indexhibit.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-cn-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-cn-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://indexhibit.wikidot.com">indexhibit customisations</a></h3>
+            <h3><a target="_blank" href="http://ci-cn-wiki.wikidot.com">混沌分裂者</a></h3>
+            <div class="desc">          
+              于无理之中创造逻辑
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://beatarcademafia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/beatarcademafia.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://beatarcademafia.wikidot.com">Beat Arcade Mafia</a></h3>
-            <div class="desc">          
-              Past Mafia Setups used on the Beat Arcade Discord Server!
             </div>
           </div>
         </div>
