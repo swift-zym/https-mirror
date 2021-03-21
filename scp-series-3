@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1616289377;
+        OZONE.request.timestamp = 1616308399;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1712,21 +1712,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://downsfolk.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/downsfolk.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sfi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://downsfolk.wikidot.com">Downs Folk</a></h3>
+            <h3><a target="_blank" href="http://sfi.wikidot.com">STARFIGHTER INFINITY</a></h3>
             <div class="desc">          
-              Lives and times of folk of Toowoomba &amp; the Downs
+              Open Source Website
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://techcomm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/techcomm.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ecadmin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecadmin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://techcomm.wikidot.com">TechnicalCommunication</a></h3>
+            <h3><a target="_blank" href="http://ecadmin.wikidot.com">Early Childhood Program Administration</a></h3>
+            <div class="desc">          
+              Resources, Training, Best Practices, Sharing
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://gdt2009.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gdt2009.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://gdt2009.wikidot.com">Game Dev Techniques</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1745,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://marblehornets.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marblehornets.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ti-iseg-t12.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ti-iseg-t12.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://marblehornets.wikidot.com">Marble Hornets</a></h3>
+            <h3><a target="_blank" href="http://ti-iseg-t12.wikidot.com">ISEG TI T12</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://rshsalcseries.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rshsalcseries.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://rshsalcseries.wikidot.com">Series Tracker</a></h3>
-            <div class="desc">          
-              Series found in the RSHS ALC
             </div>
           </div>
         </div>
