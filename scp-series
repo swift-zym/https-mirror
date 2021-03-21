@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1616265220;
+        OZONE.request.timestamp = 1616289118;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,45 +1711,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://speaker.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/speaker.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ubmh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://speaker.wikidot.com">Kanji Speaker</a></h3>
+            <h3><a target="_blank" href="http://ubmh.wikidot.com">地下黑市</a></h3>
             <div class="desc">          
-              at Whatcom Creek
+              属于闲人的社区
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hmswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hmswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://snippets.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snippets.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hmswiki.wikidot.com">HMS Anomalous Items Wiki</a></h3>
+            <h3><a target="_blank" href="http://snippets.wikidot.com">Wiki Code Snippets</a></h3>
             <div class="desc">          
-              We don&#039;t do that here.
+              Snippets
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://oneeleventwentyten.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oneeleventwentyten.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://alfamedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alfamedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://oneeleventwentyten.wikidot.com">Writing 111 Fall 2010</a></h3>
+            <h3><a target="_blank" href="http://alfamedia.wikidot.com">Alfamedia</a></h3>
             <div class="desc">          
-              
+              Alfabetización mediática para educadores
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://alicebot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alicebot.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://icondeposit.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/icondeposit.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://alicebot.wikidot.com">Alicebot</a></h3>
+            <h3><a target="_blank" href="http://icondeposit.wikidot.com">Icon Deposit</a></h3>
             <div class="desc">          
-              Free AIML chat bot content
+              Design.Tutorials.Freebies
             </div>
           </div>
         </div>
