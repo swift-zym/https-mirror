@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1616330816;
+        OZONE.request.timestamp = 1616352150;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1620,7 +1620,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                             <div id="page-info">页面版本: 4048, 最后编辑于: <span class="odate time_1616287063 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Mar 2021 00:37</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
-<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+86</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+87</span>)</a>
 <a href="javascript:;" class="btn btn-default" id="tags-button">标签</a>
 <a href="/forum/t-8144004/scp-series-cn-2" class="btn btn-default" id="discuss-button">讨论 (72)</a>
 <a href="javascript:;" class="btn btn-default" id="history-button">历史记录</a>
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nre509.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nre509.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rpc-pl-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-pl-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nre509.wikidot.com">Nre509</a></h3>
+            <h3><a target="_blank" href="http://rpc-pl-sandbox.wikidot.com">Sandbox Autorytetu RPC</a></h3>
             <div class="desc">          
-              Ecology: Science of Context and Interaction
+              Love is in the sand.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gurpswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gurpswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://alveslima-edu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alveslima-edu.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gurpswiki.wikidot.com">GURPS Repository</a></h3>
-            <div class="desc">          
-              A collection for your GURPS needs
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://cunefa2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefa2.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://cunefa2.wikidot.com">CUNEF Group A2</a></h3>
-            <div class="desc">          
-              For Your Work, Opinions and Discoveries!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
+            <h3><a target="_blank" href="http://alveslima-edu.wikidot.com">WIKEDUCAÇÃO</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://masonic.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/masonic.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://masonic.wikidot.com">Masonic</a></h3>
+            <div class="desc">          
+              A Freemason&#039;s Compendium
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scienceonlinelondon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scienceonlinelondon.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scienceonlinelondon.wikidot.com">Science Online London</a></h3>
+            <div class="desc">          
+              How is the Web changing science?
             </div>
           </div>
         </div>
