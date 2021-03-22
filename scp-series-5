@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1616375480;
+        OZONE.request.timestamp = 1616395064;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,21 +1743,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-equestria.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-equestria.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://projects.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/projects.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-equestria.wikidot.com">SCP基金会小马国分部</a></h3>
+            <h3><a target="_blank" href="http://projects.wikidot.com">projects.wikidot.com</a></h3>
             <div class="desc">          
-              控制 • 收容 • 保护
+              Wikidot Projects Forum
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zodiac-ffrpg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zodiac-ffrpg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://shillahelpsite.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/shillahelpsite.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zodiac-ffrpg.wikidot.com">ZODIAC Final Fantasy RPG</a></h3>
+            <h3><a target="_blank" href="http://shillahelpsite.wikidot.com">Shilla Helpsite</a></h3>
             <div class="desc">          
               
             </div>
@@ -1765,23 +1765,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wherearethejoneses.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wherearethejoneses.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://metroplexity.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metroplexity.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wherearethejoneses.wikidot.com">Where are the Joneses Wiki.</a></h3>
+            <h3><a target="_blank" href="http://metroplexity.wikidot.com">Metroplexity</a></h3>
             <div class="desc">          
-              
+              Learn the secrets of Metroplex
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bzhlab.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bzhlab.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ucsdgrads.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ucsdgrads.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bzhlab.wikidot.com">BZHLab</a></h3>
+            <h3><a target="_blank" href="http://ucsdgrads.wikidot.com">UCSD Grad Students</a></h3>
             <div class="desc">          
-              Makers goes west!
+              ...the information exchange and virtual community
             </div>
           </div>
         </div>
