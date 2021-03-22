@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1616416749;
+        OZONE.request.timestamp = 1616438340;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,10 +1688,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://estudianteseconomiauned.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/estudianteseconomiauned.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rpc-jp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-jp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://estudianteseconomiauned.wikidot.com">Estudiantes de economía de la uned</a></h3>
+            <h3><a target="_blank" href="http://rpc-jp.wikidot.com">RPC機構</a></h3>
+            <div class="desc">          
+              研究、保護、収容
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://demonssouls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/demonssouls.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://demonssouls.wikidot.com">Demon&#039;s Souls English Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1699,34 +1710,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://morphopedics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morphopedics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://johnmerritt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/johnmerritt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://morphopedics.wikidot.com">Morphopedics</a></h3>
+            <h3><a target="_blank" href="http://johnmerritt.wikidot.com">johnmerritt</a></h3>
             <div class="desc">          
-              Where Technology and Orthopedics Collides
+              social studies
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ocmapdb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ocmapdb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://extrabees.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extrabees.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ocmapdb.wikidot.com">Obsidian Conflict Map Database</a></h3>
+            <h3><a target="_blank" href="http://extrabees.wikidot.com">Extra Bees</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ccpd.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ccpd.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ccpd.wikidot.com">Pieces of Our Minds</a></h3>
-            <div class="desc">          
-              Creative Communication and Portfolio Development e-Learning Project
+              Plugin for the Forestry Mod
             </div>
           </div>
         </div>
