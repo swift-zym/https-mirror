@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1616438349;
+        OZONE.request.timestamp = 1616462002;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1712,21 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://calibribold.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/calibribold.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://retrowiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrowiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://calibribold.wikidot.com">Calibri&#039;s Box</a></h3>
-            <div class="desc">          
-              sandbox
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
+            <h3><a target="_blank" href="http://retrowiki.wikidot.com">RetroWIKI</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1723,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nauticoamager.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nauticoamager.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpcommune.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpcommune.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nauticoamager.wikidot.com">NauticoAmager</a></h3>
+            <h3><a target="_blank" href="http://scpcommune.wikidot.com">The SCP Commune</a></h3>
             <div class="desc">          
-              
+              Satirize, Collectivize, Politicize
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hiddenprojectwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hiddenprojectwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://media.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/media.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hiddenprojectwiki.wikidot.com">Hidden Project</a></h3>
+            <h3><a target="_blank" href="http://media.wikidot.com">My, media</a></h3>
             <div class="desc">          
-              Welcome to Hidden Project Wiki
+              by the people, for the people
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://randomnautica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/randomnautica.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://randomnautica.wikidot.com">Hearts of Randomnautica Wiki</a></h3>
+            <div class="desc">          
+              An intriguing realm
             </div>
           </div>
         </div>
