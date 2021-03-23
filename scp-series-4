@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1616503783;
+        OZONE.request.timestamp = 1616524686;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1712,32 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://undertheice.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/undertheice.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ds09.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds09.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://undertheice.wikidot.com">Operation: Under The Ice</a></h3>
-            <div class="desc">          
-              The Ice is a mysterious place
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://rpcauthority.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpcauthority.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://rpcauthority.wikidot.com">RPC Authority</a></h3>
-            <div class="desc">          
-              Research, Protection, Containment
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ibhistory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibhistory.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ibhistory.wikidot.com">IB History</a></h3>
+            <h3><a target="_blank" href="http://ds09.wikidot.com">Data Structures</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,10 +1723,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aseba.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aseba.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
+            <h3><a target="_blank" href="http://aseba.wikidot.com">Thymio &amp; Aseba</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cloudtw.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cloudtw.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cloudtw.wikidot.com">CloudTW</a></h3>
             <div class="desc">          
               
             </div>
