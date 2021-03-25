@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1616674679;
+        OZONE.request.timestamp = 1616696664;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -817,12 +817,12 @@
 <li><a href="/scp-5269">SCP-5269</a> - 流放</li>
 <li><a href="/scp-5270">SCP-5270</a> - 按X以访问小熊</li>
 <li><a href="/scp-5271">SCP-5271</a> - 从前有个神，但它们是一群企鹅</li>
-<li><a class="newpage" href="/scp-5272">SCP-5272</a> - [拒绝访问]</li>
+<li><a href="/scp-5272">SCP-5272</a> - &gt;游</li>
 <li><a class="newpage" href="/scp-5273">SCP-5273</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5274">SCP-5274</a> - [拒绝访问]</li>
 <li><a href="/scp-5275">SCP-5275</a> - 你满意了？</li>
 <li><a class="newpage" href="/scp-5276">SCP-5276</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5277">SCP-5277</a> - [拒绝访问]</li>
+<li><a href="/scp-5277">SCP-5277</a> - [拒绝访问]</li>
 <li><a href="/scp-5278">SCP-5278</a> - 不会一直荒废的鬼城</li>
 <li><a class="newpage" href="/scp-5279">SCP-5279</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5280">SCP-5280</a> - Honeymandias</li>
@@ -1104,7 +1104,7 @@
 <li><a href="/scp-5544">SCP-5544</a> - 可有厌恶这些注目？</li>
 <li><a href="/scp-5545">SCP-5545</a> - <span style="color: white; background-color: black; padding: 1px;"><strong>反 常</strong></span></li>
 <li><a class="newpage" href="/scp-5546">SCP-5546</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5547">SCP-5547</a> - [拒绝访问]</li>
+<li><a href="/scp-5547">SCP-5547</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5548">SCP-5548</a> - [拒绝访问]</li>
 <li><a href="/scp-5549">SCP-5549</a> - 第二宗罪</li>
 <li><a href="/scp-5550">SCP-5550</a> - 我，辛格，我被收集的躯体</li>
@@ -1225,7 +1225,7 @@
 <li><a class="newpage" href="/scp-5661">SCP-5661</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5662">SCP-5662</a> - Life and Depth</li>
 <li><a href="/scp-5663">SCP-5663</a> - 狂拽酷炫大卡车</li>
-<li><a class="newpage" href="/scp-5664">SCP-5664</a> - [拒绝访问]</li>
+<li><a href="/scp-5664">SCP-5664</a> - 嗜血之瘾</li>
 <li><a href="/scp-5665">SCP-5665</a> - 炸股</li>
 <li><a href="/scp-5666">SCP-5666</a> - 思维飞归皓日之时</li>
 <li><a href="/scp-5667">SCP-5667</a> - 绿灯</li>
@@ -1269,7 +1269,7 @@
 <li><a class="newpage" href="/scp-5701">SCP-5701</a> - Lori上门过圣诞</li>
 <li><a class="newpage" href="/scp-5702">SCP-5702</a> - [拒绝访问]</li>
 <li><a href="/scp-5703">SCP-5703</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5704">SCP-5704</a> - [拒绝访问]</li>
+<li><a href="/scp-5704">SCP-5704</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5705">SCP-5705</a> - Powered by Thorium!™</li>
 <li><a href="/scp-5706">SCP-5706</a> - 無界天際SpeedRun大爆笑！！！（出大事了！）[居然色色的！！]{不是標題黨！！！}</li>
 <li><a href="/scp-5707">SCP-5707</a> - 山姆大叔：全美的血肉术士</li>
@@ -1514,7 +1514,7 @@
 <li><a href="/scp-5938">SCP-5938</a> - 在Site-01（反常部）的扑克之夜</li>
 <li><a class="newpage" href="/scp-5939">SCP-5939</a> - [拒绝访问]</li>
 <li><a href="/scp-5940">SCP-5940</a> - 绝对牙齿力场</li>
-<li><a class="newpage" href="/scp-5941">SCP-5941</a> - [拒绝访问]</li>
+<li><a href="/scp-5941">SCP-5941</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5942">SCP-5942</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5943">SCP-5943</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5944">SCP-5944</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 431, 最后编辑于: <span class="odate time_1616663398 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">25 Mar 2021 09:09</span></div>
+                            <div id="page-info">页面版本: 432, 最后编辑于: <span class="odate time_1616683978 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">25 Mar 2021 14:52</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,43 +1712,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://biblio.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biblio.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://surreal64ce.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/surreal64ce.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://biblio.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
+            <h3><a target="_blank" href="http://surreal64ce.wikidot.com">Surreal64 CE</a></h3>
             <div class="desc">          
-              livros e artigos sobre línguas sul-americanas
+              Nintendo 64 Emulation for XBOX
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://voyage34.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/voyage34.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://voyage34.wikidot.com">☆VOYAGE34</a></h3>
+            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
             <div class="desc">          
-              毛細血管的透過性亢進!
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ddscat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ddscat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://androidalchemy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/androidalchemy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ddscat.wikidot.com">DDSCAT</a></h3>
+            <h3><a target="_blank" href="http://androidalchemy.wikidot.com">Android Alchemy</a></h3>
             <div class="desc">          
-              Light Scattering Code
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pcg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pcg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pcg.wikidot.com">Procedural Content Generation Wiki</a></h3>
+            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
             <div class="desc">          
               
             </div>
