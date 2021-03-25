@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1616653047;
+        OZONE.request.timestamp = 1616674679;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -896,7 +896,7 @@
 <li><a href="/scp-5344">SCP-5344</a> - 不定量的柳骨灰</li>
 <li><a class="newpage" href="/scp-5345">SCP-5345</a> - [拒绝访问]</li>
 <li><a href="/scp-5346">SCP-5346</a> - <tt>阿甘</tt></li>
-<li><a class="newpage" href="/scp-5347">SCP-5347</a> - [拒绝访问]</li>
+<li><a href="/scp-5347">SCP-5347</a> - [拒绝访问]</li>
 <li><a href="/scp-5348">SCP-5348</a> - 安布罗斯妈妈的奶油蘑菇汤</li>
 <li><a class="newpage" href="/scp-5349">SCP-5349</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5350">SCP-5350</a> - Oculoma</li>
@@ -912,7 +912,7 @@
 <li><a class="newpage" href="/scp-5360">SCP-5360</a> - 赤いスプラッター殺人事件 (The Red Splatter Murder Case)</li>
 <li><a class="newpage" href="/scp-5361">SCP-5361</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5362">SCP-5362</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5363">SCP-5363</a> - [拒绝访问]</li>
+<li><a href="/scp-5363">SCP-5363</a> - [拒绝访问]</li>
 <li><a href="/scp-5364">SCP-5364</a> - 七十毫米放映机</li>
 <li><a class="newpage" href="/scp-5365">SCP-5365</a> - [拒绝访问]</li>
 <li><a href="/scp-5366">SCP-5366</a> - [拒绝访问]</li>
@@ -1440,7 +1440,7 @@
 <li><a href="/scp-5868">SCP-5868</a> - 肉</li>
 <li><a class="newpage" href="/scp-5869">SCP-5869</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5870">SCP-5870</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5871">SCP-5871</a> - [拒绝访问]</li>
+<li><a href="/scp-5871">SCP-5871</a> - 回溯性仪式刀</li>
 <li><a class="newpage" href="/scp-5872">SCP-5872</a> - [拒绝访问]</li>
 <li><a href="/scp-5873">SCP-5873</a> - 背叛裤</li>
 <li><a class="newpage" href="/scp-5874">SCP-5874</a> - [拒绝访问]</li>
@@ -1453,7 +1453,7 @@
 <li><a href="/scp-5881">SCP-5881</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5882">SCP-5882</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5883">SCP-5883</a> - [拒绝访问]</li>
-<li><a href="/scp-5884">SCP-5884</a> - [拒绝访问]</li>
+<li><a href="/scp-5884">SCP-5884</a> - 存活</li>
 <li><a href="/scp-5885">SCP-5885</a> - <em>埋骨何须桑梓地，人间处处可安息</em></li>
 <li><a href="/scp-5886">SCP-5886</a> - Jim Biggio之歌</li>
 <li><a class="newpage" href="/scp-5887">SCP-5887</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 429, 最后编辑于: <span class="odate time_1616604806 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Mar 2021 16:53</span></div>
+                            <div id="page-info">页面版本: 431, 最后编辑于: <span class="odate time_1616663398 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">25 Mar 2021 09:09</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,43 +1712,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smlt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smlt.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://biblio.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biblio.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smlt.wikidot.com">SMLT Container</a></h3>
+            <h3><a target="_blank" href="http://biblio.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
             <div class="desc">          
-              The SCP Sandbox by Nerds for Nerds.
+              livros e artigos sobre línguas sul-americanas
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fairfieldproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fairfieldproject.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://voyage34.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/voyage34.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fairfieldproject.wikidot.com">The Fairfield Project</a></h3>
+            <h3><a target="_blank" href="http://voyage34.wikidot.com">☆VOYAGE34</a></h3>
             <div class="desc">          
-              The Delta Green wiki
+              毛細血管的透過性亢進!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://epitome.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/epitome.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ddscat.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ddscat.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://epitome.wikidot.com">Epitome City</a></h3>
+            <h3><a target="_blank" href="http://ddscat.wikidot.com">DDSCAT</a></h3>
             <div class="desc">          
-              Hero or Villain? You decide.
+              Light Scattering Code
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://alveslima-edu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alveslima-edu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pcg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pcg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://alveslima-edu.wikidot.com">WIKEDUCAÇÃO</a></h3>
+            <h3><a target="_blank" href="http://pcg.wikidot.com">Procedural Content Generation Wiki</a></h3>
             <div class="desc">          
               
             </div>
