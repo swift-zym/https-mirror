@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1616631965;
+        OZONE.request.timestamp = 1616653047;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1453,7 +1453,7 @@
 <li><a href="/scp-5881">SCP-5881</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5882">SCP-5882</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5883">SCP-5883</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5884">SCP-5884</a> - [拒绝访问]</li>
+<li><a href="/scp-5884">SCP-5884</a> - [拒绝访问]</li>
 <li><a href="/scp-5885">SCP-5885</a> - <em>埋骨何须桑梓地，人间处处可安息</em></li>
 <li><a href="/scp-5886">SCP-5886</a> - Jim Biggio之歌</li>
 <li><a class="newpage" href="/scp-5887">SCP-5887</a> - [拒绝访问]</li>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://iaac-readings.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iaac-readings.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://smlt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smlt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://iaac-readings.wikidot.com">iaac emergent culture glossary</a></h3>
+            <h3><a target="_blank" href="http://smlt.wikidot.com">SMLT Container</a></h3>
             <div class="desc">          
-              words, words, words
+              The SCP Sandbox by Nerds for Nerds.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpvnsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvnsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fairfieldproject.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fairfieldproject.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpvnsandbox.wikidot.com">SCP-VN Sandbox</a></h3>
+            <h3><a target="_blank" href="http://fairfieldproject.wikidot.com">The Fairfield Project</a></h3>
             <div class="desc">          
-              Khu vực thử nghiệm
+              The Delta Green wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hiddenprojectwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hiddenprojectwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://epitome.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/epitome.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hiddenprojectwiki.wikidot.com">Hidden Project</a></h3>
+            <h3><a target="_blank" href="http://epitome.wikidot.com">Epitome City</a></h3>
             <div class="desc">          
-              Welcome to Hidden Project Wiki
+              Hero or Villain? You decide.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dqnine.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dqnine.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://alveslima-edu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alveslima-edu.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dqnine.wikidot.com">Dragon Quest IX</a></h3>
+            <h3><a target="_blank" href="http://alveslima-edu.wikidot.com">WIKEDUCAÇÃO</a></h3>
             <div class="desc">          
-              Sentinels of the Starry Skies
+              
             </div>
           </div>
         </div>
