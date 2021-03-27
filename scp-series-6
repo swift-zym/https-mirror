@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1616847749;
+        OZONE.request.timestamp = 1616869416;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -896,7 +896,7 @@
 <li><a href="/scp-5344">SCP-5344</a> - 不定量的柳骨灰</li>
 <li><a class="newpage" href="/scp-5345">SCP-5345</a> - [拒绝访问]</li>
 <li><a href="/scp-5346">SCP-5346</a> - <tt>阿甘</tt></li>
-<li><a href="/scp-5347">SCP-5347</a> - [拒绝访问]</li>
+<li><a href="/scp-5347">SCP-5347</a> - 你正在去往巴西岛</li>
 <li><a href="/scp-5348">SCP-5348</a> - 安布罗斯妈妈的奶油蘑菇汤</li>
 <li><a class="newpage" href="/scp-5349">SCP-5349</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5350">SCP-5350</a> - Oculoma</li>
@@ -1209,7 +1209,7 @@
 <li><a href="/scp-5645">SCP-5645</a> - 无关紧要的终结</li>
 <li><a class="newpage" href="/scp-5646">SCP-5646</a> - [拒绝访问]</li>
 <li><a href="/scp-5647">SCP-5647</a> - 超时空</li>
-<li><a class="newpage" href="/scp-5648">SCP-5648</a> - [拒绝访问]</li>
+<li><a href="/scp-5648">SCP-5648</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5649">SCP-5649</a> - [拒绝访问]</li>
 <li><a href="/scp-5650">SCP-5650</a> - 鲑鱼角</li>
 <li><a class="newpage" href="/scp-5651">SCP-5651</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 433, 最后编辑于: <span class="odate time_1616771164 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">26 Mar 2021 15:06</span></div>
+                            <div id="page-info">页面版本: 434, 最后编辑于: <span class="odate time_1616860162 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Mar 2021 15:49</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,10 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://team-exterius.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/team-exterius.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kfmapdb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kfmapdb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://team-exterius.wikidot.com">Team Exterius</a></h3>
+            <h3><a target="_blank" href="http://kfmapdb.wikidot.com">Killing Floor Map Database</a></h3>
+            <div class="desc">          
+              KFMapDB.com
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://bilbreyapwh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bilbreyapwh.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://bilbreyapwh.wikidot.com">Mr. Bilbrey&#039;s AP World History</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,10 +1734,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zeromq.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zeromq.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://enchantedbros.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/enchantedbros.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zeromq.wikidot.com">zeromq</a></h3>
+            <h3><a target="_blank" href="http://enchantedbros.wikidot.com">Enchanted Bros wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1745,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandbox-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://videoart.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/videoart.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandbox-pl.wikidot.com">SCP-PL Sandbox II</a></h3>
+            <h3><a target="_blank" href="http://videoart.wikidot.com">Interactive Media Design: Theory</a></h3>
             <div class="desc">          
-              Do pracy rodacy!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://vocaro.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vocaro.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://vocaro.wikidot.com">보카로 가사 위키</a></h3>
-            <div class="desc">          
-              Vocaloid Lyrics Wiki
+              
             </div>
           </div>
         </div>

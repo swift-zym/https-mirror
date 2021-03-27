@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1616847708;
+        OZONE.request.timestamp = 1616869416;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1116,7 +1116,7 @@
 <li><a href="/scp-4533">SCP-4533</a> - 条款和条件应得适用</li>
 <li><a href="/scp-4534">SCP-4534</a> - 美人美照</li>
 <li><a class="newpage" href="/scp-4535">SCP-4535</a> - The Better Man</li>
-<li><a class="newpage" href="/scp-4536">SCP-4536</a> - [拒绝访问]</li>
+<li><a href="/scp-4536">SCP-4536</a> - 美国大金字塔</li>
 <li><a href="/scp-4537">SCP-4537</a> - 艺术家综合症</li>
 <li><a href="/scp-4538">SCP-4538</a> - 闪闪闪！炸炸炸！</li>
 <li><a href="/scp-4539">SCP-4539</a> - 史上最差计算器</li>
@@ -1671,7 +1671,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 763, 最后编辑于: <span class="odate time_1616842444 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Mar 2021 10:54</span></div>
+                            <div id="page-info">页面版本: 764, 最后编辑于: <span class="odate time_1616861962 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Mar 2021 16:19</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1743,21 +1743,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://simtrackipedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/simtrackipedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kfmapdb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kfmapdb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://simtrackipedia.wikidot.com">SIMTrackipedia</a></h3>
+            <h3><a target="_blank" href="http://kfmapdb.wikidot.com">Killing Floor Map Database</a></h3>
             <div class="desc">          
-              A collection of tutorials for Bob&#039;s Track Builder, XPacker, and other related programs
+              KFMapDB.com
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hackingthursday.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hackingthursday.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bilbreyapwh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bilbreyapwh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hackingthursday.wikidot.com">Hacking Thursday</a></h3>
+            <h3><a target="_blank" href="http://bilbreyapwh.wikidot.com">Mr. Bilbrey&#039;s AP World History</a></h3>
             <div class="desc">          
               
             </div>
@@ -1765,10 +1765,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://enchantedbros.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/enchantedbros.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
+            <h3><a target="_blank" href="http://enchantedbros.wikidot.com">Enchanted Bros wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1776,12 +1776,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-hu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-hu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://videoart.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/videoart.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-hu.wikidot.com">SCP Alapítvány</a></h3>
+            <h3><a target="_blank" href="http://videoart.wikidot.com">Interactive Media Design: Theory</a></h3>
             <div class="desc">          
-              Magyarnyelvű ágazat
+              
             </div>
           </div>
         </div>
