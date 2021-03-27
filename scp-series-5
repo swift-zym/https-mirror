@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1616783007;
+        OZONE.request.timestamp = 1616804634;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1407,7 +1407,7 @@
 <li><a href="/scp-4812">SCP-4812</a> - 愤怒</li>
 <li><a href="/scp-4813">SCP-4813</a> - 我唯一的出路就是忘掉我还需要出路。</li>
 <li><a href="/scp-4814">SCP-4814</a> - 啄木人</li>
-<li><a href="/scp-4815">SCP-4815</a> - 失败的预言</li>
+<li><a href="/scp-4815">SCP-4815</a> - 失落的“神谕”</li>
 <li><a href="/scp-4816">SCP-4816</a> - 我的生活照 :)</li>
 <li><a class="newpage" href="/scp-4817">SCP-4817</a> - Horseman Holiday Rentals in scenic King Louis XVI of France</li>
 <li><a href="/scp-4818">SCP-4818</a> - 我需要一位英雄</li>
@@ -1532,7 +1532,7 @@
 <li><a class="newpage" href="/scp-4933">SCP-4933</a> - We Interrupt This Broadcast</li>
 <li><a href="/scp-4934">SCP-4934</a> - 查克·琼斯之家</li>
 <li><a href="/scp-4935">SCP-4935</a> - 来世</li>
-<li><a class="newpage" href="/scp-4936">SCP-4936</a> - Endymionis Amorum Amore</li>
+<li><a href="/scp-4936">SCP-4936</a> - 恩底弥翁之爱</li>
 <li><a href="/scp-4937">SCP-4937</a> - 一只漏气的气球狗</li>
 <li><a href="/scp-4938">SCP-4938</a> - 太阳的汗水</li>
 <li><a class="newpage" href="/scp-4939">SCP-4939</a> - The Man on the Moon</li>
@@ -1671,7 +1671,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 761, 最后编辑于: <span class="odate time_1616606466 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Mar 2021 17:21</span></div>
+                            <div id="page-info">页面版本: 762, 最后编辑于: <span class="odate time_1616803357 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Mar 2021 00:02</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1743,10 +1743,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://osx86.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/osx86.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://me1065.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/me1065.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://osx86.wikidot.com">InfiniteMac Wiki</a></h3>
+            <h3><a target="_blank" href="http://me1065.wikidot.com">Thermal Systems</a></h3>
             <div class="desc">          
               
             </div>
@@ -1754,34 +1754,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://networkers.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/networkers.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chessopeningsforengines.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessopeningsforengines.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://networkers.wikidot.com">KAIMTech Labs</a></h3>
+            <h3><a target="_blank" href="http://chessopeningsforengines.wikidot.com">Chess Openings for Engine Competition</a></h3>
             <div class="desc">          
-              Sharing my IP networking experience
+              Opening lines that are known in Master play and that are biased for one side
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp-sandbox3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-sandbox3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rpc-jp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-jp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-jp-sandbox3.wikidot.com">SCP-JPサンドボックスⅢ</a></h3>
+            <h3><a target="_blank" href="http://rpc-jp.wikidot.com">RPC機構</a></h3>
             <div class="desc">          
-              a.k.a 下書きフォーラム v2
+              研究、保護、収容
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://spaceepicuntitled.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spaceepicuntitled.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://beadersresourceguide.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/beadersresourceguide.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://spaceepicuntitled.wikidot.com">Space Epic Untitled</a></h3>
+            <h3><a target="_blank" href="http://beadersresourceguide.wikidot.com">Beader&#039;s Resource Guide</a></h3>
             <div class="desc">          
-              From KUMA Games
+              A place for those who love to bead.
             </div>
           </div>
         </div>
