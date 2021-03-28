@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1616869322;
+        OZONE.request.timestamp = 1616890867;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,10 +1688,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ubmedicinefaqs.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmedicinefaqs.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikistoriaenciclopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikistoriaenciclopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ubmedicinefaqs.wikidot.com">UBMedicineFAQ</a></h3>
+            <h3><a target="_blank" href="http://wikistoriaenciclopedia.wikidot.com">Wikistória</a></h3>
+            <div class="desc">          
+              A enciclopédia de História feita por estudantes
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://championsashes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/championsashes.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://championsashes.wikidot.com">Champion&#039;s Ashes</a></h3>
+            <div class="desc">          
+              The Official Wiki For Dark Souls III: Champion&#039;s Ashes
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://microchip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
             <div class="desc">          
               
             </div>
@@ -1699,34 +1721,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://analyticscamp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/analyticscamp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://isocentre.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/isocentre.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://analyticscamp.wikidot.com">AnalyticsCamp</a></h3>
+            <h3><a target="_blank" href="http://isocentre.wikidot.com">Isocentre Archive</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://bx-community.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bx-community.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://bx-community.wikidot.com">Bidirectional Transformations</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://bootstrap-playground.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bootstrap-playground.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://bootstrap-playground.wikidot.com">Bootstrap Playground</a></h3>
-            <div class="desc">          
-              Because we all need a place to play
+              Where ideas intersect
             </div>
           </div>
         </div>
