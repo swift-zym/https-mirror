@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1616890867;
+        OZONE.request.timestamp = 1616912462;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -873,7 +873,7 @@
 <li><a href="/scp-cn-326">SCP-CN-326</a> - <span style="text-decoration: line-through;">消逝的書中</span>重生的數碼音樂奇幻</li>
 <li><a href="/scp-cn-327">SCP-CN-327</a> - 军神节钺</li>
 <li><a href="/scp-cn-328">SCP-CN-328</a> - 手工縫製先生</li>
-<li><a href="/scp-cn-329">SCP-CN-329</a> - 囚笼中</li>
+<li><a href="/scp-cn-329">SCP-CN-329</a> - 不要相信他</li>
 <li><a href="/scp-cn-330">SCP-CN-330</a> - 天穹之埙</li>
 <li><a href="/scp-cn-331">SCP-CN-331</a> - 卢德基金会</li>
 <li><a href="/scp-cn-332">SCP-CN-332</a> - 空腹</li>
@@ -1616,7 +1616,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3261, 最后编辑于: <span class="odate time_1615564881 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">12 Mar 2021 16:01</span></div>
+                            <div id="page-info">页面版本: 3262, 最后编辑于: <span class="odate time_1616906218 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">28 Mar 2021 04:36</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+70</span>)</a>
@@ -1688,32 +1688,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikistoriaenciclopedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikistoriaenciclopedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sandboxscpfr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sandboxscpfr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikistoriaenciclopedia.wikidot.com">Wikistória</a></h3>
+            <h3><a target="_blank" href="http://sandboxscpfr.wikidot.com">SCP Sandbox FR</a></h3>
             <div class="desc">          
-              A enciclopédia de História feita por estudantes
+              Réservé aux auteurs et traducteurs du Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://championsashes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/championsashes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://daeren.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/daeren.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://championsashes.wikidot.com">Champion&#039;s Ashes</a></h3>
-            <div class="desc">          
-              The Official Wiki For Dark Souls III: Champion&#039;s Ashes
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://microchip.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
+            <h3><a target="_blank" href="http://daeren.wikidot.com">The Tales of Daeren</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,12 +1710,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://isocentre.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/isocentre.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki-qqxsj.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-qqxsj.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://isocentre.wikidot.com">Isocentre Archive</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki-qqxsj.wikidot.com">SCP基金会小世界分部</a></h3>
             <div class="desc">          
-              Where ideas intersect
+              控制，收容，保护
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://fmi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmi.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://fmi.wikidot.com">Лекциите на ФМИ</a></h3>
+            <div class="desc">          
+              За да изглеждаме умни пред другите
             </div>
           </div>
         </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1616891084;
+        OZONE.request.timestamp = 1616912451;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -822,7 +822,7 @@
 <li><a class="newpage" href="/scp-5274">SCP-5274</a> - [拒绝访问]</li>
 <li><a href="/scp-5275">SCP-5275</a> - 你满意了？</li>
 <li><a class="newpage" href="/scp-5276">SCP-5276</a> - [拒绝访问]</li>
-<li><a href="/scp-5277">SCP-5277</a> - [拒绝访问]</li>
+<li><a href="/scp-5277">SCP-5277</a> - 哪里会出错</li>
 <li><a href="/scp-5278">SCP-5278</a> - 不会一直荒废的鬼城</li>
 <li><a class="newpage" href="/scp-5279">SCP-5279</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5280">SCP-5280</a> - Honeymandias</li>
@@ -912,7 +912,7 @@
 <li><a class="newpage" href="/scp-5360">SCP-5360</a> - 赤いスプラッター殺人事件 (The Red Splatter Murder Case)</li>
 <li><a class="newpage" href="/scp-5361">SCP-5361</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5362">SCP-5362</a> - [拒绝访问]</li>
-<li><a href="/scp-5363">SCP-5363</a> - [拒绝访问]</li>
+<li><a href="/scp-5363">SCP-5363-D</a> - 受控下收容</li>
 <li><a href="/scp-5364">SCP-5364</a> - 七十毫米放映机</li>
 <li><a class="newpage" href="/scp-5365">SCP-5365</a> - [拒绝访问]</li>
 <li><a href="/scp-5366">SCP-5366</a> - [拒绝访问]</li>
@@ -926,13 +926,13 @@
 <li><a class="newpage" href="/scp-5374">SCP-5374</a> - [拒绝访问]</li>
 <li><a href="/scp-5375">SCP-5375</a> - Nobody与名称机器</li>
 <li><a href="/scp-5376">SCP-5376</a> - 涡轮汤姆森之超级死亡斜坡</li>
-<li><a href="/scp-5377">SCP-5377</a> - [拒绝访问]</li>
+<li><a href="/scp-5377">SCP-5377</a> - 开你个垃圾邮件，Y.W.T.G.T.H.F.T.敬上</li>
 <li><a class="newpage" href="/scp-5378">SCP-5378</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5379">SCP-5379</a> - [拒绝访问]</li>
 <li><a href="/scp-5380">SCP-5380</a> - 吾的世界</li>
 <li><a class="newpage" href="/scp-5381">SCP-5381</a> - Left on read</li>
 <li><a href="/scp-5382">SCP-5382</a> - 灵药与疾患</li>
-<li><a href="/scp-5383">SCP-5383</a> - [拒绝访问]</li>
+<li><a href="/scp-5383">SCP-5383</a> - 天主教作弊码（苦难溢出）</li>
 <li><a class="newpage" href="/scp-5384">SCP-5384</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5385">SCP-5385</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5386">SCP-5386</a> - [拒绝访问]</li>
@@ -1104,7 +1104,7 @@
 <li><a href="/scp-5544">SCP-5544</a> - 可有厌恶这些注目？</li>
 <li><a href="/scp-5545">SCP-5545</a> - <span style="color: white; background-color: black; padding: 1px;"><strong>反 常</strong></span></li>
 <li><a class="newpage" href="/scp-5546">SCP-5546</a> - [拒绝访问]</li>
-<li><a href="/scp-5547">SCP-5547</a> - [拒绝访问]</li>
+<li><a href="/scp-5547">SCP-5547</a> - 沉没的希望</li>
 <li><a class="newpage" href="/scp-5548">SCP-5548</a> - [拒绝访问]</li>
 <li><a href="/scp-5549">SCP-5549</a> - 第二宗罪</li>
 <li><a href="/scp-5550">SCP-5550</a> - 我，辛格，我被收集的躯体</li>
@@ -1147,7 +1147,7 @@
 <li><a class="newpage" href="/scp-5587">SCP-5587</a> - [拒绝访问]</li>
 <li><a href="/scp-5588">SCP-5588</a> - 被俘之星依旧闪亮</li>
 <li><a href="/scp-5589">SCP-5589</a> - 战斗蛙</li>
-<li><a href="/scp-5590">SCP-5590</a> - That Little Bastard Robot</li>
+<li><a href="/scp-5590">SCP-5590</a> - 小混账机器人</li>
 <li><a class="newpage" href="/scp-5591">SCP-5591</a> - Easy-Fake Oven</li>
 <li><a class="newpage" href="/scp-5592">SCP-5592</a> - 蠕虫</li>
 <li><a href="/scp-5593">SCP-5593</a> - 畅通</li>
@@ -1209,7 +1209,7 @@
 <li><a href="/scp-5645">SCP-5645</a> - 无关紧要的终结</li>
 <li><a class="newpage" href="/scp-5646">SCP-5646</a> - [拒绝访问]</li>
 <li><a href="/scp-5647">SCP-5647</a> - 超时空</li>
-<li><a href="/scp-5648">SCP-5648</a> - [拒绝访问]</li>
+<li><a href="/scp-5648">SCP-5648</a> - 洛克菲勒博士（总是带牙）</li>
 <li><a class="newpage" href="/scp-5649">SCP-5649</a> - [拒绝访问]</li>
 <li><a href="/scp-5650">SCP-5650</a> - 鲑鱼角</li>
 <li><a class="newpage" href="/scp-5651">SCP-5651</a> - [拒绝访问]</li>
@@ -1257,7 +1257,7 @@
 <li><a class="newpage" href="/scp-5693">SCP-5693</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5694">SCP-5694</a> - [拒绝访问]</li>
 <li><a href="/scp-5695">SCP-5695</a> - 巧克力金鱼</li>
-<li><a href="/scp-5696">SCP-5696</a> - [拒绝访问]</li>
+<li><a href="/scp-5696">SCP-5696</a> - 最后一张A</li>
 <li><a class="newpage" href="/scp-5697">SCP-5697</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5698">SCP-5698</a> - [拒绝访问]</li>
 <li><a href="/scp-5699">SCP-5699</a> - 珍重。</li>
@@ -1269,7 +1269,7 @@
 <li><a class="newpage" href="/scp-5701">SCP-5701</a> - Lori上门过圣诞</li>
 <li><a class="newpage" href="/scp-5702">SCP-5702</a> - [拒绝访问]</li>
 <li><a href="/scp-5703">SCP-5703</a> - [拒绝访问]</li>
-<li><a href="/scp-5704">SCP-5704</a> - [拒绝访问]</li>
+<li><a href="/scp-5704">SCP-5704</a> - 数趾腐败</li>
 <li><a class="newpage" href="/scp-5705">SCP-5705</a> - Powered by Thorium!™</li>
 <li><a href="/scp-5706">SCP-5706</a> - 無界天際SpeedRun大爆笑！！！（出大事了！）[居然色色的！！]{不是標題黨！！！}</li>
 <li><a href="/scp-5707">SCP-5707</a> - 山姆大叔：全美的血肉术士</li>
@@ -1326,7 +1326,7 @@
 <li><a class="newpage" href="/scp-5758">SCP-5758</a> - The Moth Tide</li>
 <li><a class="newpage" href="/scp-5759">SCP-5759</a> - [拒绝访问]</li>
 <li><a href="/scp-5760">SCP-5760</a> - 赎罪先生</li>
-<li><a href="/scp-5761">SCP-5761</a> - When The Impostor Is Sus II: Nightmare Hour</li>
+<li><a href="/scp-5761">SCP-5761</a> - When The Impostor Is Sus II：噩梦时刻</li>
 <li><a href="/scp-5762">SCP-5762</a> - 一日一医生</li>
 <li><a class="newpage" href="/scp-5763">SCP-5763</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5764">SCP-5764</a> - [拒绝访问]</li>
@@ -1450,7 +1450,7 @@
 <li><a class="newpage" href="/scp-5878">SCP-5878</a> - The Void Stares Into You</li>
 <li><a class="newpage" href="/scp-5879">SCP-5879</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5880">SCP-5880</a> - <span style="text-decoration: line-through;">Praise Unto the Glorious Influenza, the Great and Contagious</span> Religious Influenza</li>
-<li><a href="/scp-5881">SCP-5881</a> - [拒绝访问]</li>
+<li><a href="/scp-5881">SCP-5881</a> - 真我无二</li>
 <li><a class="newpage" href="/scp-5882">SCP-5882</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5883">SCP-5883</a> - [拒绝访问]</li>
 <li><a href="/scp-5884">SCP-5884</a> - 存活</li>
@@ -1502,7 +1502,7 @@
 <li><a href="/scp-5926">SCP-5926</a> - 个兽问题</li>
 <li><a class="newpage" href="/scp-5927">SCP-5927</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5928">SCP-5928</a> - [拒绝访问]</li>
-<li><a href="/scp-5929">SCP-5929</a> - [拒绝访问]</li>
+<li><a href="/scp-5929">SCP-5929</a> - 我们从尿中来</li>
 <li><a class="newpage" href="/scp-5930">SCP-5930</a> - [拒绝访问]</li>
 <li><a href="/scp-5931">SCP-5931</a> - 无枪为我而鸣</li>
 <li><a href="/scp-5932">SCP-5932-D</a> - MTF无限</li>
@@ -1514,7 +1514,7 @@
 <li><a href="/scp-5938">SCP-5938</a> - 在Site-01（反常部）的扑克之夜</li>
 <li><a class="newpage" href="/scp-5939">SCP-5939</a> - [拒绝访问]</li>
 <li><a href="/scp-5940">SCP-5940</a> - 绝对牙齿力场</li>
-<li><a href="/scp-5941">SCP-5941</a> - [拒绝访问]</li>
+<li><a href="/scp-5941">SCP-5941</a> - 看，是中心！</li>
 <li><a class="newpage" href="/scp-5942">SCP-5942</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5943">SCP-5943</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5944">SCP-5944</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 434, 最后编辑于: <span class="odate time_1616860162 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Mar 2021 15:49</span></div>
+                            <div id="page-info">页面版本: 435, 最后编辑于: <span class="odate time_1616893841 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">28 Mar 2021 01:10</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,32 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://e-h-s.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/e-h-s.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tradicional.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradicional.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://e-h-s.wikidot.com">Electromagnetic (Hyper)Sensitivity</a></h3>
+            <h3><a target="_blank" href="http://tradicional.wikidot.com">Tradicional</a></h3>
             <div class="desc">          
-              Causes of Electro Smog, EMF and Wireless Devices
+              A Arca da Fé
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://superjet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/superjet.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://destiny.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/destiny.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://superjet.wikidot.com">Sukhoi Superjet 100</a></h3>
-            <div class="desc">          
-              Реальность против домыслов
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://righthandrobotics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/righthandrobotics.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://righthandrobotics.wikidot.com">RightHand Robotics</a></h3>
+            <h3><a target="_blank" href="http://destiny.wikidot.com">Destiny</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,12 +1734,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://typesets.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/typesets.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ibiz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibiz.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://typesets.wikidot.com">Type Set Coin Collecting</a></h3>
+            <h3><a target="_blank" href="http://ibiz.wikidot.com">Internet and Business</a></h3>
             <div class="desc">          
-              
+              How the internet has changed business
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://neosteam.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/neosteam.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://neosteam.wikidot.com">Neo Steam Wiki</a></h3>
+            <div class="desc">          
+              May 2008 to February 2012
             </div>
           </div>
         </div>
