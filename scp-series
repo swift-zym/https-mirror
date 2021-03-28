@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1616934070;
+        OZONE.request.timestamp = 1616955814;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,10 +1711,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://demonssouls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/demonssouls.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kalgati.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kalgati.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://demonssouls.wikidot.com">Demon&#039;s Souls English Wiki</a></h3>
+            <h3><a target="_blank" href="http://kalgati.wikidot.com">क्षत्रिय राजपूत इतिहास</a></h3>
+            <div class="desc">          
+              क्षत्रिय राजपूत
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://typesets.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/typesets.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://typesets.wikidot.com">Type Set Coin Collecting</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1733,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://evilhat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/evilhat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darksouls2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://evilhat.wikidot.com">Evil Hat Productions Wiki</a></h3>
+            <h3><a target="_blank" href="http://darksouls2.wikidot.com">DarkSouls II Wiki</a></h3>
             <div class="desc">          
-              
+              #1 source of fan provided tips, strategies, FAQs, and information about Dark Souls II
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chimiex-bicaz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chimiex-bicaz.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://theskyremains.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theskyremains.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chimiex-bicaz.wikidot.com">Chimiex Bicaz</a></h3>
+            <h3><a target="_blank" href="http://theskyremains.wikidot.com">The Sky Remains</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://musicgames.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/musicgames.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://musicgames.wikidot.com">Games for Music</a></h3>
-            <div class="desc">          
-              Music Game Archive &amp; Community for Musicians of All Levels
             </div>
           </div>
         </div>
