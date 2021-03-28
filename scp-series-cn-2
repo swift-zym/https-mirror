@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1616912560;
+        OZONE.request.timestamp = 1616934181;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,32 +1689,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chrysaliswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://philosophia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chrysaliswiki.wikidot.com">Chrysalis</a></h3>
+            <h3><a target="_blank" href="http://philosophia.wikidot.com">Philosophia UAM</a></h3>
             <div class="desc">          
-              A Final Fantasy Wiki
+              Wiki studentów filozofii UAM
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://iracing.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iracing.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://latindictionary.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/latindictionary.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://iracing.wikidot.com">iRacing.com Wiki</a></h3>
+            <h3><a target="_blank" href="http://latindictionary.wikidot.com">The Latin Dictionary</a></h3>
             <div class="desc">          
-              Your one-stop-shop for all iRacing setup help and knowledge.
+              Where Latin meets English
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://startup-australia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/startup-australia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://copernicon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/copernicon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://startup-australia.wikidot.com">Startup Australia</a></h3>
+            <h3><a target="_blank" href="http://copernicon.wikidot.com">Copernicon 2010</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,12 +1722,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-qqxsj.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-qqxsj.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chavezbraintrust.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chavezbraintrust.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki-qqxsj.wikidot.com">SCP基金会小世界分部</a></h3>
+            <h3><a target="_blank" href="http://chavezbraintrust.wikidot.com">Chavez Brain Trust</a></h3>
             <div class="desc">          
-              控制，收容，保护
+              
             </div>
           </div>
         </div>
