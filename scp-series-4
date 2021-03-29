@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1616998879;
+        OZONE.request.timestamp = 1617020475;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1712,32 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cunefb2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefb2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tradicional.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradicional.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cunefb2.wikidot.com">CUNEF Group B2</a></h3>
+            <h3><a target="_blank" href="http://tradicional.wikidot.com">Tradicional</a></h3>
             <div class="desc">          
-              For Your Work, Opinions and Discoveries!
+              A Arca da Fé
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://first-steps.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/first-steps.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://languagearts8.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/languagearts8.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://first-steps.wikidot.com">First Steps</a></h3>
-            <div class="desc">          
-              Making Sense of Educational Research
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://coffeetimex.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coffeetimex.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://coffeetimex.wikidot.com">Coffeetime Extra</a></h3>
+            <h3><a target="_blank" href="http://languagearts8.wikidot.com">Language Arts (8)</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,12 +1734,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dustin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dustin.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpkrsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkrsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dustin.wikidot.com">STAR WARS</a></h3>
+            <h3><a target="_blank" href="http://scpkrsandbox.wikidot.com">SB-KO1</a></h3>
             <div class="desc">          
-              Episode LXIX : The 2021 Campaign
+              SCP-KO 샌드박스 초호기
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://dpcwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dpcwiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://dpcwiki.wikidot.com">DPC Foundation</a></h3>
+            <div class="desc">          
+              Deport. Protect. Contain.
             </div>
           </div>
         </div>

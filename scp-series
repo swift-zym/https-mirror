@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1616998918;
+        OZONE.request.timestamp = 1617020483;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,32 +1711,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dpcwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dpcwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dawnofanewage.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dawnofanewage.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dpcwiki.wikidot.com">DPC Foundation</a></h3>
+            <h3><a target="_blank" href="http://dawnofanewage.wikidot.com">Dawn of a New Age Wiki</a></h3>
             <div class="desc">          
-              Deport. Protect. Contain.
+              A Custom Fantasy Setting
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://arknights.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arknights.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://energyfuture.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyfuture.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://arknights.wikidot.com">明日方舟</a></h3>
+            <h3><a target="_blank" href="http://energyfuture.wikidot.com">The Future of Energy</a></h3>
             <div class="desc">          
-              -重铸未来 方舟启航-
+              Analyzing The Options
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://xanadu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/xanadu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://shillahelpsite.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/shillahelpsite.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://xanadu.wikidot.com">Xanadu Weyr</a></h3>
+            <h3><a target="_blank" href="http://shillahelpsite.wikidot.com">Shilla Helpsite</a></h3>
             <div class="desc">          
               
             </div>
@@ -1744,12 +1744,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://iaac-readings.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iaac-readings.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://roboticspedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticspedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://iaac-readings.wikidot.com">iaac emergent culture glossary</a></h3>
+            <h3><a target="_blank" href="http://roboticspedia.wikidot.com">Roboticspedia</a></h3>
             <div class="desc">          
-              words, words, words
+              All that you want to know about making robots
             </div>
           </div>
         </div>
