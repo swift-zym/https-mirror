@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1617150230;
+        OZONE.request.timestamp = 1617171752;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,32 +1689,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://isocentre.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/isocentre.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://vusb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vusb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://isocentre.wikidot.com">Isocentre Archive</a></h3>
+            <h3><a target="_blank" href="http://vusb.wikidot.com">V-USB</a></h3>
             <div class="desc">          
-              Where ideas intersect
+              A Firmware-Only USB Driver for the AVR
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kittyliterature.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kittyliterature.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://veritasbatheo.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/veritasbatheo.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kittyliterature.wikidot.com">小猫文学</a></h3>
-            <div class="desc">          
-              源于生活 低于生活
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pt851.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pt851.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pt851.wikidot.com">Cell Biology of Disease and Exercise</a></h3>
+            <h3><a target="_blank" href="http://veritasbatheo.wikidot.com">Batheo</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,12 +1711,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-el.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-el.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ubmedicinefaqs.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmedicinefaqs.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-el.wikidot.com">Το Ίδρυμα SCP</a></h3>
+            <h3><a target="_blank" href="http://ubmedicinefaqs.wikidot.com">UBMedicineFAQ</a></h3>
             <div class="desc">          
-              Ελληνόφωνος κλάδος
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://psi-ppwg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psi-ppwg.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://psi-ppwg.wikidot.com">Performance &amp; Philosophy</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>

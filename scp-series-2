@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1617150077;
+        OZONE.request.timestamp = 1617171593;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,32 +1713,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://beadersresourceguide.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/beadersresourceguide.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://enchantedbros.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/enchantedbros.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://beadersresourceguide.wikidot.com">Beader&#039;s Resource Guide</a></h3>
-            <div class="desc">          
-              A place for those who love to bead.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://porsche.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/porsche.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://porsche.wikidot.com">Porsche Wiki</a></h3>
-            <div class="desc">          
-              Brought to You By RedLine Technik | RedLineTechnik.com
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
+            <h3><a target="_blank" href="http://enchantedbros.wikidot.com">Enchanted Bros wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1746,10 +1724,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://righthandrobotics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/righthandrobotics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pandora-saga.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pandora-saga.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://righthandrobotics.wikidot.com">RightHand Robotics</a></h3>
+            <h3><a target="_blank" href="http://pandora-saga.wikidot.com">Pandora Saga Online Wiki</a></h3>
+            <div class="desc">          
+              NYANICORN!!!!!!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://opend6.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opend6.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://opend6.wikidot.com">OpenD6</a></h3>
+            <div class="desc">          
+              The OpenD6 System Reference Document
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-migration.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-migration.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-migration.wikidot.com">SCP Database Migration</a></h3>
             <div class="desc">          
               
             </div>
