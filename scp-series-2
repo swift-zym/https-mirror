@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1617193113;
+        OZONE.request.timestamp = 1617215021;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,10 +1713,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://retrolegends.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrolegends.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
+            <h3><a target="_blank" href="http://retrolegends.wikidot.com">Retro Legends</a></h3>
+            <div class="desc">          
+              The Definitive Database for Retro Gamers
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://mainframes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mainframes.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://mainframes.wikidot.com">Mainframes</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,34 +1735,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp-sandbox3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-sandbox3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://music-industrapedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/music-industrapedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-jp-sandbox3.wikidot.com">SCP-JPサンドボックスⅢ</a></h3>
+            <h3><a target="_blank" href="http://music-industrapedia.wikidot.com">Music Industrapedia</a></h3>
             <div class="desc">          
-              a.k.a 下書きフォーラム v2
+              A Legacy of your Working Life in the Music Industry
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cyclods.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cyclods.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://textanalytics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/textanalytics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cyclods.wikidot.com">CycloDS Revolution</a></h3>
+            <h3><a target="_blank" href="http://textanalytics.wikidot.com">Text Analytics Wiki</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://www.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://www.wikidot.com">Wikidot - Free and Pro Wiki Hosting</a></h3>
-            <div class="desc">          
-              your place on the web
+              All things unstructured...
             </div>
           </div>
         </div>
@@ -1805,7 +1805,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
 </div>
 <div id="page-options-bottom-2-tips"  style="display: none;">
     <div id="edit-sections-button-hovertip">
-        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    </div>
+        单击此处切换页面各部分的编辑按钮（如果可能）。 在标题边会显示“编辑”链接。    </div>
     <div id="edit-append-button-hovertip">
         在不编辑整个页面源代码的情况下添加内容。    </div>
     <div id="history-button-hovertip">
@@ -1819,7 +1819,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
     <div id="backlinks-button-hovertip">
         检视链接至本页或引用本页的页面。    </div>
     <div id="rename-move-button-hovertip">
-        变更页面名称（及URL 位址，或许会影响分类）。    </div>
+        变更页面名称（及 URL 地址，或许会影响分类）。    </div>
     <div id="view-source-button-hovertip">
         在不编辑的情形下检视维基原始码。    </div>
     <div id="parent-page-button-hovertip">  

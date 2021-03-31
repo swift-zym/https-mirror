@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1617193157;
+        OZONE.request.timestamp = 1617214942;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,45 +1711,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vusb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vusb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://team-exterius.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/team-exterius.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vusb.wikidot.com">V-USB</a></h3>
+            <h3><a target="_blank" href="http://team-exterius.wikidot.com">Team Exterius</a></h3>
             <div class="desc">          
-              A Firmware-Only USB Driver for the AVR
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandboxcn.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxcn.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpdsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpdsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandboxcn.wikidot.com">SCP基金會中文沙盒站</a></h3>
+            <h3><a target="_blank" href="http://scpdsandbox.wikidot.com">SCPDeclassified Sandbox</a></h3>
             <div class="desc">          
-              千仞高塔，筑基于此
+              Secure, Contain, Protect, Declassify
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://warsztatywww.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/warsztatywww.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://joshuaperusse.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/joshuaperusse.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://warsztatywww.wikidot.com">WWW 10</a></h3>
+            <h3><a target="_blank" href="http://joshuaperusse.wikidot.com">Joshua Perusse</a></h3>
             <div class="desc">          
-              Wakacyjne Warsztaty Wielodyscyplinarne 9
+              Voice Actor
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikiwealth.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiwealth.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://green-house.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/green-house.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikiwealth.wikidot.com">WikiWealth</a></h3>
+            <h3><a target="_blank" href="http://green-house.wikidot.com">The Green House Wiki</a></h3>
             <div class="desc">          
-              Stock, ETF and Mutual Fund Ratings | Commodity, Currency Research
+              
             </div>
           </div>
         </div>
@@ -1803,7 +1803,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
 </div>
 <div id="page-options-bottom-2-tips"  style="display: none;">
     <div id="edit-sections-button-hovertip">
-        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    </div>
+        单击此处切换页面各部分的编辑按钮（如果可能）。 在标题边会显示“编辑”链接。    </div>
     <div id="edit-append-button-hovertip">
         在不编辑整个页面源代码的情况下添加内容。    </div>
     <div id="history-button-hovertip">
@@ -1817,7 +1817,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
     <div id="backlinks-button-hovertip">
         检视链接至本页或引用本页的页面。    </div>
     <div id="rename-move-button-hovertip">
-        变更页面名称（及URL 位址，或许会影响分类）。    </div>
+        变更页面名称（及 URL 地址，或许会影响分类）。    </div>
     <div id="view-source-button-hovertip">
         在不编辑的情形下检视维基原始码。    </div>
     <div id="parent-page-button-hovertip">  

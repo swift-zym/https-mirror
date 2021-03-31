@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1617193378;
+        OZONE.request.timestamp = 1617214975;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ds2010a.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds2010a.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://editora.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/editora.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ds2010a.wikidot.com">מבני נתונים</a></h3>
+            <h3><a target="_blank" href="http://editora.wikidot.com">CIN  7402 Editoração Científica</a></h3>
             <div class="desc">          
-              סמסטר א&#039;, תשע&quot;א
+              Disciplina na UFSC
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://abstractum.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/abstractum.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://backrooms-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://abstractum.wikidot.com">Abstractum</a></h3>
+            <h3><a target="_blank" href="http://backrooms-sandbox.wikidot.com">Backrooms Sandbox</a></h3>
             <div class="desc">          
-              It Took Them Away
+              When your Sandbox just gets too Backrooms
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://predev.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/predev.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://java.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/java.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://predev.wikidot.com">pre dev wiki</a></h3>
+            <h3><a target="_blank" href="http://java.wikidot.com">Learn Java!</a></h3>
             <div class="desc">          
-              Let&#039;s open this beast up
+              No... it&#039;s not coffee.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sandboxscpfr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sandboxscpfr.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpminecraft.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpminecraft.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sandboxscpfr.wikidot.com">SCP Sandbox FR</a></h3>
+            <h3><a target="_blank" href="http://scpminecraft.wikidot.com">SCP Minecraft</a></h3>
             <div class="desc">          
-              Réservé aux auteurs et traducteurs du Wiki
+              Spiders. Creepers. Pigs. Minecraft.
             </div>
           </div>
         </div>
@@ -1780,7 +1780,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
 </div>
 <div id="page-options-bottom-2-tips"  style="display: none;">
     <div id="edit-sections-button-hovertip">
-        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    </div>
+        单击此处切换页面各部分的编辑按钮（如果可能）。 在标题边会显示“编辑”链接。    </div>
     <div id="edit-append-button-hovertip">
         在不编辑整个页面源代码的情况下添加内容。    </div>
     <div id="history-button-hovertip">
@@ -1794,7 +1794,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
     <div id="backlinks-button-hovertip">
         检视链接至本页或引用本页的页面。    </div>
     <div id="rename-move-button-hovertip">
-        变更页面名称（及URL 位址，或许会影响分类）。    </div>
+        变更页面名称（及 URL 地址，或许会影响分类）。    </div>
     <div id="view-source-button-hovertip">
         在不编辑的情形下检视维基原始码。    </div>
     <div id="parent-page-button-hovertip">  

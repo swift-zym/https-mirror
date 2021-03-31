@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1617193369;
+        OZONE.request.timestamp = 1617215021;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,10 +1689,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://retrolegends.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrolegends.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
+            <h3><a target="_blank" href="http://retrolegends.wikidot.com">Retro Legends</a></h3>
+            <div class="desc">          
+              The Definitive Database for Retro Gamers
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://mainframes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mainframes.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://mainframes.wikidot.com">Mainframes</a></h3>
             <div class="desc">          
               
             </div>
@@ -1700,34 +1711,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ru-backrooms-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ru-backrooms-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://music-industrapedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/music-industrapedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ru-backrooms-sandbox.wikidot.com">Песочница Закулисья</a></h3>
+            <h3><a target="_blank" href="http://music-industrapedia.wikidot.com">Music Industrapedia</a></h3>
             <div class="desc">          
-              привет
+              A Legacy of your Working Life in the Music Industry
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sharecokecodes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sharecokecodes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://textanalytics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/textanalytics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sharecokecodes.wikidot.com">Share Coke Codes</a></h3>
+            <h3><a target="_blank" href="http://textanalytics.wikidot.com">Text Analytics Wiki</a></h3>
             <div class="desc">          
-              Sharing happiness by sharing Coke rewards codes.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://design-illustration.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/design-illustration.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://design-illustration.wikidot.com">Design &amp; Illustration</a></h3>
-            <div class="desc">          
-              
+              All things unstructured...
             </div>
           </div>
         </div>
@@ -1781,7 +1781,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
 </div>
 <div id="page-options-bottom-2-tips"  style="display: none;">
     <div id="edit-sections-button-hovertip">
-        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    </div>
+        单击此处切换页面各部分的编辑按钮（如果可能）。 在标题边会显示“编辑”链接。    </div>
     <div id="edit-append-button-hovertip">
         在不编辑整个页面源代码的情况下添加内容。    </div>
     <div id="history-button-hovertip">
@@ -1795,7 +1795,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
     <div id="backlinks-button-hovertip">
         检视链接至本页或引用本页的页面。    </div>
     <div id="rename-move-button-hovertip">
-        变更页面名称（及URL 位址，或许会影响分类）。    </div>
+        变更页面名称（及 URL 地址，或许会影响分类）。    </div>
     <div id="view-source-button-hovertip">
         在不编辑的情形下检视维基原始码。    </div>
     <div id="parent-page-button-hovertip">  

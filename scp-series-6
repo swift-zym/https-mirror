@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1617193378;
+        OZONE.request.timestamp = 1617215000;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1541,7 +1541,7 @@
 <li><a href="/scp-5965">SCP-5965</a> - 死亡冲击</li>
 <li><a href="/scp-5966">SCP-5966</a> - 艺术家与赞助人</li>
 <li><a class="newpage" href="/scp-5967">SCP-5967</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5968">SCP-5968</a> - [拒绝访问]</li>
+<li><a href="/scp-5968">SCP-5968</a> - 剧毒先生</li>
 <li><a href="/scp-5969">SCP-5969</a> - 花之力</li>
 <li><a href="/scp-5970">SCP-5970</a> - 尘埃至上（永远为你）</li>
 <li><a href="/scp-5971">SCP-5971</a> - 言语所不及的一瞬间</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 440, 最后编辑于: <span class="odate time_1617182335 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">31 Mar 2021 09:18</span></div>
+                            <div id="page-info">页面版本: 441, 最后编辑于: <span class="odate time_1617200912 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">31 Mar 2021 14:28</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ds2010a.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds2010a.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eng270.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eng270.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ds2010a.wikidot.com">מבני נתונים</a></h3>
+            <h3><a target="_blank" href="http://eng270.wikidot.com">Intro to Creative Writing</a></h3>
             <div class="desc">          
-              סמסטר א&#039;, תשע&quot;א
+              Professor Gabriel
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://abstractum.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/abstractum.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://energyclub4samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub4samvedna.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://abstractum.wikidot.com">Abstractum</a></h3>
+            <h3><a target="_blank" href="http://energyclub4samvedna.wikidot.com">Save Energy, Save Future</a></h3>
             <div class="desc">          
-              It Took Them Away
+              &quot;The collabrative efforts for Energy saving&quot;
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://predev.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/predev.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eventidemush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eventidemush.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://predev.wikidot.com">pre dev wiki</a></h3>
+            <h3><a target="_blank" href="http://eventidemush.wikidot.com">Eventide MUSH</a></h3>
             <div class="desc">          
-              Let&#039;s open this beast up
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sandboxscpfr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sandboxscpfr.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://magmabox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magmabox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sandboxscpfr.wikidot.com">SCP Sandbox FR</a></h3>
+            <h3><a target="_blank" href="http://magmabox.wikidot.com">Centre de Recherche</a></h3>
             <div class="desc">          
-              Réservé aux auteurs et traducteurs du Wiki
+              Là où le loup chasse
             </div>
           </div>
         </div>
@@ -1804,7 +1804,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
 </div>
 <div id="page-options-bottom-2-tips"  style="display: none;">
     <div id="edit-sections-button-hovertip">
-        单击此处切换页面各部分的编辑按钮（如果有可能）。 在标题边会显示“编辑”链接。    </div>
+        单击此处切换页面各部分的编辑按钮（如果可能）。 在标题边会显示“编辑”链接。    </div>
     <div id="edit-append-button-hovertip">
         在不编辑整个页面源代码的情况下添加内容。    </div>
     <div id="history-button-hovertip">
@@ -1818,7 +1818,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
     <div id="backlinks-button-hovertip">
         检视链接至本页或引用本页的页面。    </div>
     <div id="rename-move-button-hovertip">
-        变更页面名称（及URL 位址，或许会影响分类）。    </div>
+        变更页面名称（及 URL 地址，或许会影响分类）。    </div>
     <div id="view-source-button-hovertip">
         在不编辑的情形下检视维基原始码。    </div>
     <div id="parent-page-button-hovertip">  
