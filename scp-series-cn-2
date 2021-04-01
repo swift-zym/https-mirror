@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1617236679;
+        OZONE.request.timestamp = 1617258166;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -544,7 +544,7 @@
 <li><a href="/scp-cn-1008">SCP-CN-1008</a> - 存物U盘</li>
 <li><a href="/scp-cn-1009">SCP-CN-1009</a> - 高投入与低回报</li>
 <li><a href="/scp-cn-1010">SCP-CN-1010</a> - 大撒幣</li>
-<li><a class="newpage" href="/scp-cn-1011">SCP-CN-1011</a> - 暗史皇后Alison Chao，虚渺不见理</li>
+<li><a href="/scp-cn-1011">SCP-CN-1011</a> - 暗史皇后Alison Chao，虚渺不见理</li>
 <li><a href="/scp-cn-1012">SCP-CN-1012</a> - <span style="text-decoration: line-through;">水晶花</span> 游子身上衣</li>
 <li><a href="/scp-cn-1013">SCP-CN-1013</a> - 宰鸽宰鹉</li>
 <li><a href="/scp-cn-1014">SCP-CN-1014</a> - 微笑着的普通男子</li>
@@ -554,7 +554,7 @@
 <li><a href="/scp-cn-1018">SCP-CN-1018</a> - Wangloss之火</li>
 <li><a class="newpage" href="/scp-cn-1019">SCP-CN-1019</a> - 镜子</li>
 <li><a href="/scp-cn-1020">SCP-CN-1020</a> - 云鲸</li>
-<li><a class="newpage" href="/scp-cn-1021">SCP-CN-1021</a> - 最后遗志</li>
+<li><a href="/scp-cn-1021">SCP-CN-1021</a> - 最后遗志</li>
 <li><a href="/scp-cn-1022">SCP-CN-1022</a> - 愿你安息，孩子</li>
 <li><a href="/scp-cn-1023">SCP-CN-1023</a> - 返祖陶罐</li>
 <li><a href="/scp-cn-1024">SCP-CN-1024</a> - 再无流传</li>
@@ -567,7 +567,7 @@
 <li><a href="/scp-cn-1031">SCP-CN-1031</a> - 终焉</li>
 <li><a href="/scp-cn-1032">SCP-CN-1032</a> - 自殺少女</li>
 <li><a href="/scp-cn-1033">SCP-CN-1033</a> - “站宠”</li>
-<li><a class="newpage" href="/scp-cn-1034">SCP-CN-1034</a> - Y███路段</li>
+<li><a href="/scp-cn-1034">SCP-CN-1034</a> - Y███路段</li>
 <li><a href="/scp-cn-1035">SCP-CN-1035</a> - 惡魔的賭局</li>
 <li><a class="newpage" href="/scp-cn-1036">SCP-CN-1036</a> - 孤寂的淤泥</li>
 <li><a href="/scp-cn-1037">SCP-CN-1037</a> - 好孩子诅咒</li>
@@ -1689,10 +1689,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://academicwriting.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/academicwriting.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://superjet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/superjet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://academicwriting.wikidot.com">Academic Writing</a></h3>
+            <h3><a target="_blank" href="http://superjet.wikidot.com">Sukhoi Superjet 100</a></h3>
+            <div class="desc">          
+              Реальность против домыслов
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://hackingthursday.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hackingthursday.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://hackingthursday.wikidot.com">Hacking Thursday</a></h3>
             <div class="desc">          
               
             </div>
@@ -1700,32 +1711,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://thecollaboratory.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thecollaboratory.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
+            <h3><a target="_blank" href="http://thecollaboratory.wikidot.com">The Collaboratory</a></h3>
             <div class="desc">          
-              OpenRPG Dungeons and Dragons 3.5
+              at Colby Community College
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://lightcrown.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lightcrown.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://crosswindsgarou.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/crosswindsgarou.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://lightcrown.wikidot.com">耀冕星环</a></h3>
-            <div class="desc">          
-              LIGHTCROWN
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://psi-ppwg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psi-ppwg.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://psi-ppwg.wikidot.com">Performance &amp; Philosophy</a></h3>
+            <h3><a target="_blank" href="http://crosswindsgarou.wikidot.com">Crosswindsgarou</a></h3>
             <div class="desc">          
               
             </div>
