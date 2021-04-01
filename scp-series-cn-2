@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1617215021;
+        OZONE.request.timestamp = 1617236679;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -544,7 +544,7 @@
 <li><a href="/scp-cn-1008">SCP-CN-1008</a> - 存物U盘</li>
 <li><a href="/scp-cn-1009">SCP-CN-1009</a> - 高投入与低回报</li>
 <li><a href="/scp-cn-1010">SCP-CN-1010</a> - 大撒幣</li>
-<li><a href="/scp-cn-1011">SCP-CN-1011</a> - 暗史皇后Alison Chao，虚渺不见理</li>
+<li><a class="newpage" href="/scp-cn-1011">SCP-CN-1011</a> - 暗史皇后Alison Chao，虚渺不见理</li>
 <li><a href="/scp-cn-1012">SCP-CN-1012</a> - <span style="text-decoration: line-through;">水晶花</span> 游子身上衣</li>
 <li><a href="/scp-cn-1013">SCP-CN-1013</a> - 宰鸽宰鹉</li>
 <li><a href="/scp-cn-1014">SCP-CN-1014</a> - 微笑着的普通男子</li>
@@ -552,24 +552,24 @@
 <li><a href="/scp-cn-1016">SCP-CN-1016</a> - 夏虫</li>
 <li><a href="/scp-cn-1017">SCP-CN-1017</a> - 未知的國度“The Undiscovered Country”</li>
 <li><a href="/scp-cn-1018">SCP-CN-1018</a> - Wangloss之火</li>
-<li><a href="/scp-cn-1019">SCP-CN-1019</a> - 镜子</li>
+<li><a class="newpage" href="/scp-cn-1019">SCP-CN-1019</a> - 镜子</li>
 <li><a href="/scp-cn-1020">SCP-CN-1020</a> - 云鲸</li>
-<li><a href="/scp-cn-1021">SCP-CN-1021</a> - 最后遗志</li>
+<li><a class="newpage" href="/scp-cn-1021">SCP-CN-1021</a> - 最后遗志</li>
 <li><a href="/scp-cn-1022">SCP-CN-1022</a> - 愿你安息，孩子</li>
 <li><a href="/scp-cn-1023">SCP-CN-1023</a> - 返祖陶罐</li>
 <li><a href="/scp-cn-1024">SCP-CN-1024</a> - 再无流传</li>
 <li><a href="/scp-cn-1025">SCP-CN-1025</a> - 天国余孽</li>
 <li><a href="/scp-cn-1026">SCP-CN-1026</a> - 无</li>
 <li><a href="/scp-cn-1027">SCP-CN-1027</a> - 你家床头柜</li>
-<li><a href="/scp-cn-1028">SCP-CN-1028</a> - 魔术师蛛</li>
+<li><a class="newpage" href="/scp-cn-1028">SCP-CN-1028</a> - 魔术师蛛</li>
 <li><a href="/scp-cn-1029">SCP-CN-1029</a> - 玉米谷仓</li>
 <li><a href="/scp-cn-1030">SCP-CN-1030</a> - Dr.Nemo</li>
 <li><a href="/scp-cn-1031">SCP-CN-1031</a> - 终焉</li>
 <li><a href="/scp-cn-1032">SCP-CN-1032</a> - 自殺少女</li>
 <li><a href="/scp-cn-1033">SCP-CN-1033</a> - “站宠”</li>
-<li><a href="/scp-cn-1034">SCP-CN-1034</a> - Y███路段</li>
+<li><a class="newpage" href="/scp-cn-1034">SCP-CN-1034</a> - Y███路段</li>
 <li><a href="/scp-cn-1035">SCP-CN-1035</a> - 惡魔的賭局</li>
-<li><a href="/scp-cn-1036">SCP-CN-1036</a> - 孤寂的淤泥</li>
+<li><a class="newpage" href="/scp-cn-1036">SCP-CN-1036</a> - 孤寂的淤泥</li>
 <li><a href="/scp-cn-1037">SCP-CN-1037</a> - 好孩子诅咒</li>
 <li><a href="/scp-cn-1038">SCP-CN-1038</a> - 你的钱包</li>
 <li><a href="/scp-cn-1039">SCP-CN-1039</a> - 星与“虫豸”</li>
@@ -584,7 +584,7 @@
 <li><a href="/scp-cn-1048">SCP-CN-1048</a> - 传承计划</li>
 <li><a href="/scp-cn-1049">SCP-CN-1049</a> - 雕塑家</li>
 <li><a href="/scp-cn-1050">SCP-CN-1050</a> - &quot;宝瓶座&quot;</li>
-<li><a href="/scp-cn-1051">SCP-CN-1051</a> - 除忆诅咒</li>
+<li><a class="newpage" href="/scp-cn-1051">SCP-CN-1051</a> - 除忆诅咒</li>
 <li><a href="/scp-cn-1052">SCP-CN-1052</a> - 海雪飘落时</li>
 <li><a href="/scp-cn-1053">SCP-CN-1053</a> - 神仙石</li>
 <li><a href="/scp-cn-1054">SCP-CN-1054</a> - dado的童话药</li>
@@ -1208,7 +1208,7 @@
 <li><a href="/scp-cn-1648">SCP-CN-1648</a> - 《平安经》</li>
 <li><a href="/scp-cn-1649">SCP-CN-1649</a> - 终将离去</li>
 <li><a href="/scp-cn-1650">SCP-CN-1650</a> - 它不是什么，或什么不是</li>
-<li><a href="/scp-cn-1651">SCP-CN-1651</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1651">SCP-CN-1651</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1652">SCP-CN-1652</a> - 传染性显卡</li>
 <li><a class="newpage" href="/scp-cn-1653">SCP-CN-1653</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1654">SCP-CN-1654</a> - “紫橙子”</li>
@@ -1216,7 +1216,7 @@
 <li><a href="/scp-cn-1656">SCP-CN-1656</a> - 可食用美容套装</li>
 <li><a href="/scp-cn-1657">SCP-CN-1657</a> - 醉乡路稳</li>
 <li><a href="/scp-cn-1658">SCP-CN-1658</a> - A.A.S.</li>
-<li><a href="/scp-cn-1659">SCP-CN-1659</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1659">SCP-CN-1659</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1660">SCP-CN-1660</a> - ███的诞生</li>
 <li><a href="/scp-cn-1661">SCP-CN-1661</a> - 何患无辞</li>
 <li><a href="/scp-cn-1662">SCP-CN-1662</a> - 瀕臨絕種動物專用獸餌</li>
@@ -1689,21 +1689,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://retrolegends.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrolegends.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://academicwriting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/academicwriting.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://retrolegends.wikidot.com">Retro Legends</a></h3>
-            <div class="desc">          
-              The Definitive Database for Retro Gamers
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://mainframes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mainframes.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://mainframes.wikidot.com">Mainframes</a></h3>
+            <h3><a target="_blank" href="http://academicwriting.wikidot.com">Academic Writing</a></h3>
             <div class="desc">          
               
             </div>
@@ -1711,23 +1700,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://music-industrapedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/music-industrapedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://music-industrapedia.wikidot.com">Music Industrapedia</a></h3>
+            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
             <div class="desc">          
-              A Legacy of your Working Life in the Music Industry
+              OpenRPG Dungeons and Dragons 3.5
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://textanalytics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/textanalytics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://lightcrown.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lightcrown.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://textanalytics.wikidot.com">Text Analytics Wiki</a></h3>
+            <h3><a target="_blank" href="http://lightcrown.wikidot.com">耀冕星环</a></h3>
             <div class="desc">          
-              All things unstructured...
+              LIGHTCROWN
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://psi-ppwg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psi-ppwg.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://psi-ppwg.wikidot.com">Performance &amp; Philosophy</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>
