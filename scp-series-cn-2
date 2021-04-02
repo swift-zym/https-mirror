@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1617365999;
+        OZONE.request.timestamp = 1617387825;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -604,7 +604,7 @@
 <li><a href="/scp-cn-1068">SCP-CN-1068</a> - 当世界上的老虎化成奶油</li>
 <li><a href="/scp-cn-1069">SCP-CN-1069</a> - 你好啊，老朋友</li>
 <li><a href="/scp-cn-1070">SCP-CN-1070</a> - 舌之花</li>
-<li><a href="/scp-cn-1071">SCP-CN-1071</a> - 本该如此</li>
+<li><a class="newpage" href="/scp-cn-1071">SCP-CN-1071</a> - 本该如此</li>
 <li><a href="/scp-cn-1072">SCP-CN-1072</a> - 以█换物</li>
 <li><a href="/scp-cn-1073">SCP-CN-1073</a> - 热熔浴霸</li>
 <li><a href="/scp-cn-1074">SCP-CN-1074</a> - 无内鬼，来点鬼图</li>
@@ -1202,7 +1202,7 @@
 <li><a href="/scp-cn-1642">SCP-CN-1642</a> - 雨凇</li>
 <li><a href="/scp-cn-1643">SCP-CN-1643</a> - 野兽派异术家</li>
 <li><a class="newpage" href="/scp-cn-1644">SCP-CN-1644</a> - [禁止访问]</li>
-<li><a class="newpage" href="/scp-cn-1645">SCP-CN-1645</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1645">SCP-CN-1645</a> - 反恐精英</li>
 <li><a href="/scp-cn-1646">SCP-CN-1646</a> - 通判</li>
 <li><a href="/scp-cn-1647">SCP-CN-1647</a> - 在天界与人间之间有阶梯连接</li>
 <li><a href="/scp-cn-1648">SCP-CN-1648</a> - 《平安经》</li>
@@ -1370,7 +1370,7 @@
 <li><a href="/scp-cn-1802">SCP-CN-1802</a> - 假如你是李华</li>
 <li><a href="/scp-cn-1803">SCP-CN-1803</a> - 失语症鹦鹉</li>
 <li><a href="/scp-cn-1804">SCP-CN-1804</a> - 会上网的烂尾楼</li>
-<li><a href="/scp-cn-1805">SCP-CN-1805</a> - <span style="text-decoration: line-through;">障目</span></li>
+<li><a class="newpage" href="/scp-cn-1805">SCP-CN-1805</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1806">SCP-CN-1806</a> - 灯，灯，灯，安康鱼之灯</li>
 <li><a href="/scp-cn-1807">SCP-CN-1807</a> - 该鼠标因怂的一批故拒绝调戏</li>
 <li><a href="/scp-cn-1808">SCP-CN-1808</a> - 行尸走肉</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4052, 最后编辑于: <span class="odate time_1617355321 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Apr 2021 09:22</span></div>
+                            <div id="page-info">页面版本: 4054, 最后编辑于: <span class="odate time_1617385788 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Apr 2021 17:49</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+87</span>)</a>
@@ -1689,43 +1689,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dawnofanewage.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dawnofanewage.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://emchina2010.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/emchina2010.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dawnofanewage.wikidot.com">Dawn of a New Age Wiki</a></h3>
+            <h3><a target="_blank" href="http://emchina2010.wikidot.com">Emchina2010</a></h3>
             <div class="desc">          
-              A Custom Fantasy Setting
+              Trip to China 2010 Groep T
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rscsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rscsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://smd-ch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smd-ch.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rscsandbox.wikidot.com">RSC Sandbox</a></h3>
+            <h3><a target="_blank" href="http://smd-ch.wikidot.com">SMD超现实管制处</a></h3>
             <div class="desc">          
-              RSC için Sandbox
+              异常 中转 管理
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://puppet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/puppet.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sparks.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sparks.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://puppet.wikidot.com">Puppet中文wiki</a></h3>
+            <h3><a target="_blank" href="http://sparks.wikidot.com">Sparks</a></h3>
             <div class="desc">          
-              
+              d6 Star Wars Campaign
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://righthandrobotics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/righthandrobotics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://r.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/r.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://righthandrobotics.wikidot.com">RightHand Robotics</a></h3>
+            <h3><a target="_blank" href="http://r.wikidot.com">Wikidot URL shortener</a></h3>
             <div class="desc">          
               
             </div>
