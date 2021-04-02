@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1617344441;
+        OZONE.request.timestamp = 1617365999;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -590,11 +590,11 @@
 <li><a href="/scp-cn-1054">SCP-CN-1054</a> - dado的童话药</li>
 <li><a href="/scp-cn-1055">SCP-CN-1055</a> - 流浪汉</li>
 <li><a href="/scp-cn-1056">SCP-CN-1056</a> - 小舌精</li>
-<li><a href="/scp-cn-1057">SCP-CN-1057</a> - 好妈妈</li>
+<li><a class="newpage" href="/scp-cn-1057">SCP-CN-1057</a> - 好妈妈</li>
 <li><a href="/scp-cn-1058">SCP-CN-1058</a> - 书面报告</li>
 <li><a href="/scp-cn-1059">SCP-CN-1059-J</a></li>
 <li><a href="/scp-cn-1060">SCP-CN-1060</a> - 迟到帮助</li>
-<li><a href="/scp-cn-1061">SCP-CN-1061</a> - 深渊洞口</li>
+<li><a class="newpage" href="/scp-cn-1061">SCP-CN-1061</a> - 深渊洞口</li>
 <li><a href="/scp-cn-1062">SCP-CN-1062</a> - 骨(Bone)，肉(Flesh)和等离子体(Plasma)</li>
 <li><a href="/scp-cn-1063">SCP-CN-1063</a> - “母体诱惑”</li>
 <li><a href="/scp-cn-1064">SCP-CN-1064</a> - 被遗忘的9.8</li>
@@ -1201,7 +1201,7 @@
 <li><a href="/scp-cn-1641">SCP-CN-1641</a> - 私人的陌生人</li>
 <li><a href="/scp-cn-1642">SCP-CN-1642</a> - 雨凇</li>
 <li><a href="/scp-cn-1643">SCP-CN-1643</a> - 野兽派异术家</li>
-<li><a href="/scp-cn-1644">SCP-CN-1644</a> - 企鹅闹剧</li>
+<li><a class="newpage" href="/scp-cn-1644">SCP-CN-1644</a> - [禁止访问]</li>
 <li><a class="newpage" href="/scp-cn-1645">SCP-CN-1645</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1646">SCP-CN-1646</a> - 通判</li>
 <li><a href="/scp-cn-1647">SCP-CN-1647</a> - 在天界与人间之间有阶梯连接</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4051, 最后编辑于: <span class="odate time_1616907363 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">28 Mar 2021 04:56</span></div>
+                            <div id="page-info">页面版本: 4052, 最后编辑于: <span class="odate time_1617355321 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Apr 2021 09:22</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+87</span>)</a>
@@ -1689,21 +1689,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpcommune.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpcommune.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dawnofanewage.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dawnofanewage.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpcommune.wikidot.com">The SCP Commune</a></h3>
+            <h3><a target="_blank" href="http://dawnofanewage.wikidot.com">Dawn of a New Age Wiki</a></h3>
             <div class="desc">          
-              Satirize, Collectivize, Politicize
+              A Custom Fantasy Setting
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bisgmit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bisgmit.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rscsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rscsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bisgmit.wikidot.com">Bisgmit</a></h3>
+            <h3><a target="_blank" href="http://rscsandbox.wikidot.com">RSC Sandbox</a></h3>
+            <div class="desc">          
+              RSC için Sandbox
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://puppet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/puppet.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://puppet.wikidot.com">Puppet中文wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1711,23 +1722,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://maitreya.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maitreya.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://righthandrobotics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/righthandrobotics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://maitreya.wikidot.com">REACHA</a></h3>
+            <h3><a target="_blank" href="http://righthandrobotics.wikidot.com">RightHand Robotics</a></h3>
             <div class="desc">          
-              &#039;reaching out...touching lives&#039;
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-jp.wikidot.com">SCP財団</a></h3>
-            <div class="desc">          
-              確保、収容、保護
+              
             </div>
           </div>
         </div>

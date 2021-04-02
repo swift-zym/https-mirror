@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1617344439;
+        OZONE.request.timestamp = 1617365974;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -683,7 +683,7 @@
 <li><a class="newpage" href="/scp-5139">SCP-5139</a> - Acheron's Mists</li>
 <li><a href="/scp-5140">SCP-5140</a> - <strong>珠穆朗玛峰</strong></li>
 <li><a href="/scp-5141">SCP-5141</a> - 斯蒂庞克特别六型</li>
-<li><a class="newpage" href="/scp-5142">SCP-5142</a> - Fruit Salad (Yummy, Yummy)</li>
+<li><a href="/scp-5142">SCP-5142</a> - 水果沙拉（Yunmmy，Yummy）</li>
 <li><a href="/scp-5143">SCP-5143</a> - 重质燃料</li>
 <li><a class="newpage" href="/scp-5144">SCP-5144</a> - [拒绝访问]</li>
 <li><a href="/scp-5145">SCP-5145</a> - 葬阳</li>
@@ -1495,7 +1495,7 @@
 <li><a href="/scp-5919">公寓5919</a></li>
 <li><a class="newpage" href="/scp-5920">SCP-5920</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5921">SCP-5921</a> - [拒绝访问]</li>
-<li><a href="/scp-5922">SCP-5922</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5922">SCP-5922</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5923">SCP-5923</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5924">SCP-5924</a> - [拒绝访问]</li>
 <li><a href="/scp-5925">SCP-5925</a> - 冬青王</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 442, 最后编辑于: <span class="odate time_1617293428 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">01 Apr 2021 16:10</span></div>
+                            <div id="page-info">页面版本: 443, 最后编辑于: <span class="odate time_1617360772 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Apr 2021 10:52</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chcc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chcc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
+            <h3><a target="_blank" href="http://chcc.wikidot.com">Capitol Hill Community Council</a></h3>
             <div class="desc">          
-              
+              a community site
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zodiac-ffrpg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zodiac-ffrpg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mathaerobics4samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mathaerobics4samvedna.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zodiac-ffrpg.wikidot.com">ZODIAC Final Fantasy RPG</a></h3>
+            <h3><a target="_blank" href="http://mathaerobics4samvedna.wikidot.com">Math Aerobics</a></h3>
             <div class="desc">          
-              
+              ADIDAS - All Day I Dream About Sums..!!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blmodding.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blmodding.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://brtff.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/brtff.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blmodding.wikidot.com">Borderlands Modding Resource</a></h3>
+            <h3><a target="_blank" href="http://brtff.wikidot.com">BRTFF</a></h3>
             <div class="desc">          
-              
+              Passion on the Top
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://marblehornets.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marblehornets.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpkosb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkosb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://marblehornets.wikidot.com">Marble Hornets</a></h3>
+            <h3><a target="_blank" href="http://scpkosb.wikidot.com">SB-KO2</a></h3>
             <div class="desc">          
-              
+              SCP-KO 샌드박스 이호기
             </div>
           </div>
         </div>
