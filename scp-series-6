@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1617430805;
+        OZONE.request.timestamp = 1617452283;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1029,7 +1029,7 @@
 <li><a class="newpage" href="/scp-5473">SCP-5473</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5474">SCP-5474</a> - Reality Check Through The Skull</li>
 <li><a class="newpage" href="/scp-5475">SCP-5475</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5476">SCP-5476</a> - [拒绝访问]</li>
+<li><a href="/scp-5476">SCP-5476</a> - SCP 已解释清楚</li>
 <li><a href="/scp-5477">SCP-5477</a> - 断背山迷宫</li>
 <li><a class="newpage" href="/scp-5478">SCP-5478</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5479">SCP-5479</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 443, 最后编辑于: <span class="odate time_1617360772 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Apr 2021 10:52</span></div>
+                            <div id="page-info">页面版本: 444, 最后编辑于: <span class="odate time_1617443881 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 Apr 2021 09:58</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://philosophiesoflife.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophiesoflife.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://textanalytics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/textanalytics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://philosophiesoflife.wikidot.com">WikiPlan</a></h3>
+            <h3><a target="_blank" href="http://textanalytics.wikidot.com">Text Analytics Wiki</a></h3>
             <div class="desc">          
-              tools for participatory design of cities
+              All things unstructured...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darry.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darry.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chessopeningsforengines.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessopeningsforengines.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darry.wikidot.com">Darry Container</a></h3>
+            <h3><a target="_blank" href="http://chessopeningsforengines.wikidot.com">Chess Openings for Engine Competition</a></h3>
             <div class="desc">          
-              We know our way out.
+              Opening lines that are known in Master play and that are biased for one side
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://redsite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/redsite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://paradoxhaze.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paradoxhaze.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://redsite.wikidot.com">RedPlay Wiki</a></h3>
-            <div class="desc">          
-              redplaywiki
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://oversoulgame.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oversoulgame.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://oversoulgame.wikidot.com">.</a></h3>
+            <h3><a target="_blank" href="http://paradoxhaze.wikidot.com">Paradox Haze</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://fairfieldproject.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fairfieldproject.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://fairfieldproject.wikidot.com">The Fairfield Project</a></h3>
+            <div class="desc">          
+              The Delta Green wiki
             </div>
           </div>
         </div>
