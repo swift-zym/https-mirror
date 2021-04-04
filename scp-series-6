@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1617495932;
+        OZONE.request.timestamp = 1617517246;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -708,7 +708,7 @@
 <li><a class="newpage" href="/scp-5164">SCP-5164</a> - [拒绝访问]</li>
 <li><a href="/scp-5165">SCP-5165</a> - 一叠纸</li>
 <li><a href="/scp-5166">SCP-5166</a> - 点子多又多</li>
-<li><a href="/scp-5167">SCP-5167</a> - When The Impostor Is Sus</li>
+<li><a class="newpage" href="/scp-5167">SCP-5167</a> - When The Impostor Is Sus</li>
 <li><a class="newpage" href="/scp-5168">SCP-5168</a> - [拒绝访问]</li>
 <li><a href="/scp-5169">SCP-5169</a> - 劲爆充气娃娃</li>
 <li><a href="/scp-5170">SCP-5170</a> - <span style="color: #191970;font-family: &quot;Times New Roman&quot;;"><strong>相啸魔大人</strong></span> 💼⚖️</li>
@@ -734,7 +734,7 @@
 <li><a href="/scp-5190">SCP-5190</a> - 了无痕</li>
 <li><a href="/scp-5191">SCP-5191</a> - 孩子们的圣诞节</li>
 <li><a class="newpage" href="/scp-5192">SCP-5192</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5193">SCP-5193</a> - [拒绝访问]</li>
+<li><a href="/scp-5193">SCP-5193</a> - [来自天国的海军]</li>
 <li><a class="newpage" href="/scp-5194">SCP-5194</a> - Resurfaced Memortics</li>
 <li><a href="/scp-5195">SCP-5195</a> - <span style="color: grey">记住我们曾有的一切</span></li>
 <li><a class="newpage" href="/scp-5196">SCP-5196</a> - [拒绝访问]</li>
@@ -835,7 +835,7 @@
 <li><a href="/scp-5287">SCP-5287</a> - 小小的噩梦</li>
 <li><a href="/scp-5288">SCP-5288</a> - 一星</li>
 <li><a class="newpage" href="/scp-5289">SCP-5289</a> - [拒绝访问]</li>
-<li><a href="/scp-5290">SCP-5290</a> - 多重稜鏡</li>
+<li><a class="newpage" href="/scp-5290">SCP-5290</a> - 多重稜鏡</li>
 <li><a class="newpage" href="/scp-5291">SCP-5291</a> - Transformational Writing</li>
 <li><a class="newpage" href="/scp-5292">SCP-5292</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5293">SCP-5293</a> - [拒绝访问]</li>
@@ -1122,7 +1122,7 @@
 <li><a class="newpage" href="/scp-5562">SCP-5562</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5563">SCP-5563</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5564">SCP-5564</a> - [拒绝访问]</li>
-<li><a href="/scp-5565">SCP-5565</a> - 沙米爾</li>
+<li><a class="newpage" href="/scp-5565">SCP-5565</a> - 沙米爾</li>
 <li><a class="newpage" href="/scp-5566">SCP-5566</a> - The Scientific Method</li>
 <li><a class="newpage" href="/scp-5567">SCP-5567</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5568">SCP-5568</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 444, 最后编辑于: <span class="odate time_1617443881 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 Apr 2021 09:58</span></div>
+                            <div id="page-info">页面版本: 447, 最后编辑于: <span class="odate time_1617508425 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Apr 2021 03:53</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,43 +1712,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sandboxscpfr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sandboxscpfr.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://crosswindsgarou.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/crosswindsgarou.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sandboxscpfr.wikidot.com">SCP Sandbox FR</a></h3>
+            <h3><a target="_blank" href="http://crosswindsgarou.wikidot.com">Crosswindsgarou</a></h3>
             <div class="desc">          
-              Réservé aux auteurs et traducteurs du Wiki
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://harvey-capital-lectures.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/harvey-capital-lectures.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://magiamesterei.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magiamesterei.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://harvey-capital-lectures.wikidot.com">Harvey Capital Lectures</a></h3>
+            <h3><a target="_blank" href="http://magiamesterei.wikidot.com">Mágia Mesterei Wiki</a></h3>
             <div class="desc">          
-              Crowdsourced Transcription and Translation Project
+              Segítség az online játékhoz
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mathaerobics4samvedna.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mathaerobics4samvedna.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-jp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mathaerobics4samvedna.wikidot.com">Math Aerobics</a></h3>
+            <h3><a target="_blank" href="http://scp-jp.wikidot.com">SCP財団</a></h3>
             <div class="desc">          
-              ADIDAS - All Day I Dream About Sums..!!
+              確保、収容、保護
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mainframes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mainframes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://guitarzero.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/guitarzero.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mainframes.wikidot.com">Mainframes</a></h3>
+            <h3><a target="_blank" href="http://guitarzero.wikidot.com">Frontman Wiki</a></h3>
             <div class="desc">          
               
             </div>
