@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1617538977;
+        OZONE.request.timestamp = 1617560610;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -822,7 +822,7 @@
 <li><a href="/scp-3274">SCP-3274</a> - 无处可逃</li>
 <li><a href="/scp-3275">SCP-3275</a> - 抱歉，这不是我点的披萨。</li>
 <li><a class="newpage" href="/scp-3276">SCP-3276</a> - Young Successful Independent Self-Employed CEOs</li>
-<li><a href="/scp-3277">SCP-3277</a> - 轻声地拿起大棒</li>
+<li><a class="newpage" href="/scp-3277">SCP-3277</a> - 轻声地拿起大棒</li>
 <li><a href="/scp-3278">SCP-3278</a> - 父天母地</li>
 <li><a href="/scp-3279">SCP-3279</a> - 空想性错视</li>
 <li><a href="/scp-3280">SCP-3280</a> - 暴风雨后</li>
@@ -1075,7 +1075,7 @@
 <li><a href="/scp-3515">SCP-3515</a> - 挖掘</li>
 <li><a href="/scp-3516">SCP-3516</a> - 我从我的自行车上摔下来了</li>
 <li><a href="/scp-3517">SCP-3517</a> - 疯狂山脉</li>
-<li><a class="newpage" href="/scp-3518">SCP-3518</a> - Arctic Shrimp</li>
+<li><a href="/scp-3518">SCP-3518</a> - 北极之蝎</li>
 <li><a href="/scp-3519">SCP-3519</a> - 这些寂静之日</li>
 <li><a class="newpage" href="/scp-3520">SCP-3520</a> - Fourteen Orangutans</li>
 <li><a href="/scp-3521">SCP-3521</a> - 强行的香蕉等效剂量</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 887, 最后编辑于: <span class="odate time_1617521584 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Apr 2021 07:33</span></div>
+                            <div id="page-info">页面版本: 888, 最后编辑于: <span class="odate time_1617545061 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Apr 2021 14:04</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://timebox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/timebox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://etnolinguistica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/etnolinguistica.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://timebox.wikidot.com">The Timebox</a></h3>
+            <h3><a target="_blank" href="http://etnolinguistica.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
             <div class="desc">          
-              Temporal writing bubble
+              línguas e culturas indígenas sul-americanas
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://jquery-easyui.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jquery-easyui.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-sandbox2-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox2-zh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://jquery-easyui.wikidot.com">jQuery EasyUI</a></h3>
+            <h3><a target="_blank" href="http://scp-sandbox2-zh.wikidot.com">SCP繁中沙盒2.0</a></h3>
             <div class="desc">          
-              easyui help you build your web page easily!
+              生命之沙，繁星之盒
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://samvedna.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/samvedna.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://05command.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/05command.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://samvedna.wikidot.com">Samvedna Network</a></h3>
+            <h3><a target="_blank" href="http://05command.wikidot.com">O5 Command</a></h3>
             <div class="desc">          
-              Collaborative e-learning for children
+              Why they changed it I can&#039;t say. People just liked it better that way
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://philosophia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://halflifetr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/halflifetr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://philosophia.wikidot.com">Philosophia UAM</a></h3>
+            <h3><a target="_blank" href="http://halflifetr.wikidot.com">Half-Life Wiki</a></h3>
             <div class="desc">          
-              Wiki studentów filozofii UAM
+              TR
             </div>
           </div>
         </div>
