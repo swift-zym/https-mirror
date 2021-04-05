@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1617625092;
+        OZONE.request.timestamp = 1617646750;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kittyliterature.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kittyliterature.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fmi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kittyliterature.wikidot.com">小猫文学</a></h3>
+            <h3><a target="_blank" href="http://fmi.wikidot.com">Лекциите на ФМИ</a></h3>
             <div class="desc">          
-              源于生活 低于生活
+              За да изглеждаме умни пред другите
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dpcwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dpcwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dpcwiki.wikidot.com">DPC Foundation</a></h3>
-            <div class="desc">          
-              Deport. Protect. Contain.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://excelencia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/excelencia.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://excelencia.wikidot.com">EXCELENCIA</a></h3>
-            <div class="desc">          
-              exploring, describing and promoting  great websites!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://nycmush.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nycmush.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://nycmush.wikidot.com">NYC: Veil of Shadows</a></h3>
+            <h3><a target="_blank" href="http://ci-wiki.wikidot.com">Chaos Insurgency</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://roboticspedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticspedia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://roboticspedia.wikidot.com">Roboticspedia</a></h3>
+            <div class="desc">          
+              All that you want to know about making robots
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://exciting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exciting.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://exciting.wikidot.com">exciting</a></h3>
+            <div class="desc">          
+              exciting, all electron DFT
             </div>
           </div>
         </div>
