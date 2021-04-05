@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1617603583;
+        OZONE.request.timestamp = 1617625092;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -734,7 +734,7 @@
 <li><a href="/scp-5190">SCP-5190</a> - 了无痕</li>
 <li><a href="/scp-5191">SCP-5191</a> - 孩子们的圣诞节</li>
 <li><a class="newpage" href="/scp-5192">SCP-5192</a> - [拒绝访问]</li>
-<li><a href="/scp-5193">SCP-5193</a> - [来自天国的海军]</li>
+<li><a href="/scp-5193">SCP-5193</a> - 来自天国的海军英灵</li>
 <li><a class="newpage" href="/scp-5194">SCP-5194</a> - Resurfaced Memortics</li>
 <li><a href="/scp-5195">SCP-5195</a> - <span style="color: grey">记住我们曾有的一切</span></li>
 <li><a class="newpage" href="/scp-5196">SCP-5196</a> - [拒绝访问]</li>
@@ -991,7 +991,7 @@
 <li><a class="newpage" href="/scp-5435">SCP-5435</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5436">SCP-5436</a> - [拒绝访问]</li>
 <li><a href="/scp-5437">SCP-5437</a> - 天降之兽</li>
-<li><a class="newpage" href="/scp-5438">SCP-5438</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5438">SCP-5438</a> - 饶蛆</li>
 <li><a class="newpage" href="/scp-5439">SCP-5439</a> - [拒绝访问]</li>
 <li><a href="/scp-5440">SCP-5440</a> - 热线摩西</li>
 <li><a class="newpage" href="/scp-5441">SCP-5441</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 448, 最后编辑于: <span class="odate time_1617601291 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Apr 2021 05:41</span></div>
+                            <div id="page-info">页面版本: 450, 最后编辑于: <span class="odate time_1617615218 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Apr 2021 09:33</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,43 +1712,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ds2009a.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds2009a.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kittyliterature.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kittyliterature.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ds2009a.wikidot.com">Data Structures</a></h3>
+            <h3><a target="_blank" href="http://kittyliterature.wikidot.com">小猫文学</a></h3>
             <div class="desc">          
-              
+              源于生活 低于生活
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://metrixcreate.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metrixcreate.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dpcwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dpcwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://metrixcreate.wikidot.com">Metrix Create:Space</a></h3>
+            <h3><a target="_blank" href="http://dpcwiki.wikidot.com">DPC Foundation</a></h3>
             <div class="desc">          
-              
+              Deport. Protect. Contain.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://margopedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/margopedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://excelencia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/excelencia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://margopedia.wikidot.com">Margopedia</a></h3>
+            <h3><a target="_blank" href="http://excelencia.wikidot.com">EXCELENCIA</a></h3>
             <div class="desc">          
-              Połączenie wikipedii i nonsensopedii...
+              exploring, describing and promoting  great websites!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fallout2online.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fallout2online.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nycmush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nycmush.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fallout2online.wikidot.com">Fallout Online: Requiem</a></h3>
+            <h3><a target="_blank" href="http://nycmush.wikidot.com">NYC: Veil of Shadows</a></h3>
             <div class="desc">          
               
             </div>
