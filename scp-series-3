@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1617560581;
+        OZONE.request.timestamp = 1617582118;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1099,7 +1099,7 @@
 <li><a href="/scp-2539">SCP-2539</a> - 地狱公路</li>
 <li><a href="/scp-2540">SCP-2540</a> - 时空扭曲柠檬</li>
 <li><a href="/scp-2541">SCP-2541</a> - 就像一颗柠檬，性欲是如此美丽和有魅力…</li>
-<li><a href="/scp-2542">SCP-2542</a> - Grinds Exceeding Small</li>
+<li><a class="newpage" href="/scp-2542">SCP-2542</a> - Grinds Exceeding Small</li>
 <li><a class="newpage" href="/scp-2543">SCP-2543</a> - Our Harriet</li>
 <li><a class="newpage" href="/scp-2544">SCP-2544</a> - The Call of the Void</li>
 <li><a href="/scp-2545">SCP-2545</a> - 小熊软糖</li>
@@ -1426,7 +1426,7 @@
 <li><a class="newpage" href="/scp-2854">SCP-2854</a> - The Little Shop-Mart of Horrors</li>
 <li><a href="/scp-2855">SCP-2855</a> - 钱先生</li>
 <li><a href="/scp-2856">SCP-2856</a> - 机械、诡计与莱比锡仓库</li>
-<li><a href="/scp-2857">SCP-2857</a> - 海南鸡饭烹饪博士</li>
+<li><a href="/scp-2857">SCP-2857</a> - 海南鸡饭烹饪厨师</li>
 <li><a href="/scp-2858">SCP-2858</a> - 好像黄蜂真在那里工作过</li>
 <li><a class="newpage" href="/scp-2859">SCP-2859</a> - The Space Serpents</li>
 <li><a href="/scp-2860">SCP-2860</a> - 石制</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 586, 最后编辑于: <span class="odate time_1614698824 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Mar 2021 15:27</span></div>
+                            <div id="page-info">页面版本: 588, 最后编辑于: <span class="odate time_1617578420 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Apr 2021 23:20</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+7</span>)</a>
@@ -1712,10 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://r.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/r.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://r.wikidot.com">Wikidot URL shortener</a></h3>
+            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
+            <div class="desc">          
+              A World of Darkness Encyclopedia for Modern Nights
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://sliscomps.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sliscomps.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://sliscomps.wikidot.com">CUA SLIS Comps Study Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,34 +1734,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://larpard.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/larpard.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://larpard.wikidot.com">Larpard</a></h3>
-            <div class="desc">          
-              Vše nejen o larpech ve východních Čechách
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://jakilinux.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jakilinux.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://jakilinux.wikidot.com">Wiki wortalu jakilinux.org</a></h3>
-            <div class="desc">          
-              Twórz z nami najlepszy wortal linuksowy w Polsce!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://bisgmit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bisgmit.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://bisgmit.wikidot.com">Bisgmit</a></h3>
+            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
+            <div class="desc">          
+              Fighting Spammers for Fun and Profit!
             </div>
           </div>
         </div>
@@ -1830,7 +1830,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         <div id="wikidot-help-button-hovertip">
             一般的 Wikidot.com 文件与说明。        </div>
         <div id="wikidot-tos-button-hovertip">
-            Wikidot.com 服务条款- 您可以做的事，您不该做的事之类的。        </div>
+            Wikidot.com 服务条款 - 您可以做的事，您不该做的事之类的。        </div>
         <div id="wikidot-privacy-button-hovertip">
             Wikidot.com 隐私政策。          
         </div>
