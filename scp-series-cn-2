@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1617798013;
+        OZONE.request.timestamp = 1617819828;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1270,7 +1270,7 @@
 <li><a href="/scp-cn-1706">SCP-CN-1706</a> - 进入墙体，然后置换</li>
 <li><a href="/scp-cn-1707">SCP-CN-1707</a> - 推背去归休</li>
 <li><a href="/scp-cn-1708">SCP-CN-1708</a> - 琴中人</li>
-<li><a href="/scp-cn-1709">SCP-CN-1709</a> - 沉浸式交响现场™️</li>
+<li><a class="newpage" href="/scp-cn-1709">SCP-CN-1709</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1710">SCP-CN-1710</a> - 免疫警戒</li>
 <li><a href="/scp-cn-1711">SCP-CN-1711</a> - 教室</li>
 <li><a href="/scp-cn-1712">SCP-CN-1712</a> - 空置生死</li>
@@ -1476,7 +1476,7 @@
 <li><a href="/scp-cn-1904">SCP-CN-1904</a> - 被暴露狂</li>
 <li><a href="/scp-cn-1905">SCP-CN-1905</a> - 星汉灿烂</li>
 <li><a href="/scp-cn-1906">SCP-CN-1906</a> - Site-CN-06-EX</li>
-<li><a href="/scp-cn-1907">SCP-CN-1907</a> - 爬山虎</li>
+<li><a class="newpage" href="/scp-cn-1907">SCP-CN-1907</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1908">SCP-CN-1908</a> - 医者仁“心”</li>
 <li><a href="/scp-cn-1909">SCP-CN-1909</a> - 智慧蜘蛛与青铜man</li>
 <li><a href="/scp-cn-1910">SCP-CN-1910</a> - 传教者</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4059, 最后编辑于: <span class="odate time_1617696613 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">06 Apr 2021 08:10</span></div>
+                            <div id="page-info">页面版本: 4060, 最后编辑于: <span class="odate time_1617808769 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Apr 2021 15:19</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+87</span>)</a>
@@ -1689,21 +1689,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://philosophiesoflife.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophiesoflife.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://predev.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/predev.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://philosophiesoflife.wikidot.com">WikiPlan</a></h3>
+            <h3><a target="_blank" href="http://predev.wikidot.com">pre dev wiki</a></h3>
             <div class="desc">          
-              tools for participatory design of cities
+              Let&#039;s open this beast up
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blmodding.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blmodding.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eventidemush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eventidemush.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blmodding.wikidot.com">Borderlands Modding Resource</a></h3>
+            <h3><a target="_blank" href="http://eventidemush.wikidot.com">Eventide MUSH</a></h3>
             <div class="desc">          
               
             </div>
@@ -1711,10 +1711,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://morningside-genetics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningside-genetics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aetherium.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aetherium.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://morningside-genetics.wikidot.com">Morningside Genetics</a></h3>
+            <h3><a target="_blank" href="http://aetherium.wikidot.com">Aetherium Enterprise</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,12 +1722,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blackberrystorm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackberrystorm.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blackberrystorm.wikidot.com">BlackBerry Storm Wiki</a></h3>
+            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
             <div class="desc">          
-              
+              Where Writers Share Their Characters &amp; Worlds
             </div>
           </div>
         </div>

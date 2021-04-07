@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1617798182;
+        OZONE.request.timestamp = 1617819828;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -826,7 +826,7 @@
 <li><a href="/scp-5278">SCP-5278</a> - 不会一直荒废的鬼城</li>
 <li><a class="newpage" href="/scp-5279">SCP-5279</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5280">SCP-5280</a> - Honeymandias</li>
-<li><a class="newpage" href="/scp-5281">SCP-5281</a> - [拒绝访问]</li>
+<li><a href="/scp-5281">SCP-5281</a> - [拒绝访问]</li>
 <li><a href="/scp-5282">SCP-5282</a> - 积木</li>
 <li><a href="/scp-5283">SCP-5283</a> - 拒绝现代，回归至鲸</li>
 <li><a class="newpage" href="/scp-5284">SCP-5284</a> - [拒绝访问]</li>
@@ -991,7 +991,7 @@
 <li><a class="newpage" href="/scp-5435">SCP-5435</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5436">SCP-5436</a> - [拒绝访问]</li>
 <li><a href="/scp-5437">SCP-5437</a> - 天降之兽</li>
-<li><a class="newpage" href="/scp-5438">SCP-5438</a> - 饶蛆</li>
+<li><a class="newpage" href="/scp-5438">SCP-5438</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5439">SCP-5439</a> - [拒绝访问]</li>
 <li><a href="/scp-5440">SCP-5440</a> - 热线摩西</li>
 <li><a class="newpage" href="/scp-5441">SCP-5441</a> - [拒绝访问]</li>
@@ -1165,7 +1165,7 @@
 <li><a class="newpage" href="/scp-5601">SCP-5601</a> - Despite All My Rage, I'm Still Just A Bird In A Cage</li>
 <li><a class="newpage" href="/scp-5602">SCP-5602</a> - Why Did The SCP Cross The Road?</li>
 <li><a class="newpage" href="/scp-5603">SCP-5603</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5604">SCP-5604</a> - [拒绝访问]</li>
+<li><a href="/scp-5604">SCP-5604</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5605">SCP-5605</a> - [拒绝访问]</li>
 <li><a href="/scp-5606">SCP-5606</a> - 肉生堕落时代的爱情</li>
 <li><a href="/scp-5607">SCP-5607</a> - 尿瘾太深</li>
@@ -1712,21 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://castleage.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/castleage.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://predev.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/predev.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://castleage.wikidot.com">Castle Age Wiki</a></h3>
+            <h3><a target="_blank" href="http://predev.wikidot.com">pre dev wiki</a></h3>
             <div class="desc">          
-              Knowledge Database
+              Let&#039;s open this beast up
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chimiex-bicaz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chimiex-bicaz.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eventidemush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eventidemush.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chimiex-bicaz.wikidot.com">Chimiex Bicaz</a></h3>
+            <h3><a target="_blank" href="http://eventidemush.wikidot.com">Eventide MUSH</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1734,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikirmaphil.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikirmaphil.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aetherium.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aetherium.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikirmaphil.wikidot.com">WikiRMAPhil</a></h3>
+            <h3><a target="_blank" href="http://aetherium.wikidot.com">Aetherium Enterprise</a></h3>
             <div class="desc">          
-              Community Site for UU RMA Philosophy Students
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gateofrealms.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gateofrealms.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gateofrealms.wikidot.com">诸界之门</a></h3>
+            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
             <div class="desc">          
-              多元原创创作社区
+              Where Writers Share Their Characters &amp; Worlds
             </div>
           </div>
         </div>
