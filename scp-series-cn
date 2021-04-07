@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1617776292;
+        OZONE.request.timestamp = 1617798050;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1214,7 +1214,7 @@
 <li><a href="/scp-cn-655">SCP-CN-655</a> - 水</li>
 <li><a href="/scp-cn-656">SCP-CN-656</a> - 人猪熊兽的超自然阅读疗法</li>
 <li><a href="/scp-cn-657">SCP-CN-657</a> - 妙筆</li>
-<li><a href="/scp-cn-658">SCP-CN-658</a> - 遗孤</li>
+<li><a href="/scp-cn-658">SCP-CN-658</a> - “一天到晚只知道玩游戏！”</li>
 <li><a href="/scp-cn-659">SCP-CN-659</a> - 头疼的话砍掉就行了</li>
 <li><a href="/scp-cn-660">SCP-CN-660</a> - 残渣</li>
 <li><a href="/scp-cn-661">SCP-CN-661</a> - Dick，圣Dick</li>
@@ -1616,7 +1616,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3264, 最后编辑于: <span class="odate time_1617519866 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Apr 2021 07:04</span></div>
+                            <div id="page-info">页面版本: 3266, 最后编辑于: <span class="odate time_1617791914 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Apr 2021 10:38</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+70</span>)</a>
@@ -1688,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://surge-archive.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/surge-archive.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cgp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://surge-archive.wikidot.com">Surge&#039;s Archive</a></h3>
+            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
             <div class="desc">          
-              啟以白羽，終於藍海
+              CGP Students
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-mc-sandbox-pro.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-mc-sandbox-pro.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://exploresecureprotect.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exploresecureprotect.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-mc-sandbox-pro.wikidot.com">SCP基金会Minecraft分部沙盒</a></h3>
+            <h3><a target="_blank" href="http://exploresecureprotect.wikidot.com">ESP协会</a></h3>
             <div class="desc">          
-              宇宙之上，基岩之下
+              探索 控制 保护
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://eltork-scp-database.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eltork-scp-database.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://exciting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exciting.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://eltork-scp-database.wikidot.com">[SCPF] Information Database</a></h3>
+            <h3><a target="_blank" href="http://exciting.wikidot.com">exciting</a></h3>
             <div class="desc">          
-              Secure, Contain, Protect
+              exciting, all electron DFT
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://lasthaiku.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lasthaiku.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://themes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/themes.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://lasthaiku.wikidot.com">Legend of the Five Rings</a></h3>
+            <h3><a target="_blank" href="http://themes.wikidot.com">Wikidot Themes</a></h3>
             <div class="desc">          
-              
+              share your Wikidot theme with others!
             </div>
           </div>
         </div>

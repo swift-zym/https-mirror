@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1617776280;
+        OZONE.request.timestamp = 1617797976;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gamemaker.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gamemaker.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://icondeposit.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/icondeposit.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gamemaker.wikidot.com">GameMaker: Studio Wiki</a></h3>
+            <h3><a target="_blank" href="http://icondeposit.wikidot.com">Icon Deposit</a></h3>
             <div class="desc">          
-              GameMaker: Studio Tutorials &amp; Resources
+              Design.Tutorials.Freebies
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sped.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sped.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://beatarcademafia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/beatarcademafia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sped.wikidot.com">The Special Ed Wiki</a></h3>
+            <h3><a target="_blank" href="http://beatarcademafia.wikidot.com">Beat Arcade Mafia</a></h3>
             <div class="desc">          
-              sarah irvine belson (sarah@american.edu)
+              Past Mafia Setups used on the Beat Arcade Discord Server!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bioproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bioproject.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://lgam.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lgam.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bioproject.wikidot.com">BIO-PRO</a></h3>
+            <h3><a target="_blank" href="http://lgam.wikidot.com">LGAM Knowledge Base</a></h3>
             <div class="desc">          
-              Υγεία-Περιβάλλον-Εκπαίδευση
+              Local Government Knowledge Sharing
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gdt2009.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gdt2009.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cubesat.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cubesat.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gdt2009.wikidot.com">Game Dev Techniques</a></h3>
+            <h3><a target="_blank" href="http://cubesat.wikidot.com">CubeSat</a></h3>
             <div class="desc">          
-              
+              University of Leicester CubeSat Project
             </div>
           </div>
         </div>
