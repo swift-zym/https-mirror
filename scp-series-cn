@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1617884586;
+        OZONE.request.timestamp = 1617906020;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://comux.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/comux.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-migration.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-migration.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://comux.wikidot.com">CoMUX</a></h3>
+            <h3><a target="_blank" href="http://scp-migration.wikidot.com">SCP Database Migration</a></h3>
             <div class="desc">          
-              Realities Combined
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://malkavian.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/malkavian.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mybookworld.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mybookworld.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://malkavian.wikidot.com">CCS Related</a></h3>
+            <h3><a target="_blank" href="http://mybookworld.wikidot.com">Hacking WD MyBook World Ed</a></h3>
             <div class="desc">          
-              Malkavian guide to CCS life
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mactutorial.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mactutorial.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://istar.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/istar.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mactutorial.wikidot.com">Mac Video Tutorial</a></h3>
+            <h3><a target="_blank" href="http://istar.wikidot.com">ISTAR</a></h3>
             <div class="desc">          
-              Mac OS X video tutorial i18n subtitles project
+              International Society for Testate Amoeba Research
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ddscat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ddscat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://e-h-s.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/e-h-s.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ddscat.wikidot.com">DDSCAT</a></h3>
+            <h3><a target="_blank" href="http://e-h-s.wikidot.com">Electromagnetic (Hyper)Sensitivity</a></h3>
             <div class="desc">          
-              Light Scattering Code
+              Causes of Electro Smog, EMF and Wireless Devices
             </div>
           </div>
         </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1617884586;
+        OZONE.request.timestamp = 1617906221;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1208,7 +1208,7 @@
 <li><a href="/scp-cn-1648">SCP-CN-1648</a> - 《平安经》</li>
 <li><a href="/scp-cn-1649">SCP-CN-1649</a> - 终将离去</li>
 <li><a href="/scp-cn-1650">SCP-CN-1650</a> - 它不是什么，或什么不是</li>
-<li><a class="newpage" href="/scp-cn-1651">SCP-CN-1651</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1651">SCP-CN-1651</a> - 蚁后，破蛹</li>
 <li><a href="/scp-cn-1652">SCP-CN-1652</a> - 传染性显卡</li>
 <li><a class="newpage" href="/scp-cn-1653">SCP-CN-1653</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1654">SCP-CN-1654</a> - “紫橙子”</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4060, 最后编辑于: <span class="odate time_1617808769 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Apr 2021 15:19</span></div>
+                            <div id="page-info">页面版本: 4061, 最后编辑于: <span class="odate time_1617891248 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Apr 2021 14:14</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+87</span>)</a>
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://comux.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/comux.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://khaidoan.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/khaidoan.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://comux.wikidot.com">CoMUX</a></h3>
+            <h3><a target="_blank" href="http://khaidoan.wikidot.com">Khai&#039;s personal knowledge vault.</a></h3>
             <div class="desc">          
-              Realities Combined
+              Materials on this site are not original. When possible, references to original articles are listed on each page.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://malkavian.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/malkavian.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandboxbr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxbr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://malkavian.wikidot.com">CCS Related</a></h3>
+            <h3><a target="_blank" href="http://scpsandboxbr.wikidot.com">Sandbox SCP PT-BR</a></h3>
             <div class="desc">          
-              Malkavian guide to CCS life
+              Onde SCPs Nascem
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mactutorial.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mactutorial.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://avendar.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/avendar.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mactutorial.wikidot.com">Mac Video Tutorial</a></h3>
+            <h3><a target="_blank" href="http://avendar.wikidot.com">AvendarWiki</a></h3>
             <div class="desc">          
-              Mac OS X video tutorial i18n subtitles project
+              Database wiki for Avendar MUD
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ddscat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ddscat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpjp-fansite.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpjp-fansite.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ddscat.wikidot.com">DDSCAT</a></h3>
+            <h3><a target="_blank" href="http://scpjp-fansite.wikidot.com">SCP-JP-FS</a></h3>
             <div class="desc">          
-              Light Scattering Code
+              確保、収容、遊べ！
             </div>
           </div>
         </div>
