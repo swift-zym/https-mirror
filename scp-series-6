@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1617970774;
+        OZONE.request.timestamp = 1617992573;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -673,7 +673,7 @@
 <li><a class="newpage" href="/scp-5129">SCP-5129</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5130">SCP-5130</a> - A Gluttonous Paradise</li>
 <li><a href="/scp-5131">SCP-5131</a> - D-13131</li>
-<li><a class="newpage" href="/scp-5132">SCP-5132</a> - [拒绝访问]</li>
+<li><a href="/scp-5132">SCP-5132</a> - [拒绝访问]</li>
 <li><a href="/scp-5133">SCP-5133</a> - 果蛙</li>
 <li><a class="newpage" href="/scp-5134">SCP-5134</a> - [拒绝访问]</li>
 <li><a href="/scp-5135">SCP-5135</a> - 从未有过的战争</li>
@@ -1271,7 +1271,7 @@
 <li><a href="/scp-5703">SCP-5703</a> - [拒绝访问]</li>
 <li><a href="/scp-5704">SCP-5704</a> - 数趾腐败</li>
 <li><a class="newpage" href="/scp-5705">SCP-5705</a> - Powered by Thorium!™</li>
-<li><a href="/scp-5706">SCP-5706</a> - 無界天際SpeedRun大爆笑！！！（出大事了！）[居然色色的！！]{不是標題黨！！！}</li>
+<li><a class="newpage" href="/scp-5706">SCP-5706</a> - 無界天際SpeedRun大爆笑！！！（出大事了！）[居然色色的！！]{不是標題黨！！！}</li>
 <li><a href="/scp-5707">SCP-5707</a> - 山姆大叔：全美的血肉术士</li>
 <li><a class="newpage" href="/scp-5708">SCP-5708</a> - From Asgard With Love</li>
 <li><a class="newpage" href="/scp-5709">SCP-5709</a> - [拒绝访问]</li>
@@ -1712,10 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pt851.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pt851.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pt851.wikidot.com">Cell Biology of Disease and Exercise</a></h3>
+            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,34 +1723,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wychwood.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wychwood.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pcg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pcg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wychwood.wikidot.com">Wikiwood</a></h3>
+            <h3><a target="_blank" href="http://pcg.wikidot.com">Procedural Content Generation Wiki</a></h3>
             <div class="desc">          
-              Wychwood Warriors Wiki
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://community.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/community.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cs0.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs0.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://community.wikidot.com">Wikidot Community</a></h3>
+            <h3><a target="_blank" href="http://cs0.wikidot.com">免費電子書：C# 程式設計</a></h3>
             <div class="desc">          
-              hints / tips / help / discussion
+              作者：陳鍾誠
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cunefc2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefc2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://borradores-scp-es.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/borradores-scp-es.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cunefc2.wikidot.com">CUNEF Group C2</a></h3>
+            <h3><a target="_blank" href="http://borradores-scp-es.wikidot.com">Borradores SCP-ES</a></h3>
             <div class="desc">          
-              For Your Work, Opinions and Discoveries!
+              Sitio de borradores para miembros de la Fundación SCP-ES
             </div>
           </div>
         </div>
