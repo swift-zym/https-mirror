@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1617992574;
+        OZONE.request.timestamp = 1618014120;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,10 +1688,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wanderers-library.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-library.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
+            <h3><a target="_blank" href="http://wanderers-library.wikidot.com">The Wanderers&#039; Library</a></h3>
+            <div class="desc">          
+              Fiction from another world.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://arlington.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arlington.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://arlington.wikidot.com">Arlington, Mass.</a></h3>
+            <div class="desc">          
+              The Arlington Wiki - Arlington, MA
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
             <div class="desc">          
               
             </div>
@@ -1699,34 +1721,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pcg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pcg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://signaturbogen.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/signaturbogen.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pcg.wikidot.com">Procedural Content Generation Wiki</a></h3>
+            <h3><a target="_blank" href="http://signaturbogen.wikidot.com">Signaturbogen 2.0</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://cs0.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs0.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://cs0.wikidot.com">免費電子書：C# 程式設計</a></h3>
-            <div class="desc">          
-              作者：陳鍾誠
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://borradores-scp-es.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/borradores-scp-es.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://borradores-scp-es.wikidot.com">Borradores SCP-ES</a></h3>
-            <div class="desc">          
-              Sitio de borradores para miembros de la Fundación SCP-ES
+              3.000+ kunstnere, 4.500+ signaturer
             </div>
           </div>
         </div>
