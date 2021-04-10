@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1618057219;
+        OZONE.request.timestamp = 1618078952;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bisgmit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bisgmit.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tmduc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tmduc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bisgmit.wikidot.com">Bisgmit</a></h3>
+            <h3><a target="_blank" href="http://tmduc.wikidot.com">TMD (uc)</a></h3>
+            <div class="desc">          
+              creación colectiva
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://arcana.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arcana.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://arcana.wikidot.com">The Arcana Wiki</a></h3>
+            <div class="desc">          
+              Distilling the Real World for Gaming
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://community.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/community.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://community.wikidot.com">Wikidot Community</a></h3>
+            <div class="desc">          
+              hints / tips / help / discussion
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://globalclimatechange.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/globalclimatechange.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://globalclimatechange.wikidot.com">Global Climate Destabilization</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://eldritch00.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eldritch00.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://eldritch00.wikidot.com">A Shining Brainless Beacon</a></h3>
-            <div class="desc">          
-              I Have a Special Plan for This World
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
-            <div class="desc">          
-              実験、実験、爆発
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ru-backrooms-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ru-backrooms-wiki.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ru-backrooms-wiki.wikidot.com">База данных Backrooms</a></h3>
-            <div class="desc">          
-              Ты был здесь раньше
             </div>
           </div>
         </div>
