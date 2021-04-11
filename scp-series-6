@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1618100763;
+        OZONE.request.timestamp = 1618122077;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1346,7 +1346,7 @@
 <li><a class="newpage" href="/scp-5778">SCP-5778</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5779">SCP-5779</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5780">SCP-5780</a> - To Hatch Parises and Chase Geese</li>
-<li><a class="newpage" href="/scp-5781">SCP-5781</a> - [拒绝访问]</li>
+<li><a href="/scp-5781">SCP-5781</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5782">SCP-5782</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5783">SCP-5783</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5784">SCP-5784</a> - [拒绝访问]</li>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://files21.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/files21.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://albums-template.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/albums-template.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://files21.wikidot.com">Files 21</a></h3>
+            <h3><a target="_blank" href="http://albums-template.wikidot.com">Albums-template</a></h3>
             <div class="desc">          
-              Файлы 21
+              Your pictures
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://jquery-easyui.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jquery-easyui.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-jp-archive.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-archive.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://jquery-easyui.wikidot.com">jQuery EasyUI</a></h3>
+            <h3><a target="_blank" href="http://scp-jp-archive.wikidot.com">SCP日本財団中枢資料室。</a></h3>
             <div class="desc">          
-              easyui help you build your web page easily!
+              収用
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blackmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackmarches.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dustin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dustin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blackmarches.wikidot.com">Black Marches</a></h3>
+            <h3><a target="_blank" href="http://dustin.wikidot.com">STAR WARS</a></h3>
             <div class="desc">          
-              Roll20 Pathfinder
+              Episode LXIX : The 2021 Campaign
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-un.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-un.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandboxbr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxbr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-un.wikidot.com">SCP Foundation</a></h3>
+            <h3><a target="_blank" href="http://scpsandboxbr.wikidot.com">Sandbox SCP PT-BR</a></h3>
             <div class="desc">          
-              Underrepresented Languages Incubator
+              Onde SCPs Nascem
             </div>
           </div>
         </div>
