@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1618121859;
+        OZONE.request.timestamp = 1618143708;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -777,8 +777,8 @@
 <li><a href="/scp-cn-1233">SCP-CN-1233</a> - 我看到你看到我</li>
 <li><a href="/scp-cn-1234">SCP-CN-1234</a> - 我可是让你变嗨了，怎么不给我好评呢亲？</li>
 <li><a href="/scp-cn-1235">SCP-CN-1235</a> - 伞男</li>
-<li><a href="/scp-cn-1236">SCP-CN-1236</a> - 吾有汝思</li>
-<li><a href="/scp-cn-1237">SCP-CN-1237</a> - 控制一名自行车</li>
+<li><a class="newpage" href="/scp-cn-1236">SCP-CN-1236</a> - 吾有汝思</li>
+<li><a class="newpage" href="/scp-cn-1237">SCP-CN-1237</a> - 控制一名自行车</li>
 <li><a href="/scp-cn-1238">SCP-CN-1238</a> - 无脊椎的过期春联</li>
 <li><a href="/scp-cn-1239">SCP-CN-1239</a> - <span style="color: white">看不见的尸体</span>淹没此城</li>
 <li><a href="/scp-cn-1240">SCP-CN-1240</a> - 龍飞在天，丹心伏岩</li>
@@ -787,7 +787,7 @@
 <li><a href="/scp-cn-1243">SCP-CN-1243</a> - 万能的游戏手柄</li>
 <li><a href="/scp-cn-1244">SCP-CN-1244</a> - 量子涨落的应用</li>
 <li><a href="/scp-cn-1245">SCP-CN-1245</a> - 夫群星所铸之龙，万万千千兮游弋宙空</li>
-<li><a href="/scp-cn-1246">SCP-CN-1246</a> - 已解明</li>
+<li><a class="newpage" href="/scp-cn-1246">SCP-CN-1246</a> - 已解明</li>
 <li><a href="/scp-cn-1247">SCP-CN-1247</a> - 反電之子</li>
 <li><a href="/scp-cn-1248">SCP-CN-1248</a> - L-系统</li>
 <li><a href="/scp-cn-1249">SCP-CN-1249</a> - 有袋类海星</li>
@@ -796,7 +796,7 @@
 <li><a href="/scp-cn-1252">SCP-CN-1252</a> - 罪之子</li>
 <li><a href="/scp-cn-1253">SCP-CN-1253</a> - 回忆刻印于音乐之中</li>
 <li><a href="/scp-cn-1254">SCP-CN-1254</a> - 贪食的神</li>
-<li><a href="/scp-cn-1255">SCP-CN-1255</a> - 机械傀儡</li>
+<li><a class="newpage" href="/scp-cn-1255">SCP-CN-1255</a> - 机械傀儡</li>
 <li><a href="/scp-cn-1256">SCP-CN-1256</a> - 《基金会中分编年史》</li>
 <li><a href="/scp-cn-1257">SCP-CN-1257</a> - 轨迹</li>
 <li><a href="/scp-cn-1258">SCP-CN-1258</a> - 它们的球，它们的世界</li>
@@ -807,7 +807,7 @@
 <li><a href="/scp-cn-1263">SCP-CN-1263</a> - 祂看着凝固的海难，然后背离了我</li>
 <li><a href="/scp-cn-1264">SCP-CN-1264</a> - 哭在雨中</li>
 <li><a href="/scp-cn-1265">SCP-CN-1265</a> - <strong>繁星</strong></li>
-<li><a href="/scp-cn-1266">SCP-CN-1266</a> - 擎天</li>
+<li><a class="newpage" href="/scp-cn-1266">SCP-CN-1266</a> - 擎天</li>
 <li><a href="/scp-cn-1267">SCP-CN-1267</a> - 贪</li>
 <li><a href="/scp-cn-1268">SCP-CN-1268</a> - 人生如幻梦，渴望今朝醒</li>
 <li><a href="/scp-cn-1269">SCP-CN-1269</a> - 染血的圣女</li>
@@ -821,8 +821,8 @@
 <li><a href="/scp-cn-1277">SCP-CN-1277</a> - 这是被吊死的<span style="color: red">大红色</span>颜料罐</li>
 <li><a href="/scp-cn-1278">SCP-CN-1278</a> - 轮</li>
 <li><a href="/scp-cn-1279">SCP-CN-1279</a> - 丰镐九鼎</li>
-<li><a href="/scp-cn-1280">SCP-CN-1280</a> - <em>看不见&#8230;星星</em></li>
-<li><a href="/scp-cn-1281">SCP-CN-1281</a> - “家”</li>
+<li><a class="newpage" href="/scp-cn-1280">SCP-CN-1280</a> - <em>看不见&#8230;星星</em></li>
+<li><a class="newpage" href="/scp-cn-1281">SCP-CN-1281</a> - “家”</li>
 <li><a href="/scp-cn-1282">SCP-CN-1282</a> - 半夜不要照镜子</li>
 <li><a href="/scp-cn-1283">SCP-CN-1283</a> - 可能会有用的奶酪占卜</li>
 <li><a href="/scp-cn-1284">SCP-CN-1284</a> - 紙包不住火</li>
@@ -830,14 +830,14 @@
 <li><a href="/scp-cn-1286">SCP-CN-1286</a> - 流金岁月</li>
 <li><a href="/scp-cn-1287">SCP-CN-1287</a> - 前置</li>
 <li><a href="/scp-cn-1288">SCP-CN-1288</a> - 改造过的变形虫</li>
-<li><a href="/scp-cn-1289">SCP-CN-1289</a> - 灵感盒子</li>
+<li><a class="newpage" href="/scp-cn-1289">SCP-CN-1289</a> - 灵感盒子</li>
 <li><a href="/scp-cn-1290">SCP-CN-1290</a> - 飞蛾扑火</li>
-<li><a href="/scp-cn-1291">SCP-CN-1291</a> - 目眩神离</li>
+<li><a class="newpage" href="/scp-cn-1291">SCP-CN-1291</a> - 目眩神离</li>
 <li><a href="/scp-cn-1292">SCP-CN-1292</a> - dado的肌肉墙化剂，娟秀俱乐部专供</li>
-<li><a href="/scp-cn-1293">SCP-CN-1293</a> - 幻影“而已”</li>
+<li><a class="newpage" href="/scp-cn-1293">SCP-CN-1293</a> - 幻影“而已”</li>
 <li><a href="/scp-cn-1294">SCP-CN-1294</a> - 明亮之星要降临</li>
 <li><a href="/scp-cn-1295">SCP-CN-1295</a> - 《斯特亚的欢乐冒险》</li>
-<li><a href="/scp-cn-1296">SCP-CN-1296</a> - 内丹</li>
+<li><a class="newpage" href="/scp-cn-1296">SCP-CN-1296</a> - 内丹</li>
 <li><a href="/scp-cn-1297">SCP-CN-1297</a> - 形织</li>
 <li><a href="/scp-cn-1298">SCP-CN-1298</a> - 安全逃生标识</li>
 <li><a href="/scp-cn-1299">SCP-CN-1299</a> - 空气生物</li>
@@ -1689,10 +1689,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ti-iseg-t12.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ti-iseg-t12.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://smsalgebra.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smsalgebra.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ti-iseg-t12.wikidot.com">ISEG TI T12</a></h3>
+            <h3><a target="_blank" href="http://smsalgebra.wikidot.com">Variable Thinking Wiki</a></h3>
+            <div class="desc">          
+              Life is a word problem
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://fpt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fpt.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://fpt.wikidot.com">Parameterized Complexity</a></h3>
+            <div class="desc">          
+              Did you say NP-hard?
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://eventidemush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eventidemush.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://eventidemush.wikidot.com">Eventide MUSH</a></h3>
             <div class="desc">          
               
             </div>
@@ -1700,34 +1722,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://softwarecraftsmanship.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/softwarecraftsmanship.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://softwarecraftsmanship.wikidot.com">Software Craftsmanship</a></h3>
+            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
             <div class="desc">          
-              A conference all about building it right
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpvakfisandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfisandbox.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpvakfisandbox.wikidot.com">SCP Vakfı Sandbox</a></h3>
-            <div class="desc">          
-              Atış poligonu
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-wiki.wikidot.com">SCP Foundation</a></h3>
-            <div class="desc">          
-              Secure, Contain, Protect
+              A World of Darkness Encyclopedia for Modern Nights
             </div>
           </div>
         </div>
