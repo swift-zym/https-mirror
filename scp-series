@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1618187138;
+        OZONE.request.timestamp = 1618208540;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,45 +1711,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://magiamesterei.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magiamesterei.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://morningside-genetics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningside-genetics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://magiamesterei.wikidot.com">Mágia Mesterei Wiki</a></h3>
-            <div class="desc">          
-              Segítség az online játékhoz
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://caughtnotsleeping.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caughtnotsleeping.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://caughtnotsleeping.wikidot.com">CaughtNotSleeping</a></h3>
-            <div class="desc">          
-              It&#039;s just a game...It&#039;s just a game...
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://cunefc2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefc2.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://cunefc2.wikidot.com">CUNEF Group C2</a></h3>
-            <div class="desc">          
-              For Your Work, Opinions and Discoveries!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://androidalchemy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/androidalchemy.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://androidalchemy.wikidot.com">Android Alchemy</a></h3>
+            <h3><a target="_blank" href="http://morningside-genetics.wikidot.com">Morningside Genetics</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://eltork-scp-database.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eltork-scp-database.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://eltork-scp-database.wikidot.com">[SCPF] Information Database</a></h3>
+            <div class="desc">          
+              Secure, Contain, Protect
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://tradewithsaint.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradewithsaint.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://tradewithsaint.wikidot.com">Trading With The Flow!!!</a></h3>
+            <div class="desc">          
+              The Art of Trading the NOW
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-int.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-int.wikidot.com">International Translation Archive</a></h3>
+            <div class="desc">          
+              of the SCP Foundation
             </div>
           </div>
         </div>

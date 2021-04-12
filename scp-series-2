@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1618187016;
+        OZONE.request.timestamp = 1618208570;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,10 +1713,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://enss.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/enss.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pkp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pkp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://enss.wikidot.com">ens.wiki</a></h3>
+            <h3><a target="_blank" href="http://pkp.wikidot.com">Wiki.PKP.in</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,34 +1724,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rpc-cs.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-cs.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://under-welkin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/under-welkin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rpc-cs.wikidot.com">Autorita RPC</a></h3>
+            <h3><a target="_blank" href="http://under-welkin.wikidot.com">天穹敻远</a></h3>
             <div class="desc">          
-              Výzkum, Ochrana, Zadržování
+              列星安陈，众线何参
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rshsalcseries.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rshsalcseries.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpvakfisandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfisandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rshsalcseries.wikidot.com">Series Tracker</a></h3>
+            <h3><a target="_blank" href="http://scpvakfisandbox.wikidot.com">SCP Vakfı Sandbox</a></h3>
             <div class="desc">          
-              Series found in the RSHS ALC
+              Atış poligonu
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-int-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://energyfuture.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyfuture.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-int-sandbox.wikidot.com">SCP Sandbox</a></h3>
+            <h3><a target="_blank" href="http://energyfuture.wikidot.com">The Future of Energy</a></h3>
             <div class="desc">          
-              of the International Translation Archive
+              Analyzing The Options
             </div>
           </div>
         </div>
