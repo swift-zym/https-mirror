@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1618230060;
+        OZONE.request.timestamp = 1618251703;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1712,10 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bisgmit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bisgmit.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wanderers-library-pl.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-library-pl.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bisgmit.wikidot.com">Bisgmit</a></h3>
+            <h3><a target="_blank" href="http://wanderers-library-pl.wikidot.com">Biblioteka Wędrowca</a></h3>
+            <div class="desc">          
+              Polska Filia
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://pkp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pkp.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://pkp.wikidot.com">Wiki.PKP.in</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,34 +1734,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://timebox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/timebox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://halfmoonbay.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/halfmoonbay.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://timebox.wikidot.com">The Timebox</a></h3>
+            <h3><a target="_blank" href="http://halfmoonbay.wikidot.com">Half Moon Bay Weyr</a></h3>
             <div class="desc">          
-              Temporal writing bubble
+              Join us at paper.mudmagic.com Port:2211
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://magmabox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magmabox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://retrolegends.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrolegends.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://magmabox.wikidot.com">Centre de Recherche</a></h3>
+            <h3><a target="_blank" href="http://retrolegends.wikidot.com">Retro Legends</a></h3>
             <div class="desc">          
-              Là où le loup chasse
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://bzhlab.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bzhlab.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://bzhlab.wikidot.com">BZHLab</a></h3>
-            <div class="desc">          
-              Makers goes west!
+              The Definitive Database for Retro Gamers
             </div>
           </div>
         </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1618230184;
+        OZONE.request.timestamp = 1618251794;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://connorscampaigns.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/connorscampaigns.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://networkers.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/networkers.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://connorscampaigns.wikidot.com">Connors Campaigns</a></h3>
+            <h3><a target="_blank" href="http://networkers.wikidot.com">KAIMTech NetLabs</a></h3>
             <div class="desc">          
-              My dashboard for RPGs, Music, Sports, and more.
+              Sharing my IP networking experience
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://game-maker.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/game-maker.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://oracledatabase.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oracledatabase.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://game-maker.wikidot.com">GameMaker Wiki</a></h3>
+            <h3><a target="_blank" href="http://oracledatabase.wikidot.com">Oracle Database</a></h3>
             <div class="desc">          
-              
+              All things oracle...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://margopedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/margopedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tibasicdev.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tibasicdev.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://margopedia.wikidot.com">Margopedia</a></h3>
+            <h3><a target="_blank" href="http://tibasicdev.wikidot.com">TI-Basic Developer</a></h3>
             <div class="desc">          
-              Połączenie wikipedii i nonsensopedii...
+              The TI-Basic Information Repository
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fondationscp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondationscp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scratch4samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scratch4samvedna.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fondationscp.wikidot.com">Fondation SCP</a></h3>
+            <h3><a target="_blank" href="http://scratch4samvedna.wikidot.com">Right from &#039;Scratch!!&#039;</a></h3>
             <div class="desc">          
-              Sécuriser, Contenir, Protéger
+              Animation through Online Collaboration by students
             </div>
           </div>
         </div>
