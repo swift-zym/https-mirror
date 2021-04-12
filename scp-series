@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1618208540;
+        OZONE.request.timestamp = 1618229918;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -567,7 +567,7 @@
 <li><a href="/scp-028">SCP-028</a> - 知识</li>
 <li><a href="/scp-029">SCP-029</a> - 暗影之女</li>
 <li><a href="/scp-030">SCP-030</a> - 人造人</li>
-<li><a href="/scp-031">SCP-031</a> - 爱为何物？</li>
+<li><a class="newpage" href="/scp-031">SCP-031</a> - 爱为何物？</li>
 <li><a href="/scp-032">SCP-032</a> - 弟兄们的新娘</li>
 <li><a href="/scp-033">SCP-033</a> - 丢失的数字</li>
 <li><a href="/scp-034">SCP-034</a> - 黑曜石仪式匕首</li>
@@ -1711,10 +1711,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://morningside-genetics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningside-genetics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fourthwallgames.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fourthwallgames.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://morningside-genetics.wikidot.com">Morningside Genetics</a></h3>
+            <h3><a target="_blank" href="http://fourthwallgames.wikidot.com">Fourth Wall Games</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1722,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://eltork-scp-database.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eltork-scp-database.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpcommune.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpcommune.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://eltork-scp-database.wikidot.com">[SCPF] Information Database</a></h3>
+            <h3><a target="_blank" href="http://scpcommune.wikidot.com">The SCP Commune</a></h3>
             <div class="desc">          
-              Secure, Contain, Protect
+              Satirize, Collectivize, Politicize
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tradewithsaint.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradewithsaint.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mis213-2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mis213-2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tradewithsaint.wikidot.com">Trading With The Flow!!!</a></h3>
+            <h3><a target="_blank" href="http://mis213-2.wikidot.com">MIS 213-2</a></h3>
             <div class="desc">          
-              The Art of Trading the NOW
+              Intro to IS
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-int.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://schoolsteachersparents.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/schoolsteachersparents.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-int.wikidot.com">International Translation Archive</a></h3>
+            <h3><a target="_blank" href="http://schoolsteachersparents.wikidot.com">Schools - Teachers - Parents</a></h3>
             <div class="desc">          
-              of the SCP Foundation
+              Issues in Schooling
             </div>
           </div>
         </div>

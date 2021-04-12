@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1618208494;
+        OZONE.request.timestamp = 1618230064;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -641,7 +641,7 @@
 <li><a href="/scp-4078">SCP-4078</a> - 新拉马克式基因工程</li>
 <li><a href="/scp-4079">SCP-4079</a> - 拯救阿基米德</li>
 <li><a href="/scp-4080">SCP-4080</a> - 瞩目之人</li>
-<li><a href="/scp-4081">SCP-4081</a> - Audition Interference</li>
+<li><a href="/scp-4081">SCP-4081</a> - 干扰面试</li>
 <li><a class="newpage" href="/scp-4082">SCP-4082</a> - NeoVancouver Free Radio</li>
 <li><a href="/scp-4083">SCP-4083</a> - 湖滨景观公寓</li>
 <li><a href="/scp-4084">SCP-4084</a> - 所以谁曾是电话</li>
@@ -701,7 +701,7 @@
 <li><a class="newpage" href="/scp-4134">SCP-4134</a> - Claymore Anti-Personnel Mimes</li>
 <li><a href="/scp-4135">SCP-4135</a> - 绿头鸭</li>
 <li><a href="/scp-4136">SCP-4136</a> - 叔叔</li>
-<li><a href="/scp-4137">SCP-4137</a> - Drugs, Tesseracts, and Nintendocore</li>
+<li><a href="/scp-4137">SCP-4137</a> - 毒品、超维体，以及Nintendocore</li>
 <li><a href="/scp-4138">SCP-4138</a> - 前往群星</li>
 <li><a class="newpage" href="/scp-4139">SCP-4139</a> - Fridge Backpack</li>
 <li><a class="newpage" href="/scp-4140">SCP-4140</a> - Sarkic Containment Procedures</li>
@@ -797,7 +797,7 @@
 <li><a class="newpage" href="/scp-4226">SCP-4226</a> - The Spring of the Ages</li>
 <li><a href="/scp-4227">SCP-4227</a> - 遗物坟场&#8230;&#8230;</li>
 <li><a href="/scp-4228">SCP-4228</a> - 变色Karma</li>
-<li><a class="newpage" href="/scp-4229">SCP-4229</a> - Mother's Gift</li>
+<li><a href="/scp-4229">SCP-4229</a> - Mother's Gift</li>
 <li><a href="/scp-4230">SCP-4230</a> - <em>这是一个圣诞节奇迹！</em></li>
 <li><a href="/scp-4231">SCP-4231</a> - 蒙托克之屋</li>
 <li><a class="newpage" href="/scp-4232">SCP-4232</a> - Thought Crustacean</li>
@@ -1671,7 +1671,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 766, 最后编辑于: <span class="odate time_1617111161 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">30 Mar 2021 13:32</span></div>
+                            <div id="page-info">页面版本: 767, 最后编辑于: <span class="odate time_1618217769 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">12 Apr 2021 08:56</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1743,45 +1743,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://oblivionshard.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oblivionshard.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://lasthaiku.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lasthaiku.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://oblivionshard.wikidot.com">Oblivion Reloaded :: UO Shard</a></h3>
+            <h3><a target="_blank" href="http://lasthaiku.wikidot.com">Legend of the Five Rings</a></h3>
             <div class="desc">          
-              oblivion reloaded shard
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://celtic-heroes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celtic-heroes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ddscat.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ddscat.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://celtic-heroes.wikidot.com">Celtic Heroes Wiki</a></h3>
+            <h3><a target="_blank" href="http://ddscat.wikidot.com">DDSCAT</a></h3>
             <div class="desc">          
-              A Wiki for the iPhone/iPad MMO Celtic Heroes
+              Light Scattering Code
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dotflow.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dotflow.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-foundation-origins.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-foundation-origins.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dotflow.wikidot.com">.flow</a></h3>
+            <h3><a target="_blank" href="http://scp-foundation-origins.wikidot.com">Horizons</a></h3>
             <div class="desc">          
-              Rusting Away
+              The RP about how it all continued... maybe.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://waywardsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/waywardsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpvakfi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://waywardsandbox.wikidot.com">Wayward Society Sandbox</a></h3>
+            <h3><a target="_blank" href="http://scpvakfi.wikidot.com">SCP Vakfı</a></h3>
             <div class="desc">          
-              Even secret societies need to draft.
+              Yakala, Sakla, Koru
             </div>
           </div>
         </div>

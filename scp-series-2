@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1618208570;
+        OZONE.request.timestamp = 1618230182;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,10 +1713,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pkp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pkp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://maegica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maegica.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pkp.wikidot.com">Wiki.PKP.in</a></h3>
+            <h3><a target="_blank" href="http://maegica.wikidot.com">Maegica Wiki</a></h3>
+            <div class="desc">          
+              Maegica Order In Chaos Online
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://wikiwealth.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiwealth.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://wikiwealth.wikidot.com">WikiWealth</a></h3>
+            <div class="desc">          
+              Stock, ETF and Mutual Fund Ratings | Commodity, Currency Research
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://hp-intothefire.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hp-intothefire.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://hp-intothefire.wikidot.com">Harry Potter: Into The Fire</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,34 +1746,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://under-welkin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/under-welkin.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://downsfolk.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/downsfolk.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://under-welkin.wikidot.com">天穹敻远</a></h3>
+            <h3><a target="_blank" href="http://downsfolk.wikidot.com">Downs Folk</a></h3>
             <div class="desc">          
-              列星安陈，众线何参
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpvakfisandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfisandbox.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpvakfisandbox.wikidot.com">SCP Vakfı Sandbox</a></h3>
-            <div class="desc">          
-              Atış poligonu
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://energyfuture.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyfuture.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://energyfuture.wikidot.com">The Future of Energy</a></h3>
-            <div class="desc">          
-              Analyzing The Options
+              Lives and times of folk of Toowoomba &amp; the Downs
             </div>
           </div>
         </div>

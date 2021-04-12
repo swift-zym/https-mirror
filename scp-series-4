@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1618208309;
+        OZONE.request.timestamp = 1618230060;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1712,10 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ischool.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ischool.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bisgmit.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bisgmit.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ischool.wikidot.com">iSchool High</a></h3>
+            <h3><a target="_blank" href="http://bisgmit.wikidot.com">Bisgmit</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,34 +1723,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-qqxsj.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-qqxsj.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://timebox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/timebox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki-qqxsj.wikidot.com">SCP基金会小世界分部</a></h3>
+            <h3><a target="_blank" href="http://timebox.wikidot.com">The Timebox</a></h3>
             <div class="desc">          
-              控制，收容，保护
+              Temporal writing bubble
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://green-house.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/green-house.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://magmabox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magmabox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://green-house.wikidot.com">The Green House Wiki</a></h3>
+            <h3><a target="_blank" href="http://magmabox.wikidot.com">Centre de Recherche</a></h3>
             <div class="desc">          
-              
+              Là où le loup chasse
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://avendar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/avendar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bzhlab.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bzhlab.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://avendar.wikidot.com">AvendarWiki</a></h3>
+            <h3><a target="_blank" href="http://bzhlab.wikidot.com">BZHLab</a></h3>
             <div class="desc">          
-              Database wiki for Avendar MUD
+              Makers goes west!
             </div>
           </div>
         </div>

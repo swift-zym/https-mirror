@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1618208498;
+        OZONE.request.timestamp = 1618229989;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1712,32 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://freesmug.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/freesmug.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gamedesign.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gamedesign.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://freesmug.wikidot.com">FreeSMUG</a></h3>
+            <h3><a target="_blank" href="http://gamedesign.wikidot.com">Game Design Novice</a></h3>
             <div class="desc">          
-              Free Open Source Software Mac User Group
+              Learn to make video games.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cunefa2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefa2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://enchantedbros.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/enchantedbros.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cunefa2.wikidot.com">CUNEF Group A2</a></h3>
-            <div class="desc">          
-              For Your Work, Opinions and Discoveries!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
+            <h3><a target="_blank" href="http://enchantedbros.wikidot.com">Enchanted Bros wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,12 +1734,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tmduc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tmduc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://badwebcomics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/badwebcomics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tmduc.wikidot.com">TMD (uc)</a></h3>
+            <h3><a target="_blank" href="http://badwebcomics.wikidot.com">The Bad Webcomics Wiki</a></h3>
             <div class="desc">          
-              creación colectiva
+              Improving our media, with hatred
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ccb-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ccb-wiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ccb-wiki.wikidot.com">文明情报处</a></h3>
+            <div class="desc">          
+              我们行走在沙滩之上，遥望那远处的星空
             </div>
           </div>
         </div>

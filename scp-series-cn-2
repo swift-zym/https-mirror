@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1618208429;
+        OZONE.request.timestamp = 1618230130;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -863,7 +863,7 @@
 <li><a href="/scp-cn-1315">SCP-CN-1315</a> - 小心你的脑子</li>
 <li><a href="/scp-cn-1316">SCP-CN-1316</a> - 寄生人类的蟹奴</li>
 <li><a href="/scp-cn-1317">SCP-CN-1317</a> - 三█餐馆</li>
-<li><a href="/scp-cn-1318">SCP-CN-1318</a> - 血魔之种</li>
+<li><a class="newpage" href="/scp-cn-1318">SCP-CN-1318</a> - 血魔之种</li>
 <li><a href="/scp-cn-1319">SCP-CN-1319</a> - 随波逐流？</li>
 <li><a href="/scp-cn-1320">SCP-CN-1320</a> - 心中所惧，之于深渊</li>
 <li><a href="/scp-cn-1321">SCP-CN-1321</a> - W博士的█景球</li>
@@ -1370,7 +1370,7 @@
 <li><a href="/scp-cn-1802">SCP-CN-1802</a> - 假如你是李华</li>
 <li><a href="/scp-cn-1803">SCP-CN-1803</a> - 失语症鹦鹉</li>
 <li><a href="/scp-cn-1804">SCP-CN-1804</a> - 会上网的烂尾楼</li>
-<li><a class="newpage" href="/scp-cn-1805">SCP-CN-1805</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1805">SCP-CN-1805</a> - 鼻涕虫</li>
 <li><a href="/scp-cn-1806">SCP-CN-1806</a> - 灯，灯，灯，安康鱼之灯</li>
 <li><a href="/scp-cn-1807">SCP-CN-1807</a> - 该鼠标因怂的一批故拒绝调戏</li>
 <li><a href="/scp-cn-1808">SCP-CN-1808</a> - 行尸走肉</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4063, 最后编辑于: <span class="odate time_1618154557 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Apr 2021 15:22</span></div>
+                            <div id="page-info">页面版本: 4064, 最后编辑于: <span class="odate time_1618209768 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">12 Apr 2021 06:42</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+87</span>)</a>
@@ -1689,21 +1689,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hfwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hfwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wow-arrakis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wow-arrakis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hfwiki.wikidot.com">HammerfallWiki</a></h3>
+            <h3><a target="_blank" href="http://wow-arrakis.wikidot.com">WoW-Arrakis</a></h3>
             <div class="desc">          
-              A Wiki for Hammerfall RPG on Facebook and Myspace
+              Clan Hordeño de C&#039;Thun
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://shillahelpsite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/shillahelpsite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scala.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scala.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://shillahelpsite.wikidot.com">Shilla Helpsite</a></h3>
+            <h3><a target="_blank" href="http://scala.wikidot.com">Scala Geography Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1711,23 +1711,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cunefa2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefa2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://videoart.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/videoart.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cunefa2.wikidot.com">CUNEF Group A2</a></h3>
+            <h3><a target="_blank" href="http://videoart.wikidot.com">Interactive Media Design: Theory</a></h3>
             <div class="desc">          
-              For Your Work, Opinions and Discoveries!
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://phylo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/phylo.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chrysaliswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://phylo.wikidot.com">PhyloWiki</a></h3>
+            <h3><a target="_blank" href="http://chrysaliswiki.wikidot.com">Chrysalis</a></h3>
             <div class="desc">          
-              Assisting research and education in phylogenetics and evolution
+              A Final Fantasy Wiki
             </div>
           </div>
         </div>
