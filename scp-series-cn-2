@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1618273435;
+        OZONE.request.timestamp = 1618294967;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -869,7 +869,7 @@
 <li><a href="/scp-cn-1321">SCP-CN-1321</a> - W博士的█景球</li>
 <li><a href="/scp-cn-1322">SCP-CN-1322</a> - 金属'母体'</li>
 <li><a href="/scp-cn-1323">SCP-CN-1323</a> - 粉红佳人</li>
-<li><a href="/scp-cn-1324">SCP-CN-1324</a> - 生命转让协议</li>
+<li><a class="newpage" href="/scp-cn-1324">SCP-CN-1324</a> - 生命转让协议</li>
 <li><a href="/scp-cn-1325">SCP-CN-1325</a> - 冈格尼尔</li>
 <li><a href="/scp-cn-1326">SCP-CN-1326</a> - 信息传输协议</li>
 <li><a href="/scp-cn-1327">SCP-CN-1327</a> - 操蛋地铁站</li>
@@ -1689,43 +1689,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://obscurative.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/obscurative.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://biblio.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biblio.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://obscurative.wikidot.com">Obscurative</a></h3>
+            <h3><a target="_blank" href="http://biblio.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
             <div class="desc">          
-              ​
+              livros e artigos sobre línguas sul-americanas
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://editora.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/editora.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://editora.wikidot.com">CIN  7402 Editoração Científica</a></h3>
+            <h3><a target="_blank" href="http://www.wikidot.com">Wikidot - Free and Pro Wiki Hosting</a></h3>
             <div class="desc">          
-              Disciplina na UFSC
+              your place on the web
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tradicional.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradicional.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://oregonamhi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oregonamhi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tradicional.wikidot.com">Tradicional - Doutrinas de Cristo</a></h3>
+            <h3><a target="_blank" href="http://oregonamhi.wikidot.com">Oregon Choice Model Wiki</a></h3>
             <div class="desc">          
-              
+              Oregon Choice Model Residential Placements
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blackberrystorm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackberrystorm.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wanderers-sandbox-pl.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-sandbox-pl.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blackberrystorm.wikidot.com">BlackBerry Storm Wiki</a></h3>
+            <h3><a target="_blank" href="http://wanderers-sandbox-pl.wikidot.com">Sandbox Wędrowca</a></h3>
             <div class="desc">          
               
             </div>
