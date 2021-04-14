@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1618402685;
+        OZONE.request.timestamp = 1618424589;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1039,7 +1039,7 @@
 <li><a href="/scp-5483">SCP-5483</a> - 海床收录措施</li>
 <li><a class="newpage" href="/scp-5484">SCP-5484</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5485">SCP-5485</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5486">SCP-5486</a> - [拒绝访问]</li>
+<li><a href="/scp-5486">SCP-5486</a> - <em>远古契合</em></li>
 <li><a class="newpage" href="/scp-5487">SCP-5487</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5488">SCP-5488</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5489">SCP-5489</a> - [拒绝访问]</li>
@@ -1274,7 +1274,7 @@
 <li><a class="newpage" href="/scp-5706">SCP-5706</a> - 無界天際SpeedRun大爆笑！！！（出大事了！）[居然色色的！！]{不是標題黨！！！}</li>
 <li><a href="/scp-5707">SCP-5707</a> - 山姆大叔：全美的血肉术士</li>
 <li><a class="newpage" href="/scp-5708">SCP-5708</a> - From Asgard With Love</li>
-<li><a class="newpage" href="/scp-5709">SCP-5709</a> - [拒绝访问]</li>
+<li><a href="/scp-5709">SCP-5709</a> - 有灵栖于天堂</li>
 <li><a href="/scp-5710">SCP-5710</a> - 《巴赫作品目录》</li>
 <li><a class="newpage" href="/scp-5711">SCP-5711</a> - Threat Level: MIDNIGHT</li>
 <li><a href="/scp-5712">SCP-5712</a> - 恶魔，模因和超级计算机</li>
@@ -1346,7 +1346,7 @@
 <li><a class="newpage" href="/scp-5778">SCP-5778</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5779">SCP-5779</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5780">SCP-5780</a> - To Hatch Parises and Chase Geese</li>
-<li><a href="/scp-5781">SCP-5781</a> - [拒绝访问]</li>
+<li><a href="/scp-5781">SCP-5781</a> - 佛罗里达州的调查员</li>
 <li><a class="newpage" href="/scp-5782">SCP-5782</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5783">SCP-5783</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5784">SCP-5784</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 452, 最后编辑于: <span class="odate time_1618384223 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">14 Apr 2021 07:10</span></div>
+                            <div id="page-info">页面版本: 455, 最后编辑于: <span class="odate time_1618408439 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">14 Apr 2021 13:53</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,21 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://caughtnotsleeping.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caughtnotsleeping.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://oneeleventwentyten.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oneeleventwentyten.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://caughtnotsleeping.wikidot.com">CaughtNotSleeping</a></h3>
-            <div class="desc">          
-              It&#039;s just a game...It&#039;s just a game...
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://viscomclass.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/viscomclass.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://viscomclass.wikidot.com">VisCom</a></h3>
+            <h3><a target="_blank" href="http://oneeleventwentyten.wikidot.com">Writing 111 Fall 2010</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1723,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://trumpetexercises.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trumpetexercises.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://r.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/r.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://trumpetexercises.wikidot.com">Trumpet exercise database</a></h3>
+            <h3><a target="_blank" href="http://r.wikidot.com">Wikidot URL shortener</a></h3>
             <div class="desc">          
-              for trumpet players, students and teachers
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pofomultiquiz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pofomultiquiz.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bootstrap-playground.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bootstrap-playground.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pofomultiquiz.wikidot.com">Pofo MultiQuiz</a></h3>
+            <h3><a target="_blank" href="http://bootstrap-playground.wikidot.com">Bootstrap Playground</a></h3>
             <div class="desc">          
-              
+              Because we all need a place to play
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scr-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scr-wiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scr-wiki.wikidot.com">SCR公司</a></h3>
+            <div class="desc">          
+              安全.收容.研究
             </div>
           </div>
         </div>
