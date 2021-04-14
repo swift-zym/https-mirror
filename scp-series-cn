@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1618359837;
+        OZONE.request.timestamp = 1618381309;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -918,7 +918,7 @@
 <li><a href="/scp-cn-371">SCP-CN-371</a> - Site-UN-9</li>
 <li><a href="/scp-cn-372">SCP-CN-372</a> - 卫星投影仪</li>
 <li><a href="/scp-cn-373">SCP-CN-373</a> - 模因海洋</li>
-<li><a class="newpage" href="/scp-cn-374">SCP-CN-374</a> - [拒绝访问]</li>
+<li><a href="/scp-cn-374">SCP-CN-374</a> - [拒绝访问]</li>
 <li><a href="/scp-cn-375">SCP-CN-375</a> - 永续八音盒</li>
 <li><a href="/scp-cn-376">SCP-CN-376</a> - 笑面鼎</li>
 <li><a href="/scp-cn-377">SCP-CN-377</a> - 核弹的错误用法</li>
@@ -1182,7 +1182,7 @@
 <li><a href="/scp-cn-623">SCP-CN-623</a> - 死角的新娘</li>
 <li><a href="/scp-cn-624">SCP-CN-624</a> - 谁杀死了知更鸟？</li>
 <li><a href="/scp-cn-625">SCP-CN-625</a> - 鋼琴橋</li>
-<li><a href="/scp-cn-626">SCP-CN-626</a> - 猫的房子</li>
+<li><a class="newpage" href="/scp-cn-626">SCP-CN-626</a> - 猫的房子</li>
 <li><a href="/scp-cn-627">SCP-CN-627</a> - <span style="text-decoration: line-through;">圣甲虫秘境</span> 甲虫神</li>
 <li><a href="/scp-cn-628">SCP-CN-628</a> - 石化，墙中，混凝土</li>
 <li><a href="/scp-cn-629">SCP-CN-629</a> - 倾听肺腑之声</li>
@@ -1688,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://perceptionstudio.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/perceptionstudio.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://vs-tcg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vs-tcg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://perceptionstudio.wikidot.com">Perceptionstudio</a></h3>
+            <h3><a target="_blank" href="http://vs-tcg.wikidot.com">Sparkling Victory!</a></h3>
             <div class="desc">          
-              The Wiki for Perception Studio
+              Time to Spark, Time for Victory...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://backrooms-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://celesia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celesia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://backrooms-sandbox.wikidot.com">Backrooms Sandbox</a></h3>
+            <h3><a target="_blank" href="http://celesia.wikidot.com">Legends of Celesia</a></h3>
             <div class="desc">          
-              When your Sandbox just gets too Backrooms
+              A D&amp;D 3.5/Pathfinder Campaign
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://coffeetimex.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coffeetimex.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cs0.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs0.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://coffeetimex.wikidot.com">Coffeetime Extra</a></h3>
+            <h3><a target="_blank" href="http://cs0.wikidot.com">免費電子書：C# 程式設計</a></h3>
+            <div class="desc">          
+              作者：陳鍾誠
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cs124project-2009.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs124project-2009.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cs124project-2009.wikidot.com">Computational Genetics Project</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://eldritch00.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eldritch00.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://eldritch00.wikidot.com">A Shining Brainless Beacon</a></h3>
-            <div class="desc">          
-              I Have a Special Plan for This World
             </div>
           </div>
         </div>
