@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1618467522;
+        OZONE.request.timestamp = 1618489171;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,10 +1713,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://globalseminarhealth.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/globalseminarhealth.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kharon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kharon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://globalseminarhealth.wikidot.com">Health and Environment</a></h3>
+            <h3><a target="_blank" href="http://kharon.wikidot.com">CEC Kharon</a></h3>
+            <div class="desc">          
+              bsgkharon.com 5102
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://tpswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tpswiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://tpswiki.wikidot.com">TPSwiki.com</a></h3>
+            <div class="desc">          
+              The Radiation Oncology Treatment Planning System Wiki
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,34 +1746,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fmi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
+            <h3><a target="_blank" href="http://fmi.wikidot.com">Лекциите на ФМИ</a></h3>
             <div class="desc">          
-              実験、実験、爆発
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://porsche.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/porsche.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://porsche.wikidot.com">Porsche Wiki</a></h3>
-            <div class="desc">          
-              Brought to You By RedLine Technik | RedLineTechnik.com
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://etic.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/etic.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://etic.wikidot.com">The Etic</a></h3>
-            <div class="desc">          
-              A Sense Of The Box.
+              За да изглеждаме умни пред другите
             </div>
           </div>
         </div>
