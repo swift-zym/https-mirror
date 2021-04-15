@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1618489376;
+        OZONE.request.timestamp = 1618511004;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1182,7 +1182,7 @@
 <li><a href="/scp-cn-623">SCP-CN-623</a> - 死角的新娘</li>
 <li><a href="/scp-cn-624">SCP-CN-624</a> - 谁杀死了知更鸟？</li>
 <li><a href="/scp-cn-625">SCP-CN-625</a> - 鋼琴橋</li>
-<li><a class="newpage" href="/scp-cn-626">SCP-CN-626</a> - 猫的房子</li>
+<li><a href="/scp-cn-626">SCP-CN-626</a> - 项目等级</li>
 <li><a href="/scp-cn-627">SCP-CN-627</a> - <span style="text-decoration: line-through;">圣甲虫秘境</span> 甲虫神</li>
 <li><a href="/scp-cn-628">SCP-CN-628</a> - 石化，墙中，混凝土</li>
 <li><a href="/scp-cn-629">SCP-CN-629</a> - 倾听肺腑之声</li>
@@ -1616,7 +1616,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3267, 最后编辑于: <span class="odate time_1618407742 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">14 Apr 2021 13:42</span></div>
+                            <div id="page-info">页面版本: 3268, 最后编辑于: <span class="odate time_1618489495 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">15 Apr 2021 12:24</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+70</span>)</a>
@@ -1688,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tauren.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tauren.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ecadmin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecadmin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tauren.wikidot.com">Tauren Ate My Grandma</a></h3>
+            <h3><a target="_blank" href="http://ecadmin.wikidot.com">Early Childhood Program Administration</a></h3>
             <div class="desc">          
-              has moved!
+              Resources, Training, Best Practices, Sharing
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-yerko-4.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-yerko-4.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ereticopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ereticopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-yerko-4.wikidot.com">Yerko&#039;s Sandbox IV</a></h3>
+            <h3><a target="_blank" href="http://ereticopedia.wikidot.com">ERETICOPEDIA</a></h3>
             <div class="desc">          
-              ¿Cuatro ya? LeL
+              Mediterranean Digital &amp; Public Humanities
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sliscomps.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sliscomps.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://2012hoax.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2012hoax.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sliscomps.wikidot.com">CUA SLIS Comps Study Wiki</a></h3>
+            <h3><a target="_blank" href="http://2012hoax.wikidot.com">2012hoax</a></h3>
             <div class="desc">          
-              
+              Debunking the &quot;2012 Doomsday&quot;
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smlt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smlt.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hiddenprojectwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hiddenprojectwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smlt.wikidot.com">SMLT Container</a></h3>
+            <h3><a target="_blank" href="http://hiddenprojectwiki.wikidot.com">Hidden Project</a></h3>
             <div class="desc">          
-              The SCP Sandbox by Nerds for Nerds.
+              Welcome to Hidden Project Wiki
             </div>
           </div>
         </div>
