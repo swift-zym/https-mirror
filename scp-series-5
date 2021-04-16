@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1618532636;
+        OZONE.request.timestamp = 1618553959;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,45 +1743,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpkosb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkosb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
+            <h3><a target="_blank" href="http://scpkosb.wikidot.com">SB-KO2</a></h3>
             <div class="desc">          
-              
+              SCP-KO 샌드박스 이호기
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://paralelo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paralelo.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://avendar.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/avendar.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://paralelo.wikidot.com">Paralelo</a></h3>
+            <h3><a target="_blank" href="http://avendar.wikidot.com">AvendarWiki</a></h3>
             <div class="desc">          
-              29 March - 2 April 2009
+              Database wiki for Avendar MUD
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://jimsgaming.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jimsgaming.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sfi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://jimsgaming.wikidot.com">Big Damn Gaming Page</a></h3>
+            <h3><a target="_blank" href="http://sfi.wikidot.com">STARFIGHTER INFINITY</a></h3>
             <div class="desc">          
-              So many games, so little time...
+              Open Source Website
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ecomind.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecomind.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://magmabox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magmabox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ecomind.wikidot.com">Ecology, Mind, &amp; Systems</a></h3>
+            <h3><a target="_blank" href="http://magmabox.wikidot.com">Centre de Recherche</a></h3>
             <div class="desc">          
-              Personal, Social, Cultural, Technological, and Ecological Explorations
+              Là où le loup chasse
             </div>
           </div>
         </div>
