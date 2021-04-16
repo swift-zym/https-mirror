@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1618553959;
+        OZONE.request.timestamp = 1618575778;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,45 +1743,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpkosb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkosb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ginnungagap.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ginnungagap.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpkosb.wikidot.com">SB-KO2</a></h3>
+            <h3><a target="_blank" href="http://ginnungagap.wikidot.com">Ginnungagap</a></h3>
             <div class="desc">          
-              SCP-KO 샌드박스 이호기
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://avendar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/avendar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-th.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-th.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://avendar.wikidot.com">AvendarWiki</a></h3>
+            <h3><a target="_blank" href="http://scp-th.wikidot.com">สถาบัน SCP</a></h3>
             <div class="desc">          
-              Database wiki for Avendar MUD
+              ควบคุม, กักกัน, ป้องกัน
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sfi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ltt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ltt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sfi.wikidot.com">STARFIGHTER INFINITY</a></h3>
+            <h3><a target="_blank" href="http://ltt.wikidot.com">Living Through Technology</a></h3>
             <div class="desc">          
-              Open Source Website
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://magmabox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magmabox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bettersandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bettersandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://magmabox.wikidot.com">Centre de Recherche</a></h3>
+            <h3><a target="_blank" href="http://bettersandbox.wikidot.com">Better Sandbox</a></h3>
             <div class="desc">          
-              Là où le loup chasse
+              灵感   撰稿  成文
             </div>
           </div>
         </div>

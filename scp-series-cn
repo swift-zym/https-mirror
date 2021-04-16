@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1618554003;
+        OZONE.request.timestamp = 1618575778;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,10 +1688,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://copernicon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/copernicon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ginnungagap.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ginnungagap.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://copernicon.wikidot.com">Copernicon 2010</a></h3>
+            <h3><a target="_blank" href="http://ginnungagap.wikidot.com">Ginnungagap</a></h3>
             <div class="desc">          
               
             </div>
@@ -1699,21 +1699,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://acdcell.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/acdcell.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-th.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-th.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://acdcell.wikidot.com">异常管理署</a></h3>
+            <h3><a target="_blank" href="http://scp-th.wikidot.com">สถาบัน SCP</a></h3>
             <div class="desc">          
-              探明异常 控制威胁
+              ควบคุม, กักกัน, ป้องกัน
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://lasthaiku.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lasthaiku.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ltt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ltt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://lasthaiku.wikidot.com">Legend of the Five Rings</a></h3>
+            <h3><a target="_blank" href="http://ltt.wikidot.com">Living Through Technology</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,12 +1721,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpjp-fansite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpjp-fansite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bettersandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bettersandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpjp-fansite.wikidot.com">SCP-JP-FS</a></h3>
+            <h3><a target="_blank" href="http://bettersandbox.wikidot.com">Better Sandbox</a></h3>
             <div class="desc">          
-              確保、収容、遊べ！
+              灵感   撰稿  成文
             </div>
           </div>
         </div>
