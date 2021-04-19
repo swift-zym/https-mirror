@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1618770077;
+        OZONE.request.timestamp = 1618791813;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -727,7 +727,7 @@
 <li><a href="/scp-5183">SCP-5183</a> - 伪装之下</li>
 <li><a class="newpage" href="/scp-5184">SCP-5184</a> - [拒绝访问]</li>
 <li><a href="/scp-5185">SCP-5185</a> - dado的好蜘蛛</li>
-<li><a class="newpage" href="/scp-5186">SCP-5186</a> - The Depths That Hunger</li>
+<li><a href="/scp-5186">SCP-5186</a> - 饥饿深渊</li>
 <li><a class="newpage" href="/scp-5187">SCP-5187</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5188">SCP-5188</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5189">SCP-5189</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 456, 最后编辑于: <span class="odate time_1618468521 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">15 Apr 2021 06:35</span></div>
+                            <div id="page-info">页面版本: 457, 最后编辑于: <span class="odate time_1618776377 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Apr 2021 20:06</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,21 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cf-vanguard.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cf-vanguard.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cf-vanguard.wikidot.com">Vanguard Rider</a></h3>
+            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
             <div class="desc">          
-              CARDFIGHT!! Vanguard English Wiki
+              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikiethica.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiethica.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://trueblood-dallas.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trueblood-dallas.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikiethica.wikidot.com">WikiEthica</a></h3>
+            <h3><a target="_blank" href="http://trueblood-dallas.wikidot.com">Trueblood: Dallas</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1734,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tradewithsaint.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradewithsaint.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://galacticunity.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/galacticunity.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tradewithsaint.wikidot.com">Trading With The Flow!!!</a></h3>
+            <h3><a target="_blank" href="http://galacticunity.wikidot.com">Star Wars - Galactic Unity</a></h3>
             <div class="desc">          
-              The Art of Trading the NOW
+              A community of Star Wars Sims in Second Life.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://faragocsaba.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/faragocsaba.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
+            <h3><a target="_blank" href="http://faragocsaba.wikidot.com">Faragó Csaba</a></h3>
             <div class="desc">          
-              A World of Darkness Encyclopedia for Modern Nights
+              
             </div>
           </div>
         </div>
