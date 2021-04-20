@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1618878273;
+        OZONE.request.timestamp = 1618899676;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1107,7 +1107,7 @@
 <li><a href="/scp-1546">SCP-1546</a> - 大学健谈棒球帽</li>
 <li><a href="/scp-1547">SCP-1547</a> - 母亲的爱</li>
 <li><a href="/scp-1548">SCP-1548</a> - 星之憎恨</li>
-<li><a href="/scp-1549">SCP-1549</a> - 不存在的完美媒介</li>
+<li><a class="newpage" href="/scp-1549">SCP-1549</a> - 不存在的完美媒介</li>
 <li><a href="/scp-1550">SCP-1550</a> - Wondertainment博士的自定义宠物™</li>
 <li><a href="/scp-1551">SCP-1551</a> - 重复小屋</li>
 <li><a href="/scp-1552">SCP-1552</a> - 爱自拍的狗</li>
@@ -1261,7 +1261,7 @@
 <li><a href="/scp-1696">SCP-1696</a> - Wondertainment博士的小小宇宙大爆炸™</li>
 <li><a href="/scp-1697">SCP-1697</a> - 模型父亲</li>
 <li><a href="/scp-1698">SCP-1698</a> - 你去不了的地方</li>
-<li><a href="/scp-1699">SCP-1699</a> - 自卑火山</li>
+<li><a class="newpage" href="/scp-1699">SCP-1699</a> - 自卑火山</li>
 </ul>
 <p><a name="1700"></a></p>
 <h1 id="toc9"><span>1700到1799</span></h1>
@@ -1713,43 +1713,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-int.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://passatb5.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/passatb5.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-int.wikidot.com">International Translation Archive</a></h3>
+            <h3><a target="_blank" href="http://passatb5.wikidot.com">PassatB5</a></h3>
             <div class="desc">          
-              of the SCP Foundation
+              Do It Yourself information for Passat Repair!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://liminal-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liminal-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://beatarcademafia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/beatarcademafia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://liminal-sandbox.wikidot.com">Liminal Sandbox</a></h3>
+            <h3><a target="_blank" href="http://beatarcademafia.wikidot.com">Beat Arcade Mafia</a></h3>
             <div class="desc">          
-              Sandbox for the Liminal Archives
+              Past Mafia Setups used on the Beat Arcade Discord Server!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dustin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dustin.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://heroesmush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/heroesmush.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dustin.wikidot.com">STAR WARS</a></h3>
+            <h3><a target="_blank" href="http://heroesmush.wikidot.com">Heroes MUSH</a></h3>
             <div class="desc">          
-              Episode LXIX : The 2021 Campaign
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://alveslima-edu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alveslima-edu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://typesets.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/typesets.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://alveslima-edu.wikidot.com">WIKEDUCAÇÃO</a></h3>
+            <h3><a target="_blank" href="http://typesets.wikidot.com">Type Set Coin Collecting</a></h3>
             <div class="desc">          
               
             </div>

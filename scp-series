@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1618878252;
+        OZONE.request.timestamp = 1618899636;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,32 +1711,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpexplained.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpexplained.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sfugamedev.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfugamedev.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpexplained.wikidot.com">SCP Explained</a></h3>
-            <div class="desc">          
-              Simplify, Condense, Paraphrase
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://zmk.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zmk.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://zmk.wikidot.com">Zagłębiowska Masa Krytyczna</a></h3>
-            <div class="desc">          
-              Czwartek 3 Maja 2018 Godz.15:00
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://marblehornets.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marblehornets.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://marblehornets.wikidot.com">Marble Hornets</a></h3>
+            <h3><a target="_blank" href="http://sfugamedev.wikidot.com">SFU Game Developers Club</a></h3>
             <div class="desc">          
               
             </div>
@@ -1744,12 +1722,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hp-intothefire.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hp-intothefire.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://lgam.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lgam.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hp-intothefire.wikidot.com">Harry Potter: Into The Fire</a></h3>
+            <h3><a target="_blank" href="http://lgam.wikidot.com">LGAM Knowledge Base</a></h3>
             <div class="desc">          
-              
+              Local Government Knowledge Sharing
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://calibribold.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/calibribold.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://calibribold.wikidot.com">Calibri&#039;s Box</a></h3>
+            <div class="desc">          
+              sandbox
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://latindictionary.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/latindictionary.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://latindictionary.wikidot.com">The Latin Dictionary</a></h3>
+            <div class="desc">          
+              Where Latin meets English
             </div>
           </div>
         </div>

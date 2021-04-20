@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1618878274;
+        OZONE.request.timestamp = 1618899613;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1141,7 +1141,7 @@
 <li><a class="newpage" href="/scp-5581">SCP-5581</a> - To Serve Man</li>
 <li><a class="newpage" href="/scp-5582">SCP-5582</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5583">SCP-5583</a> - [拒绝访问]</li>
-<li><a href="/scp-5584">SCP-5584</a> - 虚拟墓场</li>
+<li><a href="/scp-5584">SCP-5584</a> - <em>hsss</em> <strong>BOOM</strong></li>
 <li><a class="newpage" href="/scp-5585">SCP-5585</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5586">SCP-5586</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5587">SCP-5587</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 457, 最后编辑于: <span class="odate time_1618776377 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Apr 2021 20:06</span></div>
+                            <div id="page-info">页面版本: 458, 最后编辑于: <span class="odate time_1618889498 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Apr 2021 03:31</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-int.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://funclubfrp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/funclubfrp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-int.wikidot.com">International Translation Archive</a></h3>
+            <h3><a target="_blank" href="http://funclubfrp.wikidot.com">FUNCLUB FullRP</a></h3>
             <div class="desc">          
-              of the SCP Foundation
+              База данных зоны 81F
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://liminal-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liminal-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://liminal-sandbox.wikidot.com">Liminal Sandbox</a></h3>
+            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
             <div class="desc">          
-              Sandbox for the Liminal Archives
+              Where Writers Share Their Characters &amp; Worlds
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dustin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dustin.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://margopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/margopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dustin.wikidot.com">STAR WARS</a></h3>
+            <h3><a target="_blank" href="http://margopedia.wikidot.com">Margopedia</a></h3>
             <div class="desc">          
-              Episode LXIX : The 2021 Campaign
+              Połączenie wikipedii i nonsensopedii...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://alveslima-edu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alveslima-edu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gurpswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gurpswiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://alveslima-edu.wikidot.com">WIKEDUCAÇÃO</a></h3>
+            <h3><a target="_blank" href="http://gurpswiki.wikidot.com">GURPS Repository</a></h3>
             <div class="desc">          
-              
+              A collection for your GURPS needs
             </div>
           </div>
         </div>

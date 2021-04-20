@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1618878060;
+        OZONE.request.timestamp = 1618899700;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -927,7 +927,7 @@
 <li><a href="/scp-2375">SCP-2375</a> - We're All The Same Down Here</li>
 <li><a href="/scp-2376">SCP-2376</a> - 乌鸦的复仇</li>
 <li><a href="/scp-2377">SCP-2377</a> - 你的房子</li>
-<li><a href="/scp-2378">SCP-2378</a> - Tissue Dome</li>
+<li><a href="/scp-2378">SCP-2378</a> - 穹顶组织</li>
 <li><a href="/scp-2379">SCP-2379</a> - 陷阱旅馆</li>
 <li><a href="/scp-2380">SCP-2380</a> - Østergaard研究员的左肾</li>
 <li><a class="newpage" href="/scp-2381">SCP-2381</a> - Call of the Hyphae</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 592, 最后编辑于: <span class="odate time_1618577342 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">16 Apr 2021 12:49</span></div>
+                            <div id="page-info">页面版本: 593, 最后编辑于: <span class="odate time_1618882660 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Apr 2021 01:37</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+7</span>)</a>
@@ -1712,32 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://editora.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/editora.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sfi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://editora.wikidot.com">CIN  7402 Editoração Científica</a></h3>
+            <h3><a target="_blank" href="http://sfi.wikidot.com">STARFIGHTER INFINITY</a></h3>
             <div class="desc">          
-              Disciplina na UFSC
+              Open Source Website
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://agiat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/agiat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fourthwallgames.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fourthwallgames.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://agiat.wikidot.com">AGIAT</a></h3>
-            <div class="desc">          
-              Agencia global de investigación de amenazas taumatúrgicas
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://sniktbub.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sniktbub.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://sniktbub.wikidot.com">Marvel Untold MUX</a></h3>
+            <h3><a target="_blank" href="http://fourthwallgames.wikidot.com">Fourth Wall Games</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,12 +1734,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fretsonfire.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fretsonfire.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://edmw.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/edmw.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fretsonfire.wikidot.com">Frets On Fire Wiki</a></h3>
+            <h3><a target="_blank" href="http://edmw.wikidot.com">Eat-Drink-Man-Woman</a></h3>
             <div class="desc">          
-              courtesy of fretsonfire.org
+              A hang-out place to relax and chit-chat about food and boy-girl stuff...
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://thep-serc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thep-serc.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://thep-serc.wikidot.com">SERC Schools in THEP</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>
