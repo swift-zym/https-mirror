@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1618921317;
+        OZONE.request.timestamp = 1618943003;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,10 +1688,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blmodding.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blmodding.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpguy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpguy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blmodding.wikidot.com">Borderlands Modding Resource</a></h3>
+            <h3><a target="_blank" href="http://scpguy.wikidot.com">BNTTabGame Wiki Offical Website</a></h3>
+            <div class="desc">          
+              BNTTabGame Wiki Offical Website
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cgp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
+            <div class="desc">          
+              CGP Students
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1699,34 +1721,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://trb-mux.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trb-mux.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/handbook.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://trb-mux.wikidot.com">The Rock Bottom MUX</a></h3>
+            <h3><a target="_blank" href="http://handbook.wikidot.com">Handbook</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://calibribold.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/calibribold.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://calibribold.wikidot.com">Calibri&#039;s Box</a></h3>
-            <div class="desc">          
-              sandbox
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://bozic-nation.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bozic-nation.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://bozic-nation.wikidot.com">Bozic Nation</a></h3>
-            <div class="desc">          
-              
+              The Wikidot Handbook
             </div>
           </div>
         </div>

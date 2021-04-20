@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1618921383;
+        OZONE.request.timestamp = 1618943003;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -914,7 +914,7 @@
 <li><a href="/scp-cn-1366">SCP-CN-1366</a> - 命若琴弦</li>
 <li><a class="newpage" href="/scp-cn-1367">SCP-CN-1367</a> - 英雄的定义</li>
 <li><a href="/scp-cn-1368">SCP-CN-1368</a> - 简陋的诡计</li>
-<li><a href="/scp-cn-1369">SCP-CN-1369</a> - <span style="color: #cccccc">应</span><span style="color: #b2b2b2">牢</span><span style="color: #999999">记</span><span style="color: #7f7f7f">如</span><span style="color: #666666">今</span><span style="color: #4c4c4c">身</span><span style="color: #333333">在</span><span style="color: #191919">何</span><span style="color: #000000">方</span></li>
+<li><a href="/scp-cn-1369">SCP-CN-1369</a> <strong><span style="opacity: .1">-</span> <span style="opacity: .2">应</span><span style="opacity: .3">牢</span><span style="opacity: .4">记</span><span style="opacity: .5">如</span><span style="opacity: .6">今</span><span style="opacity: .7">身</span><span style="opacity: .8">在</span><span style="opacity: .9">何</span><span style="opacity: 1">方</span></strong></li>
 <li><a class="newpage" href="/scp-cn-1370">SCP-CN-1370</a> - 从行星来的朋友</li>
 <li><a class="newpage" href="/scp-cn-1371">SCP-CN-1371</a> - 很厉害的餐具</li>
 <li><a href="/scp-cn-1372">SCP-CN-1372</a> - 鱼竿</li>
@@ -957,7 +957,7 @@
 <li><a href="/scp-cn-1405">SCP-CN-1405</a> - 隔墙有耳</li>
 <li><a href="/scp-cn-1406">SCP-CN-1406</a> - 童年</li>
 <li><a href="/scp-cn-1407">SCP-CN-1407</a> - 贪婪而又饥饿的厨师帽</li>
-<li><a href="/scp-cn-1408">SCP-CN-1408</a> - 是栋屋子还没想好名字</li>
+<li><a class="newpage" href="/scp-cn-1408">SCP-CN-1408</a> - 是栋屋子还没想好名字</li>
 <li><a href="/scp-cn-1409">SCP-CN-1409</a> - 4200006200</li>
 <li><a href="/scp-cn-1410">SCP-CN-1410</a> - 这孤独的绿</li>
 <li><a href="/scp-cn-1411">SCP-CN-1411</a> - 周末的世界</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4068, 最后编辑于: <span class="odate time_1618755286 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Apr 2021 14:14</span></div>
+                            <div id="page-info">页面版本: 4069, 最后编辑于: <span class="odate time_1618936630 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Apr 2021 16:37</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+87</span>)</a>
@@ -1689,21 +1689,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://etic.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/etic.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpguy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpguy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://etic.wikidot.com">The Etic</a></h3>
+            <h3><a target="_blank" href="http://scpguy.wikidot.com">BNTTabGame Wiki Offical Website</a></h3>
             <div class="desc">          
-              A Sense Of The Box.
+              BNTTabGame Wiki Offical Website
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pottersarmy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pottersarmy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cgp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pottersarmy.wikidot.com">Potter&#039;s Army</a></h3>
+            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
+            <div class="desc">          
+              CGP Students
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1711,23 +1722,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://porsche.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/porsche.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/handbook.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://porsche.wikidot.com">Porsche Wiki</a></h3>
+            <h3><a target="_blank" href="http://handbook.wikidot.com">Handbook</a></h3>
             <div class="desc">          
-              Brought to You By RedLine Technik | RedLineTechnik.com
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://kharon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kharon.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://kharon.wikidot.com">CEC Kharon</a></h3>
-            <div class="desc">          
-              bsgkharon.com 5102
+              The Wikidot Handbook
             </div>
           </div>
         </div>

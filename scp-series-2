@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1618921121;
+        OZONE.request.timestamp = 1618943002;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,32 +1713,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rsc-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rsc-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpguy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpguy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rsc-wiki.wikidot.com">RSC Institution</a></h3>
+            <h3><a target="_blank" href="http://scpguy.wikidot.com">BNTTabGame Wiki Offical Website</a></h3>
             <div class="desc">          
-              Research, Secure, Contain
+              BNTTabGame Wiki Offical Website
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://schrijven.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/schrijven.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cgp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://schrijven.wikidot.com">www.schrijven.wikidot.com</a></h3>
+            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
             <div class="desc">          
-              Voor teksten, artikelen, verhalen en poëzie
+              CGP Students
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
+            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1746,12 +1746,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tradewithsaint.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradewithsaint.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/handbook.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tradewithsaint.wikidot.com">Trading With The Flow!!!</a></h3>
+            <h3><a target="_blank" href="http://handbook.wikidot.com">Handbook</a></h3>
             <div class="desc">          
-              The Art of Trading the NOW
+              The Wikidot Handbook
             </div>
           </div>
         </div>

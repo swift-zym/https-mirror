@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1618921130;
+        OZONE.request.timestamp = 1618943002;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1712,10 +1712,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ubmedicinefaqs.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmedicinefaqs.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpguy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpguy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ubmedicinefaqs.wikidot.com">UBMedicineFAQ</a></h3>
+            <h3><a target="_blank" href="http://scpguy.wikidot.com">BNTTabGame Wiki Offical Website</a></h3>
+            <div class="desc">          
+              BNTTabGame Wiki Offical Website
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cgp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
+            <div class="desc">          
+              CGP Students
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,34 +1745,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gd28.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gd28.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/handbook.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gd28.wikidot.com">Great Dane 28 owners&#039; club</a></h3>
+            <h3><a target="_blank" href="http://handbook.wikidot.com">Handbook</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jw.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jw.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-jw.wikidot.com">SCP基金会JW分部</a></h3>
-            <div class="desc">          
-              控制 收容 保护
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://rhetoricalgoddess.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rhetoricalgoddess.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://rhetoricalgoddess.wikidot.com">The Rhetorical Goddess Wiki</a></h3>
-            <div class="desc">          
-              Because the Truth and That Which Resembles It Belong to the Same Capacity
+              The Wikidot Handbook
             </div>
           </div>
         </div>
