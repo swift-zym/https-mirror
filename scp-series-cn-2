@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1619007694;
+        OZONE.request.timestamp = 1619029306;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,10 +1689,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://crosswindsgarou.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/crosswindsgarou.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpcommune.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpcommune.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://crosswindsgarou.wikidot.com">Crosswindsgarou</a></h3>
+            <h3><a target="_blank" href="http://scpcommune.wikidot.com">The SCP Commune</a></h3>
+            <div class="desc">          
+              Satirize, Collectivize, Politicize
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://jinsi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jinsi.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://jinsi.wikidot.com">AckySHINE MiniSites | Best of 2020</a></h3>
             <div class="desc">          
               
             </div>
@@ -1700,34 +1711,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://caughtnotsleeping.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caughtnotsleeping.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://psychjobsearch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychjobsearch.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://caughtnotsleeping.wikidot.com">CaughtNotSleeping</a></h3>
-            <div class="desc">          
-              It&#039;s just a game...It&#039;s just a game...
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
-            <div class="desc">          
-              and what they&#039;re trying to tell you
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://amiii.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/amiii.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://amiii.wikidot.com">Análise Matemática III</a></h3>
+            <h3><a target="_blank" href="http://psychjobsearch.wikidot.com">Psychology Job Wiki</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://vusb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vusb.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://vusb.wikidot.com">V-USB</a></h3>
+            <div class="desc">          
+              A Firmware-Only USB Driver for the AVR
             </div>
           </div>
         </div>
