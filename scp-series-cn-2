@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1618985997;
+        OZONE.request.timestamp = 1619007694;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -821,7 +821,7 @@
 <li><a href="/scp-cn-1277">SCP-CN-1277</a> - 这是被吊死的<span style="color: red">大红色</span>颜料罐</li>
 <li><a href="/scp-cn-1278">SCP-CN-1278</a> - 轮</li>
 <li><a href="/scp-cn-1279">SCP-CN-1279</a> - 丰镐九鼎</li>
-<li><a class="newpage" href="/scp-cn-1280">SCP-CN-1280</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1280">SCP-CN-1280</a> - 钢琴家</li>
 <li><a class="newpage" href="/scp-cn-1281">SCP-CN-1281</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1282">SCP-CN-1282</a> - 半夜不要照镜子</li>
 <li><a href="/scp-cn-1283">SCP-CN-1283</a> - 可能会有用的奶酪占卜</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4069, 最后编辑于: <span class="odate time_1618936630 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Apr 2021 16:37</span></div>
+                            <div id="page-info">页面版本: 4070, 最后编辑于: <span class="odate time_1618997847 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Apr 2021 09:37</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+87</span>)</a>
@@ -1689,43 +1689,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ds3-cinders.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds3-cinders.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://crosswindsgarou.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/crosswindsgarou.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ds3-cinders.wikidot.com">Cinders</a></h3>
+            <h3><a target="_blank" href="http://crosswindsgarou.wikidot.com">Crosswindsgarou</a></h3>
             <div class="desc">          
-              Cinders
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://paralelo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paralelo.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://caughtnotsleeping.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caughtnotsleeping.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://paralelo.wikidot.com">Paralelo</a></h3>
+            <h3><a target="_blank" href="http://caughtnotsleeping.wikidot.com">CaughtNotSleeping</a></h3>
             <div class="desc">          
-              29 March - 2 April 2009
+              It&#039;s just a game...It&#039;s just a game...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://steelandstone.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/steelandstone.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://steelandstone.wikidot.com">Steel and Stone</a></h3>
+            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
             <div class="desc">          
-              Wagering Lives to the Blade
+              and what they&#039;re trying to tell you
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ds2009a.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds2009a.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://amiii.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/amiii.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ds2009a.wikidot.com">Data Structures</a></h3>
+            <h3><a target="_blank" href="http://amiii.wikidot.com">Análise Matemática III</a></h3>
             <div class="desc">          
               
             </div>
