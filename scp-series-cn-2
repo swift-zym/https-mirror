@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1618943003;
+        OZONE.request.timestamp = 1618964412;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,32 +1689,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpguy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpguy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ds2009a.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds2009a.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpguy.wikidot.com">BNTTabGame Wiki Offical Website</a></h3>
-            <div class="desc">          
-              BNTTabGame Wiki Offical Website
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://cgp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
-            <div class="desc">          
-              CGP Students
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
+            <h3><a target="_blank" href="http://ds2009a.wikidot.com">Data Structures</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,12 +1700,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://handbook.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/handbook.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://psyc101.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psyc101.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://handbook.wikidot.com">Handbook</a></h3>
+            <h3><a target="_blank" href="http://psyc101.wikidot.com">Intro to Psychology (PSYC 101)</a></h3>
             <div class="desc">          
-              The Wikidot Handbook
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://vyprmedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vyprmedia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://vyprmedia.wikidot.com">VyprMedia</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://maitreya.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maitreya.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://maitreya.wikidot.com">REACHA</a></h3>
+            <div class="desc">          
+              &#039;reaching out...touching lives&#039;
             </div>
           </div>
         </div>
