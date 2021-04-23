@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1619158968;
+        OZONE.request.timestamp = 1619180395;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,10 +1743,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chavezbraintrust.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chavezbraintrust.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chaoscomplexityineducation.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chaoscomplexityineducation.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chavezbraintrust.wikidot.com">Chavez Brain Trust</a></h3>
+            <h3><a target="_blank" href="http://chaoscomplexityineducation.wikidot.com">Chaos &amp; Complexity Theories in Education Group</a></h3>
+            <div class="desc">          
+              Also a Special Interest Group of the American Educational Research Association
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://energyclub4samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub4samvedna.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://energyclub4samvedna.wikidot.com">Save Energy, Save Future</a></h3>
+            <div class="desc">          
+              &quot;The collabrative efforts for Energy saving&quot;
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://psi-ppwg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psi-ppwg.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://psi-ppwg.wikidot.com">Performance &amp; Philosophy</a></h3>
             <div class="desc">          
               
             </div>
@@ -1754,34 +1776,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-int.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://f650cs.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/f650cs.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-int.wikidot.com">International Translation Archive</a></h3>
+            <h3><a target="_blank" href="http://f650cs.wikidot.com">F650CS FAQ</a></h3>
             <div class="desc">          
-              of the SCP Foundation
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ibhistory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibhistory.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ibhistory.wikidot.com">IB History</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
-            <div class="desc">          
-              
+              Alternative / Supplement  to Black Belt Gang FAQ&#039;s for the BMW Scarver
             </div>
           </div>
         </div>
