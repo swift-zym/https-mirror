@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1619353102;
+        OZONE.request.timestamp = 1619375014;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -801,7 +801,7 @@
 <li><a class="newpage" href="/scp-3253">SCP-3253</a> - A Prison of Ink and Flesh</li>
 <li><a class="newpage" href="/scp-3254">SCP-3254</a> - Grant's Mama Bear</li>
 <li><a class="newpage" href="/scp-3255">SCP-3255</a> - A Light Shining Through The Holes Inside Your Eyelids</li>
-<li><a class="newpage" href="/scp-3256">SCP-3256</a> - Web of Murder</li>
+<li><a href="/scp-3256">SCP-3256</a> - Web of Murder</li>
 <li><a href="/scp-3257">SCP-3257</a> - 廷巴克图的箱内神父</li>
 <li><a href="/scp-3258">SCP-3258</a> - 噬神体</li>
 <li><a class="newpage" href="/scp-3259">SCP-3259</a> - Verminous Ark</li>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vusb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vusb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://corvidcollege.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/corvidcollege.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vusb.wikidot.com">V-USB</a></h3>
+            <h3><a target="_blank" href="http://corvidcollege.wikidot.com">Logos Tao Deus</a></h3>
             <div class="desc">          
-              A Firmware-Only USB Driver for the AVR
+              a slowschool
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fmiseria3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmiseria3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://oregonamhi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oregonamhi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fmiseria3.wikidot.com">Portalul Seriilor de Informatica</a></h3>
+            <h3><a target="_blank" href="http://oregonamhi.wikidot.com">Oregon Choice Model Wiki</a></h3>
             <div class="desc">          
-              Facultatea de Matematica si Informatica, Universitatea din Bucuresti
+              Oregon Choice Model Residential Placements
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hogwarts2092.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hogwarts2092.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://shatteredspheres.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/shatteredspheres.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hogwarts2092.wikidot.com">Hogwarts 2092</a></h3>
+            <h3><a target="_blank" href="http://shatteredspheres.wikidot.com">Shattered Spheres</a></h3>
             <div class="desc">          
-              The Harry Potter RP That Doesn&#039;t Suck - Part 3!
+              The World of Thoryn
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chrysaliswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
+            <h3><a target="_blank" href="http://chrysaliswiki.wikidot.com">Chrysalis</a></h3>
             <div class="desc">          
-              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
+              A Final Fantasy Wiki
             </div>
           </div>
         </div>
