@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1619310240;
+        OZONE.request.timestamp = 1619331769;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -569,7 +569,7 @@
 <li><a href="/scp-cn-1033">SCP-CN-1033</a> - “站宠”</li>
 <li><a href="/scp-cn-1034">SCP-CN-1034</a> - Y███路段</li>
 <li><a href="/scp-cn-1035">SCP-CN-1035</a> - 惡魔的賭局</li>
-<li><a class="newpage" href="/scp-cn-1036">SCP-CN-1036</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1036">SCP-CN-1036</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1037">SCP-CN-1037</a> - 好孩子诅咒</li>
 <li><a href="/scp-cn-1038">SCP-CN-1038</a> - 你的钱包</li>
 <li><a href="/scp-cn-1039">SCP-CN-1039</a> - 星与“虫豸”</li>
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://e-h-s.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/e-h-s.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dotflow.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dotflow.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://e-h-s.wikidot.com">Electromagnetic (Hyper)Sensitivity</a></h3>
+            <h3><a target="_blank" href="http://dotflow.wikidot.com">.flow</a></h3>
             <div class="desc">          
-              Causes of Electro Smog, EMF and Wireless Devices
+              Rusting Away
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://2165.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2165.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://thegamerdome.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thegamerdome.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://2165.wikidot.com">绝无宽恕</a></h3>
+            <h3><a target="_blank" href="http://thegamerdome.wikidot.com">The Gamer Dome</a></h3>
             <div class="desc">          
-              一切如已然。一切如以往。
+              Community Game Design Projects
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://obscurative.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/obscurative.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ibphysicsstuff.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibphysicsstuff.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://obscurative.wikidot.com">Obscurative</a></h3>
+            <h3><a target="_blank" href="http://ibphysicsstuff.wikidot.com">IB Physics Stuff</a></h3>
             <div class="desc">          
-              ​
+              - Wikified -
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://educ400-401.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/educ400-401.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://shatteredspheres.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/shatteredspheres.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://educ400-401.wikidot.com">Dyslexia Connection</a></h3>
+            <h3><a target="_blank" href="http://shatteredspheres.wikidot.com">Shattered Spheres</a></h3>
             <div class="desc">          
-              
+              The World of Thoryn
             </div>
           </div>
         </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1619310108;
+        OZONE.request.timestamp = 1619331617;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,45 +1711,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://arcana.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arcana.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sandboxscpfr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sandboxscpfr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://arcana.wikidot.com">The Arcana Wiki</a></h3>
+            <h3><a target="_blank" href="http://sandboxscpfr.wikidot.com">SCP Sandbox FR</a></h3>
             <div class="desc">          
-              Distilling the Real World for Gaming
+              Réservé aux auteurs et traducteurs du Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tradewithsaint.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradewithsaint.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://extrabees.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extrabees.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tradewithsaint.wikidot.com">Trading With The Flow!!!</a></h3>
+            <h3><a target="_blank" href="http://extrabees.wikidot.com">Extra Bees</a></h3>
             <div class="desc">          
-              The Art of Trading the NOW
+              Plugin for the Forestry Mod
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rmitvnim2007b.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rmitvnim2007b.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://passatb5.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/passatb5.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rmitvnim2007b.wikidot.com">RMIT Vietnam IM 2007B</a></h3>
+            <h3><a target="_blank" href="http://passatb5.wikidot.com">PassatB5</a></h3>
+            <div class="desc">          
+              Do It Yourself information for Passat Repair!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://keramik.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/keramik.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://keramik.wikidot.com">Keramiker - fabriker - stämplar och signaturer</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://hfwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hfwiki.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://hfwiki.wikidot.com">HammerfallWiki</a></h3>
-            <div class="desc">          
-              A Wiki for Hammerfall RPG on Facebook and Myspace
             </div>
           </div>
         </div>
