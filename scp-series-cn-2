@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1619396780;
+        OZONE.request.timestamp = 1619418021;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,10 +1689,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hopkinswhpg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hopkinswhpg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://suffadv.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/suffadv.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hopkinswhpg.wikidot.com">World History/Physical Geo.</a></h3>
+            <h3><a target="_blank" href="http://suffadv.wikidot.com">Sufficiently Advanced</a></h3>
+            <div class="desc">          
+              Speculative Fiction RPGs
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://shillahelpsite.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/shillahelpsite.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://shillahelpsite.wikidot.com">Shilla Helpsite</a></h3>
             <div class="desc">          
               
             </div>
@@ -1700,34 +1711,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://aq-3d.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aq-3d.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gaybox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gaybox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://aq-3d.wikidot.com">AQ3D</a></h3>
+            <h3><a target="_blank" href="http://gaybox.wikidot.com">gaybox</a></h3>
             <div class="desc">          
-              AdventureQuest 3D Wiki
+              im you but stronger
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://epimreth.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/epimreth.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://calibribold.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/calibribold.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://epimreth.wikidot.com">Επιμόρφωση Β&#039;  στο Ρέθυμνο</a></h3>
+            <h3><a target="_blank" href="http://calibribold.wikidot.com">Calibri&#039;s Box</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scrsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scrsandbox.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scrsandbox.wikidot.com">SCR公司沙盒站</a></h3>
-            <div class="desc">          
-              以滴水之力，驱洋流之运
+              sandbox
             </div>
           </div>
         </div>

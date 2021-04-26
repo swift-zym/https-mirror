@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1619396660;
+        OZONE.request.timestamp = 1619418041;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1712,10 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://biol-117.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biol-117.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pkp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pkp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://biol-117.wikidot.com">Principles of Biology II</a></h3>
+            <h3><a target="_blank" href="http://pkp.wikidot.com">Wiki.PKP.in</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,34 +1723,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://eng270.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eng270.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://livesupport.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/livesupport.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://eng270.wikidot.com">Intro to Creative Writing</a></h3>
+            <h3><a target="_blank" href="http://livesupport.wikidot.com">Wikidot Live Support</a></h3>
             <div class="desc">          
-              Professor Gabriel
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://firedawnfolder.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/firedawnfolder.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://liminal-archives.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liminal-archives.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://firedawnfolder.wikidot.com">FiredawnFolder</a></h3>
+            <h3><a target="_blank" href="http://liminal-archives.wikidot.com">Liminal Archives</a></h3>
             <div class="desc">          
-              The not-quite Inner Circle but close enough
+              Exploring spaces which shouldn&#039;t exist
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://albums-template.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/albums-template.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://retrowiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrowiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://albums-template.wikidot.com">Albums-template</a></h3>
+            <h3><a target="_blank" href="http://retrowiki.wikidot.com">RetroWIKI</a></h3>
             <div class="desc">          
-              Your pictures
+              
             </div>
           </div>
         </div>
