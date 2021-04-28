@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1619612558;
+        OZONE.request.timestamp = 1619634052;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1472,7 +1472,7 @@
 <li><a href="/scp-cn-901">SCP-CN-901</a> - 现实之梦</li>
 <li><a href="/scp-cn-902">SCP-CN-902</a> - Wondertainment博士的误差消除笔®</li>
 <li><a href="/scp-cn-903">SCP-CN-903</a> - 盖亚理论</li>
-<li><a class="newpage" href="/scp-cn-904">SCP-CN-904</a> - 森林与领路人</li>
+<li><a href="/scp-cn-904">SCP-CN-904</a> - 本职</li>
 <li><a href="/scp-cn-905">SCP-CN-905</a> - <span style="text-decoration: line-through;">不息之仇，留存之怨</span>逸仙</li>
 <li><a href="/scp-cn-906">SCP-CN-906</a> - 时床</li>
 <li><a href="/scp-cn-907">SCP-CN-907</a> - 拟寄生生物</li>
@@ -1616,7 +1616,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">page revision: 3268, last edited: <span class="odate time_1618489495 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">15 Apr 2021 12:24</span></div>
+                            <div id="page-info">page revision: 3269, last edited: <span class="odate time_1619628378 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">28 Apr 2021 16:46</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+70</span>)</a>
@@ -1688,43 +1688,43 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wqa.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wqa.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tl2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tl2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wqa.wikidot.com">.</a></h3>
+            <h3><a target="_blank" href="http://tl2.wikidot.com">tgl.wiki</a></h3>
             <div class="desc">          
-              wqa wiki
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://neosteam.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/neosteam.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://roboticsclubucla.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticsclubucla.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://neosteam.wikidot.com">Neo Steam Wiki</a></h3>
+            <h3><a target="_blank" href="http://roboticsclubucla.wikidot.com">Robotics Club @ UCLA Wiki</a></h3>
             <div class="desc">          
-              May 2008 to February 2012
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wow-arrakis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wow-arrakis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://enchantedbros.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/enchantedbros.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wow-arrakis.wikidot.com">WoW-Arrakis</a></h3>
+            <h3><a target="_blank" href="http://enchantedbros.wikidot.com">Enchanted Bros wiki</a></h3>
             <div class="desc">          
-              Clan Hordeño de C&#039;Thun
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://evilhat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/evilhat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mbitcoin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mbitcoin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://evilhat.wikidot.com">Evil Hat Productions Wiki</a></h3>
+            <h3><a target="_blank" href="http://mbitcoin.wikidot.com">BitCoin</a></h3>
             <div class="desc">          
               
             </div>

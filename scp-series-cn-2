@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1619612362;
+        OZONE.request.timestamp = 1619634228;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -569,7 +569,7 @@
 <li><a href="/scp-cn-1033">SCP-CN-1033</a> - “站宠”</li>
 <li><a href="/scp-cn-1034">SCP-CN-1034</a> - Y███路段</li>
 <li><a href="/scp-cn-1035">SCP-CN-1035</a> - 惡魔的賭局</li>
-<li><a href="/scp-cn-1036">SCP-CN-1036</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1036">SCP-CN-1036</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1037">SCP-CN-1037</a> - 好孩子诅咒</li>
 <li><a href="/scp-cn-1038">SCP-CN-1038</a> - 你的钱包</li>
 <li><a href="/scp-cn-1039">SCP-CN-1039</a> - 星与“虫豸”</li>
@@ -821,7 +821,7 @@
 <li><a href="/scp-cn-1277">SCP-CN-1277</a> - 这是被吊死的<span style="color: red">大红色</span>颜料罐</li>
 <li><a href="/scp-cn-1278">SCP-CN-1278</a> - 轮</li>
 <li><a href="/scp-cn-1279">SCP-CN-1279</a> - 丰镐九鼎</li>
-<li><a href="/scp-cn-1280">SCP-CN-1280</a> - 钢琴家</li>
+<li><a class="newpage" href="/scp-cn-1280">SCP-CN-1280</a> - 钢琴家</li>
 <li><a class="newpage" href="/scp-cn-1281">SCP-CN-1281</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1282">SCP-CN-1282</a> - 半夜不要照镜子</li>
 <li><a href="/scp-cn-1283">SCP-CN-1283</a> - 可能会有用的奶酪占卜</li>
@@ -973,7 +973,7 @@
 <li><a href="/scp-cn-1421">SCP-CN-1421</a> - 母胎回归</li>
 <li><a href="/scp-cn-1422">SCP-CN-1422</a> - dado的布方冲剂</li>
 <li><a href="/scp-cn-1423">SCP-CN-1423</a> - dado的特效眼药水</li>
-<li><a href="/scp-cn-1424">SCP-CN-1424</a> - 选我做乜？系叉烧唔够香咩？</li>
+<li><a class="newpage" href="/scp-cn-1424">SCP-CN-1424</a> - 选我做乜？系叉烧唔够香咩？</li>
 <li><a href="/scp-cn-1425">SCP-CN-1425</a> - 终末幻想机械赞歌</li>
 <li><a href="/scp-cn-1426">SCP-CN-1426</a> - 手印</li>
 <li><a href="/scp-cn-1427">SCP-CN-1427</a> - 海妖之触</li>
@@ -1689,45 +1689,45 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpdsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpdsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://celesia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celesia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpdsandbox.wikidot.com">SCPDeclassified Sandbox</a></h3>
+            <h3><a target="_blank" href="http://celesia.wikidot.com">Legends of Celesia</a></h3>
             <div class="desc">          
-              Secure, Contain, Protect, Declassify
+              A D&amp;D 3.5/Pathfinder Campaign
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://aspnet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aspnet.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://psychotronicsdivision.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychotronicsdivision.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://aspnet.wikidot.com">ASP.NET Wiki</a></h3>
+            <h3><a target="_blank" href="http://psychotronicsdivision.wikidot.com">Psychotronics Division</a></h3>
             <div class="desc">          
-              This website is no longer actively supported
+              Divided, we are One. One, we are All.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://caosinsurgente.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caosinsurgente.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
+            <h3><a target="_blank" href="http://caosinsurgente.wikidot.com">La Insurgencia del Caos</a></h3>
             <div class="desc">          
-              
+              Creando la Lógica De lo Ilógico
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://splinterverse.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/splinterverse.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://jimsgaming.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jimsgaming.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://splinterverse.wikidot.com">Splinterverse</a></h3>
+            <h3><a target="_blank" href="http://jimsgaming.wikidot.com">Big Damn Gaming Page</a></h3>
             <div class="desc">          
-              Ezboard Yuku Splinterverse Wiki
+              So many games, so little time...
             </div>
           </div>
         </div>
