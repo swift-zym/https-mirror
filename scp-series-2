@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1619678505;
+        OZONE.request.timestamp = 1619700512;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,10 +1713,21 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://design-illustration.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/design-illustration.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://backrooms-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://design-illustration.wikidot.com">Design &amp; Illustration</a></h3>
+            <h3><a target="_blank" href="http://backrooms-sandbox.wikidot.com">Backrooms Sandbox</a></h3>
+            <div class="desc">          
+              When your Sandbox just gets too Backrooms
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-migration.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-migration.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-migration.wikidot.com">SCP Database Migration</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,10 +1735,10 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://paradoxhaze.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paradoxhaze.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikiethica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiethica.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://paradoxhaze.wikidot.com">Paradox Haze</a></h3>
+            <h3><a target="_blank" href="http://wikiethica.wikidot.com">WikiEthica</a></h3>
             <div class="desc">          
               
             </div>
@@ -1735,23 +1746,12 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://my-scp-2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/my-scp-2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-equestria.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-equestria.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://my-scp-2.wikidot.com">SCP Foundation</a></h3>
+            <h3><a target="_blank" href="http://scp-equestria.wikidot.com">SCP基金会小马国分部</a></h3>
             <div class="desc">          
-              Secure, Contain, Protect.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://albums-template.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/albums-template.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://albums-template.wikidot.com">Albums-template</a></h3>
-            <div class="desc">          
-              Your pictures
+              控制 • 收容 • 保护
             </div>
           </div>
         </div>

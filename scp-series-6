@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1619678432;
+        OZONE.request.timestamp = 1619700474;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -851,7 +851,7 @@
 <ul>
 <li><a href="/scp-5300">SCP-5300</a> - 瓶中船</li>
 <li><a href="/scp-5301">SCP-5301</a> - 愤怒的人</li>
-<li><a class="newpage" href="/scp-5302">SCP-5302</a> - Sweet Bod</li>
+<li><a href="/scp-5302">SCP-5302</a> - 甜蜜胴体</li>
 <li><a href="/scp-5303">SCP-5303</a> - 没有眼睛的女孩</li>
 <li><a href="/scp-5304">SCP-5304</a> - 😳SCP是真的😳</li>
 <li><a class="newpage" href="/scp-5305">SCP-5305</a> - All In His Head</li>
@@ -903,7 +903,7 @@
 <li><a href="/scp-5351">SCP-5351</a> - 言巫女</li>
 <li><a href="/scp-5352">SCP-5352</a> - 空镇</li>
 <li><a href="/scp-5353">SCP-5353</a> - 有人记得Fritz Obermeyer吗？</li>
-<li><a href="/scp-5354">SCP-5354</a> - 凯尔布兰的风景</li>
+<li><a class="newpage" href="/scp-5354">SCP-5354</a> - 凯尔布兰的风景</li>
 <li><a href="/scp-5355">SCP-5355</a> - 你觉得你已经长大了吗？</li>
 <li><a class="newpage" href="/scp-5356">SCP-5356</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5357">SCP-5357</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">page revision: 466, last edited: <span class="odate time_1619579523 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">28 Apr 2021 03:12</span></div>
+                            <div id="page-info">page revision: 467, last edited: <span class="odate time_1619689689 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">29 Apr 2021 09:48</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+20</span>)</a>
@@ -1712,21 +1712,10 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://caughtnotsleeping.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caughtnotsleeping.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://enchantedbros.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/enchantedbros.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://caughtnotsleeping.wikidot.com">CaughtNotSleeping</a></h3>
-            <div class="desc">          
-              It&#039;s just a game...It&#039;s just a game...
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ltt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ltt.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ltt.wikidot.com">Living Through Technology</a></h3>
+            <h3><a target="_blank" href="http://enchantedbros.wikidot.com">Enchanted Bros wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1723,34 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://circservices.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/circservices.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://circservices.wikidot.com">Circulation Services</a></h3>
+            <h3><a target="_blank" href="http://ci-wiki.wikidot.com">Chaos Insurgency</a></h3>
             <div class="desc">          
-              Library Circulation and Access Services
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dragon-trees.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dragon-trees.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sharecokecodes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sharecokecodes.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dragon-trees.wikidot.com">Dragon Trees</a></h3>
+            <h3><a target="_blank" href="http://sharecokecodes.wikidot.com">Share Coke Codes</a></h3>
             <div class="desc">          
-              A Dragon Cave Fansite
+              Sharing happiness by sharing Coke rewards codes.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://fed20.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fed20.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://fed20.wikidot.com">Fire Emblem d20</a></h3>
+            <div class="desc">          
+              A tabletop version of the RPG/Strategy game!
             </div>
           </div>
         </div>
