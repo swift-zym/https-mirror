@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1619764767;
+        OZONE.request.timestamp = 1619786930;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -576,7 +576,7 @@
 <li><a class="newpage" href="/scp-5036">SCP-5036</a> - Yo Ho, Yo Ho, An Archetype for Thee</li>
 <li><a href="/scp-5037">SCP-5037</a> - 未解之谜</li>
 <li><a class="newpage" href="/scp-5038">SCP-5038</a> - <em>La Rue Macabre</em> is CLOSED</li>
-<li><a class="newpage" href="/scp-5039">SCP-5039</a> - Where Did You Go?</li>
+<li><a class="newpage" href="/scp-5039">SCP-5039</a> - 你去了哪里？</li>
 <li><a href="/scp-5040">SCP-5040</a> - 血の涙（“血之泪”）</li>
 <li><a href="/scp-5041">SCP-5041</a> - 铁面人</li>
 <li><a class="newpage" href="/scp-5042">SCP-5042</a> - 不怎么好笑的几页</li>
@@ -601,7 +601,7 @@
 <li><a class="newpage" href="/scp-5061">SCP-5061</a> - A Toast To Elizabeth Connors, A Brilliant Actress</li>
 <li><a href="/scp-5062">SCP-5062</a> - 净化间</li>
 <li><a class="newpage" href="/scp-5063">SCP-5063</a> - Driving The Turtles To Market</li>
-<li><a class="newpage" href="/scp-5064">SCP-5064</a> - Safety Dance</li>
+<li><a class="newpage" href="/scp-5064">SCP-5064</a> - 安全舞</li>
 <li><a class="newpage" href="/scp-5065">SCP-5065</a> - Man of Many Mysteries</li>
 <li><a href="/scp-5066">SCP-5066</a> - 过路人</li>
 <li><a href="/scp-5067">SCP-5067</a> - 核心记忆</li>
@@ -615,7 +615,7 @@
 <li><a class="newpage" href="/scp-5075">SCP-5075</a> - All The <span class="dblock">Hanged Kings</span>, True Care, Truth Brings</li>
 <li><a class="newpage" href="/scp-5076">SCP-5076</a> - Every Planet We Reach Is Dead</li>
 <li><a class="newpage" href="/scp-5077">SCP-5077</a> - Bait and Switch</li>
-<li><a class="newpage" href="/scp-5078">SCP-5078</a> - A Nuclear Family</li>
+<li><a class="newpage" href="/scp-5078">SCP-5078</a> - 一个核心家庭</li>
 <li><a href="/scp-5079">SCP-5079</a> - <strong>孤独幻梦</strong></li>
 <li><a href="/scp-5080">SCP-5080</a> - 宇宙背景辐射渗透物</li>
 <li><a class="newpage" href="/scp-5081">SCP-5081</a> - Snacko™ Brand Delectable Edibles</li>
@@ -783,17 +783,17 @@
 <li><a class="newpage" href="/scp-5235">SCP-5235</a> - Thief of Time</li>
 <li><a href="/scp-5236">SCP-5236</a> - 伦理委员会的讯问</li>
 <li><a href="/scp-5237">SCP-5237</a> - 在我脑中</li>
-<li><a class="newpage" href="/scp-5238">SCP-5238</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5238">SCP-5238</a> - 梦想之船</li>
 <li><a href="/scp-5239">SCP-5239</a> - <em>是的，我希望是、我希望是，一位年轻年少的死灵大法师</em></li>
-<li><a class="newpage" href="/scp-5240">SCP-5240</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5240">SCP-5240</a> - 被遗忘的城市Vergussenheit</li>
 <li><a class="newpage" href="/scp-5241">SCP-5241</a> - <span style="color: #0000FF;font-family: &quot;Microsoft Serif&quot;;"><strong>异界信息</strong></span></li>
 <li><a href="/scp-5242">文件</a> - <span style="color: blue">SCP-整数</span></li>
 <li><a href="/scp-5243">SCP-5243</a> - 不断突破的突破</li>
-<li><a class="newpage" href="/scp-5244">SCP-5244</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5245">SCP-5245</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5244">SCP-5244</a> - The Demon God</li>
+<li><a class="newpage" href="/scp-5245">SCP-5245</a> - Iceberg Impersonation</li>
 <li><a href="/scp-5246">SCP-5246</a> - 米的吸引</li>
 <li><a class="newpage" href="/scp-5247">SCP-5247</a> - [拒绝访问]</li>
-<li><a href="/scp-5248">SCP-5248</a> - [拒绝访问]</li>
+<li><a href="/scp-5248">SCP-5248</a> - Iceberg Impersonation</li>
 <li><a href="/scp-5249">SCP-5249</a> - Aut viam inveniam aut faciam!</li>
 <li><a href="/scp-5250">SCP-5250</a> - 第I幕：湖之南，鹿之北</li>
 <li><a href="/scp-5251">SCP-5251</a> - 亚麻</li>
@@ -806,22 +806,22 @@
 <li><a class="newpage" href="/scp-5258">SCP-5258</a> - [拒绝访问]</li>
 <li><a href="/scp-5259">SCP-5259</a> - 第13海兵隊遠征部隊的准下士鰭暴</li>
 <li><a class="newpage" href="/scp-5260">SCP-5260</a> - Let Them Dream</li>
-<li><a class="newpage" href="/scp-5261">SCP-5261</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5262">SCP-5262</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5263">SCP-5263</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5261">SCP-5261</a> - Nobody Suspects a Thing</li>
+<li><a class="newpage" href="/scp-5262">SCP-5262</a> - It's Brittany Beach!</li>
+<li><a class="newpage" href="/scp-5263">SCP-5263</a> - The Nail That Sticks Out</li>
 <li><a class="newpage" href="/scp-5264">SCP-5264</a> - Ruining Every Meal</li>
 <li><a class="newpage" href="/scp-5265">SCP-5265</a> - SKYFIRE</li>
 <li><a href="/scp-5266">SCP-5266</a> - 傻逼听MACHO MAN神经中毒了，点击即看！</li>
-<li><a class="newpage" href="/scp-5267">SCP-5267</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5268">SCP-5268</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5267">SCP-5267</a> - <span style="color: green">Golems of the Eastern Steppe</span></li>
+<li><a class="newpage" href="/scp-5268">SCP-5268</a> - Off the Wall Taste</li>
 <li><a href="/scp-5269">SCP-5269</a> - 流放</li>
 <li><a href="/scp-5270">SCP-5270</a> - 按X以访问小熊</li>
 <li><a href="/scp-5271">SCP-5271</a> - 从前有个神，但它们是一群企鹅</li>
 <li><a href="/scp-5272">SCP-5272</a> - &gt;游</li>
 <li><a class="newpage" href="/scp-5273">SCP-5273</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5274">SCP-5274</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5274">SCP-5274</a> - 你总是在我心中</li>
 <li><a href="/scp-5275">SCP-5275</a> - 你满意了？</li>
-<li><a class="newpage" href="/scp-5276">SCP-5276</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5276">SCP-5276</a> - Let's Vibe</li>
 <li><a href="/scp-5277">SCP-5277</a> - 哪里会出错</li>
 <li><a href="/scp-5278">SCP-5278</a> - 不会一直荒废的鬼城</li>
 <li><a class="newpage" href="/scp-5279">SCP-5279</a> - [拒绝访问]</li>
@@ -829,7 +829,7 @@
 <li><a href="http://scp-wiki-cn.wikidot.com/scp-5281">SCP-5281-D</a> - 七点钟好人</li>
 <li><a href="/scp-5282">SCP-5282</a> - 积木</li>
 <li><a href="/scp-5283">SCP-5283</a> - 拒绝现代，回归至鲸</li>
-<li><a class="newpage" href="/scp-5284">SCP-5284</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5284">SCP-5284</a> - The Sharpener</li>
 <li><a href="/scp-5285">SCP-5285</a> - 伤害之经济</li>
 <li><a class="newpage" href="/scp-5286">SCP-5286</a> - Autophagia</li>
 <li><a href="/scp-5287">SCP-5287</a> - 小小的噩梦</li>
@@ -837,12 +837,12 @@
 <li><a class="newpage" href="/scp-5289">SCP-5289</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5290">SCP-5290</a> - 多重稜鏡</li>
 <li><a class="newpage" href="/scp-5291">SCP-5291</a> - Transformational Writing</li>
-<li><a class="newpage" href="/scp-5292">SCP-5292</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5293">SCP-5293</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5294">SCP-5294</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5295">SCP-5295</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5292">SCP-5292</a> - Our Books, Your Library, Together United</li>
+<li><a class="newpage" href="/scp-5293">SCP-5293</a> - Red. Rubber. Ball.</li>
+<li><a class="newpage" href="/scp-5294">SCP-5294</a> - Granny Rat Tail</li>
+<li><a class="newpage" href="/scp-5295">SCP-5295</a> - The Person-to-Personal Computer</li>
 <li><a class="newpage" href="/scp-5296">SCP-5296</a> - An Unbelievable <strong>Mistake</strong></li>
-<li><a class="newpage" href="/scp-5297">SCP-5297</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5297">SCP-5297</a> - JamBomb</li>
 <li><a href="/scp-5298">SCP-5298</a> - 坎普斯杀手</li>
 <li><a href="/scp-5299">SCP-5299</a> - 园</li>
 </ul>
@@ -861,13 +861,13 @@
 <li><a href="/scp-5309">SCP-5309</a>需不存在。</li>
 <li><a href="/scp-5310">SCP-5310</a> - 并联/整合/有机生物</li>
 <li><a href="/scp-5311">SCP-5311</a> - 来者何人？</li>
-<li><a class="newpage" href="/scp-5312">SCP-5312</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5313">SCP-5313</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5314">SCP-5314</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5315">SCP-5315</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5316">SCP-5316</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5312">SCP-5312</a> - The Curious Case of Virginia Croft</li>
+<li><a class="newpage" href="/scp-5313">SCP-5313</a> - town of alma</li>
+<li><a class="newpage" href="/scp-5314">SCP-5314</a> - A fungal chance</li>
+<li><a class="newpage" href="/scp-5315">SCP-5315</a> - Mayan Blue</li>
+<li><a class="newpage" href="/scp-5316">SCP-5316</a> - The Interrogator and the Music Box</li>
 <li><a href="/scp-5317">SCP-5317</a> - 误导</li>
-<li><a class="newpage" href="/scp-5318">SCP-5318</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5318">SCP-5318</a> - Los Ojos de Mi Padre</li>
 <li><a href="/scp-5319">SCP-5319</a> - 去猩猩化爱国条令</li>
 <li><a href="/scp-5320">SCP-5320</a> - 如是永远延续之那鱼人民教会</li>
 <li><a href="/scp-5321">SCP-5321</a> - 剧透</li>
@@ -878,23 +878,23 @@
 <li><a href="/scp-5326">SCP-5326</a> - 为Anderson的小鸭让路</li>
 <li><a class="newpage" href="/scp-5327">SCP-5327</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5328">SCP-5328</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5329">SCP-5329</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5329">SCP-5329</a> - The Truth Hurts</li>
 <li><a href="/scp-5330">SCP-5330</a> - 别看，别看</li>
 <li><a href="/scp-5331">SCP-5331</a> - 逐星之火</li>
-<li><a class="newpage" href="/scp-5332">SCP-5332</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5332">SCP-5332</a> - Remnants of the Elder</li>
 <li><a href="/scp-5333">SCP-5333</a> - 马上把鱼还回去，奥西里斯需要它</li>
 <li><a href="/scp-5334">SCP-5334</a> - 浪戏星间</li>
 <li><a class="newpage" href="/scp-5335">SCP-5335</a> - The Freudian Split</li>
-<li><a class="newpage" href="/scp-5336">SCP-5336</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5336">SCP-5336</a> - Custom Print Settings</li>
 <li><a href="/scp-5337">SCP-5337</a> - 赎罪条形码</li>
 <li><a class="newpage" href="/scp-5338">SCP-5338</a> - Sleight of the Bumblebee</li>
 <li><a href="/scp-5339">SCP-5339</a> - 三足而立</li>
-<li><a class="newpage" href="/scp-5340">SCP-5340</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5341">SCP-5341</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5340">SCP-5340</a> - The Backyard Memeticist 😎</li>
+<li><a class="newpage" href="/scp-5341">SCP-5341</a> - General Rains' Mission</li>
 <li><a class="newpage" href="/scp-5342">SCP-5342</a> - [拒绝访问]</li>
 <li><a href="/scp-5343">SCP-5343</a> - “For-You News”应用</li>
 <li><a href="/scp-5344">SCP-5344</a> - 不定量的柳骨灰</li>
-<li><a class="newpage" href="/scp-5345">SCP-5345</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5345">SCP-5345</a> - Huesos Malos (&quot;Bad Bones&quot;)</li>
 <li><a href="/scp-5346">SCP-5346</a> - <tt>阿甘</tt></li>
 <li><a href="/scp-5347">SCP-5347</a> - 你正在去往巴西岛</li>
 <li><a href="/scp-5348">SCP-5348</a> - 安布罗斯妈妈的奶油蘑菇汤</li>
@@ -1090,7 +1090,7 @@
 <li><a class="newpage" href="/scp-5530">SCP-5530</a> - The Hebridean Charm</li>
 <li><a class="newpage" href="/scp-5531">SCP-5531</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5532">SCP-5532</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5533">SCP-5533</a> - You Think, Therefore I Am</li>
+<li><a href="/scp-5533">SCP-5533</a> - 你思故我在</li>
 <li><a class="newpage" href="/scp-5534">SCP-5534</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5535">SCP-5535</a> - When Even Your Hand Hates You</li>
 <li><a class="newpage" href="/scp-5536">SCP-5536</a> - From the Prison Moons</li>
@@ -1474,7 +1474,7 @@
 <h1 id="toc11"><span>5900到5999</span></h1>
 <ul>
 <li><a href="/scp-5900">SCP-5900</a> - 晦冥</li>
-<li><a class="newpage" href="/scp-5901">SCP-5901</a> - World's Greatest Skeeball</li>
+<li><a href="/scp-5901">SCP-5901</a> - 世上最强滑雪球</li>
 <li><a href="/scp-5902">SCP-5902</a> - 管理部</li>
 <li><a class="newpage" href="/scp-5903">SCP-5903</a> - In Cauda Venenum (What Are You?)</li>
 <li><a class="newpage" href="/scp-5904">SCP-5904</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">page revision: 470, last edited: <span class="odate time_1619758041 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">30 Apr 2021 04:47</span></div>
+                            <div id="page-info">page revision: 473, last edited: <span class="odate time_1619784122 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">30 Apr 2021 12:02</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+20</span>)</a>
@@ -1712,12 +1712,12 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ibiz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibiz.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ah-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ah-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ibiz.wikidot.com">Internet and Business</a></h3>
+            <h3><a target="_blank" href="http://ah-sandbox.wikidot.com">HSB Foundation</a></h3>
             <div class="desc">          
-              How the internet has changed business
+              Hormress&#039;s Sandbox
             </div>
           </div>
         </div>
@@ -1734,23 +1734,23 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandbox-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://crimson-cosmos.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/crimson-cosmos.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandbox-pl.wikidot.com">SCP-PL Sandbox II</a></h3>
+            <h3><a target="_blank" href="http://crimson-cosmos.wikidot.com">Crimson Cosmos</a></h3>
             <div class="desc">          
-              Do pracy rodacy!
+              Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tradewithsaint.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradewithsaint.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tradewithsaint.wikidot.com">Trading With The Flow!!!</a></h3>
+            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
             <div class="desc">          
-              The Art of Trading the NOW
+              A World of Darkness Encyclopedia for Modern Nights
             </div>
           </div>
         </div>
