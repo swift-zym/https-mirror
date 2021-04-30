@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1619746153;
+        OZONE.request.timestamp = 1619764885;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,10 +1688,21 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://epimreth.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/epimreth.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpdsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpdsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://epimreth.wikidot.com">Επιμόρφωση Β&#039;  στο Ρέθυμνο</a></h3>
+            <h3><a target="_blank" href="http://scpdsandbox.wikidot.com">SCPDeclassified Sandbox</a></h3>
+            <div class="desc">          
+              Secure, Contain, Protect, Declassify
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://contraptor.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/contraptor.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://contraptor.wikidot.com">Contraptor</a></h3>
             <div class="desc">          
               
             </div>
@@ -1699,21 +1710,10 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nre509.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nre509.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://globalseminarhealth.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/globalseminarhealth.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nre509.wikidot.com">Nre509</a></h3>
-            <div class="desc">          
-              Ecology: Science of Context and Interaction
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://marblehornets.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marblehornets.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://marblehornets.wikidot.com">Marble Hornets</a></h3>
+            <h3><a target="_blank" href="http://globalseminarhealth.wikidot.com">Health and Environment</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,12 +1721,12 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bvs.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bvs.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
+            <h3><a target="_blank" href="http://bvs.wikidot.com">Billy Vs. SNAKEMAN Wiki</a></h3>
             <div class="desc">          
-              
+              Be the Ultimate Ninja.
             </div>
           </div>
         </div>

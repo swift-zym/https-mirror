@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1619746222;
+        OZONE.request.timestamp = 1619764767;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1465,7 +1465,7 @@
 <li><a class="newpage" href="/scp-5893">SCP-5893</a> - [拒绝访问]</li>
 <li><a href="/scp-5894">SCP-5894</a> - 亚拉之光</li>
 <li><a class="newpage" href="/scp-5895">SCP-5895</a> - <strong><em>1000%!! I USED TO GIVE A FUCK</em></strong></li>
-<li><a class="newpage" href="/scp-5896">SCP-5896</a> - Windows 95 for Elders</li>
+<li><a href="/scp-5896">SCP-5896</a> - Windows95老年版</li>
 <li><a class="newpage" href="/scp-5897">SCP-5897</a> - [拒绝访问]</li>
 <li><a href="/scp-5898">SCP-5898</a> - 玉米地带</li>
 <li><a href="/scp-5899">SCP-5899</a> - 奶牛阴谋论</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">page revision: 469, last edited: <span class="odate time_1619743447 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">30 Apr 2021 00:44</span></div>
+                            <div id="page-info">page revision: 470, last edited: <span class="odate time_1619758041 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">30 Apr 2021 04:47</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+20</span>)</a>
@@ -1712,45 +1712,45 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://editora.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/editora.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ibiz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibiz.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://editora.wikidot.com">CIN  7402 Editoração Científica</a></h3>
+            <h3><a target="_blank" href="http://ibiz.wikidot.com">Internet and Business</a></h3>
             <div class="desc">          
-              Disciplina na UFSC
+              How the internet has changed business
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ibphysicsstuff.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibphysicsstuff.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://storychip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/storychip.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ibphysicsstuff.wikidot.com">IB Physics Stuff</a></h3>
+            <h3><a target="_blank" href="http://storychip.wikidot.com">Story Chip</a></h3>
             <div class="desc">          
-              - Wikified -
+              Become a part of history, share your story.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kindiy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kindiy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox-pl.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox-pl.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kindiy.wikidot.com">kinDIY</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox-pl.wikidot.com">SCP-PL Sandbox II</a></h3>
             <div class="desc">          
-              for the DIY kindie community
+              Do pracy rodacy!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sfugamedev.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfugamedev.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tradewithsaint.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tradewithsaint.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sfugamedev.wikidot.com">SFU Game Developers Club</a></h3>
+            <h3><a target="_blank" href="http://tradewithsaint.wikidot.com">Trading With The Flow!!!</a></h3>
             <div class="desc">          
-              
+              The Art of Trading the NOW
             </div>
           </div>
         </div>
