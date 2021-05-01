@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1619832885;
+        OZONE.request.timestamp = 1619851260;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -604,7 +604,7 @@
 <li><a href="/scp-cn-1068">SCP-CN-1068</a> - 当世界上的老虎化成奶油</li>
 <li><a href="/scp-cn-1069">SCP-CN-1069</a> - 你好啊，老朋友</li>
 <li><a href="/scp-cn-1070">SCP-CN-1070</a> - 舌之花</li>
-<li><a class="newpage" href="/scp-cn-1071">SCP-CN-1071</a> - 发展中城市</li>
+<li><a class="newpage" href="/scp-cn-1071">SCP-CN-1071</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1072">SCP-CN-1072</a> - 以█换物</li>
 <li><a href="/scp-cn-1073">SCP-CN-1073</a> - 热熔浴霸</li>
 <li><a href="/scp-cn-1074">SCP-CN-1074</a> - 无内鬼，来点鬼图</li>
@@ -621,7 +621,7 @@
 <li><a href="/scp-cn-1085">SCP-CN-1085</a> - 只有你不在的世界</li>
 <li><a href="/scp-cn-1086">SCP-CN-1086</a> - 枪</li>
 <li><a href="/scp-cn-1087">SCP-CN-1087</a> - 缄默复仇</li>
-<li><a href="/scp-cn-1088">SCP-CN-1088</a> - 鞭炮不再响了</li>
+<li><a class="newpage" href="/scp-cn-1088">SCP-CN-1088</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1089">SCP-CN-1089</a> - 肥猫、斑猫与肥猫</li>
 <li><a href="/scp-cn-1090">SCP-CN-1090</a> - 送别一切老朽之雀</li>
 <li><a href="/scp-cn-1091">SCP-CN-1091</a> - 黑王传说</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">page revision: 4074, last edited: <span class="odate time_1619784718 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">30 Apr 2021 12:11</span></div>
+                            <div id="page-info">page revision: 4076, last edited: <span class="odate time_1619837492 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">01 May 2021 02:51</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+88</span>)</a>
@@ -1689,21 +1689,10 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://r.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/r.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls2.wikidot.com">DarkSouls II Wiki</a></h3>
-            <div class="desc">          
-              #1 source of fan provided tips, strategies, FAQs, and information about Dark Souls II
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
+            <h3><a target="_blank" href="http://r.wikidot.com">Wikidot URL shortener</a></h3>
             <div class="desc">          
               
             </div>
@@ -1711,23 +1700,34 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-kz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-kz.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
+            <h3><a target="_blank" href="http://scp-kz.wikidot.com">The SCP Foundation</a></h3>
             <div class="desc">          
-              Where Writers Share Their Characters &amp; Worlds
+              Kazakh Branch
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vocaro.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vocaro.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://epitome.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/epitome.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vocaro.wikidot.com">보카로 가사 위키</a></h3>
+            <h3><a target="_blank" href="http://epitome.wikidot.com">Epitome City</a></h3>
             <div class="desc">          
-              Vocaloid Lyrics Wiki
+              Hero or Villain? You decide.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://aqwwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aqwwiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://aqwwiki.wikidot.com">AQW</a></h3>
+            <div class="desc">          
+              AQWorlds Wiki
             </div>
           </div>
         </div>

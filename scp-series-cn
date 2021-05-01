@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1619832817;
+        OZONE.request.timestamp = 1619851008;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1071,7 +1071,7 @@
 <li><a href="/scp-cn-516">SCP-CN-516</a> - <em><strong>永</strong>乐冒险</em></li>
 <li><a href="/scp-cn-517">SCP-CN-517</a> - 救赎</li>
 <li><a href="/scp-cn-518">SCP-CN-518</a> - Wondertainment博士的能量沙漏®</li>
-<li><a href="/scp-cn-519">SCP-CN-519</a> - 造物立方</li>
+<li><a href="/scp-cn-519">SCP-CN-519</a> - cubex的奇妙伴侣方块！ ！ ！</li>
 <li><a href="/scp-cn-520">SCP-CN-520</a> - 邮寄可分期</li>
 <li><a href="/scp-cn-521">SCP-CN-521</a> - 玫瑰与阿司匹林</li>
 <li><a href="/scp-cn-522">SCP-CN-522</a> - 地球美食售货机</li>
@@ -1114,7 +1114,7 @@
 <li><a href="/scp-cn-559">SCP-CN-559</a> - 活麻将™</li>
 <li><a href="/scp-cn-560">SCP-CN-560</a> - 别上去</li>
 <li><a href="/scp-cn-561">SCP-CN-561</a> - 审讯诊断室</li>
-<li><a href="/scp-cn-562">SCP-CN-562</a> - 重构立方</li>
+<li><a href="/scp-cn-562">SCP-CN-562</a> - cubex的疯狂转转转方块 ! ! !</li>
 <li><a href="/scp-cn-563">SCP-CN-563</a> - 最喜欢玩手机了</li>
 <li><a href="/scp-cn-564">SCP-CN-564</a> - 你的個人辦公室</li>
 <li><a href="/scp-cn-565">SCP-CN-565</a> - 鸡腿堡</li>
@@ -1616,7 +1616,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">page revision: 3269, last edited: <span class="odate time_1619628378 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">28 Apr 2021 16:46</span></div>
+                            <div id="page-info">page revision: 3270, last edited: <span class="odate time_1619834062 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">01 May 2021 01:54</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+71</span>)</a>
@@ -1688,10 +1688,32 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bozic-nation.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bozic-nation.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scrsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scrsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bozic-nation.wikidot.com">Bozic Nation</a></h3>
+            <h3><a target="_blank" href="http://scrsandbox.wikidot.com">SCR公司沙盒站</a></h3>
+            <div class="desc">          
+              以滴水之力，驱洋流之运
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-int-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int-sandbox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-int-sandbox.wikidot.com">SCP Sandbox</a></h3>
+            <div class="desc">          
+              of the International Translation Archive
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ibhistory.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibhistory.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ibhistory.wikidot.com">IB History</a></h3>
             <div class="desc">          
               
             </div>
@@ -1699,34 +1721,12 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/handbook.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
+            <h3><a target="_blank" href="http://handbook.wikidot.com">Handbook</a></h3>
             <div class="desc">          
-              A World of Darkness Encyclopedia for Modern Nights
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://techcomm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/techcomm.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://techcomm.wikidot.com">TechnicalCommunication</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://harvey-capital-lectures.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/harvey-capital-lectures.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://harvey-capital-lectures.wikidot.com">Harvey Capital Lectures</a></h3>
-            <div class="desc">          
-              Crowdsourced Transcription and Translation Project
+              The Wikidot Handbook
             </div>
           </div>
         </div>
