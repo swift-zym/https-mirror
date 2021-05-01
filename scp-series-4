@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1619851138;
+        OZONE.request.timestamp = 1619873318;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -140,7 +140,7 @@
                 
                 <div id="search-top-box" class="form-search">
     <form id="search-top-box-form" action="dummy" class="input-append">
-        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="搜索网站" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="搜索"/>
     </form>
 </div>
                 
@@ -357,7 +357,7 @@
 
                     </div>
                 
-                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> </div>
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">建立帐号</a> <span>或</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">登入</a> </div>
                 <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
             </div>
             
@@ -1640,29 +1640,29 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">page revision: 891, last edited: <span class="odate time_1619768930 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">30 Apr 2021 07:48</span></div>
+                            <div id="page-info">页面版本: 891, 最后编辑于: <span class="odate time_1619768930 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">30 Apr 2021 07:48</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
-            <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
-<a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+4</span>)</a>
-<a href="javascript:;" class="btn btn-default" id="tags-button">Tags</a>
-<a href="/forum/t-2235729/scp-series-4" class="btn btn-default" id="discuss-button">Discuss (6)</a>
-<a href="javascript:;" class="btn btn-default" id="history-button">History</a>
-<a href="javascript:;" class="btn btn-default" id="files-button">Files</a>
-<a href="javascript:;" class="btn btn-default" id="print-button">Print</a>
-<a href="javascript:;" class="btn btn-default" id="site-tools-button">Site tools</a>
-<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;Options</a> 
+            <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="tags-button">标签</a>
+<a href="/forum/t-2235729/scp-series-4" class="btn btn-default" id="discuss-button">讨论 (6)</a>
+<a href="javascript:;" class="btn btn-default" id="history-button">历史记录</a>
+<a href="javascript:;" class="btn btn-default" id="files-button">附件</a>
+<a href="javascript:;" class="btn btn-default" id="print-button">打印</a>
+<a href="javascript:;" class="btn btn-default" id="site-tools-button">网站工具</a>
+<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;选项</a> 
 </div>
 <div id="page-options-bottom-2" class="page-options-bottom form-actions" style="display:none">
-    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">Edit Sections</a>
-    <a href="javascript:;" class="btn btn-default" id="edit-append-button">Append</a>
-    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">Edit Meta</a>
-    <a href="javascript:;" class="btn btn-default" id="watchers-button">Watchers</a> 
-    <a href="javascript:;" class="btn btn-default" id="backlinks-button">Backlinks</a> 
-    <a href="javascript:;" class="btn btn-default" id="view-source-button">Page Source</a> 
-    <a href="javascript:;" class="btn btn-default" id="parent-page-button">Parent</a> 
-    <a href="javascript:;" class="btn btn-default" id="page-block-button">Lock Page</a>    
-    <a href="javascript:;" class="btn btn-default" id="rename-move-button">Rename</a> 
-    <a href="javascript:;" class="btn btn-default" id="delete-button">Delete</a> 
+    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">编辑段落</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-append-button">附加</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">编辑元信息</a>
+    <a href="javascript:;" class="btn btn-default" id="watchers-button">关注者</a> 
+    <a href="javascript:;" class="btn btn-default" id="backlinks-button">反向链接</a> 
+    <a href="javascript:;" class="btn btn-default" id="view-source-button">页面源代码</a> 
+    <a href="javascript:;" class="btn btn-default" id="parent-page-button">父页面</a> 
+    <a href="javascript:;" class="btn btn-default" id="page-block-button">锁定页面</a>    
+    <a href="javascript:;" class="btn btn-default" id="rename-move-button">重新命名</a> 
+    <a href="javascript:;" class="btn btn-default" id="delete-button">删除</a> 
 </div>
 <div id="page-options-area-bottom">
 </div>
@@ -1677,21 +1677,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
             
             <div id="footer" style="display: block; visibility: visible;">
                 <div class="options" style="display: block; visibility: visible;">
-    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">说明</a>
     &nbsp;|
-    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">服务条款</a>
     &nbsp;|
-    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">隐私</a>
     &nbsp;|
-    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">报告错误</a>
     &nbsp;|
-    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">标记为令人反感的</a>
 </div>
-Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+基于 <a href="http://www.wikidot.com">Wikidot.com</a> 
             </div>
             
                 <div id="license-area" class="license-area">
-                    Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                    除非特别注明，本页内容采用以下授权方式： <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
                 </div>
             
             
@@ -1707,50 +1707,50 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
                 <div id="footer-bar">
   <div>
      </div>
-  <h2>Other interesting sites</h2>
+  <h2>其它有趣的网站</h2>
   
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fearschemistry.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fearschemistry.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://vusb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vusb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fearschemistry.wikidot.com">Chemistry</a></h3>
+            <h3><a target="_blank" href="http://vusb.wikidot.com">V-USB</a></h3>
             <div class="desc">          
-              
+              A Firmware-Only USB Driver for the AVR
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gd28.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gd28.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tauren.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tauren.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gd28.wikidot.com">Great Dane 28 owners&#039; club</a></h3>
+            <h3><a target="_blank" href="http://tauren.wikidot.com">Tauren Ate My Grandma</a></h3>
             <div class="desc">          
-              
+              has moved!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://coffeetimex.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coffeetimex.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hard-rp-funclub.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hard-rp-funclub.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://coffeetimex.wikidot.com">Coffeetime Extra</a></h3>
+            <h3><a target="_blank" href="http://hard-rp-funclub.wikidot.com">Фонд SCP</a></h3>
             <div class="desc">          
-              
+              Участок Временного Содержания 19F
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bx-community.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bx-community.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chaoscomplexityineducation.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chaoscomplexityineducation.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bx-community.wikidot.com">Bidirectional Transformations</a></h3>
+            <h3><a target="_blank" href="http://chaoscomplexityineducation.wikidot.com">Chaos &amp; Complexity Theories in Education Group</a></h3>
             <div class="desc">          
-              
+              Also a Special Interest Group of the American Educational Research Association
             </div>
           </div>
         </div>
@@ -1800,39 +1800,39 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
 
 <div id="page-options-bottom-tips" style="display: none;">
     <div id="edit-button-hovertip">
-        Click here to edit contents of this page.    </div>
+        请点此编辑本页内容。    </div>
 </div>
 <div id="page-options-bottom-2-tips"  style="display: none;">
     <div id="edit-sections-button-hovertip">
-        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+        单击此处切换页面各部分的编辑按钮（如果可能）。 在标题边会显示“编辑”链接。    </div>
     <div id="edit-append-button-hovertip">
-        Append content without editing the whole page source.    </div>
+        在不编辑整个页面源代码的情况下添加内容。    </div>
     <div id="history-button-hovertip">
-        Check out how this page has evolved in the past.    </div>
+        看看本页过去是如何沿革的。    </div>
     <div id="discuss-button-hovertip">
-        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+        若您想要讨论本页内容 - 这是最简单的方法。    </div>
     <div id="files-button-hovertip">
-        View and manage file attachments for this page.    </div>
+        检视并管理本页附件。    </div>
     <div id="site-tools-button-hovertip">
-        A few useful tools to manage this Site.    </div>
+        管理网站的实用工具。    </div>
     <div id="backlinks-button-hovertip">
-        See pages that link to and include this page.    </div>
+        检视链接至本页或引用本页的页面。    </div>
     <div id="rename-move-button-hovertip">
-        Change the name (also URL address, possibly the category) of the page.    </div>
+        变更页面名称（及 URL 地址，或许会影响分类）。    </div>
     <div id="view-source-button-hovertip">
-        View wiki source for this page without editing.    </div>
+        在不编辑的情形下检视维基原始码。    </div>
     <div id="parent-page-button-hovertip">  
-        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    </div>
             <div id="abuse-report-button-hovertip">
-            Notify administrators if there is objectionable content in this page.        </div>
+            向管理员举报本页有令人反感的内容。        </div>
         <div id="bug-report-button-hovertip">
-            Something does not work as expected? Find out what you can do.        </div>
+            事情不如预期？看看您可以做些什么。        </div>
         <div id="wikidot-help-button-hovertip">
-            General Wikidot.com documentation and help section.        </div>
+            一般的 Wikidot.com 文件与说明。        </div>
         <div id="wikidot-tos-button-hovertip">
-            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+            Wikidot.com 服务条款 - 您可以做的事，您不该做的事之类的。        </div>
         <div id="wikidot-privacy-button-hovertip">
-            Wikidot.com Privacy Policy.          
+            Wikidot.com 隐私政策。          
         </div>
     </div>
 </body>
