@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1620005533;
+        OZONE.request.timestamp = 1620024089;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -909,7 +909,7 @@
 <li><a class="newpage" href="/scp-5357">SCP-5357</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5358">SCP-5358</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5359">SCP-5359</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5360">SCP-5360</a> - 赤いスプラッター殺人事件 (The Red Splatter Murder Case)</li>
+<li><a href="/scp-5360">SCP-5360</a> - 赤いスプラッター殺人事件 (The Red Splatter Murder Case)</li>
 <li><a class="newpage" href="/scp-5361">SCP-5361</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5362">SCP-5362</a> - [拒绝访问]</li>
 <li><a href="/scp-5363">SCP-5363-D</a> - 受控下收容</li>
@@ -1712,32 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dndis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dndis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dndis.wikidot.com">Dungeons &amp; Discourse</a></h3>
-            <div class="desc">          
-              Gamma Edition
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://agiat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/agiat.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://agiat.wikidot.com">AGIAT</a></h3>
-            <div class="desc">          
-              Agencia global de investigación de amenazas taumatúrgicas
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://oneeleventwentyten.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oneeleventwentyten.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://oneeleventwentyten.wikidot.com">Writing 111 Fall 2010</a></h3>
+            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,12 +1723,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://viscomclass.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/viscomclass.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki.wikidot.com">SCP Foundation</a></h3>
+            <h3><a target="_blank" href="http://viscomclass.wikidot.com">VisCom</a></h3>
             <div class="desc">          
-              Secure, Contain, Protect
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://tl2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tl2.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://tl2.wikidot.com">tgl.wiki</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://opencascade.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opencascade.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://opencascade.wikidot.com">Open CASCADE Wiki</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>

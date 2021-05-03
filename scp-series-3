@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1620005742;
+        OZONE.request.timestamp = 1620024144;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1005,7 +1005,7 @@
 <li><a href="/scp-2449">SCP-2449</a> - 突发性监禁</li>
 <li><a href="/scp-2450">SCP-2450</a> - 牙齿</li>
 <li><a href="/scp-2451">SCP-2451</a> - 跨越时空和种族的爱</li>
-<li><a class="newpage" href="/scp-2452">SCP-2452</a> - A Collection of Photographs</li>
+<li><a href="/scp-2452">SCP-2452</a> - 一组照片</li>
 <li><a href="/scp-2453">SCP-2453</a> - 测孕</li>
 <li><a class="newpage" href="/scp-2454">SCP-2454</a> - 闪耀吧，我的堕落之星</li>
 <li><a class="newpage" href="/scp-2455">SCP-2455</a> - Possibilities Girl</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 594, 最后编辑于: <span class="odate time_1619175708 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Apr 2021 11:01</span></div>
+                            <div id="page-info">页面版本: 595, 最后编辑于: <span class="odate time_1620018348 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 May 2021 05:05</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+7</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://join.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/join.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://firedawnfolder.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/firedawnfolder.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://join.wikidot.com">Join this Site!</a></h3>
+            <h3><a target="_blank" href="http://firedawnfolder.wikidot.com">FiredawnFolder</a></h3>
             <div class="desc">          
-              
+              The not-quite Inner Circle but close enough
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://xanadu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/xanadu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://xanadu.wikidot.com">Xanadu Weyr</a></h3>
+            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
             <div class="desc">          
-              
+              実験、実験、爆発
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://livesupport.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/livesupport.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://smd-ch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smd-ch.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://livesupport.wikidot.com">Wikidot Live Support</a></h3>
+            <h3><a target="_blank" href="http://smd-ch.wikidot.com">SMD超现实管制处</a></h3>
             <div class="desc">          
-              
+              异常 中转 管理
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://theskyremains.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theskyremains.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nobilis-aleph.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nobilis-aleph.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://theskyremains.wikidot.com">The Sky Remains</a></h3>
+            <h3><a target="_blank" href="http://nobilis-aleph.wikidot.com">Chancel Aleph</a></h3>
             <div class="desc">          
-              
+              A Nobilis Fansite
             </div>
           </div>
         </div>
