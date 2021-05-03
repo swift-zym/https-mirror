@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1620045941;
+        OZONE.request.timestamp = 1620067354;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,21 +1711,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://stallmanism.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/stallmanism.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://stallmanism.wikidot.com">Stallmanism</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox.wikidot.com">The SCP Sandbox</a></h3>
             <div class="desc">          
-              a Religion for the 21st Century
+              Осторожно! Идут испытания!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cs124project-2009.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs124project-2009.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://beforethefall.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/beforethefall.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cs124project-2009.wikidot.com">Computational Genetics Project</a></h3>
+            <h3><a target="_blank" href="http://beforethefall.wikidot.com">Before the Fall</a></h3>
+            <div class="desc">          
+              A Pern themed MOO
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://crosswindsgarou.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/crosswindsgarou.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://crosswindsgarou.wikidot.com">Crosswindsgarou</a></h3>
             <div class="desc">          
               
             </div>
@@ -1733,23 +1744,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://norron.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/norron.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://patriot-box-office.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/patriot-box-office.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://norron.wikidot.com">WikiNorron</a></h3>
+            <h3><a target="_blank" href="http://patriot-box-office.wikidot.com">Patriot Box Office Media Player (PBO)</a></h3>
             <div class="desc">          
-              Almost as good as the guide, maybe better!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://mbitcoin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mbitcoin.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://mbitcoin.wikidot.com">BitCoin</a></h3>
-            <div class="desc">          
-              
+              More Than Meets the Eye
             </div>
           </div>
         </div>
