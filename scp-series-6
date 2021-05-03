@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1620024089;
+        OZONE.request.timestamp = 1620046125;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -793,8 +793,8 @@
 <li><a class="newpage" href="/scp-5245">SCP-5245</a> - Iceberg Impersonation</li>
 <li><a href="/scp-5246">SCP-5246</a> - 米的吸引</li>
 <li><a class="newpage" href="/scp-5247">SCP-5247</a> - [拒绝访问]</li>
-<li><a href="/scp-5248">SCP-5248</a> - Iceberg Impersonation</li>
-<li><a href="/scp-5249">SCP-5249</a> - Aut viam inveniam aut faciam!</li>
+<li><a href="/scp-5248">SCP-5248</a> - 交互出错（0）</li>
+<li><a href="/scp-5249">SCP-5249</a> - Kai</li>
 <li><a href="/scp-5250">SCP-5250</a> - 第I幕：湖之南，鹿之北</li>
 <li><a href="/scp-5251">SCP-5251</a> - 亚麻</li>
 <li><a class="newpage" href="/scp-5252">SCP-5252</a> - The Lantern Bearer</li>
@@ -909,7 +909,7 @@
 <li><a class="newpage" href="/scp-5357">SCP-5357</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5358">SCP-5358</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5359">SCP-5359</a> - [拒绝访问]</li>
-<li><a href="/scp-5360">SCP-5360</a> - 赤いスプラッター殺人事件 (The Red Splatter Murder Case)</li>
+<li><a href="/scp-5360">SCP-5360</a> - 赤いスプラッター殺人事件（猩红喷漆杀人事件）</li>
 <li><a class="newpage" href="/scp-5361">SCP-5361</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5362">SCP-5362</a> - [拒绝访问]</li>
 <li><a href="/scp-5363">SCP-5363-D</a> - 受控下收容</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 475, 最后编辑于: <span class="odate time_1619928841 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 May 2021 04:14</span></div>
+                            <div id="page-info">页面版本: 477, 最后编辑于: <span class="odate time_1620041479 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 May 2021 11:31</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,10 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fourthwallgames.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fourthwallgames.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
+            <h3><a target="_blank" href="http://fourthwallgames.wikidot.com">Fourth Wall Games</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,32 +1723,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://viscomclass.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/viscomclass.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://surreal64ce.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/surreal64ce.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://viscomclass.wikidot.com">VisCom</a></h3>
+            <h3><a target="_blank" href="http://surreal64ce.wikidot.com">Surreal64 CE</a></h3>
             <div class="desc">          
-              
+              Nintendo 64 Emulation for XBOX
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tl2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tl2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eldritch00.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eldritch00.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tl2.wikidot.com">tgl.wiki</a></h3>
+            <h3><a target="_blank" href="http://eldritch00.wikidot.com">A Shining Brainless Beacon</a></h3>
             <div class="desc">          
-              
+              I Have a Special Plan for This World
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://opencascade.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opencascade.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wanderers-sandbox-pl.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-sandbox-pl.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://opencascade.wikidot.com">Open CASCADE Wiki</a></h3>
+            <h3><a target="_blank" href="http://wanderers-sandbox-pl.wikidot.com">Sandbox Wędrowca</a></h3>
             <div class="desc">          
               
             </div>
