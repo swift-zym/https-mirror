@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1619980841;
+        OZONE.request.timestamp = 1620005470;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,10 +1711,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://uvbl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uvbl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bluefeatherwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bluefeatherwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://uvbl.wikidot.com">Ultraviolet Baseball League</a></h3>
+            <h3><a target="_blank" href="http://bluefeatherwiki.wikidot.com">Blue Feather Foundation</a></h3>
+            <div class="desc">          
+              We Secure Anomaly For Benefit
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,10 +1733,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nsb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nsb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nsb.wikidot.com">Nsb Notes</a></h3>
+            <h3><a target="_blank" href="http://ci-wiki.wikidot.com">Chaos Insurgency</a></h3>
             <div class="desc">          
               
             </div>
@@ -1733,21 +1744,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-nd.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-nd.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://psychjobsearch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychjobsearch.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-nd.wikidot.com">Stiftelsen SCP</a></h3>
-            <div class="desc">          
-              FORSIKRE-FORVARE-FORSVARE / FÖRSÄKRA-FÖRVARA-FÖRSVARA
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://microchip.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
+            <h3><a target="_blank" href="http://psychjobsearch.wikidot.com">Psychology Job Wiki</a></h3>
             <div class="desc">          
               
             </div>
