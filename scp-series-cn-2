@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1620110290;
+        OZONE.request.timestamp = 1620132205;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -621,7 +621,7 @@
 <li><a href="/scp-cn-1085">SCP-CN-1085</a> - 只有你不在的世界</li>
 <li><a href="/scp-cn-1086">SCP-CN-1086</a> - 枪</li>
 <li><a href="/scp-cn-1087">SCP-CN-1087</a> - 缄默复仇</li>
-<li><a href="/scp-cn-1088">SCP-CN-1088</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1088">SCP-CN-1088</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1089">SCP-CN-1089</a> - 肥猫、斑猫与肥猫</li>
 <li><a href="/scp-cn-1090">SCP-CN-1090</a> - 送别一切老朽之雀</li>
 <li><a href="/scp-cn-1091">SCP-CN-1091</a> - 黑王传说</li>
@@ -821,7 +821,7 @@
 <li><a href="/scp-cn-1277">SCP-CN-1277</a> - 这是被吊死的<span style="color: red">大红色</span>颜料罐</li>
 <li><a href="/scp-cn-1278">SCP-CN-1278</a> - 轮</li>
 <li><a href="/scp-cn-1279">SCP-CN-1279</a> - 丰镐九鼎</li>
-<li><a class="newpage" href="/scp-cn-1280">SCP-CN-1280</a> - 钢琴家</li>
+<li><a class="newpage" href="/scp-cn-1280">SCP-CN-1280</a> - [禁止访问]</li>
 <li><a class="newpage" href="/scp-cn-1281">SCP-CN-1281</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1282">SCP-CN-1282</a> - 半夜不要照镜子</li>
 <li><a href="/scp-cn-1283">SCP-CN-1283</a> - 可能会有用的奶酪占卜</li>
@@ -832,7 +832,7 @@
 <li><a href="/scp-cn-1288">SCP-CN-1288</a> - 改造过的变形虫</li>
 <li><a class="newpage" href="/scp-cn-1289">SCP-CN-1289</a> - 灵感盒子</li>
 <li><a href="/scp-cn-1290">SCP-CN-1290</a> - 飞蛾扑火</li>
-<li><a class="newpage" href="/scp-cn-1291">SCP-CN-1291</a> - 目眩神离</li>
+<li><a class="newpage" href="/scp-cn-1291">SCP-CN-1291</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1292">SCP-CN-1292</a> - dado的肌肉墙化剂，娟秀俱乐部专供</li>
 <li><a class="newpage" href="/scp-cn-1293">SCP-CN-1293</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1294">SCP-CN-1294</a> - 明亮之星要降临</li>
@@ -969,7 +969,7 @@
 <li><a href="/scp-cn-1417">工作备忘：SCP-CN-1417</a></li>
 <li><a href="/scp-cn-1418">SCP-CN-1418</a> - 藏书地及藏宝之处</li>
 <li><a href="/scp-cn-1419">SCP-CN-1419</a> - 地上月兔</li>
-<li><a href="/scp-cn-1420">SCP-CN-1420</a> - 造神石板</li>
+<li><a class="newpage" href="/scp-cn-1420">SCP-CN-1420</a> - 造神石板</li>
 <li><a href="/scp-cn-1421">SCP-CN-1421</a> - 母胎回归</li>
 <li><a href="/scp-cn-1422">SCP-CN-1422</a> - dado的布方冲剂</li>
 <li><a href="/scp-cn-1423">SCP-CN-1423</a> - dado的特效眼药水</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4080, 最后编辑于: <span class="odate time_1620012535 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 May 2021 03:28</span></div>
+                            <div id="page-info">页面版本: 4081, 最后编辑于: <span class="odate time_1620119233 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 May 2021 09:07</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+88</span>)</a>
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bluefeatherwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bluefeatherwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darksouls3.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls3.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bluefeatherwiki.wikidot.com">Blue Feather Foundation</a></h3>
+            <h3><a target="_blank" href="http://darksouls3.wikidot.com">Darksouls3</a></h3>
             <div class="desc">          
-              We Secure Anomaly For Benefit
+              Your trusted source of information for Dark Souls 3
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://energyclub.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://warsztatywww.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/warsztatywww.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://energyclub.wikidot.com">Energy Club</a></h3>
+            <h3><a target="_blank" href="http://warsztatywww.wikidot.com">WWW 10</a></h3>
             <div class="desc">          
-              University of Alberta
+              Wakacyjne Warsztaty Wielodyscyplinarne 9
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-foundation-origins.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-foundation-origins.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://lasthaiku.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lasthaiku.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-foundation-origins.wikidot.com">Horizons</a></h3>
+            <h3><a target="_blank" href="http://lasthaiku.wikidot.com">Legend of the Five Rings</a></h3>
             <div class="desc">          
-              The RP about how it all continued... maybe.
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scienceonlinelondon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scienceonlinelondon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://me1065.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/me1065.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scienceonlinelondon.wikidot.com">Science Online London</a></h3>
+            <h3><a target="_blank" href="http://me1065.wikidot.com">Thermal Systems</a></h3>
             <div class="desc">          
-              How is the Web changing science?
+              
             </div>
           </div>
         </div>
