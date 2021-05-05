@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1620196928;
+        OZONE.request.timestamp = 1620218938;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -979,7 +979,7 @@
 <li><a href="/scp-cn-1427">SCP-CN-1427</a> - 海妖之触</li>
 <li><a href="/scp-cn-1428">SCP-CN-1428</a> - 当东西掉在桌子底下后</li>
 <li><a href="/scp-cn-1429">SCP-CN-1429</a> - World Pulse</li>
-<li><a href="/scp-cn-1430">SCP-CN-1430</a> - 黑洞体系与现实溢出</li>
+<li><a class="newpage" href="/scp-cn-1430">SCP-CN-1430</a> - 黑洞体系与现实溢出</li>
 <li><a href="/scp-cn-1431">SCP-CN-1431</a> - 海市</li>
 <li><a href="/scp-cn-1432">SCP-CN-1432</a> - 灵感之树</li>
 <li><a href="/scp-cn-1433">SCP-CN-1433</a> - 浪漫的地平论者</li>
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikialo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikialo.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://desenvolvimentodejogos.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/desenvolvimentodejogos.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikialo.wikidot.com">Wikialo</a></h3>
+            <h3><a target="_blank" href="http://desenvolvimentodejogos.wikidot.com">Desenvolvimento de Jogos</a></h3>
             <div class="desc">          
-              Un directorio wiki para blogs
+              Tecnologias para uso no desenvolver jogos
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cf-vanguard.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cf-vanguard.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://globalseminarhealth.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/globalseminarhealth.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cf-vanguard.wikidot.com">Vanguard Rider</a></h3>
+            <h3><a target="_blank" href="http://globalseminarhealth.wikidot.com">Health and Environment</a></h3>
             <div class="desc">          
-              CARDFIGHT!! Vanguard English Wiki
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://anime-planet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/anime-planet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
+            <h3><a target="_blank" href="http://anime-planet.wikidot.com">Anime Planet</a></h3>
             <div class="desc">          
-              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://firedawnfolder.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/firedawnfolder.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://is2216.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/is2216.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://firedawnfolder.wikidot.com">FiredawnFolder</a></h3>
+            <h3><a target="_blank" href="http://is2216.wikidot.com">IS2216 - JAVA WIKI</a></h3>
             <div class="desc">          
-              The not-quite Inner Circle but close enough
+              Java for beginners
             </div>
           </div>
         </div>

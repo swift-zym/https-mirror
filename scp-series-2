@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1620196628;
+        OZONE.request.timestamp = 1620218970;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1131,7 +1131,7 @@
 <li><a href="/scp-1570">SCP-1570</a> - 投影老妇</li>
 <li><a href="/scp-1571">SCP-1571</a> - 宝藏守护者</li>
 <li><a href="/scp-1572">SCP-1572</a> - 记忆地图</li>
-<li><a href="/scp-1573">SCP-1573</a> - 如今的孩子们</li>
+<li><a class="newpage" href="/scp-1573">SCP-1573</a> - 如今的孩子们</li>
 <li><a href="/scp-1574">SCP-1574</a> - 搜索中&#8230;</li>
 <li><a href="/scp-1575">SCP-1575</a> - 维纳斯雕像</li>
 <li><a href="/scp-1576">SCP-1576</a> - 爱迪生死者通信器</li>
@@ -1713,32 +1713,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ucsdgrads.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ucsdgrads.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nycmush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nycmush.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ucsdgrads.wikidot.com">UCSD Grad Students</a></h3>
-            <div class="desc">          
-              ...the information exchange and virtual community
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-sandbox-zh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox-zh.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-sandbox-zh.wikidot.com">SCP繁體中文沙盒</a></h3>
-            <div class="desc">          
-              發現，發掘，發佈
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://inter-irc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inter-irc.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://inter-irc.wikidot.com">Inter Irc</a></h3>
+            <h3><a target="_blank" href="http://nycmush.wikidot.com">NYC: Veil of Shadows</a></h3>
             <div class="desc">          
               
             </div>
@@ -1746,12 +1724,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fmiseria3.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmiseria3.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
+            <h3><a target="_blank" href="http://fmiseria3.wikidot.com">Portalul Seriilor de Informatica</a></h3>
             <div class="desc">          
-              Fighting Spammers for Fun and Profit!
+              Facultatea de Matematica si Informatica, Universitatea din Bucuresti
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scrsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scrsandbox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scrsandbox.wikidot.com">SCR公司沙盒站</a></h3>
+            <div class="desc">          
+              以滴水之力，驱洋流之运
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://iatkos.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iatkos.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://iatkos.wikidot.com">Iatkos</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>
