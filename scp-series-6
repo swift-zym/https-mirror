@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1620369708;
+        OZONE.request.timestamp = 1620391515;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cst133a.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cst133a.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://energyclub.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cst133a.wikidot.com">CST 133 A</a></h3>
+            <h3><a target="_blank" href="http://energyclub.wikidot.com">Energy Club</a></h3>
+            <div class="desc">          
+              University of Alberta
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://harvey-capital-lectures.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/harvey-capital-lectures.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://harvey-capital-lectures.wikidot.com">Harvey Capital Lectures</a></h3>
+            <div class="desc">          
+              Crowdsourced Transcription and Translation Project
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://asoh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/asoh.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://asoh.wikidot.com">Another Stage of History</a></h3>
+            <div class="desc">          
+              A Character Creation and Edit Officer Site
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ti-iseg-t12.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ti-iseg-t12.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ti-iseg-t12.wikidot.com">ISEG TI T12</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://margopedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/margopedia.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://margopedia.wikidot.com">Margopedia</a></h3>
-            <div class="desc">          
-              Połączenie wikipedii i nonsensopedii...
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://contraptor.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/contraptor.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://contraptor.wikidot.com">Contraptor</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://borradores-scp-es.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/borradores-scp-es.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://borradores-scp-es.wikidot.com">Borradores SCP-ES</a></h3>
-            <div class="desc">          
-              Sitio de borradores para miembros de la Fundación SCP-ES
             </div>
           </div>
         </div>
