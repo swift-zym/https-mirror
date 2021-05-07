@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1620326699;
+        OZONE.request.timestamp = 1620350587;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dndis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dndis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://utau.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/utau.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dndis.wikidot.com">Dungeons &amp; Discourse</a></h3>
+            <h3><a target="_blank" href="http://utau.wikidot.com">UTAU Wiki 2.0</a></h3>
             <div class="desc">          
-              Gamma Edition
+              Wiki for the UTAU voice synthesis software.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fmiseria3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmiseria3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-sandbox-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox-zh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fmiseria3.wikidot.com">Portalul Seriilor de Informatica</a></h3>
+            <h3><a target="_blank" href="http://scp-sandbox-zh.wikidot.com">SCP繁體中文沙盒</a></h3>
             <div class="desc">          
-              Facultatea de Matematica si Informatica, Universitatea din Bucuresti
+              發現，發掘，發佈
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chrysaliswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandboxbr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxbr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chrysaliswiki.wikidot.com">Chrysalis</a></h3>
+            <h3><a target="_blank" href="http://scpsandboxbr.wikidot.com">Sandbox SCP PT-BR</a></h3>
             <div class="desc">          
-              A Final Fantasy Wiki
+              Onde SCPs Nascem
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rtd1261.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rtd1261.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fretsonfire.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fretsonfire.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rtd1261.wikidot.com">RTD1261 MediaPlayer</a></h3>
+            <h3><a target="_blank" href="http://fretsonfire.wikidot.com">Frets On Fire Wiki</a></h3>
             <div class="desc">          
-              Tweaking the Realtek RTD1261 Mediaplayer
+              courtesy of fretsonfire.org
             </div>
           </div>
         </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1620326699;
+        OZONE.request.timestamp = 1620350856;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -621,12 +621,12 @@
 <li><a href="/scp-cn-1085">SCP-CN-1085</a> - 只有你不在的世界</li>
 <li><a href="/scp-cn-1086">SCP-CN-1086</a> - 枪</li>
 <li><a href="/scp-cn-1087">SCP-CN-1087</a> - 缄默复仇</li>
-<li><a href="/scp-cn-1088">SCP-CN-1088</a> - 战斗机</li>
+<li><a class="newpage" href="/scp-cn-1088">SCP-CN-1088</a> - 战斗机</li>
 <li><a href="/scp-cn-1089">SCP-CN-1089</a> - 肥猫、斑猫与肥猫</li>
 <li><a href="/scp-cn-1090">SCP-CN-1090</a> - 送别一切老朽之雀</li>
 <li><a href="/scp-cn-1091">SCP-CN-1091</a> - 黑王传说</li>
 <li><a href="/scp-cn-1092">SCP-CN-1092</a> - 非典型谋杀</li>
-<li><a href="/scp-cn-1093">SCP-CN-1093</a> - 学生计算器</li>
+<li><a class="newpage" href="/scp-cn-1093">SCP-CN-1093</a> - 学生计算器</li>
 <li><a class="newpage" href="/scp-cn-1094">SCP-CN-1094</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1095">SCP-CN-1095</a> - Hvalaskoðun的朋友</li>
 <li><a href="/scp-cn-1096">SCP-CN-1096</a> - 老点子了，不是吗</li>
@@ -1476,7 +1476,7 @@
 <li><a href="/scp-cn-1904">SCP-CN-1904</a> - 被暴露狂</li>
 <li><a href="/scp-cn-1905">SCP-CN-1905</a> - 星汉灿烂</li>
 <li><a href="/scp-cn-1906">SCP-CN-1906</a> - Site-CN-06-EX</li>
-<li><a href="/scp-cn-1907">SCP-CN-1907</a> - 聚宝瓶</li>
+<li><a class="newpage" href="/scp-cn-1907">SCP-CN-1907</a> - 聚宝瓶</li>
 <li><a href="/scp-cn-1908">SCP-CN-1908</a> - 医者仁“心”</li>
 <li><a href="/scp-cn-1909">SCP-CN-1909</a> - 智慧蜘蛛与青铜man</li>
 <li><a href="/scp-cn-1910">SCP-CN-1910</a> - 传教者</li>
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dndis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dndis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hp-intothefire.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hp-intothefire.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dndis.wikidot.com">Dungeons &amp; Discourse</a></h3>
+            <h3><a target="_blank" href="http://hp-intothefire.wikidot.com">Harry Potter: Into The Fire</a></h3>
             <div class="desc">          
-              Gamma Edition
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fmiseria3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmiseria3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://academicwriting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/academicwriting.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fmiseria3.wikidot.com">Portalul Seriilor de Informatica</a></h3>
+            <h3><a target="_blank" href="http://academicwriting.wikidot.com">Academic Writing</a></h3>
             <div class="desc">          
-              Facultatea de Matematica si Informatica, Universitatea din Bucuresti
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chrysaliswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rhetoricalgoddess.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rhetoricalgoddess.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chrysaliswiki.wikidot.com">Chrysalis</a></h3>
+            <h3><a target="_blank" href="http://rhetoricalgoddess.wikidot.com">The Rhetorical Goddess Wiki</a></h3>
             <div class="desc">          
-              A Final Fantasy Wiki
+              Because the Truth and That Which Resembles It Belong to the Same Capacity
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rtd1261.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rtd1261.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kharon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kharon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rtd1261.wikidot.com">RTD1261 MediaPlayer</a></h3>
+            <h3><a target="_blank" href="http://kharon.wikidot.com">CEC Kharon</a></h3>
             <div class="desc">          
-              Tweaking the Realtek RTD1261 Mediaplayer
+              bsgkharon.com 5102
             </div>
           </div>
         </div>
