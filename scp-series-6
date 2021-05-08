@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1620456022;
+        OZONE.request.timestamp = 1620478065;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -805,7 +805,7 @@
 <li><a class="newpage" href="/scp-5257">SCP-5257</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5258">SCP-5258</a> - [拒绝访问]</li>
 <li><a href="/scp-5259">SCP-5259</a> - 第13海兵隊遠征部隊的准下士鰭暴</li>
-<li><a class="newpage" href="/scp-5260">SCP-5260</a> - Let Them Dream</li>
+<li><a href="/scp-5260">SCP-5260</a> - Let Them Dream</li>
 <li><a class="newpage" href="/scp-5261">SCP-5261</a> - Nobody Suspects a Thing</li>
 <li><a class="newpage" href="/scp-5262">SCP-5262</a> - It's Brittany Beach!</li>
 <li><a class="newpage" href="/scp-5263">SCP-5263</a> - The Nail That Sticks Out</li>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://marvelrevolution.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marvelrevolution.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://academicwriting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/academicwriting.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://marvelrevolution.wikidot.com">Marvel Revolution MUCK</a></h3>
-            <div class="desc">          
-              Join the Revolution
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://oregonamhi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oregonamhi.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://oregonamhi.wikidot.com">Oregon Choice Model Wiki</a></h3>
-            <div class="desc">          
-              Oregon Choice Model Residential Placements
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://fmiseria3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmiseria3.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://fmiseria3.wikidot.com">Portalul Seriilor de Informatica</a></h3>
-            <div class="desc">          
-              Facultatea de Matematica si Informatica, Universitatea din Bucuresti
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://educ400-401.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/educ400-401.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://educ400-401.wikidot.com">Dyslexia Connection</a></h3>
+            <h3><a target="_blank" href="http://academicwriting.wikidot.com">Academic Writing</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://awwshop.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/awwshop.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://awwshop.com">Awwshop.com</a></h3>
+            <div class="desc">          
+              A mousewheel link click opens in a new tab.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://tauren.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tauren.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://tauren.wikidot.com">Tauren Ate My Grandma</a></h3>
+            <div class="desc">          
+              has moved!
             </div>
           </div>
         </div>

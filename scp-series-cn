@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1620455767;
+        OZONE.request.timestamp = 1620477861;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://harvey-capital-lectures.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/harvey-capital-lectures.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-jp-archive.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-archive.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://harvey-capital-lectures.wikidot.com">Harvey Capital Lectures</a></h3>
+            <h3><a target="_blank" href="http://scp-jp-archive.wikidot.com">SCP日本財団中枢資料室。</a></h3>
             <div class="desc">          
-              Crowdsourced Transcription and Translation Project
+              収用
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpexplained.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpexplained.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-jp.wikidot.com">SCP財団</a></h3>
+            <h3><a target="_blank" href="http://scpexplained.wikidot.com">SCP Explained</a></h3>
             <div class="desc">          
-              確保、収容、保護
+              Simplify, Condense, Paraphrase
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://beforethefall.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/beforethefall.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nobilis-aleph.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nobilis-aleph.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://beforethefall.wikidot.com">Before the Fall</a></h3>
+            <h3><a target="_blank" href="http://nobilis-aleph.wikidot.com">Chancel Aleph</a></h3>
             <div class="desc">          
-              A Pern themed MOO
+              A Nobilis Fansite
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://connorscampaigns.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/connorscampaigns.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://my-scp-2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/my-scp-2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://connorscampaigns.wikidot.com">Connors Campaigns</a></h3>
+            <h3><a target="_blank" href="http://my-scp-2.wikidot.com">SCP Foundation</a></h3>
             <div class="desc">          
-              My dashboard for RPGs, Music, Sports, and more.
+              Secure, Contain, Protect.
             </div>
           </div>
         </div>
