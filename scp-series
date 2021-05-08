@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1620436913;
+        OZONE.request.timestamp = 1620455823;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,10 +1711,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://microchip.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpvakfisandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfisandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
+            <h3><a target="_blank" href="http://scpvakfisandbox.wikidot.com">SCP Vakfı Sandbox</a></h3>
+            <div class="desc">          
+              Atış poligonu
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scpexplained.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpexplained.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scpexplained.wikidot.com">SCP Explained</a></h3>
+            <div class="desc">          
+              Simplify, Condense, Paraphrase
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://r.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/r.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://r.wikidot.com">Wikidot URL shortener</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1744,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rmitvnim2007b.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rmitvnim2007b.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ozradonc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ozradonc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rmitvnim2007b.wikidot.com">RMIT Vietnam IM 2007B</a></h3>
+            <h3><a target="_blank" href="http://ozradonc.wikidot.com">OzRadOnc</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ocmapdb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ocmapdb.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ocmapdb.wikidot.com">Obsidian Conflict Map Database</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://livesupport.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/livesupport.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://livesupport.wikidot.com">Wikidot Live Support</a></h3>
-            <div class="desc">          
-              
+              A collection of thoughts and notes
             </div>
           </div>
         </div>
