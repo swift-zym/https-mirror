@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1620564302;
+        OZONE.request.timestamp = 1620585732;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,21 +1743,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bvs.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bvs.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tech-racingcars.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tech-racingcars.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bvs.wikidot.com">Billy Vs. SNAKEMAN Wiki</a></h3>
-            <div class="desc">          
-              Be the Ultimate Ninja.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://psychjobsearch.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychjobsearch.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://psychjobsearch.wikidot.com">Psychology Job Wiki</a></h3>
+            <h3><a target="_blank" href="http://tech-racingcars.wikidot.com">Racing Cars</a></h3>
             <div class="desc">          
               
             </div>
@@ -1765,23 +1754,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://icondeposit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/icondeposit.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chessopeningsforengines.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessopeningsforengines.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://icondeposit.wikidot.com">Icon Deposit</a></h3>
+            <h3><a target="_blank" href="http://chessopeningsforengines.wikidot.com">Chess Openings for Engine Competition</a></h3>
             <div class="desc">          
-              Design.Tutorials.Freebies
+              Opening lines that are known in Master play and that are biased for one side
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://istar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/istar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://storychip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/storychip.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://istar.wikidot.com">ISTAR</a></h3>
+            <h3><a target="_blank" href="http://storychip.wikidot.com">Story Chip</a></h3>
             <div class="desc">          
-              International Society for Testate Amoeba Research
+              Become a part of history, share your story.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://roboticsclubucla.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticsclubucla.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://roboticsclubucla.wikidot.com">Robotics Club @ UCLA Wiki</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>
