@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1620542185;
+        OZONE.request.timestamp = 1620564431;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -621,12 +621,12 @@
 <li><a href="/scp-cn-1085">SCP-CN-1085</a> - 只有你不在的世界</li>
 <li><a href="/scp-cn-1086">SCP-CN-1086</a> - 枪</li>
 <li><a href="/scp-cn-1087">SCP-CN-1087</a> - 缄默复仇</li>
-<li><a href="/scp-cn-1088">SCP-CN-1088</a> - 战斗机</li>
+<li><a class="newpage" href="/scp-cn-1088">SCP-CN-1088</a> - 战斗机</li>
 <li><a href="/scp-cn-1089">SCP-CN-1089</a> - 肥猫、斑猫与肥猫</li>
 <li><a href="/scp-cn-1090">SCP-CN-1090</a> - 送别一切老朽之雀</li>
 <li><a href="/scp-cn-1091">SCP-CN-1091</a> - 黑王传说</li>
 <li><a href="/scp-cn-1092">SCP-CN-1092</a> - 非典型谋杀</li>
-<li><a href="/scp-cn-1093">SCP-CN-1093</a> - 学生计算器</li>
+<li><a class="newpage" href="/scp-cn-1093">SCP-CN-1093</a> - 学生计算器</li>
 <li><a class="newpage" href="/scp-cn-1094">SCP-CN-1094</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1095">SCP-CN-1095</a> - Hvalaskoðun的朋友</li>
 <li><a href="/scp-cn-1096">SCP-CN-1096</a> - 老点子了，不是吗</li>
@@ -807,7 +807,7 @@
 <li><a href="/scp-cn-1263">SCP-CN-1263</a> - 祂看着凝固的海难，然后背离了我</li>
 <li><a href="/scp-cn-1264">SCP-CN-1264</a> - 哭在雨中</li>
 <li><a href="/scp-cn-1265">SCP-CN-1265</a> - <strong>繁星</strong></li>
-<li><a class="newpage" href="/scp-cn-1266">SCP-CN-1266</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1266">SCP-CN-1266</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1267">SCP-CN-1267</a> - 贪</li>
 <li><a href="/scp-cn-1268">SCP-CN-1268</a> - 人生如幻梦，渴望今朝醒</li>
 <li><a href="/scp-cn-1269">SCP-CN-1269</a> - 染血的圣女</li>
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-cloud.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-cloud.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://professorallred.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/professorallred.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki-cloud.wikidot.com">SCP基金会云国分部</a></h3>
+            <h3><a target="_blank" href="http://professorallred.wikidot.com">Ammon Allred&#039;s Online Classroom</a></h3>
             <div class="desc">          
-              与本调不同
+              University of Toledo Philosophy Professor
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://exploringsciencewiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exploringsciencewiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://summer350.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/summer350.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://exploringsciencewiki.wikidot.com">The Exploring Our World Wiki</a></h3>
+            <h3><a target="_blank" href="http://summer350.wikidot.com">Summer 3500</a></h3>
             <div class="desc">          
-              A Site for Everyone Interested in Teaching and Learning
+              Engineering Communications
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://xanadu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/xanadu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://isocentre.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/isocentre.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://xanadu.wikidot.com">Xanadu Weyr</a></h3>
+            <h3><a target="_blank" href="http://isocentre.wikidot.com">Isocentre Archive</a></h3>
+            <div class="desc">          
+              Where ideas intersect
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://trb-mux.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trb-mux.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://trb-mux.wikidot.com">The Rock Bottom MUX</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://johnmerritt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/johnmerritt.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://johnmerritt.wikidot.com">johnmerritt</a></h3>
-            <div class="desc">          
-              social studies
             </div>
           </div>
         </div>
