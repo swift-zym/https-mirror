@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1620523680;
+        OZONE.request.timestamp = 1620542216;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1208,7 +1208,7 @@
 <li><a class="newpage" href="/scp-2644">SCP-2644</a> - LostPerson</li>
 <li><a href="/scp-2645">SCP-2645</a> - 穿越镜面</li>
 <li><a href="/scp-2646">SCP-2646</a> - 水塔</li>
-<li><a class="newpage" href="/scp-2647">SCP-2647</a> - Premium</li>
+<li><a href="/scp-2647">SCP-2647</a> - 额外费用</li>
 <li><a class="newpage" href="/scp-2648">SCP-2648</a> - CJ's Shroom Farm and the Angering of the Fleshball on Acid</li>
 <li><a href="/scp-2649">SCP-2649</a> - 多维陶瓷杂食动物</li>
 <li><a class="newpage" href="/scp-2650">SCP-2650</a> - Pediatric Pupaphobia</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 595, 最后编辑于: <span class="odate time_1620018348 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 May 2021 05:05</span></div>
+                            <div id="page-info">页面版本: 596, 最后编辑于: <span class="odate time_1620536654 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">09 May 2021 05:04</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+7</span>)</a>
@@ -1712,23 +1712,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://solpadeinehelp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/solpadeinehelp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
+            <h3><a target="_blank" href="http://solpadeinehelp.wikidot.com">Solpadeine Help</a></h3>
             <div class="desc">          
-              and what they&#039;re trying to tell you
+              Help and information about Solpadeine addiction
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-down.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-down.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://design-illustration.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/design-illustration.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki-down.wikidot.com">DDD基金会</a></h3>
+            <h3><a target="_blank" href="http://design-illustration.wikidot.com">Design &amp; Illustration</a></h3>
             <div class="desc">          
-              差评 差评 差评
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://energyclub.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://energyclub.wikidot.com">Energy Club</a></h3>
+            <div class="desc">          
+              University of Alberta
             </div>
           </div>
         </div>
@@ -1740,17 +1751,6 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
             <h3><a target="_blank" href="http://iaac-readings.wikidot.com">iaac emergent culture glossary</a></h3>
             <div class="desc">          
               words, words, words
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://opencascade.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opencascade.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://opencascade.wikidot.com">Open CASCADE Wiki</a></h3>
-            <div class="desc">          
-              
             </div>
           </div>
         </div>
