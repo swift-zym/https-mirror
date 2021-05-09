@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1620499315;
+        OZONE.request.timestamp = 1620523785;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -590,11 +590,11 @@
 <li><a href="/scp-cn-1054">SCP-CN-1054</a> - dado的童话药</li>
 <li><a href="/scp-cn-1055">SCP-CN-1055</a> - 流浪汉</li>
 <li><a href="/scp-cn-1056">SCP-CN-1056</a> - 小舌精</li>
-<li><a href="/scp-cn-1057">SCP-CN-1057</a> - 结局</li>
+<li><a class="newpage" href="/scp-cn-1057">SCP-CN-1057</a> - 结局</li>
 <li><a href="/scp-cn-1058">SCP-CN-1058</a> - 书面报告</li>
 <li><a href="/scp-cn-1059">SCP-CN-1059-J</a></li>
 <li><a href="/scp-cn-1060">SCP-CN-1060</a> - 迟到帮助</li>
-<li><a href="/scp-cn-1061">SCP-CN-1061</a> - 常态</li>
+<li><a class="newpage" href="/scp-cn-1061">SCP-CN-1061</a> - 常态</li>
 <li><a href="/scp-cn-1062">SCP-CN-1062</a> - 骨(Bone)，肉(Flesh)和等离子体(Plasma)</li>
 <li><a href="/scp-cn-1063">SCP-CN-1063</a> - “母体诱惑”</li>
 <li><a href="/scp-cn-1064">SCP-CN-1064</a> - 被遗忘的9.8</li>
@@ -621,7 +621,7 @@
 <li><a href="/scp-cn-1085">SCP-CN-1085</a> - 只有你不在的世界</li>
 <li><a href="/scp-cn-1086">SCP-CN-1086</a> - 枪</li>
 <li><a href="/scp-cn-1087">SCP-CN-1087</a> - 缄默复仇</li>
-<li><a class="newpage" href="/scp-cn-1088">SCP-CN-1088</a> - 战斗机</li>
+<li><a href="/scp-cn-1088">SCP-CN-1088</a> - 战斗机</li>
 <li><a href="/scp-cn-1089">SCP-CN-1089</a> - 肥猫、斑猫与肥猫</li>
 <li><a href="/scp-cn-1090">SCP-CN-1090</a> - 送别一切老朽之雀</li>
 <li><a href="/scp-cn-1091">SCP-CN-1091</a> - 黑王传说</li>
@@ -744,7 +744,7 @@
 <li><a href="/scp-cn-1200">SCP-CN-1200</a> - 余音</li>
 <li><a href="/scp-cn-1201">SCP-CN-1201</a> - 《魔法书：自杀宝典》</li>
 <li><a href="/scp-cn-1202">SCP-CN-1202</a> - 报喜鸟</li>
-<li><a href="/scp-cn-1203">SCP-CN-1203</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1203">SCP-CN-1203</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1204">SCP-CN-1204</a> - 封神杯</li>
 <li><a href="/scp-cn-1205">SCP-CN-1205</a> - 你死去的梦</li>
 <li><a class="newpage" href="/scp-cn-1206">SCP-CN-1206</a> - [禁止访问]</li>
@@ -1689,21 +1689,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-yerko-5.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-yerko-5.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://oblivionshard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oblivionshard.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-yerko-5.wikidot.com">Yerko&#039;s Sandbox V</a></h3>
+            <h3><a target="_blank" href="http://oblivionshard.wikidot.com">Oblivion Reloaded :: UO Shard</a></h3>
             <div class="desc">          
-              La Decadencia Hecha Borrador
+              oblivion reloaded shard
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://praemien-teilen.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/praemien-teilen.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eslafundacionscp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eslafundacionscp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://praemien-teilen.wikidot.com">Prämien teilen</a></h3>
+            <h3><a target="_blank" href="http://eslafundacionscp.wikidot.com">La Fundación SCP</a></h3>
+            <div class="desc">          
+              Rama Hispanohablante
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://psychjobsearch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychjobsearch.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://psychjobsearch.wikidot.com">Psychology Job Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1711,23 +1722,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kharon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kharon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://trumpetexercises.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trumpetexercises.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kharon.wikidot.com">CEC Kharon</a></h3>
+            <h3><a target="_blank" href="http://trumpetexercises.wikidot.com">Trumpet exercise database</a></h3>
             <div class="desc">          
-              bsgkharon.com 5102
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://theautocraticcountryofjayland.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theautocraticcountryofjayland.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://theautocraticcountryofjayland.wikidot.com">The Autocratic Country Of Jayland</a></h3>
-            <div class="desc">          
-              Wow
+              for trumpet players, students and teachers
             </div>
           </div>
         </div>
