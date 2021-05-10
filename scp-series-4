@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1620585531;
+        OZONE.request.timestamp = 1620610215;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandbox2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dqnine.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dqnine.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandbox2.wikidot.com">SCP Sandbox Wiki II</a></h3>
+            <h3><a target="_blank" href="http://dqnine.wikidot.com">Dragon Quest IX</a></h3>
             <div class="desc">          
-              Sandbox Harder
+              Sentinels of the Starry Skies
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://paradoxhaze.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paradoxhaze.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://therafimrpg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/therafimrpg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://paradoxhaze.wikidot.com">Paradox Haze</a></h3>
+            <h3><a target="_blank" href="http://therafimrpg.wikidot.com">Therafim RPG</a></h3>
+            <div class="desc">          
+              Epic Destiny Awaits
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://aqwwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aqwwiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://aqwwiki.wikidot.com">AQW</a></h3>
+            <div class="desc">          
+              AQWorlds Wiki
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://opencascade.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opencascade.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://opencascade.wikidot.com">Open CASCADE Wiki</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://smlt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smlt.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://smlt.wikidot.com">SMLT Container</a></h3>
-            <div class="desc">          
-              The SCP Sandbox by Nerds for Nerds.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://smalltown.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smalltown.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://smalltown.wikidot.com">小城的问候</a></h3>
-            <div class="desc">          
-              Greetings from afar...
             </div>
           </div>
         </div>
