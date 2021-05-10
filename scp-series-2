@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1620610025;
+        OZONE.request.timestamp = 1620628881;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,32 +1713,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://psychotronicsdivision.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychotronicsdivision.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://soymilkls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soymilkls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://psychotronicsdivision.wikidot.com">Psychotronics Division</a></h3>
+            <h3><a target="_blank" href="http://soymilkls.wikidot.com">Soymilk Linkshell</a></h3>
             <div class="desc">          
-              Divided, we are One. One, we are All.
+              Professional, drama-free dynamis since 2005!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cubesat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cubesat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mbitcoin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mbitcoin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cubesat.wikidot.com">CubeSat</a></h3>
-            <div class="desc">          
-              University of Leicester CubeSat Project
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://eventidemush.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eventidemush.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://eventidemush.wikidot.com">Eventide MUSH</a></h3>
+            <h3><a target="_blank" href="http://mbitcoin.wikidot.com">BitCoin</a></h3>
             <div class="desc">          
               
             </div>
@@ -1746,12 +1735,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fourthwallgames.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fourthwallgames.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://moneymakeia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/moneymakeia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fourthwallgames.wikidot.com">Fourth Wall Games</a></h3>
+            <h3><a target="_blank" href="http://moneymakeia.wikidot.com">the money making encyclopedia</a></h3>
             <div class="desc">          
-              
+              Make money with us and have a fun
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://darry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darry.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://darry.wikidot.com">Darry Container</a></h3>
+            <div class="desc">          
+              We know our way out.
             </div>
           </div>
         </div>
