@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1620696653;
+        OZONE.request.timestamp = 1620715266;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,10 +1743,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pt851.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pt851.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dpcwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dpcwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pt851.wikidot.com">Cell Biology of Disease and Exercise</a></h3>
+            <h3><a target="_blank" href="http://dpcwiki.wikidot.com">DPC Foundation</a></h3>
+            <div class="desc">          
+              Deport. Protect. Contain.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://managerzonemexico.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/managerzonemexico.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://managerzonemexico.wikidot.com">La Wiki de ManagerZone México</a></h3>
             <div class="desc">          
               
             </div>
@@ -1754,34 +1765,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandbox-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://advent-ro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/advent-ro.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandbox-pl.wikidot.com">SCP-PL Sandbox II</a></h3>
+            <h3><a target="_blank" href="http://advent-ro.wikidot.com">AdventRO Wiki</a></h3>
             <div class="desc">          
-              Do pracy rodacy!
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wpts.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wpts.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eldritch00.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eldritch00.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wpts.wikidot.com">WPTS</a></h3>
+            <h3><a target="_blank" href="http://eldritch00.wikidot.com">A Shining Brainless Beacon</a></h3>
             <div class="desc">          
-              pittsburgh&#039;s progressive FM
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
-            <div class="desc">          
-              Where Writers Share Their Characters &amp; Worlds
+              I Have a Special Plan for This World
             </div>
           </div>
         </div>
