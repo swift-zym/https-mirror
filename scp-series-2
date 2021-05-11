@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1620715116;
+        OZONE.request.timestamp = 1620737178;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1131,7 +1131,7 @@
 <li><a href="/scp-1570">SCP-1570</a> - 投影老妇</li>
 <li><a href="/scp-1571">SCP-1571</a> - 宝藏守护者</li>
 <li><a href="/scp-1572">SCP-1572</a> - 记忆地图</li>
-<li><a class="newpage" href="/scp-1573">SCP-1573</a> - 如今的孩子们</li>
+<li><a href="/scp-1573">SCP-1573</a> - 如今的孩子们</li>
 <li><a href="/scp-1574">SCP-1574</a> - 搜索中&#8230;</li>
 <li><a href="/scp-1575">SCP-1575</a> - 维纳斯雕像</li>
 <li><a href="/scp-1576">SCP-1576</a> - 爱迪生死者通信器</li>
@@ -1713,10 +1713,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thesimsonline.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thesimsonline.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sliscomps.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sliscomps.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thesimsonline.wikidot.com">The Sims Online</a></h3>
+            <h3><a target="_blank" href="http://sliscomps.wikidot.com">CUA SLIS Comps Study Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,34 +1724,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ksemoudania.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ksemoudania.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://myvineyard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/myvineyard.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ksemoudania.wikidot.com">ΚΣΕ ΜΟΥΔΑΝΙΩΝ Επιμόρφωση Β&#039; Επιπέδου</a></h3>
+            <h3><a target="_blank" href="http://myvineyard.wikidot.com">Wiki for &#039;My Vineyard&#039;</a></h3>
             <div class="desc">          
-              «Όποιος τολμάει να διδάξει δεν πρέπει ποτέ να πάψει να μαθαίνει» John Cotton Dana
+              A Facebook Application
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bvs.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bvs.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://daeren.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/daeren.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bvs.wikidot.com">Billy Vs. SNAKEMAN Wiki</a></h3>
-            <div class="desc">          
-              Be the Ultimate Ninja.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://uniofbeds.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uniofbeds.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://uniofbeds.wikidot.com">Uniofbeds</a></h3>
+            <h3><a target="_blank" href="http://daeren.wikidot.com">The Tales of Daeren</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://narutomushrivalry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/narutomushrivalry.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://narutomushrivalry.wikidot.com">Naruto Mush Rivalry</a></h3>
+            <div class="desc">          
+              Ninja of the world, REJOICE!
             </div>
           </div>
         </div>
