@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1620823916;
+        OZONE.request.timestamp = 1620845412;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1712,32 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://splinterverse.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/splinterverse.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://vwinterop.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vwinterop.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://splinterverse.wikidot.com">Splinterverse</a></h3>
-            <div class="desc">          
-              Ezboard Yuku Splinterverse Wiki
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://cuiltheory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cuiltheory.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://cuiltheory.wikidot.com">Cuil Theory</a></h3>
-            <div class="desc">          
-              A Mathematical unit of Surrealism.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://coscup.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coscup.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://coscup.wikidot.com">COSCUP WIKI</a></h3>
+            <h3><a target="_blank" href="http://vwinterop.wikidot.com">Virtual World Interoperability</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,12 +1723,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nauticoamager.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nauticoamager.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ecadmin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecadmin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nauticoamager.wikidot.com">NauticoAmager</a></h3>
+            <h3><a target="_blank" href="http://ecadmin.wikidot.com">Early Childhood Program Administration</a></h3>
+            <div class="desc">          
+              Resources, Training, Best Practices, Sharing
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ds09.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds09.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ds09.wikidot.com">Data Structures</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://paganmichigan.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paganmichigan.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://paganmichigan.wikidot.com">Pagan Michigan</a></h3>
+            <div class="desc">          
+              News and Networking for the Pagan Community of Michigan
             </div>
           </div>
         </div>
