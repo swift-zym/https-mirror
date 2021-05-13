@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1620910183;
+        OZONE.request.timestamp = 1620931840;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,10 +1688,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://design-illustration.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/design-illustration.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://surge-archive.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/surge-archive.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://design-illustration.wikidot.com">Design &amp; Illustration</a></h3>
+            <h3><a target="_blank" href="http://surge-archive.wikidot.com">Surge&#039;s Archive</a></h3>
+            <div class="desc">          
+              啟以白羽，終於藍海
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://extension.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extension.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://extension.wikidot.com">Wikidot Extension</a></h3>
             <div class="desc">          
               
             </div>
@@ -1699,34 +1710,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://latindictionary.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/latindictionary.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://energyfuture.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyfuture.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://latindictionary.wikidot.com">The Latin Dictionary</a></h3>
+            <h3><a target="_blank" href="http://energyfuture.wikidot.com">The Future of Energy</a></h3>
             <div class="desc">          
-              Where Latin meets English
+              Analyzing The Options
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://uberoptions.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uberoptions.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikistoriaenciclopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikistoriaenciclopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://uberoptions.wikidot.com">uberOptions</a></h3>
+            <h3><a target="_blank" href="http://wikistoriaenciclopedia.wikidot.com">Wikistória</a></h3>
             <div class="desc">          
-              Enable all options on all buttons in SetPoint
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://orakulus-scpf.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/orakulus-scpf.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://orakulus-scpf.wikidot.com">Orakulus&#039; Special Containment Procedures Foundation</a></h3>
-            <div class="desc">          
-              
+              A enciclopédia de História feita por estudantes
             </div>
           </div>
         </div>
