@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1620845414;
+        OZONE.request.timestamp = 1620869702;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://energyclub.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ds3-cinders.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds3-cinders.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://energyclub.wikidot.com">Energy Club</a></h3>
+            <h3><a target="_blank" href="http://ds3-cinders.wikidot.com">Cinders</a></h3>
             <div class="desc">          
-              University of Alberta
+              Cinders
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ccyms.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ccyms.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://musicgames.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/musicgames.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ccyms.wikidot.com">Canadian Certificate in Youth Ministry Studies</a></h3>
+            <h3><a target="_blank" href="http://musicgames.wikidot.com">Games for Music</a></h3>
             <div class="desc">          
-              Redemptorist Youth / Young Adult and Vocation Ministry
+              Music Game Archive &amp; Community for Musicians of All Levels
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cubesat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cubesat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://balchipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/balchipedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cubesat.wikidot.com">CubeSat</a></h3>
+            <h3><a target="_blank" href="http://balchipedia.wikidot.com">Balchipedia</a></h3>
             <div class="desc">          
-              University of Leicester CubeSat Project
+              The Encyclopedia of Balch History
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://suffadv.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/suffadv.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://iracing.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iracing.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://suffadv.wikidot.com">Sufficiently Advanced</a></h3>
+            <h3><a target="_blank" href="http://iracing.wikidot.com">iRacing.com Wiki</a></h3>
             <div class="desc">          
-              Speculative Fiction RPGs
+              Your one-stop-shop for all iRacing setup help and knowledge.
             </div>
           </div>
         </div>

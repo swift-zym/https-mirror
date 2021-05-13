@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1620845375;
+        OZONE.request.timestamp = 1620869778;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,32 +1711,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smsalgebra.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smsalgebra.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fpt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fpt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smsalgebra.wikidot.com">Variable Thinking Wiki</a></h3>
+            <h3><a target="_blank" href="http://fpt.wikidot.com">Parameterized Complexity</a></h3>
             <div class="desc">          
-              Life is a word problem
+              Did you say NP-hard?
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://johnmerritt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/johnmerritt.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://playstation3hacksandmods.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/playstation3hacksandmods.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://johnmerritt.wikidot.com">johnmerritt</a></h3>
-            <div class="desc">          
-              social studies
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://copernicon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/copernicon.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://copernicon.wikidot.com">Copernicon 2010</a></h3>
+            <h3><a target="_blank" href="http://playstation3hacksandmods.wikidot.com">The PS3 Index</a></h3>
             <div class="desc">          
               
             </div>
@@ -1744,10 +1733,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://aviationknowledge.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aviationknowledge.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandboxbr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxbr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://aviationknowledge.wikidot.com">AviationKnowledge</a></h3>
+            <h3><a target="_blank" href="http://scpsandboxbr.wikidot.com">Sandbox SCP PT-BR</a></h3>
+            <div class="desc">          
+              Onde SCPs Nascem
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://trb-mux.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trb-mux.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://trb-mux.wikidot.com">The Rock Bottom MUX</a></h3>
             <div class="desc">          
               
             </div>
