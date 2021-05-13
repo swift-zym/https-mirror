@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1620869819;
+        OZONE.request.timestamp = 1620888193;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,32 +1743,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fmiseria3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmiseria3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://manggwan.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/manggwan.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fmiseria3.wikidot.com">Portalul Seriilor de Informatica</a></h3>
+            <h3><a target="_blank" href="http://manggwan.wikidot.com">Mang Gwan</a></h3>
             <div class="desc">          
-              Facultatea de Matematica si Informatica, Universitatea din Bucuresti
+              A quick start for your SCP-Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://05command.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/05command.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://enchantedbros.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/enchantedbros.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://05command.wikidot.com">O5 Command</a></h3>
-            <div class="desc">          
-              Why they changed it I can&#039;t say. People just liked it better that way
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pottersarmy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pottersarmy.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pottersarmy.wikidot.com">Potter&#039;s Army</a></h3>
+            <h3><a target="_blank" href="http://enchantedbros.wikidot.com">Enchanted Bros wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1776,12 +1765,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://energyclub.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://veritasbatheo.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/veritasbatheo.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://energyclub.wikidot.com">Energy Club</a></h3>
+            <h3><a target="_blank" href="http://veritasbatheo.wikidot.com">Batheo</a></h3>
             <div class="desc">          
-              University of Alberta
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://roboticspedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticspedia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://roboticspedia.wikidot.com">Roboticspedia</a></h3>
+            <div class="desc">          
+              All that you want to know about making robots
             </div>
           </div>
         </div>
