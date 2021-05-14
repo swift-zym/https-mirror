@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1620931840;
+        OZONE.request.timestamp = 1620956204;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,45 +1711,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vs-tcg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vs-tcg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ds2009a.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds2009a.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vs-tcg.wikidot.com">Sparkling Victory!</a></h3>
+            <h3><a target="_blank" href="http://ds2009a.wikidot.com">Data Structures</a></h3>
             <div class="desc">          
-              Time to Spark, Time for Victory...
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dotflow.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dotflow.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mkworld.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mkworld.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dotflow.wikidot.com">.flow</a></h3>
+            <h3><a target="_blank" href="http://mkworld.wikidot.com">The World of Metamor Keep</a></h3>
             <div class="desc">          
-              Rusting Away
+              Welcome to Metamor Keep
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://brtff.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/brtff.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://first-steps.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/first-steps.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://brtff.wikidot.com">BRTFF</a></h3>
+            <h3><a target="_blank" href="http://first-steps.wikidot.com">First Steps</a></h3>
             <div class="desc">          
-              Passion on the Top
+              Making Sense of Educational Research
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://isocentre.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/isocentre.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ddscat.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ddscat.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://isocentre.wikidot.com">Isocentre Archive</a></h3>
+            <h3><a target="_blank" href="http://ddscat.wikidot.com">DDSCAT</a></h3>
             <div class="desc">          
-              Where ideas intersect
+              Light Scattering Code
             </div>
           </div>
         </div>

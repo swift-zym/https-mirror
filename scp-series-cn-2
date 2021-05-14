@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1620931846;
+        OZONE.request.timestamp = 1620956389;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,32 +1689,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://speaker.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/speaker.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://paradoxhaze.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paradoxhaze.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://speaker.wikidot.com">　Kanji Speaker</a></h3>
-            <div class="desc">          
-              　at Whatcom Creek
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://lulu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lulu.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://lulu.wikidot.com">UK Wiki Lulu</a></h3>
-            <div class="desc">          
-              The website for the UK creators at Lulu.com
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
+            <h3><a target="_blank" href="http://paradoxhaze.wikidot.com">Paradox Haze</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,12 +1700,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://redsite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/redsite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rpcauthority.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpcauthority.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://redsite.wikidot.com">RedPlay Wiki</a></h3>
+            <h3><a target="_blank" href="http://rpcauthority.wikidot.com">RPC Authority</a></h3>
             <div class="desc">          
-              redplaywiki
+              Research, Protection, Containment
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://galacticunity.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/galacticunity.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://galacticunity.wikidot.com">Star Wars - Galactic Unity</a></h3>
+            <div class="desc">          
+              A community of Star Wars Sims in Second Life.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cf-vanguard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cf-vanguard.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cf-vanguard.wikidot.com">Vanguard Rider</a></h3>
+            <div class="desc">          
+              CARDFIGHT!! Vanguard English Wiki
             </div>
           </div>
         </div>
