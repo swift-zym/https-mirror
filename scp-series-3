@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1621060700;
+        OZONE.request.timestamp = 1621082705;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wow-arrakis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wow-arrakis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://avendar.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/avendar.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wow-arrakis.wikidot.com">WoW-Arrakis</a></h3>
+            <h3><a target="_blank" href="http://avendar.wikidot.com">AvendarWiki</a></h3>
             <div class="desc">          
-              Clan Hordeño de C&#039;Thun
+              Database wiki for Avendar MUD
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://typesets.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/typesets.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://backrooms-sandbox-2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox-2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://typesets.wikidot.com">Type Set Coin Collecting</a></h3>
+            <h3><a target="_blank" href="http://backrooms-sandbox-2.wikidot.com">Backrooms Sandbox 2</a></h3>
+            <div class="desc">          
+              Sandbox: Reloaded
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://abarrelfull.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/abarrelfull.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://abarrelfull.wikidot.com">A Barrel Full</a></h3>
+            <div class="desc">          
+              A Barrel Full of information for Oil Industry Professionals
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scala.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scala.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scala.wikidot.com">Scala Geography Wiki</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://bisgmit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bisgmit.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://bisgmit.wikidot.com">Bisgmit</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ucsdgrads.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ucsdgrads.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ucsdgrads.wikidot.com">UCSD Grad Students</a></h3>
-            <div class="desc">          
-              ...the information exchange and virtual community
             </div>
           </div>
         </div>

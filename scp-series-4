@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1621060946;
+        OZONE.request.timestamp = 1621082674;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -792,7 +792,7 @@
 <li><a href="/scp-3244">SCP-3244</a> - 激浪：红标</li>
 <li><a href="/scp-3245">SCP-3245</a> - 玩游戏有害健康先生</li>
 <li><a href="/scp-3246">SCP-3246</a> - 善良的老夫人</li>
-<li><a class="newpage" href="/scp-3247">SCP-3247</a> - A Magic Mime and his Mighty Morphin' Method Acting Spider Kids</li>
+<li><a href="/scp-3247">SCP-3247</a> - 一个神奇哑剧演员和他的强大可变形的方法演技派蜘蛛孩子</li>
 <li><a href="/scp-3248">SCP-3248</a> - 谁杀了Sulley？</li>
 <li><a href="/scp-3249">SCP-3249</a> - 我，我们，他们，他们</li>
 <li><a href="/scp-3250">SCP-3250</a> - 耶德基</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 892, 最后编辑于: <span class="odate time_1620890830 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">13 May 2021 07:27</span></div>
+                            <div id="page-info">页面版本: 893, 最后编辑于: <span class="odate time_1621078487 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">15 May 2021 11:34</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fairfieldproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fairfieldproject.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandboxcn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxcn.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fairfieldproject.wikidot.com">The Fairfield Project</a></h3>
+            <h3><a target="_blank" href="http://scpsandboxcn.wikidot.com">SCP基金會中文沙盒站</a></h3>
             <div class="desc">          
-              The Delta Green wiki
+              千仞高塔，筑基于此
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vusb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vusb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://denver.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/denver.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vusb.wikidot.com">V-USB</a></h3>
+            <h3><a target="_blank" href="http://denver.wikidot.com">Shadowrun: Denver</a></h3>
             <div class="desc">          
-              A Firmware-Only USB Driver for the AVR
+              Complicated Shadows
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://epitome.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/epitome.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darksouls3.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls3.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://epitome.wikidot.com">Epitome City</a></h3>
+            <h3><a target="_blank" href="http://darksouls3.wikidot.com">Darksouls3</a></h3>
             <div class="desc">          
-              Hero or Villain? You decide.
+              Your trusted source of information for Dark Souls 3
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rscsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rscsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fifabeapro360.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fifabeapro360.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rscsandbox.wikidot.com">RSC Sandbox</a></h3>
+            <h3><a target="_blank" href="http://fifabeapro360.wikidot.com">Fifa Be A Pro 360</a></h3>
             <div class="desc">          
-              RSC için Sandbox
+              
             </div>
           </div>
         </div>
