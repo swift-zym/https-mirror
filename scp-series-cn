@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1621129424;
+        OZONE.request.timestamp = 1621191012;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,10 +1688,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://odrinsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/odrinsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://freesmug.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/freesmug.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://odrinsandbox.wikidot.com">Odrin Sandbox</a></h3>
+            <h3><a target="_blank" href="http://freesmug.wikidot.com">FreeSMUG</a></h3>
+            <div class="desc">          
+              Free Open Source Software Mac User Group
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ltt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ltt.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ltt.wikidot.com">Living Through Technology</a></h3>
             <div class="desc">          
               
             </div>
@@ -1699,34 +1710,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://beforethefall.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/beforethefall.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rmitvnim2007b.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rmitvnim2007b.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://beforethefall.wikidot.com">Before the Fall</a></h3>
-            <div class="desc">          
-              A Pern themed MOO
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-wiki.wikidot.com">SCP Foundation</a></h3>
-            <div class="desc">          
-              Secure, Contain, Protect
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://livesupport.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/livesupport.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://livesupport.wikidot.com">Wikidot Live Support</a></h3>
+            <h3><a target="_blank" href="http://rmitvnim2007b.wikidot.com">RMIT Vietnam IM 2007B</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scpvakfi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfi.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scpvakfi.wikidot.com">SCP Vakfı</a></h3>
+            <div class="desc">          
+              Yakala, Sakla, Koru
             </div>
           </div>
         </div>
