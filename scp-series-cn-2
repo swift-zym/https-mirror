@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1621233743;
+        OZONE.request.timestamp = 1621256025;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -584,7 +584,7 @@
 <li><a href="/scp-cn-1048">SCP-CN-1048</a> - 传承计划</li>
 <li><a href="/scp-cn-1049">SCP-CN-1049</a> - 雕塑家</li>
 <li><a href="/scp-cn-1050">SCP-CN-1050</a> - &quot;宝瓶座&quot;</li>
-<li><a href="/scp-cn-1051">SCP-CN-1051</a> - 深空</li>
+<li><a class="newpage" href="/scp-cn-1051">SCP-CN-1051</a> - 深空</li>
 <li><a href="/scp-cn-1052">SCP-CN-1052</a> - 海雪飘落时</li>
 <li><a href="/scp-cn-1053">SCP-CN-1053</a> - 神仙石</li>
 <li><a href="/scp-cn-1054">SCP-CN-1054</a> - dado的童话药</li>
@@ -621,7 +621,7 @@
 <li><a href="/scp-cn-1085">SCP-CN-1085</a> - 只有你不在的世界</li>
 <li><a href="/scp-cn-1086">SCP-CN-1086</a> - 枪</li>
 <li><a href="/scp-cn-1087">SCP-CN-1087</a> - 缄默复仇</li>
-<li><a class="newpage" href="/scp-cn-1088">SCP-CN-1088</a> - 战斗机</li>
+<li><a href="/scp-cn-1088">Dr.Jack的人事档案</a></li>
 <li><a href="/scp-cn-1089">SCP-CN-1089</a> - 肥猫、斑猫与肥猫</li>
 <li><a href="/scp-cn-1090">SCP-CN-1090</a> - 送别一切老朽之雀</li>
 <li><a href="/scp-cn-1091">SCP-CN-1091</a> - 黑王传说</li>
@@ -642,7 +642,7 @@
 <li><a href="/scp-cn-1102">SCP-CN-1102</a> - 银莲花之心</li>
 <li><a href="/scp-cn-1103">SCP-CN-1103</a> - 机兽</li>
 <li><a href="/scp-cn-1104">SCP-CN-1104</a> - 黑暗中的倩影</li>
-<li><a href="/scp-cn-1105">SCP-CN-1105</a> - 秦俑方阵</li>
+<li><a class="newpage" href="/scp-cn-1105">SCP-CN-1105</a> - 秦俑方阵</li>
 <li><a href="/scp-cn-1106">SCP-CN-1106</a> - 枯骨魔方</li>
 <li><a href="/scp-cn-1107">SCP-CN-1107</a> - 风扇</li>
 <li><a href="/scp-cn-1108">SCP-CN-1108</a> - [禁止访问]</li>
@@ -1119,7 +1119,7 @@
 <li><a href="/scp-cn-1563">SCP-CN-1563</a> - 加百列病毒</li>
 <li><a href="/scp-cn-1564">SCP-CN-1564</a> - 香“蝽”树</li>
 <li><a href="/scp-cn-1565">SCP-CN-1565</a> - 后人得之传此</li>
-<li><a href="/scp-cn-1566">SCP-CN-1566</a> - 它是什么？</li>
+<li><a class="newpage" href="/scp-cn-1566">SCP-CN-1566</a> - 它是什么？</li>
 <li><a href="/scp-cn-1567">SCP-CN-1567</a> - 洋娃娃</li>
 <li><a href="/scp-cn-1568">SCP-CN-1568</a> - Diamond_Apple</li>
 <li><a href="/scp-cn-1569">SCP-CN-1569</a> - 开窍</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4086, 最后编辑于: <span class="odate time_1620834483 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">12 May 2021 15:48</span></div>
+                            <div id="page-info">页面版本: 4087, 最后编辑于: <span class="odate time_1621240413 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 May 2021 08:33</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+88</span>)</a>
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://simtrackipedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/simtrackipedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scmapdb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scmapdb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://simtrackipedia.wikidot.com">SIMTrackipedia</a></h3>
+            <h3><a target="_blank" href="http://scmapdb.wikidot.com">Sven Co-op Map Database</a></h3>
             <div class="desc">          
-              A collection of tutorials for Bob&#039;s Track Builder, XPacker, and other related programs
+              SCMapDB.com
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blank-template.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blank-template.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://insurrection-du-chaos.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/insurrection-du-chaos.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blank-template.wikidot.com">Blank Template</a></h3>
+            <h3><a target="_blank" href="http://insurrection-du-chaos.wikidot.com">Insurrection du Chaos</a></h3>
             <div class="desc">          
-              
+              Branche Francophone.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://my-scp-2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/my-scp-2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
+            <h3><a target="_blank" href="http://my-scp-2.wikidot.com">SCP Foundation</a></h3>
             <div class="desc">          
-              
+              Secure, Contain, Protect.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://warsztatywww.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/warsztatywww.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://icondeposit.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/icondeposit.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://warsztatywww.wikidot.com">WWW 10</a></h3>
+            <h3><a target="_blank" href="http://icondeposit.wikidot.com">Icon Deposit</a></h3>
             <div class="desc">          
-              Wakacyjne Warsztaty Wielodyscyplinarne 9
+              Design.Tutorials.Freebies
             </div>
           </div>
         </div>

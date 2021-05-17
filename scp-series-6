@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1621233823;
+        OZONE.request.timestamp = 1621256024;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -792,7 +792,7 @@
 <li><a class="newpage" href="/scp-5244">SCP-5244</a> - The Demon God</li>
 <li><a class="newpage" href="/scp-5245">SCP-5245</a> - Iceberg Impersonation</li>
 <li><a href="/scp-5246">SCP-5246</a> - 米的吸引</li>
-<li><a class="newpage" href="/scp-5247">SCP-5247</a> - [拒绝访问]</li>
+<li><a href="/scp-5247">SCP-5247</a> - [拒绝访问]</li>
 <li><a href="/scp-5248">SCP-5248</a> - AJAX出错（0）</li>
 <li><a href="/scp-5249">SCP-5249</a> - Kai</li>
 <li><a href="/scp-5250">SCP-5250</a> - 第I幕：湖之南，鹿之北</li>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ladyhood66.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ladyhood66.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bzhlab.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bzhlab.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ladyhood66.wikidot.com">welcome</a></h3>
+            <h3><a target="_blank" href="http://bzhlab.wikidot.com">BZHLab</a></h3>
             <div class="desc">          
-              
+              Makers goes west!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wpts.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wpts.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://awwshop.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/awwshop.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wpts.wikidot.com">WPTS</a></h3>
+            <h3><a target="_blank" href="http://awwshop.com">Awwshop.com</a></h3>
             <div class="desc">          
-              pittsburgh&#039;s progressive FM
+              A mousewheel link click opens in a new tab.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bilbreyapwh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bilbreyapwh.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://theautocraticcountryofjayland.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theautocraticcountryofjayland.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bilbreyapwh.wikidot.com">Mr. Bilbrey&#039;s AP World History</a></h3>
+            <h3><a target="_blank" href="http://theautocraticcountryofjayland.wikidot.com">The Autocratic Country Of Jayland</a></h3>
             <div class="desc">          
-              
+              Wow
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://destiny.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/destiny.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://neosteam.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/neosteam.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://destiny.wikidot.com">Destiny</a></h3>
+            <h3><a target="_blank" href="http://neosteam.wikidot.com">Neo Steam Wiki</a></h3>
             <div class="desc">          
-              
+              May 2008 to February 2012
             </div>
           </div>
         </div>
