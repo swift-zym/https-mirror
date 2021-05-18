@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1621320191;
+        OZONE.request.timestamp = 1621342045;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://iaac-readings.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iaac-readings.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kharon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kharon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://iaac-readings.wikidot.com">iaac emergent culture glossary</a></h3>
+            <h3><a target="_blank" href="http://kharon.wikidot.com">CEC Kharon</a></h3>
             <div class="desc">          
-              words, words, words
+              bsgkharon.com 5102
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dotflow.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dotflow.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikiofscience.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiofscience.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dotflow.wikidot.com">.flow</a></h3>
+            <h3><a target="_blank" href="http://wikiofscience.wikidot.com">WikiofScience</a></h3>
             <div class="desc">          
-              Rusting Away
+              Everything learned, and nothing forgotten
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://aqwwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aqwwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://generals.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/generals.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://aqwwiki.wikidot.com">AQW</a></h3>
+            <h3><a target="_blank" href="http://generals.wikidot.com">Generalia</a></h3>
             <div class="desc">          
-              AQWorlds Wiki
+              your one-stop shop for all things generals.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://emchina2010.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/emchina2010.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bettersandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bettersandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://emchina2010.wikidot.com">Emchina2010</a></h3>
+            <h3><a target="_blank" href="http://bettersandbox.wikidot.com">Better Sandbox</a></h3>
             <div class="desc">          
-              Trip to China 2010 Groep T
+              灵感   撰稿  成文
             </div>
           </div>
         </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1621320057;
+        OZONE.request.timestamp = 1621342336;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -140,7 +140,7 @@
                 
                 <div id="search-top-box" class="form-search">
     <form id="search-top-box-form" action="dummy" class="input-append">
-        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="搜索网站" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="搜索"/>
     </form>
 </div>
                 
@@ -1677,21 +1677,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
             
             <div id="footer" style="display: block; visibility: visible;">
                 <div class="options" style="display: block; visibility: visible;">
-    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">说明</a>
     &nbsp;|
-    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">服务条款</a>
     &nbsp;|
-    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">隐私</a>
     &nbsp;|
-    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">报告错误</a>
     &nbsp;|
-    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">标记为令人反感的</a>
 </div>
-Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+基于 <a href="http://www.wikidot.com">Wikidot.com</a> 
             </div>
             
                 <div id="license-area" class="license-area">
-                    Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                    除非特别注明，本页内容采用以下授权方式： <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
                 </div>
             
             
@@ -1712,21 +1712,21 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jw.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jw.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://steelandstone.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/steelandstone.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-jw.wikidot.com">SCP基金会JW分部</a></h3>
+            <h3><a target="_blank" href="http://steelandstone.wikidot.com">Steel and Stone</a></h3>
             <div class="desc">          
-              控制 收容 保护
+              Wagering Lives to the Blade
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://apmoderneuro.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/apmoderneuro.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tasker.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tasker.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://apmoderneuro.wikidot.com">Apmoderneuro</a></h3>
+            <h3><a target="_blank" href="http://tasker.wikidot.com">Tasker Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1734,23 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://galacticunity.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/galacticunity.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://insurrection-du-chaos-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/insurrection-du-chaos-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://galacticunity.wikidot.com">Star Wars - Galactic Unity</a></h3>
+            <h3><a target="_blank" href="http://insurrection-du-chaos-sandbox.wikidot.com">IC-FR Sandbox</a></h3>
             <div class="desc">          
-              A community of Star Wars Sims in Second Life.
+              Sandbox de l&#039;Insurrection du Chaos francophone
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpkosb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkosb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tl2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tl2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpkosb.wikidot.com">SB-KO2</a></h3>
+            <h3><a target="_blank" href="http://tl2.wikidot.com">tgl.wiki</a></h3>
             <div class="desc">          
-              SCP-KO 샌드박스 이호기
+              
             </div>
           </div>
         </div>
@@ -1800,39 +1800,39 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
 
 <div id="page-options-bottom-tips" style="display: none;">
     <div id="edit-button-hovertip">
-        Click here to edit contents of this page.    </div>
+        请点此编辑本页内容。    </div>
 </div>
 <div id="page-options-bottom-2-tips"  style="display: none;">
     <div id="edit-sections-button-hovertip">
-        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+        单击此处切换页面各部分的编辑按钮（如果可能）。 在标题边会显示“编辑”链接。    </div>
     <div id="edit-append-button-hovertip">
-        Append content without editing the whole page source.    </div>
+        在不编辑整个页面源代码的情况下添加内容。    </div>
     <div id="history-button-hovertip">
-        Check out how this page has evolved in the past.    </div>
+        看看本页过去是如何沿革的。    </div>
     <div id="discuss-button-hovertip">
-        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+        若您想要讨论本页内容 - 这是最简单的方法。    </div>
     <div id="files-button-hovertip">
-        View and manage file attachments for this page.    </div>
+        检视并管理本页附件。    </div>
     <div id="site-tools-button-hovertip">
-        A few useful tools to manage this Site.    </div>
+        管理网站的实用工具。    </div>
     <div id="backlinks-button-hovertip">
-        See pages that link to and include this page.    </div>
+        检视链接至本页或引用本页的页面。    </div>
     <div id="rename-move-button-hovertip">
-        Change the name (also URL address, possibly the category) of the page.    </div>
+        变更页面名称（及 URL 地址，或许会影响分类）。    </div>
     <div id="view-source-button-hovertip">
-        View wiki source for this page without editing.    </div>
+        在不编辑的情形下检视维基原始码。    </div>
     <div id="parent-page-button-hovertip">  
-        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+        检视/ 设定父页面（用以建立浏览足迹与结构化​​配置）。    </div>
             <div id="abuse-report-button-hovertip">
-            Notify administrators if there is objectionable content in this page.        </div>
+            向管理员举报本页有令人反感的内容。        </div>
         <div id="bug-report-button-hovertip">
-            Something does not work as expected? Find out what you can do.        </div>
+            事情不如预期？看看您可以做些什么。        </div>
         <div id="wikidot-help-button-hovertip">
-            General Wikidot.com documentation and help section.        </div>
+            一般的 Wikidot.com 文件与说明。        </div>
         <div id="wikidot-tos-button-hovertip">
-            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+            Wikidot.com 服务条款 - 您可以做的事，您不该做的事之类的。        </div>
         <div id="wikidot-privacy-button-hovertip">
-            Wikidot.com Privacy Policy.          
+            Wikidot.com 隐私政策。          
         </div>
     </div>
 </body>
