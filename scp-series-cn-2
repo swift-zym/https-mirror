@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1621388031;
+        OZONE.request.timestamp = 1621406614;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,21 +1689,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://surge-archive.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/surge-archive.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
+            <h3><a target="_blank" href="http://surge-archive.wikidot.com">Surge&#039;s Archive</a></h3>
             <div class="desc">          
-              OpenRPG Dungeons and Dragons 3.5
+              啟以白羽，終於藍海
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://analyticscamp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/analyticscamp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sfugamedev.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfugamedev.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://analyticscamp.wikidot.com">AnalyticsCamp</a></h3>
+            <h3><a target="_blank" href="http://sfugamedev.wikidot.com">SFU Game Developers Club</a></h3>
             <div class="desc">          
               
             </div>
@@ -1711,23 +1711,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://loteria-esportiva.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/loteria-esportiva.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://liminal-archives.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liminal-archives.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://loteria-esportiva.wikidot.com">Todos os jogos da Loteria Esportiva desde 1970</a></h3>
+            <h3><a target="_blank" href="http://liminal-archives.wikidot.com">Liminal Archives</a></h3>
             <div class="desc">          
-              (em construção)
+              Exploring spaces which shouldn&#039;t exist
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://surreal64ce.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/surreal64ce.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://magmabox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magmabox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://surreal64ce.wikidot.com">Surreal64 CE</a></h3>
+            <h3><a target="_blank" href="http://magmabox.wikidot.com">Centre de Recherche</a></h3>
             <div class="desc">          
-              Nintendo 64 Emulation for XBOX
+              Là où le loup chasse
             </div>
           </div>
         </div>

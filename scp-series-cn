@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1621388151;
+        OZONE.request.timestamp = 1621406464;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,10 +1688,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://evilhat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/evilhat.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-hu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-hu.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://evilhat.wikidot.com">Evil Hat Productions Wiki</a></h3>
+            <h3><a target="_blank" href="http://scp-hu.wikidot.com">SCP Alapítvány</a></h3>
+            <div class="desc">          
+              Magyarnyelvű ágazat
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://odrinsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/odrinsandbox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://odrinsandbox.wikidot.com">Odrin Sandbox</a></h3>
             <div class="desc">          
               
             </div>
@@ -1699,34 +1710,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fearschemistry.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fearschemistry.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chcc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chcc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fearschemistry.wikidot.com">Chemistry</a></h3>
+            <h3><a target="_blank" href="http://chcc.wikidot.com">Capitol Hill Community Council</a></h3>
             <div class="desc">          
-              
+              a community site
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikistoriaenciclopedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikistoriaenciclopedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://avendar.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/avendar.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikistoriaenciclopedia.wikidot.com">Wikistória</a></h3>
+            <h3><a target="_blank" href="http://avendar.wikidot.com">AvendarWiki</a></h3>
             <div class="desc">          
-              A enciclopédia de História feita por estudantes
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ddscat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ddscat.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ddscat.wikidot.com">DDSCAT</a></h3>
-            <div class="desc">          
-              Light Scattering Code
+              Database wiki for Avendar MUD
             </div>
           </div>
         </div>

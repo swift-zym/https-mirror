@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1621387851;
+        OZONE.request.timestamp = 1621406573;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,21 +1711,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wychwood.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wychwood.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fmi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wychwood.wikidot.com">Wikiwood</a></h3>
+            <h3><a target="_blank" href="http://fmi.wikidot.com">Лекциите на ФМИ</a></h3>
             <div class="desc">          
-              Wychwood Warriors Wiki
+              За да изглеждаме умни пред другите
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://academicwriting.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/academicwriting.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nobilis-aleph.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nobilis-aleph.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://academicwriting.wikidot.com">Academic Writing</a></h3>
+            <h3><a target="_blank" href="http://nobilis-aleph.wikidot.com">Chancel Aleph</a></h3>
+            <div class="desc">          
+              A Nobilis Fansite
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://eventidemush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eventidemush.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://eventidemush.wikidot.com">Eventide MUSH</a></h3>
             <div class="desc">          
               
             </div>
@@ -1733,23 +1744,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://energyclub4samvedna.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub4samvedna.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bloodborne.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bloodborne.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://energyclub4samvedna.wikidot.com">Save Energy, Save Future</a></h3>
+            <h3><a target="_blank" href="http://bloodborne.wikidot.com">Bloodborne</a></h3>
             <div class="desc">          
-              &quot;The collabrative efforts for Energy saving&quot;
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-nd.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-nd.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-nd.wikidot.com">Stiftelsen SCP</a></h3>
-            <div class="desc">          
-              FORSIKRE-FORVARE-FORSVARE / FÖRSÄKRA-FÖRVARA-FÖRSVARA
+              From Software&#039;s new dark fantasy project. (Project Beast)
             </div>
           </div>
         </div>
