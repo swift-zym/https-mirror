@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1621515170;
+        OZONE.request.timestamp = 1621536835;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ds09.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds09.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cubesat.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cubesat.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ds09.wikidot.com">Data Structures</a></h3>
+            <h3><a target="_blank" href="http://cubesat.wikidot.com">CubeSat</a></h3>
+            <div class="desc">          
+              University of Leicester CubeSat Project
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-id-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-id-sandbox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-id-sandbox.wikidot.com">SCP Sandbox ID</a></h3>
+            <div class="desc">          
+              Kotak Pasir Karya SCP
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://morningsidemicro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningsidemicro.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://morningsidemicro.wikidot.com">Microbiology@Morningside</a></h3>
+            <div class="desc">          
+              The wiki for students in BIO 252 at Morningside
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cloudtw.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cloudtw.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cloudtw.wikidot.com">CloudTW</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://firedawnfolder.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/firedawnfolder.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://firedawnfolder.wikidot.com">FiredawnFolder</a></h3>
-            <div class="desc">          
-              The not-quite Inner Circle but close enough
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://metrixcreate.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metrixcreate.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://metrixcreate.wikidot.com">Metrix Create:Space</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://networkers.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/networkers.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://networkers.wikidot.com">KAIMTech NetLabs</a></h3>
-            <div class="desc">          
-              Sharing my IP networking experience
             </div>
           </div>
         </div>
