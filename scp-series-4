@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1621474558;
+        OZONE.request.timestamp = 1621493031;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1712,21 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blackberrystorm.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackberrystorm.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
-            <div class="desc">          
-              and what they&#039;re trying to tell you
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://tasker.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tasker.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://tasker.wikidot.com">Tasker Wiki</a></h3>
+            <h3><a target="_blank" href="http://blackberrystorm.wikidot.com">BlackBerry Storm Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1723,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://psychgradsearch.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychgradsearch.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://emchina2010.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/emchina2010.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://psychgradsearch.wikidot.com">Psychology Grad School Wiki</a></h3>
+            <h3><a target="_blank" href="http://emchina2010.wikidot.com">Emchina2010</a></h3>
             <div class="desc">          
-              for prospective psych grad students
+              Trip to China 2010 Groep T
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://talkingpadproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/talkingpadproject.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tmduc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tmduc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://talkingpadproject.wikidot.com">TalkingPad Project</a></h3>
+            <h3><a target="_blank" href="http://tmduc.wikidot.com">TMD (uc)</a></h3>
             <div class="desc">          
-              
+              creación colectiva
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://darksouls2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls2.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://darksouls2.wikidot.com">DarkSouls II Wiki</a></h3>
+            <div class="desc">          
+              #1 source of fan provided tips, strategies, FAQs, and information about Dark Souls II
             </div>
           </div>
         </div>
