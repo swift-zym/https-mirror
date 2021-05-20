@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1621493031;
+        OZONE.request.timestamp = 1621515170;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,34 +1743,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rpcauthority-ar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpcauthority-ar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ds09.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds09.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rpcauthority-ar.wikidot.com">RPC سلطة</a></h3>
+            <h3><a target="_blank" href="http://ds09.wikidot.com">Data Structures</a></h3>
             <div class="desc">          
-              بحث, حماية, احتواء
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://professorallred.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/professorallred.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://professorallred.wikidot.com">Ammon Allred&#039;s Online Classroom</a></h3>
-            <div class="desc">          
-              University of Toledo Philosophy Professor
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scienceonlinelondon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scienceonlinelondon.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scienceonlinelondon.wikidot.com">Science Online London</a></h3>
-            <div class="desc">          
-              How is the Web changing science?
+              
             </div>
           </div>
         </div>
@@ -1782,6 +1760,28 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
             <h3><a target="_blank" href="http://firedawnfolder.wikidot.com">FiredawnFolder</a></h3>
             <div class="desc">          
               The not-quite Inner Circle but close enough
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://metrixcreate.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metrixcreate.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://metrixcreate.wikidot.com">Metrix Create:Space</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://networkers.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/networkers.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://networkers.wikidot.com">KAIMTech NetLabs</a></h3>
+            <div class="desc">          
+              Sharing my IP networking experience
             </div>
           </div>
         </div>

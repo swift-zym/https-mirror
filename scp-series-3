@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1621493030;
+        OZONE.request.timestamp = 1621514962;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1643,7 +1643,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                             <div id="page-info">页面版本: 596, 最后编辑于: <span class="odate time_1620536654 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">09 May 2021 05:04</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
-<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+7</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+8</span>)</a>
 <a href="javascript:;" class="btn btn-default" id="tags-button">标签</a>
 <a href="/forum/t-1589947/scp-series-3" class="btn btn-default" id="discuss-button">讨论 (0)</a>
 <a href="javascript:;" class="btn btn-default" id="history-button">历史记录</a>
@@ -1712,10 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blackberrystorm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackberrystorm.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-kz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-kz.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blackberrystorm.wikidot.com">BlackBerry Storm Wiki</a></h3>
+            <h3><a target="_blank" href="http://scp-kz.wikidot.com">The SCP Foundation</a></h3>
+            <div class="desc">          
+              Kazakh Branch
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://aviationknowledge.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aviationknowledge.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://aviationknowledge.wikidot.com">AviationKnowledge</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,34 +1734,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://emchina2010.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/emchina2010.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kannadanudi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kannadanudi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://emchina2010.wikidot.com">Emchina2010</a></h3>
+            <h3><a target="_blank" href="http://kannadanudi.wikidot.com">ಕನ್ನಡನುಡಿ</a></h3>
             <div class="desc">          
-              Trip to China 2010 Groep T
+              ಕನ್ನಡ ಸಾಹಿತ್ಯಾಸಕ್ತರ ಕೂಟ
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tmduc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tmduc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fifabeapro360.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fifabeapro360.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tmduc.wikidot.com">TMD (uc)</a></h3>
+            <h3><a target="_blank" href="http://fifabeapro360.wikidot.com">Fifa Be A Pro 360</a></h3>
             <div class="desc">          
-              creación colectiva
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls2.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://darksouls2.wikidot.com">DarkSouls II Wiki</a></h3>
-            <div class="desc">          
-              #1 source of fan provided tips, strategies, FAQs, and information about Dark Souls II
+              
             </div>
           </div>
         </div>
