@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1621560876;
+        OZONE.request.timestamp = 1621579405;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -792,9 +792,9 @@
 <li><a class="newpage" href="/scp-5244">SCP-5244</a> - The Demon God</li>
 <li><a class="newpage" href="/scp-5245">SCP-5245</a> - Iceberg Impersonation</li>
 <li><a href="/scp-5246">SCP-5246</a> - 米的吸引</li>
-<li><a href="/scp-5247">SCP-5247</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5247">SCP-5247</a> - [拒绝访问]</li>
 <li><a href="/scp-5248">SCP-5248</a> - AJAX出错（0）</li>
-<li><a href="/scp-5249">SCP-5249</a> - Kai</li>
+<li><a href="/scp-5249">SCP-5249</a> - Kai歌</li>
 <li><a href="/scp-5250">SCP-5250</a> - 第I幕：湖之南，鹿之北</li>
 <li><a href="/scp-5251">SCP-5251</a> - 亚麻</li>
 <li><a class="newpage" href="/scp-5252">SCP-5252</a> - The Lantern Bearer</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 485, 最后编辑于: <span class="odate time_1621140556 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">16 May 2021 04:49</span></div>
+                            <div id="page-info">页面版本: 486, 最后编辑于: <span class="odate time_1621570701 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 May 2021 04:18</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://jinsi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jinsi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://soymilkls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soymilkls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://jinsi.wikidot.com">AckySHINE MiniSites | Best of 2020</a></h3>
+            <h3><a target="_blank" href="http://soymilkls.wikidot.com">Soymilk Linkshell</a></h3>
             <div class="desc">          
-              
+              Professional, drama-free dynamis since 2005!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://desenvolvimentodejogos.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/desenvolvimentodejogos.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpvakfisandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfisandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://desenvolvimentodejogos.wikidot.com">Desenvolvimento de Jogos</a></h3>
+            <h3><a target="_blank" href="http://scpvakfisandbox.wikidot.com">SCP Vakfı Sandbox</a></h3>
             <div class="desc">          
-              Tecnologias para uso no desenvolver jogos
+              Atış poligonu
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://backrooms-sandbox-2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox-2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hswiki.wikidot.com">.</a></h3>
+            <h3><a target="_blank" href="http://backrooms-sandbox-2.wikidot.com">Backrooms Sandbox 2</a></h3>
             <div class="desc">          
-              
+              Sandbox: Reloaded
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vocaro.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vocaro.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://backrooms-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vocaro.wikidot.com">보카로 가사 위키</a></h3>
+            <h3><a target="_blank" href="http://backrooms-wiki.wikidot.com">The Backrooms</a></h3>
             <div class="desc">          
-              Vocaloid Lyrics Wiki
+              You&#039;ve been here before.
             </div>
           </div>
         </div>

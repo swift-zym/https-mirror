@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1621561109;
+        OZONE.request.timestamp = 1621579436;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,10 +1743,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://coscup.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coscup.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikiofscience.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiofscience.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://coscup.wikidot.com">COSCUP WIKI</a></h3>
+            <h3><a target="_blank" href="http://wikiofscience.wikidot.com">WikiofScience</a></h3>
+            <div class="desc">          
+              Everything learned, and nothing forgotten
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://tpswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tpswiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://tpswiki.wikidot.com">TPSwiki.com</a></h3>
+            <div class="desc">          
+              The Radiation Oncology Treatment Planning System Wiki
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ds09.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds09.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ds09.wikidot.com">Data Structures</a></h3>
             <div class="desc">          
               
             </div>
@@ -1754,34 +1776,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://algadon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/algadon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ksemoudania.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ksemoudania.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://algadon.wikidot.com">Algadon</a></h3>
+            <h3><a target="_blank" href="http://ksemoudania.wikidot.com">ΚΣΕ ΜΟΥΔΑΝΙΩΝ Επιμόρφωση Β&#039; Επιπέδου</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ucsdgrads.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ucsdgrads.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ucsdgrads.wikidot.com">UCSD Grad Students</a></h3>
-            <div class="desc">          
-              ...the information exchange and virtual community
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://hard-rp-funclub.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hard-rp-funclub.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://hard-rp-funclub.wikidot.com">Фонд SCP</a></h3>
-            <div class="desc">          
-              Участок Временного Содержания 19F
+              «Όποιος τολμάει να διδάξει δεν πρέπει ποτέ να πάψει να μαθαίνει» John Cotton Dana
             </div>
           </div>
         </div>
