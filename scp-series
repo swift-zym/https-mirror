@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1621665874;
+        OZONE.request.timestamp = 1621687826;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1396,7 +1396,7 @@
 <li><a href="/scp-825">SCP-825</a> - 恐怖幻觉头盔</li>
 <li><a href="/scp-826">SCP-826</a> - 美梦成真书架</li>
 <li><a href="/scp-827">SCP-827</a> - 汤</li>
-<li><a href="/scp-828">SCP-828</a> - ᖃᓪᓗᐱᓪᓗᐃᑦ/Qallupilluit/极地鱼女</li>
+<li><a href="/scp-828">SCP-828</a> - 极地鱼女</li>
 <li><a href="/scp-829">SCP-829</a> - 嗜血指甲油</li>
 <li><a href="/scp-830">SCP-830</a> - 浊世沙流</li>
 <li><a href="/scp-831">SCP-831</a> - 工蚁</li>
@@ -1639,7 +1639,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 288, 最后编辑于: <span class="odate time_1620044637 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 May 2021 12:23</span></div>
+                            <div id="page-info">页面版本: 289, 最后编辑于: <span class="odate time_1621678318 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">22 May 2021 10:11</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+32</span>)</a>
@@ -1711,21 +1711,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thegamerdome.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thegamerdome.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cunefa2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefa2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thegamerdome.wikidot.com">The Gamer Dome</a></h3>
+            <h3><a target="_blank" href="http://cunefa2.wikidot.com">CUNEF Group A2</a></h3>
             <div class="desc">          
-              Community Game Design Projects
+              For Your Work, Opinions and Discoveries!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://my-pride.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/my-pride.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://enchantedbros.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/enchantedbros.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://my-pride.wikidot.com">My Pride</a></h3>
+            <h3><a target="_blank" href="http://enchantedbros.wikidot.com">Enchanted Bros wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1733,21 +1733,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kharon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kharon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://androidalchemy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/androidalchemy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kharon.wikidot.com">CEC Kharon</a></h3>
+            <h3><a target="_blank" href="http://androidalchemy.wikidot.com">Android Alchemy</a></h3>
             <div class="desc">          
-              bsgkharon.com 5102
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-field-work.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-field-work.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://legendspring.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/legendspring.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-field-work.wikidot.com">SCP Field Work</a></h3>
+            <h3><a target="_blank" href="http://legendspring.wikidot.com">LegendSpring</a></h3>
             <div class="desc">          
               
             </div>
