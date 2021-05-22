@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1621647409;
+        OZONE.request.timestamp = 1621665833;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,10 +1713,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://m5snapoli.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/m5snapoli.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-int.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://m5snapoli.wikidot.com">Il wiki-Programma del MoVimento5stelle Napoli</a></h3>
+            <h3><a target="_blank" href="http://scp-int.wikidot.com">International Translation Archive</a></h3>
+            <div class="desc">          
+              of the SCP Foundation
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scala.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scala.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scala.wikidot.com">Scala Geography Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1735,23 +1746,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thelaststory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thelaststory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://snippets.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snippets.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thelaststory.wikidot.com">The Last Story</a></h3>
+            <h3><a target="_blank" href="http://snippets.wikidot.com">Wiki Code Snippets</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wikialo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikialo.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wikialo.wikidot.com">Wikialo</a></h3>
-            <div class="desc">          
-              Un directorio wiki para blogs
+              Snippets
             </div>
           </div>
         </div>

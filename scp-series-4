@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1621647451;
+        OZONE.request.timestamp = 1621665644;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -857,7 +857,7 @@
 <li><a href="/scp-3305">SCP-3305</a> - 圣父，圣子，圣面包</li>
 <li><a href="/scp-3306">SCP-3306</a> - 旋杀木马</li>
 <li><a href="/scp-3307">SCP-3307</a> - 丰裕之尻</li>
-<li><a class="newpage" href="/scp-3308">SCP-3308</a> - Crooked Excavator</li>
+<li><a class="newpage" href="/scp-3308">SCP-3308</a> - 弯曲挖掘机</li>
 <li><a href="/scp-3309">SCP-3309</a> - 化为泡影之时，我们去往何方</li>
 <li><a href="/scp-3310">SCP-3310</a> - 湖中老人</li>
 <li><a href="/scp-3311">SCP-3311</a> - 全是椅子</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 893, 最后编辑于: <span class="odate time_1621078487 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">15 May 2021 11:34</span></div>
+                            <div id="page-info">页面版本: 894, 最后编辑于: <span class="odate time_1621651665 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">22 May 2021 02:47</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://unasf.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/unasf.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ubmedicinefaqs.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmedicinefaqs.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://unasf.wikidot.com">UNAS-F</a></h3>
+            <h3><a target="_blank" href="http://ubmedicinefaqs.wikidot.com">UBMedicineFAQ</a></h3>
             <div class="desc">          
-              Unidentified Non-Euclidean Anomalous Study Foundation
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpdsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpdsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikirhye.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikirhye.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpdsandbox.wikidot.com">SCPDeclassified Sandbox</a></h3>
+            <h3><a target="_blank" href="http://wikirhye.wikidot.com">Rhye&#039;s of Wiki</a></h3>
             <div class="desc">          
-              Secure, Contain, Protect, Declassify
+              Wiki for Rhye&#039;s mods and general awesomeness
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-sandbox-zh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox-zh.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darry.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-sandbox-zh.wikidot.com">SCP繁體中文沙盒</a></h3>
+            <h3><a target="_blank" href="http://darry.wikidot.com">Darry Container</a></h3>
             <div class="desc">          
-              發現，發掘，發佈
+              We know our way out.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://shatteredspheres.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/shatteredspheres.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://shatteredspheres.wikidot.com">Shattered Spheres</a></h3>
+            <h3><a target="_blank" href="http://ci-wiki.wikidot.com">Chaos Insurgency</a></h3>
             <div class="desc">          
-              The World of Thoryn
+              
             </div>
           </div>
         </div>

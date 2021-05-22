@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1621647336;
+        OZONE.request.timestamp = 1621665861;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://music-industrapedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/music-industrapedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bootstrap-playground.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bootstrap-playground.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://music-industrapedia.wikidot.com">Music Industrapedia</a></h3>
+            <h3><a target="_blank" href="http://bootstrap-playground.wikidot.com">Bootstrap Playground</a></h3>
             <div class="desc">          
-              A Legacy of your Working Life in the Music Industry
+              Because we all need a place to play
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://extrabees.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extrabees.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
+            <h3><a target="_blank" href="http://extrabees.wikidot.com">Extra Bees</a></h3>
+            <div class="desc">          
+              Plugin for the Forestry Mod
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://smd-ch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smd-ch.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://smd-ch.wikidot.com">SMD超现实管制处</a></h3>
+            <div class="desc">          
+              异常 中转 管理
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://viscomclass.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/viscomclass.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://viscomclass.wikidot.com">VisCom</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://johnmerritt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/johnmerritt.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://johnmerritt.wikidot.com">johnmerritt</a></h3>
-            <div class="desc">          
-              social studies
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://galacticunity.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/galacticunity.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://galacticunity.wikidot.com">Star Wars - Galactic Unity</a></h3>
-            <div class="desc">          
-              A community of Star Wars Sims in Second Life.
             </div>
           </div>
         </div>
