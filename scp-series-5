@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1621687899;
+        OZONE.request.timestamp = 1621709612;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -680,7 +680,7 @@
 <li><a href="/scp-4113">SCP-4113</a> - 路漫长兮九万里，十年返兮家茫茫</li>
 <li><a class="newpage" href="/scp-4114">SCP-4114</a> - Occult Escapologist</li>
 <li><a class="newpage" href="/scp-4115">SCP-4115</a> - Beast of the Crystal Caves</li>
-<li><a href="/scp-4116">SCP-4116</a> - The Nightmare King in The Palace of Dreams</li>
+<li><a href="/scp-4116">SCP-4116</a> - 噩梦宫的梦魇之王</li>
 <li><a href="/scp-4117">SCP-4117</a> - 桌上乐队</li>
 <li><a class="newpage" href="/scp-4118">SCP-4118</a> - Tube O' Dinos</li>
 <li><a href="/scp-4119">SCP-4119</a> - 炸药小姐</li>
@@ -1631,7 +1631,7 @@
 
 
 <div class="footnotes-footer">
-<div class="title">Footnotes</div>
+<div class="title">脚注</div>
 <div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
 <div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
 </div>
@@ -1671,7 +1671,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 770, 最后编辑于: <span class="odate time_1618614712 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">16 Apr 2021 23:11</span></div>
+                            <div id="page-info">页面版本: 771, 最后编辑于: <span class="odate time_1621700113 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">22 May 2021 16:15</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1743,10 +1743,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://digitalvomit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/digitalvomit.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://digitalvomit.wikidot.com">Digital Vomit Records</a></h3>
+            <h3><a target="_blank" href="http://ci-sandbox.wikidot.com">Insu Sandbox</a></h3>
+            <div class="desc">          
+              &quot;Draft a little dream of me...&quot;
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1754,34 +1765,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rtd1261.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rtd1261.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ltt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ltt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rtd1261.wikidot.com">RTD1261 MediaPlayer</a></h3>
+            <h3><a target="_blank" href="http://ltt.wikidot.com">Living Through Technology</a></h3>
             <div class="desc">          
-              Tweaking the Realtek RTD1261 Mediaplayer
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vusb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vusb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://khaidoan.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/khaidoan.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vusb.wikidot.com">V-USB</a></h3>
+            <h3><a target="_blank" href="http://khaidoan.wikidot.com">Khai&#039;s personal knowledge vault.</a></h3>
             <div class="desc">          
-              A Firmware-Only USB Driver for the AVR
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ru-backrooms-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ru-backrooms-sandbox.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ru-backrooms-sandbox.wikidot.com">Песочница Закулисья</a></h3>
-            <div class="desc">          
-              привет
+              Materials on this site are not original. When possible, references to original articles are listed on each page.
             </div>
           </div>
         </div>

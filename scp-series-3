@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1621687688;
+        OZONE.request.timestamp = 1621709612;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://generals.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/generals.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://generals.wikidot.com">Generalia</a></h3>
+            <h3><a target="_blank" href="http://ci-sandbox.wikidot.com">Insu Sandbox</a></h3>
             <div class="desc">          
-              your one-stop shop for all things generals.
+              &quot;Draft a little dream of me...&quot;
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wikistoriaenciclopedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikistoriaenciclopedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wikistoriaenciclopedia.wikidot.com">Wikistória</a></h3>
+            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
             <div class="desc">          
-              A enciclopédia de História feita por estudantes
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://airchairbuild.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/airchairbuild.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ltt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ltt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://airchairbuild.wikidot.com">airchair-ultralight-gliders</a></h3>
+            <h3><a target="_blank" href="http://ltt.wikidot.com">Living Through Technology</a></h3>
             <div class="desc">          
-              Building and flying the Goat and Bug style of airchair ultralight gliders
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://psychgradsearch.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychgradsearch.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://khaidoan.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/khaidoan.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://psychgradsearch.wikidot.com">Psychology Grad School Wiki</a></h3>
+            <h3><a target="_blank" href="http://khaidoan.wikidot.com">Khai&#039;s personal knowledge vault.</a></h3>
             <div class="desc">          
-              for prospective psych grad students
+              Materials on this site are not original. When possible, references to original articles are listed on each page.
             </div>
           </div>
         </div>
