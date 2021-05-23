@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1621774085;
+        OZONE.request.timestamp = 1621795950;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -537,7 +537,7 @@
 <p><a name="5000"></a></p>
 <h1 id="toc2"><span>5000到5099</span></h1>
 <ul>
-<li><a href="/scp-5000">SCP-5000</a> - 为什么？</li>
+<li><a class="newpage" href="/scp-5000">SCP-5000</a> - 为什么？</li>
 <li><a href="/scp-5001">SCP-5001</a> - 神圣不可侵犯</li>
 <li><a href="/scp-5002">SCP-5002</a> - 收容室女尸之谜</li>
 <li><a href="/scp-5003">SCP-5003</a> - 衰竭</li>
@@ -873,7 +873,7 @@
 <li><a href="/scp-5321">SCP-5321</a> - 剧透</li>
 <li><a href="/scp-5322">SCP-5322</a> - 道路一直延伸&#8230;</li>
 <li><a class="newpage" href="/scp-5323">SCP-5323</a> - Reality is Unreelistic</li>
-<li><a class="newpage" href="/scp-5324">SCP-5324</a> - [拒绝访问]</li>
+<li><a href="/scp-5324">SCP-5324</a> - [拒绝访问]</li>
 <li><a href="/scp-5325">SCP-5325</a> - 归途末班车</li>
 <li><a href="/scp-5326">SCP-5326</a> - 为Anderson的小鸭让路</li>
 <li><a class="newpage" href="/scp-5327">SCP-5327</a> - [拒绝访问]</li>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ucsdgrads.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ucsdgrads.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wow-arrakis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wow-arrakis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ucsdgrads.wikidot.com">UCSD Grad Students</a></h3>
+            <h3><a target="_blank" href="http://wow-arrakis.wikidot.com">WoW-Arrakis</a></h3>
             <div class="desc">          
-              ...the information exchange and virtual community
+              Clan Hordeño de C&#039;Thun
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandboxbr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxbr.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://evilhat.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/evilhat.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandboxbr.wikidot.com">Sandbox SCP PT-BR</a></h3>
+            <h3><a target="_blank" href="http://evilhat.wikidot.com">Evil Hat Productions Wiki</a></h3>
             <div class="desc">          
-              Onde SCPs Nascem
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bua581.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bua581.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://imocamp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/imocamp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bua581.wikidot.com">Managing Information Systems</a></h3>
+            <h3><a target="_blank" href="http://imocamp.wikidot.com">2021 IMOC</a></h3>
             <div class="desc">          
-              BUA 581 - Rick Sprenkle
+              2021 暑期奧林匹亞數學研習營網頁
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://oregonamhi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oregonamhi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://librarylab.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/librarylab.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://oregonamhi.wikidot.com">Oregon Choice Model Wiki</a></h3>
+            <h3><a target="_blank" href="http://librarylab.wikidot.com">CTC/Library Lab Wiki</a></h3>
             <div class="desc">          
-              Oregon Choice Model Residential Placements
+              The CTC mothership
             </div>
           </div>
         </div>
