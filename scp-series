@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1621752055;
+        OZONE.request.timestamp = 1621774018;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,45 +1711,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fasa-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fasa-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://theautocraticcountryofjayland.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theautocraticcountryofjayland.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fasa-sandbox.wikidot.com">FASA Sandbox</a></h3>
+            <h3><a target="_blank" href="http://theautocraticcountryofjayland.wikidot.com">The Autocratic Country Of Jayland</a></h3>
             <div class="desc">          
-              For Authoring Strange Anomalies
+              Wow
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://livesupport.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/livesupport.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikistoriaenciclopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikistoriaenciclopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://livesupport.wikidot.com">Wikidot Live Support</a></h3>
+            <h3><a target="_blank" href="http://wikistoriaenciclopedia.wikidot.com">Wikistória</a></h3>
             <div class="desc">          
-              
+              A enciclopédia de História feita por estudantes
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rxwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rxwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://witchipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/witchipedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rxwiki.wikidot.com">Reactive Framework (Rx) Wiki</a></h3>
+            <h3><a target="_blank" href="http://witchipedia.wikidot.com">Witchipedia</a></h3>
             <div class="desc">          
-              
+              The online encyclopedia of magick, folklore and the occult
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dawnofanewage.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dawnofanewage.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpdsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpdsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dawnofanewage.wikidot.com">Dawn of a New Age Wiki</a></h3>
+            <h3><a target="_blank" href="http://scpdsandbox.wikidot.com">SCPDeclassified Sandbox</a></h3>
             <div class="desc">          
-              A Custom Fantasy Setting
+              Secure, Contain, Protect, Declassify
             </div>
           </div>
         </div>

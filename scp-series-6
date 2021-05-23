@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1621752277;
+        OZONE.request.timestamp = 1621774085;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -786,13 +786,13 @@
 <li><a class="newpage" href="/scp-5238">SCP-5238</a> - 梦想之船</li>
 <li><a href="/scp-5239">SCP-5239</a> - <em>是的，我希望是、我希望是，一位年轻年少的死灵大法师</em></li>
 <li><a class="newpage" href="/scp-5240">SCP-5240</a> - 被遗忘的城市Vergussenheit</li>
-<li><a class="newpage" href="/scp-5241">SCP-5241</a> - <span style="color: #0000FF;font-family: &quot;Microsoft Serif&quot;;"><strong>异界信息</strong></span></li>
+<li><a href="/scp-5241">SCP-5241</a> - <span style="color: #0000FF;font-family: &quot;Microsoft Serif&quot;;"><strong>异界信息</strong></span></li>
 <li><a href="/scp-5242">文件</a> - <span style="color: blue">SCP-整数</span></li>
 <li><a href="/scp-5243">SCP-5243</a> - 不断突破的突破</li>
 <li><a class="newpage" href="/scp-5244">SCP-5244</a> - The Demon God</li>
 <li><a class="newpage" href="/scp-5245">SCP-5245</a> - Iceberg Impersonation</li>
 <li><a href="/scp-5246">SCP-5246</a> - 米的吸引</li>
-<li><a href="/scp-5247">SCP-5247</a> - [拒绝访问]</li>
+<li><a class="newpage" href="/scp-5247">SCP-5247</a> - [拒绝访问]</li>
 <li><a href="/scp-5248">SCP-5248</a> - AJAX出错（0）</li>
 <li><a href="/scp-5249">SCP-5249</a> - Kai歌</li>
 <li><a href="/scp-5250">SCP-5250</a> - 第I幕：湖之南，鹿之北</li>
@@ -1410,7 +1410,7 @@
 <li><a class="newpage" href="/scp-5838">SCP-5838</a> - [拒绝访问]</li>
 <li><a href="/scp-5839">SCP-5839</a> - 今朝无明日</li>
 <li><a class="newpage" href="/scp-5840">SCP-5840</a> - To Pander with Cola Pandas</li>
-<li><a class="newpage" href="/scp-5841">SCP-5841</a> - Digital Hydra</li>
+<li><a href="/scp-5841">SCP-5841</a> - Digital Hydra</li>
 <li><a href="/scp-5842">SCP-5842</a> - 有感知的跟踪狂禁行路标</li>
 <li><a class="newpage" href="/scp-5843">SCP-5843</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5844">SCP-5844</a> - [拒绝访问]</li>
@@ -1434,7 +1434,7 @@
 <li><a class="newpage" href="/scp-5862">SCP-5862</a> - Faulkner's Wake</li>
 <li><a class="newpage" href="/scp-5863">SCP-5863</a> - Bird Brained</li>
 <li><a class="newpage" href="/scp-5864">SCP-5864</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5865">SCP-5865</a> - [拒绝访问]</li>
+<li><a href="/scp-5865">SCP-5865</a> - D级星球</li>
 <li><a href="/scp-5866">SCP-5866</a> - 名蛇</li>
 <li><a class="newpage" href="/scp-5867">SCP-5867</a> - [拒绝访问]</li>
 <li><a href="/scp-5868">SCP-5868</a> - 肉</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 486, 最后编辑于: <span class="odate time_1621570701 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 May 2021 04:18</span></div>
+                            <div id="page-info">页面版本: 487, 最后编辑于: <span class="odate time_1621760806 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 May 2021 09:06</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-int-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ucsdgrads.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ucsdgrads.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-int-sandbox.wikidot.com">SCP Sandbox</a></h3>
+            <h3><a target="_blank" href="http://ucsdgrads.wikidot.com">UCSD Grad Students</a></h3>
             <div class="desc">          
-              of the International Translation Archive
+              ...the information exchange and virtual community
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dustin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dustin.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandboxbr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxbr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dustin.wikidot.com">STAR WARS</a></h3>
+            <h3><a target="_blank" href="http://scpsandboxbr.wikidot.com">Sandbox SCP PT-BR</a></h3>
             <div class="desc">          
-              Episode LXIX : The 2021 Campaign
+              Onde SCPs Nascem
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://eldritch00.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eldritch00.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bua581.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bua581.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://eldritch00.wikidot.com">A Shining Brainless Beacon</a></h3>
+            <h3><a target="_blank" href="http://bua581.wikidot.com">Managing Information Systems</a></h3>
             <div class="desc">          
-              I Have a Special Plan for This World
+              BUA 581 - Rick Sprenkle
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://shesp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/shesp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://oregonamhi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oregonamhi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://shesp.wikidot.com">ESP协会沙盒站</a></h3>
+            <h3><a target="_blank" href="http://oregonamhi.wikidot.com">Oregon Choice Model Wiki</a></h3>
             <div class="desc">          
-              遁身黑暗，守望光明
+              Oregon Choice Model Residential Placements
             </div>
           </div>
         </div>
