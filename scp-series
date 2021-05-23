@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1621709506;
+        OZONE.request.timestamp = 1621752055;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,10 +1711,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://languagearts8.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/languagearts8.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fasa-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fasa-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://languagearts8.wikidot.com">Language Arts (8)</a></h3>
+            <h3><a target="_blank" href="http://fasa-sandbox.wikidot.com">FASA Sandbox</a></h3>
+            <div class="desc">          
+              For Authoring Strange Anomalies
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://livesupport.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/livesupport.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://livesupport.wikidot.com">Wikidot Live Support</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1733,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://professorallred.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/professorallred.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rxwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rxwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://professorallred.wikidot.com">Ammon Allred&#039;s Online Classroom</a></h3>
+            <h3><a target="_blank" href="http://rxwiki.wikidot.com">Reactive Framework (Rx) Wiki</a></h3>
             <div class="desc">          
-              University of Toledo Philosophy Professor
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://surreal64ce.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/surreal64ce.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dawnofanewage.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dawnofanewage.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://surreal64ce.wikidot.com">Surreal64 CE</a></h3>
+            <h3><a target="_blank" href="http://dawnofanewage.wikidot.com">Dawn of a New Age Wiki</a></h3>
             <div class="desc">          
-              Nintendo 64 Emulation for XBOX
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://epitome.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/epitome.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://epitome.wikidot.com">Epitome City</a></h3>
-            <div class="desc">          
-              Hero or Villain? You decide.
+              A Custom Fantasy Setting
             </div>
           </div>
         </div>

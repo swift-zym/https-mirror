@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1621709343;
+        OZONE.request.timestamp = 1621752206;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -621,7 +621,7 @@
 <li><a href="/scp-cn-1085">SCP-CN-1085</a> - 只有你不在的世界</li>
 <li><a href="/scp-cn-1086">SCP-CN-1086</a> - 枪</li>
 <li><a href="/scp-cn-1087">SCP-CN-1087</a> - 缄默复仇</li>
-<li><a href="/scp-cn-1088">Dr.Jack的人事档案</a></li>
+<li><a class="newpage" href="/scp-cn-1088">Dr.Jack的人事档案</a></li>
 <li><a href="/scp-cn-1089">SCP-CN-1089</a> - 肥猫、斑猫与肥猫</li>
 <li><a href="/scp-cn-1090">SCP-CN-1090</a> - 送别一切老朽之雀</li>
 <li><a href="/scp-cn-1091">SCP-CN-1091</a> - 黑王传说</li>
@@ -821,7 +821,7 @@
 <li><a href="/scp-cn-1277">SCP-CN-1277</a> - 这是被吊死的<span style="color: red">大红色</span>颜料罐</li>
 <li><a href="/scp-cn-1278">SCP-CN-1278</a> - 轮</li>
 <li><a href="/scp-cn-1279">SCP-CN-1279</a> - 丰镐九鼎</li>
-<li><a class="newpage" href="/scp-cn-1280">SCP-CN-1280</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1280">SCP-CN-1280</a> - Hey，宇宙大撞击！</li>
 <li><a class="newpage" href="/scp-cn-1281">SCP-CN-1281</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1282">SCP-CN-1282</a> - 半夜不要照镜子</li>
 <li><a href="/scp-cn-1283">SCP-CN-1283</a> - 可能会有用的奶酪占卜</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4087, 最后编辑于: <span class="odate time_1621240413 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 May 2021 08:33</span></div>
+                            <div id="page-info">页面版本: 4088, 最后编辑于: <span class="odate time_1621744717 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 May 2021 04:38</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+88</span>)</a>
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://metroplexity.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metroplexity.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://philosophia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://metroplexity.wikidot.com">Metroplexity</a></h3>
+            <h3><a target="_blank" href="http://philosophia.wikidot.com">Philosophia UAM</a></h3>
             <div class="desc">          
-              Learn the secrets of Metroplex
+              Wiki studentów filozofii UAM
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://xanadu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/xanadu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gurpswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gurpswiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://xanadu.wikidot.com">Xanadu Weyr</a></h3>
+            <h3><a target="_blank" href="http://gurpswiki.wikidot.com">GURPS Repository</a></h3>
             <div class="desc">          
-              
+              A collection for your GURPS needs
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rscsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rscsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sfi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rscsandbox.wikidot.com">RSC Sandbox</a></h3>
+            <h3><a target="_blank" href="http://sfi.wikidot.com">STARFIGHTER INFINITY</a></h3>
             <div class="desc">          
-              RSC için Sandbox
+              Open Source Website
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dqnine.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dqnine.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-pl.wikidot.com">Fundacja SCP</a></h3>
+            <h3><a target="_blank" href="http://dqnine.wikidot.com">Dragon Quest IX</a></h3>
             <div class="desc">          
-              Polska Filia SCP
+              Sentinels of the Starry Skies
             </div>
           </div>
         </div>
