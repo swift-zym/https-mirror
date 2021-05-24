@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1621838579;
+        OZONE.request.timestamp = 1621860810;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://2021.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2021.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://thegamerdome.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thegamerdome.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://2021.wikidot.com">제2021K기지</a></h3>
+            <h3><a target="_blank" href="http://thegamerdome.wikidot.com">The Gamer Dome</a></h3>
             <div class="desc">          
-              Explicit sandbox
+              Community Game Design Projects
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wanderers-library-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-library-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://castleage.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/castleage.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wanderers-library-pl.wikidot.com">Biblioteka Wędrowca</a></h3>
+            <h3><a target="_blank" href="http://castleage.wikidot.com">Castle Age Wiki</a></h3>
             <div class="desc">          
-              Polska Filia
+              Knowledge Database
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://inter-irc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inter-irc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://predev.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/predev.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://inter-irc.wikidot.com">Inter Irc</a></h3>
+            <h3><a target="_blank" href="http://predev.wikidot.com">pre dev wiki</a></h3>
             <div class="desc">          
-              
+              Let&#039;s open this beast up
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tpswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tpswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://psychgradsearch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychgradsearch.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tpswiki.wikidot.com">TPSwiki.com</a></h3>
+            <h3><a target="_blank" href="http://psychgradsearch.wikidot.com">Psychology Grad School Wiki</a></h3>
             <div class="desc">          
-              The Radiation Oncology Treatment Planning System Wiki
+              for prospective psych grad students
             </div>
           </div>
         </div>
