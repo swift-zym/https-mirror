@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1621795950;
+        OZONE.request.timestamp = 1621820603;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1712,21 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wow-arrakis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wow-arrakis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wow-arrakis.wikidot.com">WoW-Arrakis</a></h3>
-            <div class="desc">          
-              Clan Hordeño de C&#039;Thun
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://evilhat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/evilhat.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://evilhat.wikidot.com">Evil Hat Productions Wiki</a></h3>
+            <h3><a target="_blank" href="http://ci-wiki.wikidot.com">Chaos Insurgency</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1723,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://imocamp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/imocamp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpminecraft.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpminecraft.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://imocamp.wikidot.com">2021 IMOC</a></h3>
+            <h3><a target="_blank" href="http://scpminecraft.wikidot.com">SCP Minecraft</a></h3>
             <div class="desc">          
-              2021 暑期奧林匹亞數學研習營網頁
+              Spiders. Creepers. Pigs. Minecraft.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://librarylab.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/librarylab.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eltork-scp-database.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eltork-scp-database.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://librarylab.wikidot.com">CTC/Library Lab Wiki</a></h3>
+            <h3><a target="_blank" href="http://eltork-scp-database.wikidot.com">[SCPF] Information Database</a></h3>
             <div class="desc">          
-              The CTC mothership
+              Secure, Contain, Protect
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scratch4samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scratch4samvedna.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scratch4samvedna.wikidot.com">Right from &#039;Scratch!!&#039;</a></h3>
+            <div class="desc">          
+              Animation through Online Collaboration by students
             </div>
           </div>
         </div>
