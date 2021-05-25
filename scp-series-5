@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1621947561;
+        OZONE.request.timestamp = 1621969099;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -600,7 +600,7 @@
 <li><a class="newpage" href="/scp-4037">SCP-4037</a> - 心灵合一</li>
 <li><a href="/scp-4038">SCP-4038</a> - “普通”之舌</li>
 <li><a href="/scp-4039">SCP-4039</a> - 热力学第二定律</li>
-<li><a href="/scp-4040">SCP-4040</a> - 在无底深坑之底</li>
+<li><a class="newpage" href="/scp-4040">SCP-4040</a> - 在无底深坑之底</li>
 <li><a href="/scp-4041">SCP-4041</a> - 暴君蜥蜴王的冒名顶替者们</li>
 <li><a href="/scp-4042">SCP-4042</a> - 你与我所爱之人</li>
 <li><a href="/scp-4043">SCP-4043</a> - 地母盖亚</li>
@@ -1304,7 +1304,7 @@
 <li><a href="/scp-4713">SCP-4713</a> - “宇航鼠”</li>
 <li><a href="/scp-4714">SCP-4714</a> - 我的独角兽朋友</li>
 <li><a href="/scp-4715">SCP-4715</a> - 化生自战争的恶魔</li>
-<li><a href="/scp-4716">SCP-4716</a> - 食富者的烹饪书</li>
+<li><a class="newpage" href="/scp-4716">SCP-4716</a> - 食富者的烹饪书</li>
 <li><a href="/scp-4717">SCP-4717</a> - 让它安息</li>
 <li><a class="newpage" href="/scp-4718">SCP-4718</a> - Unsinkable</li>
 <li><a class="newpage" href="/scp-4719">SCP-4719</a> - Cat-train</li>
@@ -1458,7 +1458,7 @@
 <li><a href="/scp-4863">SCP-4863</a> - Sol <em>n</em></li>
 <li><a class="newpage" href="/scp-4864">SCP-4864</a> - Depravity and Indifference</li>
 <li><a class="newpage" href="/scp-4865">SCP-4865</a> - Safe safes aren't always safe</li>
-<li><a href="/scp-4866">SCP-4866</a> - <em>凶杀专家</em>™，Optimark合成人才解决方案<sup class="footnoteref"><a id="footnoteref-1" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-1')">1</a></sup>出品</li>
+<li><a class="newpage" href="/scp-4866">SCP-4866</a> - <em>凶杀专家</em>™，Optimark合成人才解决方案<sup class="footnoteref"><a id="footnoteref-1" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-1')">1</a></sup>出品</li>
 <li><a class="newpage" href="/scp-4867">SCP-4867</a> - Wyoming Territory, 1867-1870</li>
 <li><a href="/scp-4868">SCP-4868</a> - 戴紫色头巾的章鱼摊贩</li>
 <li><a class="newpage" href="/scp-4869">SCP-4869</a> - Boltz From The Blue</li>
@@ -1525,7 +1525,7 @@
 <li><a class="newpage" href="/scp-4926">SCP-4926</a> - Close Call Printing Press</li>
 <li><a href="/scp-4927">SCP-4927</a> - 飞行愉快</li>
 <li><a href="/scp-4928">SCP-4928</a> - 许愿井</li>
-<li><a class="newpage" href="/scp-4929">SCP-4929</a> - Lake of Rage</li>
+<li><a href="/scp-4929">SCP-4929</a> - Lake of Rage</li>
 <li><a href="/scp-4930">SCP-4930</a> - 列侬/麦卡特尼</li>
 <li><a class="newpage" href="/scp-4931">SCP-4931</a> - The Candlemaker</li>
 <li><a href="/scp-4932">SCP-4932</a> - 悲哉，万物皆朽</li>
@@ -1631,7 +1631,7 @@
 
 
 <div class="footnotes-footer">
-<div class="title">脚注</div>
+<div class="title">Footnotes</div>
 <div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
 <div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
 </div>
@@ -1743,10 +1743,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://microchip.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ginnungagap.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ginnungagap.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
+            <h3><a target="_blank" href="http://ginnungagap.wikidot.com">Ginnungagap</a></h3>
             <div class="desc">          
               
             </div>
@@ -1754,34 +1754,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-th.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-th.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ecadmin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecadmin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-th.wikidot.com">สถาบัน SCP</a></h3>
+            <h3><a target="_blank" href="http://ecadmin.wikidot.com">Early Childhood Program Administration</a></h3>
             <div class="desc">          
-              ควบคุม, กักกัน, ป้องกัน
+              Resources, Training, Best Practices, Sharing
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpminecraft.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpminecraft.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://mirray-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mirray-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpminecraft.wikidot.com">SCP Minecraft</a></h3>
+            <h3><a target="_blank" href="http://mirray-sandbox.wikidot.com">Mirray Sandbox</a></h3>
             <div class="desc">          
-              Spiders. Creepers. Pigs. Minecraft.
+              Mi cajita de ideas pequeñas
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ibhistory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibhistory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-id-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-id-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ibhistory.wikidot.com">IB History</a></h3>
+            <h3><a target="_blank" href="http://scp-id-sandbox.wikidot.com">SCP Sandbox ID</a></h3>
             <div class="desc">          
-              
+              Kotak Pasir Karya SCP
             </div>
           </div>
         </div>
