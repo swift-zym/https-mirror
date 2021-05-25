@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1621925645;
+        OZONE.request.timestamp = 1621947306;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1386,7 +1386,7 @@
 <li><a href="/scp-cn-1818">SCP-CN-1818</a> - 人欲</li>
 <li><a href="/scp-cn-1819">SCP-CN-1819</a> - 图书馆</li>
 <li><a href="/scp-cn-1820">SCP-CN-1820</a> - 他们，凝望着我们的孤独</li>
-<li><a class="newpage" href="/scp-cn-1821">SCP-CN-1821</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1821">SCP-CN-1821</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1822">SCP-CN-1822</a> - 群星闪耀，见证过往</li>
 <li><a href="/scp-cn-1823">SCP-CN-1823</a> - 悲歌当泣，远望当归</li>
 <li><a href="/scp-cn-1824">SCP-CN-1824</a> - 脱发的深夜诗人们</li>
@@ -1689,32 +1689,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://aeternuscenter.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aeternuscenter.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sidowegraty.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sidowegraty.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://aeternuscenter.wikidot.com">Aeternus Center</a></h3>
-            <div class="desc">          
-              the ARG
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://cubesat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cubesat.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://cubesat.wikidot.com">CubeSat</a></h3>
-            <div class="desc">          
-              University of Leicester CubeSat Project
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://academicwriting.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/academicwriting.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://academicwriting.wikidot.com">Academic Writing</a></h3>
+            <h3><a target="_blank" href="http://sidowegraty.wikidot.com">Części Fiat i nie tylko</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,12 +1700,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://stallmanism.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/stallmanism.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
+            <h3><a target="_blank" href="http://stallmanism.wikidot.com">Stallmanism</a></h3>
             <div class="desc">          
-              A World of Darkness Encyclopedia for Modern Nights
+              a Religion for the 21st Century
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://mis213-2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mis213-2.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://mis213-2.wikidot.com">MIS 213-2</a></h3>
+            <div class="desc">          
+              Intro to IS
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-un.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-un.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-un.wikidot.com">SCP Foundation</a></h3>
+            <div class="desc">          
+              Underrepresented Languages Incubator
             </div>
           </div>
         </div>
