@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1621906884;
+        OZONE.request.timestamp = 1621925644;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1712,10 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wfh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wfh.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://maitreya.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maitreya.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wfh.wikidot.com">Women&#039;s Film History Network</a></h3>
+            <h3><a target="_blank" href="http://maitreya.wikidot.com">REACHA</a></h3>
+            <div class="desc">          
+              &#039;reaching out...touching lives&#039;
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://wherearethejoneses.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wherearethejoneses.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://wherearethejoneses.wikidot.com">Where are the Joneses Wiki.</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,34 +1734,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://uberoptions.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uberoptions.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://suffadv.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/suffadv.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://uberoptions.wikidot.com">uberOptions</a></h3>
+            <h3><a target="_blank" href="http://suffadv.wikidot.com">Sufficiently Advanced</a></h3>
             <div class="desc">          
-              Enable all options on all buttons in SetPoint
+              Speculative Fiction RPGs
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://psychotronicsdivision.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychotronicsdivision.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://coffeetimex.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coffeetimex.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://psychotronicsdivision.wikidot.com">Psychotronics Division</a></h3>
+            <h3><a target="_blank" href="http://coffeetimex.wikidot.com">Coffeetime Extra</a></h3>
             <div class="desc">          
-              Divided, we are One. One, we are All.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
-            <div class="desc">          
-              実験、実験、爆発
+              
             </div>
           </div>
         </div>
