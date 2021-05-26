@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1621994711;
+        OZONE.request.timestamp = 1622012405;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,21 +1713,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blackmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackmarches.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dqnine.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dqnine.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blackmarches.wikidot.com">Black Marches</a></h3>
+            <h3><a target="_blank" href="http://dqnine.wikidot.com">Dragon Quest IX</a></h3>
             <div class="desc">          
-              Roll20 Pathfinder
+              Sentinels of the Starry Skies
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pkp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pkp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pkp.wikidot.com">Wiki.PKP.in</a></h3>
+            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
             <div class="desc">          
               
             </div>
@@ -1735,23 +1735,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fifabeapro360.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fifabeapro360.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://himetop.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/himetop.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fifabeapro360.wikidot.com">Fifa Be A Pro 360</a></h3>
+            <h3><a target="_blank" href="http://himetop.wikidot.com">Himetop</a></h3>
             <div class="desc">          
-              
+              The History of Medicine Topographical Database
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://liminal-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liminal-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ru-backrooms-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ru-backrooms-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://liminal-sandbox.wikidot.com">Liminal Sandbox</a></h3>
+            <h3><a target="_blank" href="http://ru-backrooms-wiki.wikidot.com">База данных Backrooms</a></h3>
             <div class="desc">          
-              Sandbox for the Liminal Archives
+              Ты был здесь раньше
             </div>
           </div>
         </div>
