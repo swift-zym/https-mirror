@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1622169352;
+        OZONE.request.timestamp = 1622186616;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,32 +1713,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ten-sb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ten-sb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikirmaphil.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikirmaphil.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ten-sb.wikidot.com">The Employment Network of SB</a></h3>
+            <h3><a target="_blank" href="http://wikirmaphil.wikidot.com">WikiRMAPhil</a></h3>
             <div class="desc">          
-              &quot;Don&#039;t Just Find A Job...Get a Job!!!&quot;
+              Community Site for UU RMA Philosophy Students
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sebrutteian.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sebrutteian.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://algadon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/algadon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sebrutteian.wikidot.com">Sebrutteian</a></h3>
-            <div class="desc">          
-              Industrial Fantasy World
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://hackingthursday.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hackingthursday.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://hackingthursday.wikidot.com">Hacking Thursday</a></h3>
+            <h3><a target="_blank" href="http://algadon.wikidot.com">Algadon</a></h3>
             <div class="desc">          
               
             </div>
@@ -1746,12 +1735,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://xanadu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/xanadu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://istar.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/istar.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://xanadu.wikidot.com">Xanadu Weyr</a></h3>
+            <h3><a target="_blank" href="http://istar.wikidot.com">ISTAR</a></h3>
             <div class="desc">          
-              
+              International Society for Testate Amoeba Research
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://brtff.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/brtff.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://brtff.wikidot.com">BRTFF</a></h3>
+            <div class="desc">          
+              Passion on the Top
             </div>
           </div>
         </div>
