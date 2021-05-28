@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1622207577;
+        OZONE.request.timestamp = 1622230376;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1107,7 +1107,7 @@
 <li><a href="/scp-1546">SCP-1546</a> - 大学健谈棒球帽</li>
 <li><a href="/scp-1547">SCP-1547</a> - 母亲的爱</li>
 <li><a href="/scp-1548">SCP-1548</a> - 星之憎恨</li>
-<li><a class="newpage" href="/scp-1549">SCP-1549</a> - 不存在的完美媒介</li>
+<li><a href="/scp-1549">SCP-1549</a> - 不存在的完美媒介</li>
 <li><a href="/scp-1550">SCP-1550</a> - Wondertainment博士的自定义宠物™</li>
 <li><a href="/scp-1551">SCP-1551</a> - 重复小屋</li>
 <li><a href="/scp-1552">SCP-1552</a> - 爱自拍的狗</li>
@@ -1713,10 +1713,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://amiii.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/amiii.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://uberoptions.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uberoptions.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://amiii.wikidot.com">Análise Matemática III</a></h3>
+            <h3><a target="_blank" href="http://uberoptions.wikidot.com">uberOptions</a></h3>
+            <div class="desc">          
+              Enable all options on all buttons in SetPoint
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://nre509.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nre509.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://nre509.wikidot.com">Nre509</a></h3>
+            <div class="desc">          
+              Ecology: Science of Context and Interaction
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://praemien-teilen.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/praemien-teilen.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://praemien-teilen.wikidot.com">Prämien teilen</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,34 +1746,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://philosophiesoflife.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophiesoflife.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blank-template.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blank-template.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://philosophiesoflife.wikidot.com">WikiPlan</a></h3>
-            <div class="desc">          
-              tools for participatory design of cities
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://zeromq.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zeromq.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://zeromq.wikidot.com">zeromq</a></h3>
+            <h3><a target="_blank" href="http://blank-template.wikidot.com">Blank Template</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-nihil.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-nihil.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-nihil.wikidot.com">Site Nihil</a></h3>
-            <div class="desc">          
-              Perdu après la Fin.
             </div>
           </div>
         </div>

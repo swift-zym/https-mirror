@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1622207876;
+        OZONE.request.timestamp = 1622230377;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://textanalytics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/textanalytics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpvakfisandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfisandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://textanalytics.wikidot.com">Text Analytics Wiki</a></h3>
+            <h3><a target="_blank" href="http://scpvakfisandbox.wikidot.com">SCP Vakfı Sandbox</a></h3>
             <div class="desc">          
-              All things unstructured...
+              Atış poligonu
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sfi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://librarylab.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/librarylab.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sfi.wikidot.com">STARFIGHTER INFINITY</a></h3>
+            <h3><a target="_blank" href="http://librarylab.wikidot.com">CTC/Library Lab Wiki</a></h3>
             <div class="desc">          
-              Open Source Website
+              The CTC mothership
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://oneeleventwentyten.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oneeleventwentyten.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sharecokecodes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sharecokecodes.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://oneeleventwentyten.wikidot.com">Writing 111 Fall 2010</a></h3>
+            <h3><a target="_blank" href="http://sharecokecodes.wikidot.com">Share Coke Codes</a></h3>
             <div class="desc">          
-              
+              Sharing happiness by sharing Coke rewards codes.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://trb-mux.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trb-mux.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://exciting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exciting.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://trb-mux.wikidot.com">The Rock Bottom MUX</a></h3>
+            <h3><a target="_blank" href="http://exciting.wikidot.com">exciting</a></h3>
             <div class="desc">          
-              
+              exciting, all electron DFT
             </div>
           </div>
         </div>
