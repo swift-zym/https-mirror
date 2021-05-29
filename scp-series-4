@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1622256836;
+        OZONE.request.timestamp = 1622274640;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1712,32 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://biblio.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biblio.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kingswayeap.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kingswayeap.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://biblio.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
-            <div class="desc">          
-              livros e artigos sobre línguas sul-americanas
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://dndis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dndis.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://dndis.wikidot.com">Dungeons &amp; Discourse</a></h3>
-            <div class="desc">          
-              Gamma Edition
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://extension.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extension.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://extension.wikidot.com">Wikidot Extension</a></h3>
+            <h3><a target="_blank" href="http://kingswayeap.wikidot.com">Kingsway EAP</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,12 +1723,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-migration.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-migration.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-migration.wikidot.com">SCP Database Migration</a></h3>
+            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://sebrutteian.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sebrutteian.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://sebrutteian.wikidot.com">Sebrutteian</a></h3>
+            <div class="desc">          
+              Industrial Fantasy World
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://schrijven.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/schrijven.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://schrijven.wikidot.com">www.schrijven.wikidot.com</a></h3>
+            <div class="desc">          
+              Voor teksten, artikelen, verhalen en poëzie
             </div>
           </div>
         </div>
