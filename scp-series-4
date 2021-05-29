@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1622274640;
+        OZONE.request.timestamp = 1622294726;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -855,7 +855,7 @@
 <li><a href="/scp-3303">SCP-3303</a> - 超级巨星香槟</li>
 <li><a href="/scp-3304">SCP-3304</a> - 那一刻，基金会冻结了地狱</li>
 <li><a href="/scp-3305">SCP-3305</a> - 圣父，圣子，圣面包</li>
-<li><a href="/scp-3306">SCP-3306</a> - 旋杀木马</li>
+<li><a class="newpage" href="/scp-3306">SCP-3306</a> - 旋杀木马</li>
 <li><a href="/scp-3307">SCP-3307</a> - 丰裕之尻</li>
 <li><a class="newpage" href="/scp-3308">SCP-3308</a> - 弯曲挖掘机</li>
 <li><a href="/scp-3309">SCP-3309</a> - 化为泡影之时，我们去往何方</li>
@@ -936,7 +936,7 @@
 <li><a href="/scp-3384">SCP-3384</a> - 尝试别笑</li>
 <li><a href="/scp-3385">SCP-3385</a> - 终点站：<em>远方天际</em></li>
 <li><a class="newpage" href="/scp-3386">SCP-3386</a> - Night Owls</li>
-<li><a class="newpage" href="/scp-3387">SCP-3387</a> - A Small World After All</li>
+<li><a href="/scp-3387">SCP-3387</a> - A Small World After All</li>
 <li><a href="/scp-3388">SCP-3388</a> - 仙苏鲁</li>
 <li><a href="/scp-3389">SCP-3389</a> - 燃烧你的湖泊</li>
 <li><a class="newpage" href="/scp-3390">SCP-3390</a> - A French Tank</li>
@@ -1712,10 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kingswayeap.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kingswayeap.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://copernicon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/copernicon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kingswayeap.wikidot.com">Kingsway EAP</a></h3>
+            <h3><a target="_blank" href="http://copernicon.wikidot.com">Copernicon 2010</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,34 +1723,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://defunct-elitequestworlds.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/defunct-elitequestworlds.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
+            <h3><a target="_blank" href="http://defunct-elitequestworlds.wikidot.com">EliteQuest Worlds</a></h3>
+            <div class="desc">          
+              Eqwwiki
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-wiki-de.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-de.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-wiki-de.wikidot.com">SCP Foundation</a></h3>
+            <div class="desc">          
+              auf Deutsch
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://psychjobsearch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychjobsearch.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://psychjobsearch.wikidot.com">Psychology Job Wiki</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://sebrutteian.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sebrutteian.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://sebrutteian.wikidot.com">Sebrutteian</a></h3>
-            <div class="desc">          
-              Industrial Fantasy World
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://schrijven.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/schrijven.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://schrijven.wikidot.com">www.schrijven.wikidot.com</a></h3>
-            <div class="desc">          
-              Voor teksten, artikelen, verhalen en poëzie
             </div>
           </div>
         </div>

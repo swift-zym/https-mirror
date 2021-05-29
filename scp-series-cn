@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1622274590;
+        OZONE.request.timestamp = 1622294643;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,21 +1688,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kannadanudi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kannadanudi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://copernicon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/copernicon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kannadanudi.wikidot.com">ಕನ್ನಡನುಡಿ</a></h3>
-            <div class="desc">          
-              ಕನ್ನಡ ಸಾಹಿತ್ಯಾಸಕ್ತರ ಕೂಟ
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://mainframes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mainframes.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://mainframes.wikidot.com">Mainframes</a></h3>
+            <h3><a target="_blank" href="http://copernicon.wikidot.com">Copernicon 2010</a></h3>
             <div class="desc">          
               
             </div>
@@ -1710,21 +1699,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://khaidoan.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/khaidoan.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://defunct-elitequestworlds.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/defunct-elitequestworlds.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://khaidoan.wikidot.com">Khai&#039;s personal knowledge vault.</a></h3>
+            <h3><a target="_blank" href="http://defunct-elitequestworlds.wikidot.com">EliteQuest Worlds</a></h3>
             <div class="desc">          
-              Materials on this site are not original. When possible, references to original articles are listed on each page.
+              Eqwwiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wherearethejoneses.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wherearethejoneses.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki-de.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-de.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wherearethejoneses.wikidot.com">Where are the Joneses Wiki.</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki-de.wikidot.com">SCP Foundation</a></h3>
+            <div class="desc">          
+              auf Deutsch
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://psychjobsearch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychjobsearch.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://psychjobsearch.wikidot.com">Psychology Job Wiki</a></h3>
             <div class="desc">          
               
             </div>
