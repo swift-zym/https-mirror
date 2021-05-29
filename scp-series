@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1622294560;
+        OZONE.request.timestamp = 1622317158;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,45 +1711,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://icondeposit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/icondeposit.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kawasakikidou-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kawasakikidou-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://icondeposit.wikidot.com">Icon Deposit</a></h3>
+            <h3><a target="_blank" href="http://kawasakikidou-sandbox.wikidot.com">Kidou的沙盒</a></h3>
             <div class="desc">          
-              Design.Tutorials.Freebies
+              最差的沙盒
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bozic-nation.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bozic-nation.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki-cloud.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-cloud.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bozic-nation.wikidot.com">Bozic Nation</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki-cloud.wikidot.com">SCP基金会云国分部</a></h3>
             <div class="desc">          
-              
+              与本调不同
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://trb-mux.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trb-mux.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://maegica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maegica.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://trb-mux.wikidot.com">The Rock Bottom MUX</a></h3>
+            <h3><a target="_blank" href="http://maegica.wikidot.com">Maegica Wiki</a></h3>
             <div class="desc">          
-              
+              Maegica Order In Chaos Online
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gurpswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gurpswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sw-gis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sw-gis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gurpswiki.wikidot.com">GURPS Repository</a></h3>
+            <h3><a target="_blank" href="http://sw-gis.wikidot.com">Smallworld GIS Wiki</a></h3>
             <div class="desc">          
-              A collection for your GURPS needs
+              Help and references for the Smallworld Community
             </div>
           </div>
         </div>

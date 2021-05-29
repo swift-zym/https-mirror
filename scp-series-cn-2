@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1622294572;
+        OZONE.request.timestamp = 1622317160;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -654,7 +654,7 @@
 <li><a href="/scp-cn-1114">SCP-CN-1114</a> - 鼠标之父</li>
 <li><a href="/scp-cn-1115">SCP-CN-1115</a> - 骨虫</li>
 <li><a href="/scp-cn-1116">SCP-CN-1116</a> - 此世间一切可能性之集合</li>
-<li><a class="newpage" href="/scp-cn-1117">SCP-CN-1117</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1117">SCP-CN-1117</a> - 异常播放器</li>
 <li><a href="/scp-cn-1118">SCP-CN-1118</a> - 头绳</li>
 <li><a class="newpage" href="/scp-cn-1119">SCP-CN-1119</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1120">SCP-CN-1120</a> - 路邊一灘水</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4089, 最后编辑于: <span class="odate time_1622179129 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">28 May 2021 05:18</span></div>
+                            <div id="page-info">页面版本: 4090, 最后编辑于: <span class="odate time_1622295656 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">29 May 2021 13:40</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+88</span>)</a>
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thegamerdome.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thegamerdome.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kawasakikidou-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kawasakikidou-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thegamerdome.wikidot.com">The Gamer Dome</a></h3>
+            <h3><a target="_blank" href="http://kawasakikidou-sandbox.wikidot.com">Kidou的沙盒</a></h3>
             <div class="desc">          
-              Community Game Design Projects
+              最差的沙盒
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://irunath.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/irunath.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki-cloud.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-cloud.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://irunath.wikidot.com">IRUNA Online Thailand WIKI</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki-cloud.wikidot.com">SCP基金会云国分部</a></h3>
             <div class="desc">          
-              by iruna th team
+              与本调不同
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thekingkillerchronicle.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thekingkillerchronicle.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://maegica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maegica.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thekingkillerchronicle.wikidot.com">Хроника Убийцы Короля</a></h3>
+            <h3><a target="_blank" href="http://maegica.wikidot.com">Maegica Wiki</a></h3>
             <div class="desc">          
-              
+              Maegica Order In Chaos Online
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpexplained.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpexplained.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sw-gis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sw-gis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpexplained.wikidot.com">SCP Explained</a></h3>
+            <h3><a target="_blank" href="http://sw-gis.wikidot.com">Smallworld GIS Wiki</a></h3>
             <div class="desc">          
-              Simplify, Condense, Paraphrase
+              Help and references for the Smallworld Community
             </div>
           </div>
         </div>
