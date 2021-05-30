@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1622380951;
+        OZONE.request.timestamp = 1622403363;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,32 +1743,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://echobazaar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/echobazaar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://karma-lab.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/karma-lab.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://echobazaar.wikidot.com">Echo Bazaar</a></h3>
+            <h3><a target="_blank" href="http://karma-lab.wikidot.com">Karma-Lab</a></h3>
             <div class="desc">          
-              Come to Fallen London
+              KARMA Technology and the products incorporating it
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://librarylab.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/librarylab.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pagi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pagi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://librarylab.wikidot.com">CTC/Library Lab Wiki</a></h3>
-            <div class="desc">          
-              The CTC mothership
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://nauticoamager.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nauticoamager.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://nauticoamager.wikidot.com">NauticoAmager</a></h3>
+            <h3><a target="_blank" href="http://pagi.wikidot.com">pagi</a></h3>
             <div class="desc">          
               
             </div>
@@ -1776,12 +1765,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://asoh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/asoh.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://maitreya.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maitreya.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://asoh.wikidot.com">Another Stage of History</a></h3>
+            <h3><a target="_blank" href="http://maitreya.wikidot.com">REACHA</a></h3>
             <div class="desc">          
-              A Character Creation and Edit Officer Site
+              &#039;reaching out...touching lives&#039;
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://fondationscp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondationscp.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://fondationscp.wikidot.com">Fondation SCP</a></h3>
+            <div class="desc">          
+              Sécuriser, Contenir, Protéger
             </div>
           </div>
         </div>
