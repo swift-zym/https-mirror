@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1622344407;
+        OZONE.request.timestamp = 1622359966;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,21 +1713,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://socjobs2011.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/socjobs2011.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikiwealth.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiwealth.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://socjobs2011.wikidot.com">Socjobs2011</a></h3>
+            <h3><a target="_blank" href="http://wikiwealth.wikidot.com">WikiWealth</a></h3>
             <div class="desc">          
-              Sociology Job Market 2010-2011
+              Stock, ETF and Mutual Fund Ratings | Commodity, Currency Research
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cst133a.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cst133a.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/samvedna.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cst133a.wikidot.com">CST 133 A</a></h3>
+            <h3><a target="_blank" href="http://samvedna.wikidot.com">Samvedna Network</a></h3>
+            <div class="desc">          
+              Collaborative e-learning for children
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://kingswayeap.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kingswayeap.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://kingswayeap.wikidot.com">Kingsway EAP</a></h3>
             <div class="desc">          
               
             </div>
@@ -1735,23 +1746,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mactutorial.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mactutorial.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://magiamesterei.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magiamesterei.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mactutorial.wikidot.com">Mac Video Tutorial</a></h3>
+            <h3><a target="_blank" href="http://magiamesterei.wikidot.com">Mágia Mesterei Wiki</a></h3>
             <div class="desc">          
-              Mac OS X video tutorial i18n subtitles project
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
-            <div class="desc">          
-              Fighting Spammers for Fun and Profit!
+              Segítség az online játékhoz
             </div>
           </div>
         </div>
