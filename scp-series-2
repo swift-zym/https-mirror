@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1622467484;
+        OZONE.request.timestamp = 1622491542;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,45 +1713,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mathaerobics4samvedna.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mathaerobics4samvedna.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://biblio.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biblio.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mathaerobics4samvedna.wikidot.com">Math Aerobics</a></h3>
+            <h3><a target="_blank" href="http://biblio.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
             <div class="desc">          
-              ADIDAS - All Day I Dream About Sums..!!
+              livros e artigos sobre línguas sul-americanas
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gamemaker.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gamemaker.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ibhistory.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibhistory.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gamemaker.wikidot.com">GameMaker: Studio Wiki</a></h3>
-            <div class="desc">          
-              GameMaker: Studio Tutorials &amp; Resources
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://avendar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/avendar.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://avendar.wikidot.com">AvendarWiki</a></h3>
-            <div class="desc">          
-              Database wiki for Avendar MUD
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://guitarzero.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/guitarzero.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://guitarzero.wikidot.com">Frontman Wiki</a></h3>
+            <h3><a target="_blank" href="http://ibhistory.wikidot.com">IB History</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ginnungagap.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ginnungagap.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ginnungagap.wikidot.com">Ginnungagap</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://vs-tcg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vs-tcg.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://vs-tcg.wikidot.com">Sparkling Victory!</a></h3>
+            <div class="desc">          
+              Time to Spark, Time for Victory...
             </div>
           </div>
         </div>
