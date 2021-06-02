@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1622621087;
+        OZONE.request.timestamp = 1622641697;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1038,7 +1038,7 @@
 <li><a class="newpage" href="/scp-4459">SCP-4459</a> - The Ringmaster's Crown</li>
 <li><a class="newpage" href="/scp-4460">SCP-4460</a> - Humorous Factory</li>
 <li><a href="/scp-4461">SCP-4461</a> - 我是狂热者。</li>
-<li><a class="newpage" href="/scp-4462">SCP-4462</a> - Fan Death</li>
+<li><a href="/scp-4462">SCP-4462</a> - Fan Death</li>
 <li><a class="newpage" href="/scp-4463">SCP-4463</a> - Ecosystem Restore Point</li>
 <li><a href="/scp-4464">SCP-4464</a> - 狗狗可以大一點</li>
 <li><a href="/scp-4465">SCP-4465</a> - 没有人是孤岛一座</li>
@@ -1743,10 +1743,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darksouls3.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls3.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
+            <h3><a target="_blank" href="http://darksouls3.wikidot.com">Darksouls3</a></h3>
+            <div class="desc">          
+              Your trusted source of information for Dark Souls 3
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://opencascade.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opencascade.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://opencascade.wikidot.com">Open CASCADE Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1754,21 +1765,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://alicebot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alicebot.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ti-iseg-t12.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ti-iseg-t12.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://alicebot.wikidot.com">Alicebot</a></h3>
-            <div class="desc">          
-              Free AIML chat bot content
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://trueblood-dallas.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trueblood-dallas.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://trueblood-dallas.wikidot.com">Trueblood: Dallas</a></h3>
+            <h3><a target="_blank" href="http://ti-iseg-t12.wikidot.com">ISEG TI T12</a></h3>
             <div class="desc">          
               
             </div>
@@ -1776,12 +1776,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpvakfi.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfi.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://community.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/community.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpvakfi.wikidot.com">SCP Vakfı</a></h3>
+            <h3><a target="_blank" href="http://community.wikidot.com">Wikidot Community</a></h3>
             <div class="desc">          
-              Yakala, Sakla, Koru
+              hints / tips / help / discussion
             </div>
           </div>
         </div>
