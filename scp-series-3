@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1622605741;
+        OZONE.request.timestamp = 1622621124;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1712,32 +1712,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://osx.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/osx.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ecomind.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecomind.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://osx.wikidot.com">RoaringApps - App compatibility and feature support for OS X &amp; iOS</a></h3>
+            <h3><a target="_blank" href="http://ecomind.wikidot.com">Ecology, Mind, &amp; Systems</a></h3>
             <div class="desc">          
-              Application compatibility &amp; feature support for OS X &amp; iOS
+              Personal, Social, Cultural, Technological, and Ecological Explorations
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpkrsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkrsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scr-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scr-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpkrsandbox.wikidot.com">SB-KO1</a></h3>
+            <h3><a target="_blank" href="http://scr-wiki.wikidot.com">SCR公司</a></h3>
             <div class="desc">          
-              SCP-KO 샌드박스 초호기
+              安全.收容.研究
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ipr11.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ipr11.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://aviationknowledge.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aviationknowledge.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ipr11.wikidot.com">IPR11</a></h3>
+            <h3><a target="_blank" href="http://aviationknowledge.wikidot.com">AviationKnowledge</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,12 +1745,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hackingthursday.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hackingthursday.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hfwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hfwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hackingthursday.wikidot.com">Hacking Thursday</a></h3>
+            <h3><a target="_blank" href="http://hfwiki.wikidot.com">HammerfallWiki</a></h3>
             <div class="desc">          
-              
+              A Wiki for Hammerfall RPG on Facebook and Myspace
             </div>
           </div>
         </div>
