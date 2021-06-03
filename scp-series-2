@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1622706508;
+        OZONE.request.timestamp = 1622726357;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,32 +1713,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://measurementcamp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/measurementcamp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ubmh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://measurementcamp.wikidot.com">Measurementcamp</a></h3>
+            <h3><a target="_blank" href="http://ubmh.wikidot.com">地下黑市</a></h3>
             <div class="desc">          
-              Open source movement measuring social media
+              属于闲人的社区
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dndis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dndis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://alveslima-edu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alveslima-edu.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dndis.wikidot.com">Dungeons &amp; Discourse</a></h3>
-            <div class="desc">          
-              Gamma Edition
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ds2009a.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds2009a.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ds2009a.wikidot.com">Data Structures</a></h3>
+            <h3><a target="_blank" href="http://alveslima-edu.wikidot.com">WIKEDUCAÇÃO</a></h3>
             <div class="desc">          
               
             </div>
@@ -1746,12 +1735,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://networkers.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/networkers.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://asoh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/asoh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://networkers.wikidot.com">KAIMTech NetLabs</a></h3>
+            <h3><a target="_blank" href="http://asoh.wikidot.com">Another Stage of History</a></h3>
             <div class="desc">          
-              Sharing my IP networking and security experience
+              A Character Creation and Edit Officer Site
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://airchairbuild.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/airchairbuild.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://airchairbuild.wikidot.com">airchair-ultralight-gliders</a></h3>
+            <div class="desc">          
+              Building and flying the Goat and Bug style of airchair ultralight gliders
             </div>
           </div>
         </div>

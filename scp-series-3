@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1622706450;
+        OZONE.request.timestamp = 1622726531;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1712,10 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ci-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://insurrection-du-chaos.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/insurrection-du-chaos.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ci-wiki.wikidot.com">Chaos Insurgency</a></h3>
+            <h3><a target="_blank" href="http://insurrection-du-chaos.wikidot.com">Insurrection du Chaos</a></h3>
+            <div class="desc">          
+              Branche Francophone.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://tl2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tl2.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://tl2.wikidot.com">tgl.wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,34 +1734,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bozic-nation.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bozic-nation.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cubesat.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cubesat.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bozic-nation.wikidot.com">Bozic Nation</a></h3>
+            <h3><a target="_blank" href="http://cubesat.wikidot.com">CubeSat</a></h3>
+            <div class="desc">          
+              University of Leicester CubeSat Project
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://kalgati.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kalgati.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://kalgati.wikidot.com">क्षत्रिय राजपूत इतिहास</a></h3>
-            <div class="desc">          
-              क्षत्रिय राजपूत
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://stsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/stsandbox.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://stsandbox.wikidot.com">小城沙盒站</a></h3>
-            <div class="desc">          
-              鸽 子 聚 集 地
             </div>
           </div>
         </div>
