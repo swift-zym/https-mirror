@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1622773826;
+        OZONE.request.timestamp = 1622794157;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,10 +1711,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pedhemoncreview.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pedhemoncreview.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kfmapdb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kfmapdb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pedhemoncreview.wikidot.com">Pediatric Hematology &amp; Oncology Certification Review</a></h3>
+            <h3><a target="_blank" href="http://kfmapdb.wikidot.com">Killing Floor Map Database</a></h3>
+            <div class="desc">          
+              KFMapDB.com
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://blackberrystorm.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackberrystorm.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://blackberrystorm.wikidot.com">BlackBerry Storm Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1733,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-kz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-kz.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-kz.wikidot.com">The SCP Foundation</a></h3>
+            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
             <div class="desc">          
-              Kazakh Branch
+              Fighting Spammers for Fun and Profit!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dndis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dndis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://05command.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/05command.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dndis.wikidot.com">Dungeons &amp; Discourse</a></h3>
+            <h3><a target="_blank" href="http://05command.wikidot.com">O5 Command</a></h3>
             <div class="desc">          
-              Gamma Edition
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpjp-fansite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpjp-fansite.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpjp-fansite.wikidot.com">SCP-JP-FS</a></h3>
-            <div class="desc">          
-              確保、収容、遊べ！
+              Administration and Management
             </div>
           </div>
         </div>
