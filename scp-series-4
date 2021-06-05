@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1622877160;
+        OZONE.request.timestamp = 1622899285;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -936,7 +936,7 @@
 <li><a href="/scp-3384">SCP-3384</a> - 尝试别笑</li>
 <li><a href="/scp-3385">SCP-3385</a> - 终点站：<em>远方天际</em></li>
 <li><a class="newpage" href="/scp-3386">SCP-3386</a> - Night Owls</li>
-<li><a href="/scp-3387">SCP-3387</a> - 毕竟是一个小世界</li>
+<li><a class="newpage" href="/scp-3387">SCP-3387</a> - 毕竟是一个小世界</li>
 <li><a href="/scp-3388">SCP-3388</a> - 仙苏鲁</li>
 <li><a href="/scp-3389">SCP-3389</a> - 燃烧你的湖泊</li>
 <li><a class="newpage" href="/scp-3390">SCP-3390</a> - A French Tank</li>
@@ -1545,7 +1545,7 @@
 <li><a href="/scp-3969">SCP-3969</a> - 霍夫曼的噩梦</li>
 <li><a href="/scp-3970">SCP-3970</a> - 我也想收容</li>
 <li><a class="newpage" href="/scp-3971">SCP-3971</a> - Utility Closet SB3-117a</li>
-<li><a class="newpage" href="/scp-3972">SCP-3972</a> - &quot;Ken Burns Presents: SCP-3972&quot;</li>
+<li><a href="/scp-3972">SCP-3972</a> - &quot;由Ken Burns制作：SCP-3972&quot;</li>
 <li><a href="/scp-3973">SCP-3973</a> - 想再掷次骰子么？</li>
 <li><a class="newpage" href="/scp-3974">SCP-3974</a> - Such Sweet Sorrow</li>
 <li><a href="/scp-3975">SCP-3975</a> - 救救奥利奥</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 895, 最后编辑于: <span class="odate time_1622344651 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">30 May 2021 03:17</span></div>
+                            <div id="page-info">页面版本: 896, 最后编辑于: <span class="odate time_1622887905 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Jun 2021 10:11</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1712,32 +1712,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fairfieldproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fairfieldproject.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gaybox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gaybox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fairfieldproject.wikidot.com">The Fairfield Project</a></h3>
+            <h3><a target="_blank" href="http://gaybox.wikidot.com">gaybox</a></h3>
             <div class="desc">          
-              The Delta Green wiki
+              im you but stronger
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://splinterverse.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/splinterverse.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-rubbish.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-rubbish.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://splinterverse.wikidot.com">Splinterverse</a></h3>
+            <h3><a target="_blank" href="http://scp-rubbish.wikidot.com">SCP-rubbish</a></h3>
             <div class="desc">          
-              Ezboard Yuku Splinterverse Wiki
+              控制，收容，保护
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://righthandrobotics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/righthandrobotics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://morningside-genetics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/morningside-genetics.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://righthandrobotics.wikidot.com">RightHand Robotics</a></h3>
+            <h3><a target="_blank" href="http://morningside-genetics.wikidot.com">Morningside Genetics</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,12 +1745,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rpc-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-jp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rpc-jp.wikidot.com">RPC機構</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox2.wikidot.com">SCP Sandbox Wiki II</a></h3>
             <div class="desc">          
-              研究、保護、収容
+              Sandbox Harder
             </div>
           </div>
         </div>

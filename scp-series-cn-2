@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1622877150;
+        OZONE.request.timestamp = 1622899007;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikirhye.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikirhye.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
+            <h3><a target="_blank" href="http://wikirhye.wikidot.com">Rhye&#039;s of Wiki</a></h3>
             <div class="desc">          
-              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
+              Wiki for Rhye&#039;s mods and general awesomeness
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://aviationknowledge.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aviationknowledge.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://beforethefall.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/beforethefall.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://aviationknowledge.wikidot.com">AviationKnowledge</a></h3>
+            <h3><a target="_blank" href="http://beforethefall.wikidot.com">Before the Fall</a></h3>
+            <div class="desc">          
+              A Pern themed MOO
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://balchipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/balchipedia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://balchipedia.wikidot.com">Balchipedia</a></h3>
+            <div class="desc">          
+              The Encyclopedia of Balch History
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cyclods.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cyclods.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cyclods.wikidot.com">CycloDS Revolution</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://energyclub.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://energyclub.wikidot.com">Energy Club</a></h3>
-            <div class="desc">          
-              University of Alberta
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://blackmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackmarches.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://blackmarches.wikidot.com">Black Marches</a></h3>
-            <div class="desc">          
-              Roll20 Pathfinder
             </div>
           </div>
         </div>
