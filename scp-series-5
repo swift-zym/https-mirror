@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1622920705;
+        OZONE.request.timestamp = 1622945623;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,10 +1743,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://microchip.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://firedawnfolder.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/firedawnfolder.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
+            <h3><a target="_blank" href="http://firedawnfolder.wikidot.com">FiredawnFolder</a></h3>
+            <div class="desc">          
+              The not-quite Inner Circle but close enough
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://sped.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sped.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://sped.wikidot.com">The Special Ed Wiki</a></h3>
+            <div class="desc">          
+              sarah irvine belson (sarah@american.edu)
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scion-mmp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scion-mmp.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scion-mmp.wikidot.com">Scion: Monsters and Mosh Pits</a></h3>
             <div class="desc">          
               
             </div>
@@ -1754,34 +1776,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://obscurative.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/obscurative.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://splinterverse.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/splinterverse.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://obscurative.wikidot.com">Obscurative</a></h3>
+            <h3><a target="_blank" href="http://splinterverse.wikidot.com">Splinterverse</a></h3>
             <div class="desc">          
-              ​
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pedhemoncreview.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pedhemoncreview.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pedhemoncreview.wikidot.com">Pediatric Hematology &amp; Oncology Certification Review</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpko.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpko.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpko.wikidot.com">SCP 재단</a></h3>
-            <div class="desc">          
-              확보, 격리, 보호
+              Ezboard Yuku Splinterverse Wiki
             </div>
           </div>
         </div>

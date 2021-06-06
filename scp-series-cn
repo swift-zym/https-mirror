@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1622920504;
+        OZONE.request.timestamp = 1622945584;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darry.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darry.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tech-racingcars.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tech-racingcars.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darry.wikidot.com">Darry Container</a></h3>
+            <h3><a target="_blank" href="http://tech-racingcars.wikidot.com">Racing Cars</a></h3>
             <div class="desc">          
-              We know our way out.
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scmapdb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scmapdb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://irunath.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/irunath.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scmapdb.wikidot.com">Sven Co-op Map Database</a></h3>
+            <h3><a target="_blank" href="http://irunath.wikidot.com">IRUNA Online Thailand WIKI</a></h3>
             <div class="desc">          
-              SCMapDB.com
+              by iruna th team
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-zh-tr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-zh-tr.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/samvedna.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-zh-tr.wikidot.com">SCP基金會</a></h3>
+            <h3><a target="_blank" href="http://samvedna.wikidot.com">Samvedna Network</a></h3>
             <div class="desc">          
-              控制，收容，保護
+              Collaborative e-learning for children
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpminecraft.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpminecraft.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://vwinterop.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vwinterop.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpminecraft.wikidot.com">SCP Minecraft</a></h3>
+            <h3><a target="_blank" href="http://vwinterop.wikidot.com">Virtual World Interoperability</a></h3>
             <div class="desc">          
-              Spiders. Creepers. Pigs. Minecraft.
+              
             </div>
           </div>
         </div>
