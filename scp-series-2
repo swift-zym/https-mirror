@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1623007191;
+        OZONE.request.timestamp = 1623032263;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,21 +1713,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://khaidoan.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/khaidoan.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fpt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fpt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://khaidoan.wikidot.com">Khai&#039;s personal knowledge vault.</a></h3>
+            <h3><a target="_blank" href="http://fpt.wikidot.com">Parameterized Complexity</a></h3>
             <div class="desc">          
-              Materials on this site are not original. When possible, references to original articles are listed on each page.
+              Did you say NP-hard?
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://biol252-biol319.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biol252-biol319.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fed20.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fed20.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://biol252-biol319.wikidot.com">Micro &amp; Epi @ Morningside Wiki</a></h3>
+            <h3><a target="_blank" href="http://fed20.wikidot.com">Fire Emblem d20</a></h3>
+            <div class="desc">          
+              A tabletop version of the RPG/Strategy game!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://trueblood-dallas.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trueblood-dallas.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://trueblood-dallas.wikidot.com">Trueblood: Dallas</a></h3>
             <div class="desc">          
               
             </div>
@@ -1735,23 +1746,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://green-house.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/green-house.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://professorallred.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/professorallred.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://green-house.wikidot.com">The Green House Wiki</a></h3>
+            <h3><a target="_blank" href="http://professorallred.wikidot.com">Ammon Allred&#039;s Online Classroom</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://stsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/stsandbox.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://stsandbox.wikidot.com">小城沙盒站</a></h3>
-            <div class="desc">          
-              鸽 子 聚 集 地
+              University of Toledo Philosophy Professor
             </div>
           </div>
         </div>
