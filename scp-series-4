@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1623032209;
+        OZONE.request.timestamp = 1623052722;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1712,10 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://livesupport.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/livesupport.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://livesupport.wikidot.com">Wikidot Live Support</a></h3>
+            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,10 +1723,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://lightworks.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lightworks.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://etnolinguistica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/etnolinguistica.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://lightworks.wikidot.com">Lightworks Unofficial Wiki</a></h3>
+            <h3><a target="_blank" href="http://etnolinguistica.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
+            <div class="desc">          
+              línguas e culturas indígenas sul-americanas
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://my-pride.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/my-pride.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://my-pride.wikidot.com">My Pride</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1745,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cgp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://iracing.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iracing.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
+            <h3><a target="_blank" href="http://iracing.wikidot.com">iRacing.com Wiki</a></h3>
             <div class="desc">          
-              CGP Students
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://networkers.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/networkers.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://networkers.wikidot.com">KAIMTech NetLabs</a></h3>
-            <div class="desc">          
-              Sharing my IP networking and security experience
+              Your one-stop-shop for all iRacing setup help and knowledge.
             </div>
           </div>
         </div>

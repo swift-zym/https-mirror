@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1623032282;
+        OZONE.request.timestamp = 1623052979;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4093, 最后编辑于: <span class="odate time_1622918712 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Jun 2021 18:45</span></div>
+                            <div id="page-info">页面版本: 4094, 最后编辑于: <span class="odate time_1623039322 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">07 Jun 2021 04:15</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+88</span>)</a>
@@ -1689,10 +1689,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://talkingpadproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/talkingpadproject.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ecadmin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecadmin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://talkingpadproject.wikidot.com">TalkingPad Project</a></h3>
+            <h3><a target="_blank" href="http://ecadmin.wikidot.com">Early Childhood Program Administration</a></h3>
+            <div class="desc">          
+              Resources, Training, Best Practices, Sharing
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://puppet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/puppet.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://puppet.wikidot.com">Puppet中文wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1700,34 +1711,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-rubbish.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-rubbish.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tech-racingcars.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tech-racingcars.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-rubbish.wikidot.com">SCP-rubbish</a></h3>
-            <div class="desc">          
-              控制，收容，保护
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpalex-fh.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpalex-fh.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpalex-fh.wikidot.com">Sandbox SCP L. Alex</a></h3>
-            <div class="desc">          
-              Et n&#039;oubliez pas l&#039;orthographe !
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://oneeleventwentyten.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oneeleventwentyten.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://oneeleventwentyten.wikidot.com">Writing 111 Fall 2010</a></h3>
+            <h3><a target="_blank" href="http://tech-racingcars.wikidot.com">Racing Cars</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-yerko-5.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-yerko-5.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-yerko-5.wikidot.com">Yerko&#039;s Sandbox V</a></h3>
+            <div class="desc">          
+              La Decadencia Hecha Borrador
             </div>
           </div>
         </div>
