@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1623156905;
+        OZONE.request.timestamp = 1623179123;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -572,7 +572,7 @@
 <li><a href="/scp-5032">SCP-5032</a> - 寻豹<sup>©️</sup></li>
 <li><a href="/scp-5033">SCP-5033</a> - 娇生惯养的绵羊（千万不要爆炸）</li>
 <li><a href="/scp-5034">SCP-5034</a> - 肉天使</li>
-<li><a href="/scp-5035">SCP-5035</a> - The Freedman</li>
+<li><a class="newpage" href="/scp-5035">SCP-5035</a> - The Freedman</li>
 <li><a class="newpage" href="/scp-5036">SCP-5036</a> - Yo Ho, Yo Ho, An Archetype for Thee</li>
 <li><a href="/scp-5037">SCP-5037</a> - 未解之谜</li>
 <li><a class="newpage" href="/scp-5038">SCP-5038</a> - <em>La Rue Macabre</em> is CLOSED</li>
@@ -1314,7 +1314,7 @@
 <li><a class="newpage" href="/scp-5746">SCP-5746</a> - [拒绝访问]</li>
 <li><a href="/scp-5747">SCP-5747</a> - 谢谢你与我们共行</li>
 <li><a class="newpage" href="/scp-5748">SCP-5748</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5749">SCP-5749</a> - [拒绝访问]</li>
+<li><a href="/scp-5749">SCP-5749</a> - 一事再理</li>
 <li><a href="/scp-5750">SCP-5750</a> - 没人能拒绝小饼干！</li>
 <li><a href="/scp-5751">SCP-5751</a> - 遗言</li>
 <li><a class="newpage" href="/scp-5752">SCP-5752</a> - [拒绝访问]</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 488, 最后编辑于: <span class="odate time_1622603871 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Jun 2021 03:17</span></div>
+                            <div id="page-info">页面版本: 489, 最后编辑于: <span class="odate time_1623164691 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Jun 2021 15:04</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vwinterop.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vwinterop.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://zeroshell.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zeroshell.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vwinterop.wikidot.com">Virtual World Interoperability</a></h3>
+            <h3><a target="_blank" href="http://zeroshell.wikidot.com">Zeroshell</a></h3>
             <div class="desc">          
-              
+              Guida all&#039;uso/Admin Guide
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://05command.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/05command.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://colbycriminaljustice.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/colbycriminaljustice.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://05command.wikidot.com">O5 Command</a></h3>
+            <h3><a target="_blank" href="http://colbycriminaljustice.wikidot.com">Criminal Justice Collaboratory</a></h3>
             <div class="desc">          
-              Administration and Management
+              Colby Community College
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://legendspring.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/legendspring.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpkrsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkrsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://legendspring.wikidot.com">LegendSpring</a></h3>
+            <h3><a target="_blank" href="http://scpkrsandbox.wikidot.com">SB-KO1</a></h3>
             <div class="desc">          
-              
+              SCP-KO 샌드박스 초호기
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smsalgebra.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smsalgebra.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://circservices.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/circservices.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smsalgebra.wikidot.com">Variable Thinking Wiki</a></h3>
+            <h3><a target="_blank" href="http://circservices.wikidot.com">Circulation Services</a></h3>
             <div class="desc">          
-              Life is a word problem
+              Library Circulation and Access Services
             </div>
           </div>
         </div>
