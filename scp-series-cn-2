@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1623179128;
+        OZONE.request.timestamp = 1623202943;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -621,13 +621,13 @@
 <li><a href="/scp-cn-1085">SCP-CN-1085</a> - 只有你不在的世界</li>
 <li><a href="/scp-cn-1086">SCP-CN-1086</a> - 枪</li>
 <li><a href="/scp-cn-1087">SCP-CN-1087</a> - 缄默复仇</li>
-<li><a href="/scp-cn-1088">SCP-CN-1088</a> - 等着被删</li>
+<li><a class="newpage" href="/scp-cn-1088">SCP-CN-1088</a> - 等着被删</li>
 <li><a href="/scp-cn-1089">SCP-CN-1089</a> - 肥猫、斑猫与肥猫</li>
 <li><a href="/scp-cn-1090">SCP-CN-1090</a> - 送别一切老朽之雀</li>
 <li><a href="/scp-cn-1091">SCP-CN-1091</a> - 黑王传说</li>
 <li><a href="/scp-cn-1092">SCP-CN-1092</a> - 非典型谋杀</li>
 <li><a class="newpage" href="/scp-cn-1093">SCP-CN-1093</a> - 学生计算器</li>
-<li><a class="newpage" href="/scp-cn-1094">SCP-CN-1094</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1094">SCP-CN-1094</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1095">SCP-CN-1095</a> - Hvalaskoðun的朋友</li>
 <li><a href="/scp-cn-1096">SCP-CN-1096</a> - 老点子了，不是吗</li>
 <li><a href="/scp-cn-1097">SCP-CN-1097</a> - 它的呢喃</li>
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zeroshell.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zeroshell.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cf-vanguard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cf-vanguard.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zeroshell.wikidot.com">Zeroshell</a></h3>
+            <h3><a target="_blank" href="http://cf-vanguard.wikidot.com">Vanguard Rider</a></h3>
             <div class="desc">          
-              Guida all&#039;uso/Admin Guide
+              CARDFIGHT!! Vanguard English Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://colbycriminaljustice.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/colbycriminaljustice.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://koavalon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/koavalon.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://colbycriminaljustice.wikidot.com">Criminal Justice Collaboratory</a></h3>
+            <h3><a target="_blank" href="http://koavalon.wikidot.com">Kingdoms of Avalon</a></h3>
             <div class="desc">          
-              Colby Community College
+              Lord Thornwell&#039;s Finishing School for Young Nobles
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpkrsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkrsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://albums-template.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/albums-template.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpkrsandbox.wikidot.com">SB-KO1</a></h3>
+            <h3><a target="_blank" href="http://albums-template.wikidot.com">Albums-template</a></h3>
             <div class="desc">          
-              SCP-KO 샌드박스 초호기
+              Your pictures
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://circservices.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/circservices.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://unasf.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/unasf.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://circservices.wikidot.com">Circulation Services</a></h3>
+            <h3><a target="_blank" href="http://unasf.wikidot.com">UNAS-F</a></h3>
             <div class="desc">          
-              Library Circulation and Access Services
+              Unidentified Non-Euclidean Anomalous Study Foundation
             </div>
           </div>
         </div>
