@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1623221191;
+        OZONE.request.timestamp = 1623264984;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1607,12 +1607,6 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
 
 
                     
-                        <div class="page-tags">
-                            <span>
-                                <a href="/system:page-tags/tag/%E4%B8%AD%E5%BF%83#pages">中心</a><a href="/system:page-tags/tag/%E5%8E%9F%E5%88%9B#pages">原创</a>
-                            </span>
-                        </div>
-                    
 
                     <div id="page-info-break"></div>
                     
@@ -1689,43 +1683,43 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://summer350.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/summer350.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cf-vanguard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cf-vanguard.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://summer350.wikidot.com">Summer 3500</a></h3>
+            <h3><a target="_blank" href="http://cf-vanguard.wikidot.com">Vanguard Rider</a></h3>
             <div class="desc">          
-              Engineering Communications
+              CARDFIGHT!! Vanguard English Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://2012hoax.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2012hoax.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://finalfantasy14fr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/finalfantasy14fr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://2012hoax.wikidot.com">2012hoax</a></h3>
+            <h3><a target="_blank" href="http://finalfantasy14fr.wikidot.com">final fantasy XIV wiki encyclopédie en français</a></h3>
             <div class="desc">          
-              Debunking the &quot;2012 Doomsday&quot;
+              FFXIV final fantasy XIV 14 fr wiki FF14 français
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp-sandbox3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-sandbox3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://caosinsurgente.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/caosinsurgente.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-jp-sandbox3.wikidot.com">SCP-JPサンドボックスⅢ</a></h3>
+            <h3><a target="_blank" href="http://caosinsurgente.wikidot.com">La Insurgencia del Caos</a></h3>
             <div class="desc">          
-              a.k.a 下書きフォーラム v2
+              Creando la Lógica De lo Ilógico
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kdiprivateequity.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kdiprivateequity.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tasker.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tasker.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kdiprivateequity.wikidot.com">KDI Private Equity</a></h3>
+            <h3><a target="_blank" href="http://tasker.wikidot.com">Tasker Wiki</a></h3>
             <div class="desc">          
               
             </div>

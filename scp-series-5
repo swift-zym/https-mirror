@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1623221384;
+        OZONE.request.timestamp = 1623264982;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1661,12 +1661,6 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
 
 
                     
-                        <div class="page-tags">
-                            <span>
-                                <a href="/system:page-tags/tag/%E4%B8%AD%E5%BF%83#pages">中心</a>
-                            </span>
-                        </div>
-                    
 
                     <div id="page-info-break"></div>
                     
@@ -1743,45 +1737,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://galacticunity.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/galacticunity.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
+            <h3><a target="_blank" href="http://galacticunity.wikidot.com">Star Wars - Galactic Unity</a></h3>
             <div class="desc">          
-              Fighting Spammers for Fun and Profit!
+              A community of Star Wars Sims in Second Life.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://destiny.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/destiny.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scrsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scrsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://destiny.wikidot.com">Destiny</a></h3>
+            <h3><a target="_blank" href="http://scrsandbox.wikidot.com">SCR公司沙盒站</a></h3>
             <div class="desc">          
-              
+              以滴水之力，驱洋流之运
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://funclubfrp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/funclubfrp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eslafundacionscp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eslafundacionscp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://funclubfrp.wikidot.com">FUNCLUB FullRP</a></h3>
+            <h3><a target="_blank" href="http://eslafundacionscp.wikidot.com">La Fundación SCP</a></h3>
             <div class="desc">          
-              База данных зоны 81F
+              Rama Hispanohablante
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://moneymakeia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/moneymakeia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
+            <h3><a target="_blank" href="http://moneymakeia.wikidot.com">the money making encyclopedia</a></h3>
             <div class="desc">          
-              実験、実験、爆発
+              Make money with us and have a fun
             </div>
           </div>
         </div>
