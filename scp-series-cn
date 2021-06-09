@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1623202733;
+        OZONE.request.timestamp = 1623221325;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://musicgames.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/musicgames.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://alicebot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alicebot.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://musicgames.wikidot.com">Games for Music</a></h3>
+            <h3><a target="_blank" href="http://alicebot.wikidot.com">Alicebot</a></h3>
             <div class="desc">          
-              Music Game Archive &amp; Community for Musicians of All Levels
+              Free AIML chat bot content
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://my-pride.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/my-pride.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://norron.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/norron.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://my-pride.wikidot.com">My Pride</a></h3>
+            <h3><a target="_blank" href="http://norron.wikidot.com">WikiNorron</a></h3>
+            <div class="desc">          
+              Almost as good as the guide, maybe better!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ucsdgrads.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ucsdgrads.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ucsdgrads.wikidot.com">UCSD Grad Students</a></h3>
+            <div class="desc">          
+              ...the information exchange and virtual community
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://amiii.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/amiii.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://amiii.wikidot.com">Análise Matemática III</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://f650cs.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/f650cs.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://f650cs.wikidot.com">F650CS FAQ</a></h3>
-            <div class="desc">          
-              Alternative / Supplement  to Black Belt Gang FAQ&#039;s for the BMW Scarver
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://magiamesterei.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magiamesterei.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://magiamesterei.wikidot.com">Mágia Mesterei Wiki</a></h3>
-            <div class="desc">          
-              Segítség az online játékhoz
             </div>
           </div>
         </div>
