@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1623374999;
+        OZONE.request.timestamp = 1623393536;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1737,21 +1737,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://theanarchstate.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theanarchstate.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls3.wikidot.com">Darksouls3</a></h3>
+            <h3><a target="_blank" href="http://theanarchstate.wikidot.com">The Anarch State</a></h3>
             <div class="desc">          
-              Your trusted source of information for Dark Souls 3
+              We have moved to projectfiction.net/wiki - and projectfiction.net port 9999
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://microchip.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://trb-mux.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trb-mux.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
+            <h3><a target="_blank" href="http://trb-mux.wikidot.com">The Rock Bottom MUX</a></h3>
             <div class="desc">          
               
             </div>
@@ -1759,23 +1759,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ecomind.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecomind.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blmodding.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blmodding.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ecomind.wikidot.com">Ecology, Mind, &amp; Systems</a></h3>
+            <h3><a target="_blank" href="http://blmodding.wikidot.com">Borderlands Modding Resource</a></h3>
             <div class="desc">          
-              Personal, Social, Cultural, Technological, and Ecological Explorations
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://arcana.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arcana.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rsc-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rsc-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://arcana.wikidot.com">The Arcana Wiki</a></h3>
+            <h3><a target="_blank" href="http://rsc-wiki.wikidot.com">RSC Institution</a></h3>
             <div class="desc">          
-              Distilling the Real World for Gaming
+              Research, Secure, Contain
             </div>
           </div>
         </div>
