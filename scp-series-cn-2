@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1623415432;
+        OZONE.request.timestamp = 1623436809;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1607,6 +1607,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
 
 
                     
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/%E4%B8%AD%E5%BF%83#pages">中心</a><a href="/system:page-tags/tag/%E5%8E%9F%E5%88%9B#pages">原创</a>
+                            </span>
+                        </div>
+                    
 
                     <div id="page-info-break"></div>
                     
@@ -1683,10 +1689,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://biol-117.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biol-117.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://contraptor.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/contraptor.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://biol-117.wikidot.com">Principles of Biology II</a></h3>
+            <h3><a target="_blank" href="http://contraptor.wikidot.com">Contraptor</a></h3>
             <div class="desc">          
               
             </div>
@@ -1694,34 +1700,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chimiex-bicaz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chimiex-bicaz.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://freesmug.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/freesmug.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chimiex-bicaz.wikidot.com">Chimiex Bicaz</a></h3>
+            <h3><a target="_blank" href="http://freesmug.wikidot.com">FreeSMUG</a></h3>
             <div class="desc">          
-              
+              Free Open Source Software Mac User Group
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://androidalchemy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/androidalchemy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://androidalchemy.wikidot.com">Android Alchemy</a></h3>
+            <h3><a target="_blank" href="http://ci-sandbox.wikidot.com">Insu Sandbox</a></h3>
             <div class="desc">          
-              
+              &quot;Draft a little dream of me...&quot;
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sw-gis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sw-gis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://apmoderneuro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/apmoderneuro.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sw-gis.wikidot.com">Smallworld GIS Wiki</a></h3>
+            <h3><a target="_blank" href="http://apmoderneuro.wikidot.com">Apmoderneuro</a></h3>
             <div class="desc">          
-              Help and references for the Smallworld Community
+              
             </div>
           </div>
         </div>

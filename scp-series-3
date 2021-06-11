@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1623415680;
+        OZONE.request.timestamp = 1623436806;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1630,6 +1630,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
 
 
                     
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/%E4%B8%AD%E5%BF%83#pages">中心</a>
+                            </span>
+                        </div>
+                    
 
                     <div id="page-info-break"></div>
                     
@@ -1706,34 +1712,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smalltown.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smalltown.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bua581.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bua581.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smalltown.wikidot.com">小城的问候</a></h3>
+            <h3><a target="_blank" href="http://bua581.wikidot.com">Managing Information Systems</a></h3>
             <div class="desc">          
-              Greetings from afar...
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wanderers-sandbox-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-sandbox-pl.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wanderers-sandbox-pl.wikidot.com">Sandbox Wędrowca</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://cunefb2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefb2.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://cunefb2.wikidot.com">CUNEF Group B2</a></h3>
-            <div class="desc">          
-              For Your Work, Opinions and Discoveries!
+              BUA 581 - Rick Sprenkle
             </div>
           </div>
         </div>
@@ -1745,6 +1729,28 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
             <h3><a target="_blank" href="http://scmapdb.wikidot.com">Sven Co-op Map Database</a></h3>
             <div class="desc">          
               SCMapDB.com
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://philosophiesoflife.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophiesoflife.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://philosophiesoflife.wikidot.com">WikiPlan</a></h3>
+            <div class="desc">          
+              tools for participatory design of cities
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>

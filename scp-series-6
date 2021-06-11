@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1623415524;
+        OZONE.request.timestamp = 1623436807;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -855,7 +855,7 @@
 <li><a href="/scp-5303">SCP-5303</a> - 没有眼睛的女孩</li>
 <li><a href="/scp-5304">SCP-5304</a> - 😳SCP是真的😳</li>
 <li><a class="newpage" href="/scp-5305">SCP-5305</a> - All In His Head</li>
-<li><a class="newpage" href="/scp-5306">SCP-5306</a> - [拒绝访问]</li>
+<li><a href="/scp-5306">SCP-5306</a> - 海盗诅咒，现在直播！</li>
 <li><a class="newpage" href="/scp-5307">SCP-5307</a> - Double Donk Juice</li>
 <li><a href="/scp-5308">SCP-5308</a> - 杂物</li>
 <li><a href="/scp-5309">SCP-5309</a>需不存在。</li>
@@ -1630,11 +1630,17 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
 
 
                     
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/%E4%B8%AD%E5%BF%83#pages">中心</a>
+                            </span>
+                        </div>
+                    
 
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 489, 最后编辑于: <span class="odate time_1623164691 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">08 Jun 2021 15:04</span></div>
+                            <div id="page-info">页面版本: 490, 最后编辑于: <span class="odate time_1623425051 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Jun 2021 15:24</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+20</span>)</a>
@@ -1706,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://osx86.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/osx86.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://signaturbogen.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/signaturbogen.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://osx86.wikidot.com">InfiniteMac Wiki</a></h3>
+            <h3><a target="_blank" href="http://signaturbogen.wikidot.com">Signaturbogen 2.0</a></h3>
             <div class="desc">          
-              
+              5.500 signaturer af 3.500 kunstnere
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zombiecafe.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zombiecafe.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://forcecards.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/forcecards.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zombiecafe.wikidot.com">Zombie Cafe Wiki</a></h3>
+            <h3><a target="_blank" href="http://forcecards.wikidot.com">ForceCards.com</a></h3>
             <div class="desc">          
-              
+              A Star Wars Trading Card Community
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://defunct-elitequestworlds.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/defunct-elitequestworlds.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpkosb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkosb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://defunct-elitequestworlds.wikidot.com">EliteQuest Worlds</a></h3>
+            <h3><a target="_blank" href="http://scpkosb.wikidot.com">SB-KO2</a></h3>
             <div class="desc">          
-              Eqwwiki
+              SCP-KO 샌드박스 이호기
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://languagearts8.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/languagearts8.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://languagearts8.wikidot.com">Language Arts (8)</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox2.wikidot.com">SCP Sandbox Wiki II</a></h3>
             <div class="desc">          
-              
+              Sandbox Harder
             </div>
           </div>
         </div>

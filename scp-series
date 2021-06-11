@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1623415662;
+        OZONE.request.timestamp = 1623436575;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1629,6 +1629,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
 
 
                     
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/%E4%B8%AD%E5%BF%83#pages">中心</a>
+                            </span>
+                        </div>
+                    
 
                     <div id="page-info-break"></div>
                     
@@ -1705,45 +1711,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pandora-saga.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pandora-saga.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pandora-saga.wikidot.com">Pandora Saga Online Wiki</a></h3>
+            <h3><a target="_blank" href="http://www.wikidot.com">Wikidot - Free and Pro Wiki Hosting</a></h3>
             <div class="desc">          
-              NYANICORN!!!!!!
+              your place on the web
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://moneymakeia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/moneymakeia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kindiy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kindiy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://moneymakeia.wikidot.com">the money making encyclopedia</a></h3>
+            <h3><a target="_blank" href="http://kindiy.wikidot.com">kinDIY</a></h3>
             <div class="desc">          
-              Make money with us and have a fun
+              for the DIY kindie community
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fifabeapro360.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fifabeapro360.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ubmh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fifabeapro360.wikidot.com">Fifa Be A Pro 360</a></h3>
+            <h3><a target="_blank" href="http://ubmh.wikidot.com">地下黑市</a></h3>
             <div class="desc">          
-              
+              属于闲人的社区
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://towngoodiesch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/towngoodiesch.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
+            <h3><a target="_blank" href="http://towngoodiesch.wikidot.com">美國城鎮旅遊網</a></h3>
             <div class="desc">          
-              
+              美國城市旅遊逛街活動指南
             </div>
           </div>
         </div>
