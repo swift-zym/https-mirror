@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1623479669;
+        OZONE.request.timestamp = 1623502051;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://historynewmedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/historynewmedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://magiamesterei.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magiamesterei.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://historynewmedia.wikidot.com">History in the New Media</a></h3>
+            <h3><a target="_blank" href="http://magiamesterei.wikidot.com">Mágia Mesterei Wiki</a></h3>
             <div class="desc">          
-              Digital Project Design in Archives and Public History
+              Segítség az online játékhoz
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://excelencia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/excelencia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eventidemush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eventidemush.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://excelencia.wikidot.com">EXCELENCIA</a></h3>
-            <div class="desc">          
-              exploring, describing and promoting  great websites!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://fretsonfire.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fretsonfire.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://fretsonfire.wikidot.com">Frets On Fire Wiki</a></h3>
-            <div class="desc">          
-              courtesy of fretsonfire.org
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://blackberrystorm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackberrystorm.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://blackberrystorm.wikidot.com">BlackBerry Storm Wiki</a></h3>
+            <h3><a target="_blank" href="http://eventidemush.wikidot.com">Eventide MUSH</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ds09.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds09.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ds09.wikidot.com">Data Structures</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://smd-ch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smd-ch.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://smd-ch.wikidot.com">SMD超现实管制处</a></h3>
+            <div class="desc">          
+              异常 中转 管理
             </div>
           </div>
         </div>

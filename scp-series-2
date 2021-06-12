@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1623479920;
+        OZONE.request.timestamp = 1623501904;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,10 +1713,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://srm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/srm.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://arkhea.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arkhea.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://srm.wikidot.com">SRM Community</a></h3>
+            <h3><a target="_blank" href="http://arkhea.wikidot.com">Arkhea ~ Earth of Psionics and Magic</a></h3>
+            <div class="desc">          
+              ~ An expansive multi-fandom urban high fantasy universe
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://trb-mux.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trb-mux.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://trb-mux.wikidot.com">The Rock Bottom MUX</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,32 +1735,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cuiltheory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cuiltheory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://crm-iseg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/crm-iseg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cuiltheory.wikidot.com">Cuil Theory</a></h3>
+            <h3><a target="_blank" href="http://crm-iseg.wikidot.com">CRM ISEG</a></h3>
             <div class="desc">          
-              A Mathematical unit of Surrealism.
+              Customer Relationship Management
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-yerko-5.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-yerko-5.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rxwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rxwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-yerko-5.wikidot.com">Yerko&#039;s Sandbox V</a></h3>
-            <div class="desc">          
-              La Decadencia Hecha Borrador
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://metrixcreate.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metrixcreate.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://metrixcreate.wikidot.com">Metrix Create:Space</a></h3>
+            <h3><a target="_blank" href="http://rxwiki.wikidot.com">Reactive Framework (Rx) Wiki</a></h3>
             <div class="desc">          
               
             </div>
