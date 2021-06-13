@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1623523246;
+        OZONE.request.timestamp = 1623547804;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1713,10 +1713,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://managerzonemexico.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/managerzonemexico.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://osx.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/osx.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://managerzonemexico.wikidot.com">La Wiki de ManagerZone México</a></h3>
+            <h3><a target="_blank" href="http://osx.wikidot.com">RoaringApps - App compatibility and feature support for OS X &amp; iOS</a></h3>
+            <div class="desc">          
+              Application compatibility &amp; feature support for OS X &amp; iOS
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://destiny.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/destiny.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://destiny.wikidot.com">Destiny</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,10 +1735,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zombiecafe.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zombiecafe.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://m5snapoli.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/m5snapoli.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zombiecafe.wikidot.com">Zombie Cafe Wiki</a></h3>
+            <h3><a target="_blank" href="http://m5snapoli.wikidot.com">Il wiki-Programma del MoVimento5stelle Napoli</a></h3>
             <div class="desc">          
               
             </div>
@@ -1735,23 +1746,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://coffeetimex.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coffeetimex.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://capnbarefoot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/capnbarefoot.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://coffeetimex.wikidot.com">Coffeetime Extra</a></h3>
+            <h3><a target="_blank" href="http://capnbarefoot.wikidot.com">Captain Barefoot</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://corwyn.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/corwyn.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://corwyn.wikidot.com">Corwyn</a></h3>
-            <div class="desc">          
-              A Fantasy  Campaign Setting
+              The naturist guide to the Greek Islands
             </div>
           </div>
         </div>
