@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1623825654;
+        OZONE.request.timestamp = 1623847559;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,10 +1689,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://viscomclass.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/viscomclass.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
+            <h3><a target="_blank" href="http://viscomclass.wikidot.com">VisCom</a></h3>
             <div class="desc">          
               
             </div>
@@ -1700,34 +1700,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sparks.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sparks.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://arlington.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arlington.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sparks.wikidot.com">Sparks</a></h3>
+            <h3><a target="_blank" href="http://arlington.wikidot.com">Arlington, Mass.</a></h3>
             <div class="desc">          
-              d6 Star Wars Campaign
+              The Arlington Wiki - Arlington, MA
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://destiny.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/destiny.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scr-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scr-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://destiny.wikidot.com">Destiny</a></h3>
+            <h3><a target="_blank" href="http://scr-wiki.wikidot.com">SCR公司</a></h3>
+            <div class="desc">          
+              安全.收容.研究
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://demonssouls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/demonssouls.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://demonssouls.wikidot.com">Demon&#039;s Souls English Wiki</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
-            <div class="desc">          
-              and what they&#039;re trying to tell you
             </div>
           </div>
         </div>

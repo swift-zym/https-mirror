@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1623825653;
+        OZONE.request.timestamp = 1623847859;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,45 +1743,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
+            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
+            <div class="desc">          
+              A World of Darkness Encyclopedia for Modern Nights
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://larpard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/larpard.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://larpard.wikidot.com">Larpard</a></h3>
+            <div class="desc">          
+              Vše nejen o larpech ve východních Čechách
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scpcommune.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpcommune.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scpcommune.wikidot.com">The SCP Commune</a></h3>
+            <div class="desc">          
+              Satirize, Collectivize, Politicize
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://roboticsclubucla.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticsclubucla.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://roboticsclubucla.wikidot.com">Robotics Club @ UCLA Wiki</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://sparks.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sparks.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://sparks.wikidot.com">Sparks</a></h3>
-            <div class="desc">          
-              d6 Star Wars Campaign
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://destiny.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/destiny.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://destiny.wikidot.com">Destiny</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
-            <div class="desc">          
-              and what they&#039;re trying to tell you
             </div>
           </div>
         </div>
