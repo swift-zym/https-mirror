@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1623911977;
+        OZONE.request.timestamp = 1623934144;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -598,7 +598,7 @@
 <li><a href="/scp-cn-063">SCP-CN-063</a> - 人脉</li>
 <li><a href="/scp-cn-064">SCP-CN-064</a> - 失败画作</li>
 <li><a href="/scp-cn-065">SCP-CN-065</a> - 鹛姜</li>
-<li><a href="/scp-cn-066">SCP-CN-066居然对八旬老人做出这种不知羞耻的……</a></li>
+<li><a href="/scp-cn-066">SCP-CN-066</a> -SCP-CN-066居然对八旬老人做出这样不知羞耻的……</li>
 <li><a href="/scp-cn-067">SCP-CN-067</a> - 盎蛊人间</li>
 <li><a href="/scp-cn-068">SCP-CN-068</a> - “没有墙”的房子</li>
 <li><a href="/scp-cn-069">SCP-CN-069</a> - “别打扰……”</li>
@@ -955,7 +955,7 @@
 <li><a href="/scp-cn-404">SCP-CN-404</a> - 模因免疫病</li>
 <li><a href="/scp-cn-405">SCP-CN-405</a> - 福音书</li>
 <li><a href="/scp-cn-406">SCP-CN-406</a> - 武器無道</li>
-<li><a href="/scp-cn-407">错误：407 需要代理身份验证</a></li>
+<li><a href="/scp-cn-407">SCP-CN-407</a> - 错误：407 需要代理身份验证</li>
 <li><a href="/scp-cn-408">SCP-CN-408</a> - 信号蝶</li>
 <li><a href="/scp-cn-409">SCP-CN-409</a> - 木棉歌</li>
 <li><a href="/scp-cn-410">SCP-CN-410</a> - 坍塌</li>
@@ -991,7 +991,7 @@
 <li><a href="/scp-cn-440">SCP-CN-440</a> - 四方桌仙</li>
 <li><a href="/scp-cn-441">SCP-CN-441</a> - 反常的解剖楼</li>
 <li><a href="/scp-cn-442">SCP-CN-442</a> - 探索天空</li>
-<li><a href="/scp-cn-443">SCP-CN-443</a> - 幽闭空间</li>
+<li><a class="newpage" href="/scp-cn-443">SCP-CN-443</a> - 幽闭空间</li>
 <li><a href="/scp-cn-444">SCP-CN-444</a> - 天籁</li>
 <li><a href="/scp-cn-445">SCP-CN-445</a> - 一篇不合格的异常文档</li>
 <li><a href="/scp-cn-446">SCP-CN-446</a> - 窗外的脸</li>
@@ -1616,10 +1616,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3270, 最后编辑于: <span class="odate time_1619834062 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">01 May 2021 01:54</span></div>
+                            <div id="page-info">页面版本: 3272, 最后编辑于: <span class="odate time_1623913314 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Jun 2021 07:01</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
-<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+71</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+72</span>)</a>
 <a href="javascript:;" class="btn btn-default" id="tags-button">标签</a>
 <a href="/forum/t-1282353/scp-series-cn" class="btn btn-default" id="discuss-button">讨论 (22)</a>
 <a href="javascript:;" class="btn btn-default" id="history-button">历史记录</a>
@@ -1688,21 +1688,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-kz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-kz.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://zodiac-ffrpg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zodiac-ffrpg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-kz.wikidot.com">SCP Foundation</a></h3>
-            <div class="desc">          
-              Kazakh Branch
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://bx-community.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bx-community.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://bx-community.wikidot.com">Bidirectional Transformations</a></h3>
+            <h3><a target="_blank" href="http://zodiac-ffrpg.wikidot.com">ZODIAC Final Fantasy RPG</a></h3>
             <div class="desc">          
               
             </div>
@@ -1710,23 +1699,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vwinterop.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vwinterop.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://uberoptions.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uberoptions.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vwinterop.wikidot.com">Virtual World Interoperability</a></h3>
+            <h3><a target="_blank" href="http://uberoptions.wikidot.com">uberOptions</a></h3>
             <div class="desc">          
-              
+              Enable all options on all buttons in SetPoint
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ti-iseg-t12.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ti-iseg-t12.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://theanarchstate.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theanarchstate.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ti-iseg-t12.wikidot.com">ISEG TI T12</a></h3>
+            <h3><a target="_blank" href="http://theanarchstate.wikidot.com">The Anarch State</a></h3>
             <div class="desc">          
-              
+              We have moved to projectfiction.net/wiki - and projectfiction.net port 9999
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ccyms.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ccyms.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ccyms.wikidot.com">Canadian Certificate in Youth Ministry Studies</a></h3>
+            <div class="desc">          
+              Redemptorist Youth / Young Adult and Vocation Ministry
             </div>
           </div>
         </div>
