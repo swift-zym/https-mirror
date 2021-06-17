@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1623893028;
+        OZONE.request.timestamp = 1623912084;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1712,21 +1712,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fightcorruption.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fightcorruption.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://librarylab.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/librarylab.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fightcorruption.wikidot.com">Fight Corruption Now</a></h3>
+            <h3><a target="_blank" href="http://librarylab.wikidot.com">CTC/Library Lab Wiki</a></h3>
             <div class="desc">          
-              Fight Corruption NOW Before It Is Too Late
+              The CTC mothership
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://righthandrobotics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/righthandrobotics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://arlington.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arlington.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://righthandrobotics.wikidot.com">RightHand Robotics</a></h3>
+            <h3><a target="_blank" href="http://arlington.wikidot.com">Arlington, Mass.</a></h3>
+            <div class="desc">          
+              The Arlington Wiki - Arlington, MA
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://hp-intothefire.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hp-intothefire.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://hp-intothefire.wikidot.com">Harry Potter: Into The Fire</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1745,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://summer350.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/summer350.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://liblivadia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liblivadia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://summer350.wikidot.com">Summer 3500</a></h3>
+            <h3><a target="_blank" href="http://liblivadia.wikidot.com">ΔΗΜΟΣΙΑ ΚΕΝΤΡΙΚΗ ΒΙΒΛΙΟΘΗΚΗ ΛΕΒΑΔΕΙΑΣ</a></h3>
             <div class="desc">          
-              Engineering Communications
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://lightworks.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lightworks.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://lightworks.wikidot.com">Lightworks Unofficial Wiki</a></h3>
-            <div class="desc">          
-              
+              Levadia Library
             </div>
           </div>
         </div>

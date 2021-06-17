@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1623893066;
+        OZONE.request.timestamp = 1623911816;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://extrabees.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extrabees.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
+            <h3><a target="_blank" href="http://extrabees.wikidot.com">Extra Bees</a></h3>
             <div class="desc">          
-              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
+              Plugin for the Forestry Mod
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://karmagrinding.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/karmagrinding.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
+            <h3><a target="_blank" href="http://karmagrinding.wikidot.com">Karma</a></h3>
+            <div class="desc">          
+              Karma Karma Karma Karma
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://crm-iseg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/crm-iseg.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://crm-iseg.wikidot.com">CRM ISEG</a></h3>
+            <div class="desc">          
+              Customer Relationship Management
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://copernicon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/copernicon.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://copernicon.wikidot.com">Copernicon 2010</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://anime-planet.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/anime-planet.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://anime-planet.wikidot.com">Anime Planet</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://softwarecraftsmanship.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/softwarecraftsmanship.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://softwarecraftsmanship.wikidot.com">Software Craftsmanship</a></h3>
-            <div class="desc">          
-              A conference all about building it right
             </div>
           </div>
         </div>
