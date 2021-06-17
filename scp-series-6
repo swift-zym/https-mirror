@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1623868932;
+        OZONE.request.timestamp = 1623893066;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1712,10 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pt851.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pt851.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pt851.wikidot.com">Cell Biology of Disease and Exercise</a></h3>
+            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
+            <div class="desc">          
+              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://artemachia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/artemachia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://artemachia.wikidot.com">BattleSpace Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,21 +1734,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ci-cn-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-cn-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://anime-planet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/anime-planet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ci-cn-wiki.wikidot.com">混沌分裂者</a></h3>
-            <div class="desc">          
-              于无理之中创造逻辑
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://nsb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nsb.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://nsb.wikidot.com">Nsb Notes</a></h3>
+            <h3><a target="_blank" href="http://anime-planet.wikidot.com">Anime Planet</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,12 +1745,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://lulu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lulu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://softwarecraftsmanship.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/softwarecraftsmanship.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://lulu.wikidot.com">UK Wiki Lulu</a></h3>
+            <h3><a target="_blank" href="http://softwarecraftsmanship.wikidot.com">Software Craftsmanship</a></h3>
             <div class="desc">          
-              The website for the UK creators at Lulu.com
+              A conference all about building it right
             </div>
           </div>
         </div>
