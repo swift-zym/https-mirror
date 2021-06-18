@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1623998481;
+        OZONE.request.timestamp = 1624020625;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1689,32 +1689,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://rtd1261.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rtd1261.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://rtd1261.wikidot.com">RTD1261 MediaPlayer</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki.wikidot.com">SCP Foundation</a></h3>
             <div class="desc">          
-              Tweaking the Realtek RTD1261 Mediaplayer
+              Secure, Contain, Protect
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hopkinswhpg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hopkinswhpg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://roboticsclubucla.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticsclubucla.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hopkinswhpg.wikidot.com">World History/Physical Geo.</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://playstation3hacksandmods.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/playstation3hacksandmods.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://playstation3hacksandmods.wikidot.com">The PS3 Index</a></h3>
+            <h3><a target="_blank" href="http://roboticsclubucla.wikidot.com">Robotics Club @ UCLA Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,10 +1711,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://green-house.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/green-house.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-kz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-kz.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://green-house.wikidot.com">The Green House Wiki</a></h3>
+            <h3><a target="_blank" href="http://scp-kz.wikidot.com">SCP Foundation</a></h3>
+            <div class="desc">          
+              Kazakh Branch
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://oneeleventwentyten.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oneeleventwentyten.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://oneeleventwentyten.wikidot.com">Writing 111 Fall 2010</a></h3>
             <div class="desc">          
               
             </div>
