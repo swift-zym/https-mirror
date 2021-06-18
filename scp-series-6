@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1623979840;
+        OZONE.request.timestamp = 1623998254;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://networkers.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/networkers.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://theanarchstate.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theanarchstate.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://networkers.wikidot.com">KAIMTech NetLabs</a></h3>
+            <h3><a target="_blank" href="http://theanarchstate.wikidot.com">The Anarch State</a></h3>
             <div class="desc">          
-              Sharing my IP networking and security experience
+              We have moved to projectfiction.net/wiki - and projectfiction.net port 9999
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://level1wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/level1wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://biblio.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biblio.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://level1wiki.wikidot.com">Level 1 Wiki</a></h3>
+            <h3><a target="_blank" href="http://biblio.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
+            <div class="desc">          
+              livros e artigos sobre línguas sul-americanas
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://bua581.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bua581.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://bua581.wikidot.com">Managing Information Systems</a></h3>
+            <div class="desc">          
+              BUA 581 - Rick Sprenkle
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://aseba.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aseba.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://aseba.wikidot.com">Thymio &amp; Aseba</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://inter-irc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inter-irc.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://inter-irc.wikidot.com">Inter Irc</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://harvey-capital-lectures.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/harvey-capital-lectures.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://harvey-capital-lectures.wikidot.com">Harvey Capital Lectures</a></h3>
-            <div class="desc">          
-              Crowdsourced Transcription and Translation Project
             </div>
           </div>
         </div>

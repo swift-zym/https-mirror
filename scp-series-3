@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1623979912;
+        OZONE.request.timestamp = 1623998303;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1712,21 +1712,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://backrooms-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dndis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dndis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://backrooms-wiki.wikidot.com">The Backrooms</a></h3>
+            <h3><a target="_blank" href="http://dndis.wikidot.com">Dungeons &amp; Discourse</a></h3>
             <div class="desc">          
-              You&#039;ve been here before.
+              Gamma Edition
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://contraptor.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/contraptor.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://denver.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/denver.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://contraptor.wikidot.com">Contraptor</a></h3>
+            <h3><a target="_blank" href="http://denver.wikidot.com">Shadowrun: Denver</a></h3>
+            <div class="desc">          
+              Complicated Shadows
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://retrowiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrowiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://retrowiki.wikidot.com">RetroWIKI</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1745,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpkrsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpkrsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://beadersresourceguide.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/beadersresourceguide.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpkrsandbox.wikidot.com">SB-KO1</a></h3>
+            <h3><a target="_blank" href="http://beadersresourceguide.wikidot.com">Beader&#039;s Resource Guide</a></h3>
             <div class="desc">          
-              SCP-KO 샌드박스 초호기
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://echobazaar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/echobazaar.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://echobazaar.wikidot.com">Echo Bazaar</a></h3>
-            <div class="desc">          
-              Come to Fallen London
+              A place for those who love to bead.
             </div>
           </div>
         </div>
