@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1623955297;
+        OZONE.request.timestamp = 1623979986;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,32 +1743,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://jimsgaming.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jimsgaming.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ubmedicinefaqs.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmedicinefaqs.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://jimsgaming.wikidot.com">Big Damn Gaming Page</a></h3>
-            <div class="desc">          
-              So many games, so little time...
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://paganmichigan.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paganmichigan.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://paganmichigan.wikidot.com">Pagan Michigan</a></h3>
-            <div class="desc">          
-              News and Networking for the Pagan Community of Michigan
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://talkingpadproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/talkingpadproject.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://talkingpadproject.wikidot.com">TalkingPad Project</a></h3>
+            <h3><a target="_blank" href="http://ubmedicinefaqs.wikidot.com">UBMedicineFAQ</a></h3>
             <div class="desc">          
               
             </div>
@@ -1776,12 +1754,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://firedawnfolder.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/firedawnfolder.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chessvariants.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessvariants.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://firedawnfolder.wikidot.com">FiredawnFolder</a></h3>
+            <h3><a target="_blank" href="http://chessvariants.wikidot.com">Chess Variants Wiki</a></h3>
             <div class="desc">          
-              The not-quite Inner Circle but close enough
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
+            <div class="desc">          
+              A World of Darkness Encyclopedia for Modern Nights
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://sebrutteian.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sebrutteian.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://sebrutteian.wikidot.com">Sebrutteian</a></h3>
+            <div class="desc">          
+              Industrial Fantasy World
             </div>
           </div>
         </div>
