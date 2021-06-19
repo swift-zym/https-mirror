@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1624066323;
+        OZONE.request.timestamp = 1624084832;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -584,7 +584,7 @@
 <li><a href="/scp-cn-1048">SCP-CN-1048</a> - 传承计划</li>
 <li><a href="/scp-cn-1049">SCP-CN-1049</a> - 雕塑家</li>
 <li><a href="/scp-cn-1050">SCP-CN-1050</a> - &quot;宝瓶座&quot;</li>
-<li><a class="newpage" href="/scp-cn-1051">SCP-CN-1051</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1051">SCP-CN-1051</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1052">SCP-CN-1052</a> - 海雪飘落时</li>
 <li><a href="/scp-cn-1053">SCP-CN-1053</a> - 神仙石</li>
 <li><a href="/scp-cn-1054">SCP-CN-1054</a> - dado的童话药</li>
@@ -1689,21 +1689,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ibphysicsstuff.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibphysicsstuff.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://arcana.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arcana.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ibphysicsstuff.wikidot.com">IB Physics Stuff</a></h3>
+            <h3><a target="_blank" href="http://arcana.wikidot.com">The Arcana Wiki</a></h3>
             <div class="desc">          
-              - Wikified -
+              Distilling the Real World for Gaming
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://alveslima-edu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alveslima-edu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://trb-mux.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trb-mux.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://alveslima-edu.wikidot.com">WIKEDUCAÇÃO</a></h3>
+            <h3><a target="_blank" href="http://trb-mux.wikidot.com">The Rock Bottom MUX</a></h3>
             <div class="desc">          
               
             </div>
@@ -1711,23 +1711,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://etnolinguistica.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/etnolinguistica.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rhetoricalgoddess.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rhetoricalgoddess.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://etnolinguistica.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
+            <h3><a target="_blank" href="http://rhetoricalgoddess.wikidot.com">The Rhetorical Goddess Wiki</a></h3>
             <div class="desc">          
-              línguas e culturas indígenas sul-americanas
+              Because the Truth and That Which Resembles It Belong to the Same Capacity
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kindiy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kindiy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://solpadeinehelp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/solpadeinehelp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kindiy.wikidot.com">kinDIY</a></h3>
+            <h3><a target="_blank" href="http://solpadeinehelp.wikidot.com">Solpadeine Help</a></h3>
             <div class="desc">          
-              for the DIY kindie community
+              Help and information about Solpadeine addiction
             </div>
           </div>
         </div>
