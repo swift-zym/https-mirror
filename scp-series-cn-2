@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1624041471;
+        OZONE.request.timestamp = 1624066323;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -654,7 +654,7 @@
 <li><a href="/scp-cn-1114">SCP-CN-1114</a> - 鼠标之父</li>
 <li><a href="/scp-cn-1115">SCP-CN-1115</a> - 骨虫</li>
 <li><a href="/scp-cn-1116">SCP-CN-1116</a> - 此世间一切可能性之集合</li>
-<li><a class="newpage" href="/scp-cn-1117">SCP-CN-1117</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1117">SCP-CN-1117</a> - “在黑白的世界中只有我是彩色的”</li>
 <li><a href="/scp-cn-1118">SCP-CN-1118</a> - 头绳</li>
 <li><a class="newpage" href="/scp-cn-1119">SCP-CN-1119</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1120">SCP-CN-1120</a> - 路邊一灘水</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4095, 最后编辑于: <span class="odate time_1623850369 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">16 Jun 2021 13:32</span></div>
+                            <div id="page-info">页面版本: 4096, 最后编辑于: <span class="odate time_1624059250 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Jun 2021 23:34</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+88</span>)</a>
@@ -1689,10 +1689,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://the-nexus.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/the-nexus.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ibphysicsstuff.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibphysicsstuff.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://the-nexus.wikidot.com">Nexus Wiki</a></h3>
+            <h3><a target="_blank" href="http://ibphysicsstuff.wikidot.com">IB Physics Stuff</a></h3>
+            <div class="desc">          
+              - Wikified -
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://alveslima-edu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alveslima-edu.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://alveslima-edu.wikidot.com">WIKEDUCAÇÃO</a></h3>
             <div class="desc">          
               
             </div>
@@ -1700,34 +1711,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://lulu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lulu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://etnolinguistica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/etnolinguistica.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://lulu.wikidot.com">UK Wiki Lulu</a></h3>
+            <h3><a target="_blank" href="http://etnolinguistica.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
             <div class="desc">          
-              The website for the UK creators at Lulu.com
+              línguas e culturas indígenas sul-americanas
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://analyticscamp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/analyticscamp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://kindiy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kindiy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://analyticscamp.wikidot.com">AnalyticsCamp</a></h3>
+            <h3><a target="_blank" href="http://kindiy.wikidot.com">kinDIY</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://hexhouse.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hexhouse.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://hexhouse.wikidot.com">Hex House</a></h3>
-            <div class="desc">          
-              Hopes are smashed, but that ain&#039;t much.
+              for the DIY kindie community
             </div>
           </div>
         </div>
