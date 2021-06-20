@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1624127707;
+        OZONE.request.timestamp = 1624152764;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,10 +1711,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bx-community.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bx-community.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hp-intothefire.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hp-intothefire.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bx-community.wikidot.com">Bidirectional Transformations</a></h3>
+            <h3><a target="_blank" href="http://hp-intothefire.wikidot.com">Harry Potter: Into The Fire</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1722,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://psi-ppwg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psi-ppwg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://librarylab.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/librarylab.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://psi-ppwg.wikidot.com">Performance &amp; Philosophy</a></h3>
+            <h3><a target="_blank" href="http://librarylab.wikidot.com">CTC/Library Lab Wiki</a></h3>
             <div class="desc">          
-              
+              The CTC mothership
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kfmapdb.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kfmapdb.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://generals.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/generals.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kfmapdb.wikidot.com">Killing Floor Map Database</a></h3>
+            <h3><a target="_blank" href="http://generals.wikidot.com">Generalia</a></h3>
             <div class="desc">          
-              KFMapDB.com
+              your one-stop shop for all things generals.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://level1wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/level1wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://energyclub4samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyclub4samvedna.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://level1wiki.wikidot.com">Level 1 Wiki</a></h3>
+            <h3><a target="_blank" href="http://energyclub4samvedna.wikidot.com">Save Energy, Save Future</a></h3>
             <div class="desc">          
-              
+              &quot;The collabrative efforts for Energy saving&quot;
             </div>
           </div>
         </div>

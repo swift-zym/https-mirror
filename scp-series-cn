@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1624127884;
+        OZONE.request.timestamp = 1624152702;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,21 +1688,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hexhouse.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hexhouse.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wow-arrakis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wow-arrakis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hexhouse.wikidot.com">Hex House</a></h3>
+            <h3><a target="_blank" href="http://wow-arrakis.wikidot.com">WoW-Arrakis</a></h3>
             <div class="desc">          
-              Hopes are smashed, but that ain&#039;t much.
+              Clan Hordeño de C&#039;Thun
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://hswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://eng270.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eng270.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://hswiki.wikidot.com">.</a></h3>
+            <h3><a target="_blank" href="http://eng270.wikidot.com">Intro to Creative Writing</a></h3>
+            <div class="desc">          
+              Professor Gabriel
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://opencascade.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opencascade.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://opencascade.wikidot.com">Open CASCADE Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1710,23 +1721,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://paradoxhaze.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paradoxhaze.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://05command.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/05command.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://paradoxhaze.wikidot.com">Paradox Haze</a></h3>
+            <h3><a target="_blank" href="http://05command.wikidot.com">O5 Command</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://oversoulgame.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oversoulgame.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://oversoulgame.wikidot.com">.</a></h3>
-            <div class="desc">          
-              
+              Administration and Management
             </div>
           </div>
         </div>

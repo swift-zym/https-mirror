@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1624127883;
+        OZONE.request.timestamp = 1624152630;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1712,32 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://capnbarefoot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/capnbarefoot.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://videoart.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/videoart.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://capnbarefoot.wikidot.com">Captain Barefoot</a></h3>
-            <div class="desc">          
-              The naturist guide to the Greek Islands
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://fpt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fpt.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://fpt.wikidot.com">Parameterized Complexity</a></h3>
-            <div class="desc">          
-              Did you say NP-hard?
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://minahaplo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/minahaplo.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://minahaplo.wikidot.com">Minahaplo</a></h3>
+            <h3><a target="_blank" href="http://videoart.wikidot.com">Interactive Media Design: Theory</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,12 +1723,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://littlelibaray.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/littlelibaray.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://amiii.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/amiii.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://littlelibaray.wikidot.com">小霜文館</a></h3>
+            <h3><a target="_blank" href="http://amiii.wikidot.com">Análise Matemática III</a></h3>
             <div class="desc">          
-              小樓藏書
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://summer350.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/summer350.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://summer350.wikidot.com">Summer 3500</a></h3>
+            <div class="desc">          
+              Engineering Communications
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>

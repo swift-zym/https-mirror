@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1624127754;
+        OZONE.request.timestamp = 1624152799;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://oblivionshard.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oblivionshard.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-equestria.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-equestria.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://oblivionshard.wikidot.com">Oblivion Reloaded :: UO Shard</a></h3>
+            <h3><a target="_blank" href="http://scp-equestria.wikidot.com">SCP基金会小马国分部</a></h3>
             <div class="desc">          
-              oblivion reloaded shard
+              控制 • 收容 • 保护
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://inter-irc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inter-irc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://biblio.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biblio.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://inter-irc.wikidot.com">Inter Irc</a></h3>
+            <h3><a target="_blank" href="http://biblio.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
+            <div class="desc">          
+              livros e artigos sobre línguas sul-americanas
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://larpard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/larpard.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://larpard.wikidot.com">Larpard</a></h3>
+            <div class="desc">          
+              Vše nejen o larpech ve východních Čechách
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://bozic-nation.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bozic-nation.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://bozic-nation.wikidot.com">Bozic Nation</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://avendar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/avendar.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://avendar.wikidot.com">AvendarWiki</a></h3>
-            <div class="desc">          
-              Database wiki for Avendar MUD
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://celesia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celesia.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://celesia.wikidot.com">Legends of Celesia</a></h3>
-            <div class="desc">          
-              A D&amp;D 3.5/Pathfinder Campaign
             </div>
           </div>
         </div>
