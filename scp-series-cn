@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1624171192;
+        OZONE.request.timestamp = 1624193097;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,45 +1688,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ds10.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds10.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://lightworks.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lightworks.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ds10.wikidot.com">מבני נתונים</a></h3>
+            <h3><a target="_blank" href="http://lightworks.wikidot.com">Lightworks Unofficial Wiki</a></h3>
             <div class="desc">          
-              סמסטר ב&#039;, תש&quot;ע
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://freesmug.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/freesmug.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cicnsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cicnsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://freesmug.wikidot.com">FreeSMUG</a></h3>
+            <h3><a target="_blank" href="http://cicnsandbox.wikidot.com">混沌中文沙盒站</a></h3>
             <div class="desc">          
-              Free Open Source Software Mac User Group
+              奇文共欣赏，疑义相与析
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rpc-jp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpc-jp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
+            <h3><a target="_blank" href="http://rpc-jp.wikidot.com">RPC機構</a></h3>
             <div class="desc">          
-              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
+              研究、保護、収容
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sfugamedev.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfugamedev.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
+            <h3><a target="_blank" href="http://sfugamedev.wikidot.com">SFU Game Developers Club</a></h3>
             <div class="desc">          
-              Fighting Spammers for Fun and Profit!
+              
             </div>
           </div>
         </div>

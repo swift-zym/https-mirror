@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1624171044;
+        OZONE.request.timestamp = 1624193305;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,10 +1711,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bozic-nation.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bozic-nation.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandboxbr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandboxbr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bozic-nation.wikidot.com">Bozic Nation</a></h3>
+            <h3><a target="_blank" href="http://scpsandboxbr.wikidot.com">Sandbox SCP PT-BR</a></h3>
+            <div class="desc">          
+              Onde SCPs Nascem
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://inter-irc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inter-irc.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://inter-irc.wikidot.com">Inter Irc</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,34 +1733,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://editora.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/editora.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-ru.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-ru.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://editora.wikidot.com">CIN  7402 Editoração Científica</a></h3>
+            <h3><a target="_blank" href="http://ci-ru.wikidot.com">The Chaos Insurgency</a></h3>
             <div class="desc">          
-              Disciplina na UFSC
+              Russian Branch
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mainframes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mainframes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scala.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scala.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mainframes.wikidot.com">Mainframes</a></h3>
+            <h3><a target="_blank" href="http://scala.wikidot.com">Scala Geography Wiki</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://castleage.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/castleage.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://castleage.wikidot.com">Castle Age Wiki</a></h3>
-            <div class="desc">          
-              Knowledge Database
             </div>
           </div>
         </div>

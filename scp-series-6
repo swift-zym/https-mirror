@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1624170966;
+        OZONE.request.timestamp = 1624193143;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1541,7 +1541,7 @@
 <li><a href="/scp-5965">SCP-5965</a> - 死亡冲击</li>
 <li><a href="/scp-5966">SCP-5966</a> - 艺术家与赞助人</li>
 <li><a class="newpage" href="/scp-5967">SCP-5967</a> - [拒绝访问]</li>
-<li><a href="/scp-5968">SCP-5968</a> - 剧毒先生</li>
+<li><a class="newpage" href="/scp-5968">SCP-5968</a> - [拒绝访问]</li>
 <li><a href="/scp-5969">SCP-5969</a> - 花之力</li>
 <li><a href="/scp-5970">SCP-5970</a> - 尘埃至上（永远为你）</li>
 <li><a href="/scp-5971">SCP-5971</a> - 言语所不及的一瞬间</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 490, 最后编辑于: <span class="odate time_1623425051 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Jun 2021 15:24</span></div>
+                            <div id="page-info">页面版本: 491, 最后编辑于: <span class="odate time_1624180447 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Jun 2021 09:14</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+19</span>)</a>
@@ -1712,21 +1712,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mkworld.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mkworld.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pacwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pacwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mkworld.wikidot.com">The World of Metamor Keep</a></h3>
+            <h3><a target="_blank" href="http://pacwiki.wikidot.com">PAC Authorization</a></h3>
             <div class="desc">          
-              Welcome to Metamor Keep
+              Paranormal. Activity. Cryptobiology | Since 2020
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://iatkos.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/iatkos.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://heroesmush.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/heroesmush.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://iatkos.wikidot.com">Iatkos</a></h3>
+            <h3><a target="_blank" href="http://heroesmush.wikidot.com">Heroes MUSH</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1734,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://nnhs-science.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nnhs-science.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://moneymakeia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/moneymakeia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://nnhs-science.wikidot.com">Newton North Science Team</a></h3>
+            <h3><a target="_blank" href="http://moneymakeia.wikidot.com">the money making encyclopedia</a></h3>
             <div class="desc">          
-              Naturally Selected and Intelligently Designed
+              Make money with us and have a fun
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-nihil.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-nihil.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://editora.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/editora.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-nihil.wikidot.com">Site Nihil</a></h3>
+            <h3><a target="_blank" href="http://editora.wikidot.com">CIN  7402 Editoração Científica</a></h3>
             <div class="desc">          
-              Perdu après la Fin.
+              Disciplina na UFSC
             </div>
           </div>
         </div>
