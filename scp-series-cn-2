@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1624193339;
+        OZONE.request.timestamp = 1624214005;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -584,13 +584,13 @@
 <li><a href="/scp-cn-1048">SCP-CN-1048</a> - 传承计划</li>
 <li><a href="/scp-cn-1049">SCP-CN-1049</a> - 雕塑家</li>
 <li><a href="/scp-cn-1050">SCP-CN-1050</a> - &quot;宝瓶座&quot;</li>
-<li><a href="/scp-cn-1051">SCP-CN-1051</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1051">SCP-CN-1051</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1052">SCP-CN-1052</a> - 海雪飘落时</li>
 <li><a href="/scp-cn-1053">SCP-CN-1053</a> - 神仙石</li>
 <li><a href="/scp-cn-1054">SCP-CN-1054</a> - dado的童话药</li>
 <li><a href="/scp-cn-1055">SCP-CN-1055</a> - 流浪汉</li>
 <li><a href="/scp-cn-1056">SCP-CN-1056</a> - 小舌精</li>
-<li><a class="newpage" href="/scp-cn-1057">SCP-CN-1057</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1057">SCP-CN-1057</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1058">SCP-CN-1058</a> - 书面报告</li>
 <li><a href="/scp-cn-1059">SCP-CN-1059-J</a></li>
 <li><a href="/scp-cn-1060">SCP-CN-1060</a> - 迟到帮助</li>
@@ -642,7 +642,7 @@
 <li><a href="/scp-cn-1102">SCP-CN-1102</a> - 银莲花之心</li>
 <li><a href="/scp-cn-1103">SCP-CN-1103</a> - 机兽</li>
 <li><a href="/scp-cn-1104">SCP-CN-1104</a> - 黑暗中的倩影</li>
-<li><a class="newpage" href="/scp-cn-1105">SCP-CN-1105</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1105">SCP-CN-1105</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1106">SCP-CN-1106</a> - 枯骨魔方</li>
 <li><a href="/scp-cn-1107">SCP-CN-1107</a> - 风扇</li>
 <li><a href="/scp-cn-1108">SCP-CN-1108</a> - [禁止访问]</li>
@@ -1689,45 +1689,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://paralelo.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paralelo.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cst133a.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cst133a.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://paralelo.wikidot.com">Paralelo</a></h3>
+            <h3><a target="_blank" href="http://cst133a.wikidot.com">CST 133 A</a></h3>
             <div class="desc">          
-              29 March - 2 April 2009
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://snowleopard.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snowleopard.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nauticoamager.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nauticoamager.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://snowleopard.wikidot.com">Snow Leopard Compatibility</a></h3>
+            <h3><a target="_blank" href="http://nauticoamager.wikidot.com">NauticoAmager</a></h3>
             <div class="desc">          
-              Which apps work with Mac OS X 10.6?
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://paperkontainer.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/paperkontainer.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://asoh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/asoh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://paperkontainer.wikidot.com">PaperKontainer</a></h3>
+            <h3><a target="_blank" href="http://asoh.wikidot.com">Another Stage of History</a></h3>
             <div class="desc">          
-              Eine Sandboxseite für Papers fabutastischen Freunde
+              A Character Creation and Edit Officer Site
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://backrooms-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sistdig.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sistdig.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://backrooms-wiki.wikidot.com">The Backrooms</a></h3>
+            <h3><a target="_blank" href="http://sistdig.wikidot.com">Sistemas Digitales</a></h3>
             <div class="desc">          
-              You&#039;ve been here before.
+              
             </div>
           </div>
         </div>
