@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1624152845;
+        OZONE.request.timestamp = 1624171192;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -557,7 +557,7 @@
 <li><a href="/scp-1016">SCP-1016</a> - 凶杀钥匙</li>
 <li><a href="/scp-1017">SCP-1017</a> - 替补驾驶</li>
 <li><a href="/scp-1018">SCP-1018</a> - 干渴</li>
-<li><a href="/scp-1019">SCP-1019</a> - 异常艺术家的讽刺</li>
+<li><a class="newpage" href="/scp-1019">SCP-1019</a> - 异常艺术家的讽刺</li>
 <li><a href="/scp-1020">SCP-1020</a> - 重要来信</li>
 <li><a href="/scp-1021">SCP-1021</a> - 出口</li>
 <li><a href="/scp-1022">SCP-1022</a> - 无菌白衣</li>
@@ -704,7 +704,7 @@
 <li><a href="/scp-1159">SCP-1159</a> - 风弦琴</li>
 <li><a href="/scp-1160">SCP-1160</a> - 有效收容</li>
 <li><a href="/scp-1161">SCP-1161</a> - 如何之书</li>
-<li><a href="/scp-1162">SCP-1162</a> - 墙上一个洞</li>
+<li><a class="newpage" href="/scp-1162">SCP-1162</a> - 墙上一个洞</li>
 <li><a href="/scp-1163">SCP-1163</a> - 换脸者</li>
 <li><a href="/scp-1164">SCP-1164</a> - 回响墓志铭</li>
 <li><a href="/scp-1165">SCP-1165</a> - 负层</li>
@@ -1246,7 +1246,7 @@
 <li><a href="/scp-1681">SCP-1681</a> - 美国偶像</li>
 <li><a href="/scp-1682">SCP-1682</a> - 太阳寄生虫</li>
 <li><a href="/scp-1683">SCP-1683</a> - 登月卧室</li>
-<li><a href="/scp-1684">SCP-1684</a> - 病毒不动产</li>
+<li><a class="newpage" href="/scp-1684">SCP-1684</a> - 病毒不动产</li>
 <li><a href="/scp-1685">SCP-1685</a> - 揽胜处</li>
 <li><a href="/scp-1686">SCP-1686</a> - 鱼雨</li>
 <li><a href="/scp-1687">SCP-1687</a> - 小提琴</li>
@@ -1713,45 +1713,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ccpd.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ccpd.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ds10.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds10.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ccpd.wikidot.com">Pieces of Our Minds</a></h3>
+            <h3><a target="_blank" href="http://ds10.wikidot.com">מבני נתונים</a></h3>
             <div class="desc">          
-              Creative Communication and Portfolio Development e-Learning Project
+              סמסטר ב&#039;, תש&quot;ע
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://startup-australia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/startup-australia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://freesmug.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/freesmug.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://startup-australia.wikidot.com">Startup Australia</a></h3>
+            <h3><a target="_blank" href="http://freesmug.wikidot.com">FreeSMUG</a></h3>
             <div class="desc">          
-              
+              Free Open Source Software Mac User Group
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://videoart.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/videoart.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://videoart.wikidot.com">Interactive Media Design: Theory</a></h3>
+            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
             <div class="desc">          
-              
+              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fairfieldproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fairfieldproject.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fairfieldproject.wikidot.com">The Fairfield Project</a></h3>
+            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
             <div class="desc">          
-              The Delta Green wiki
+              Fighting Spammers for Fun and Profit!
             </div>
           </div>
         </div>
