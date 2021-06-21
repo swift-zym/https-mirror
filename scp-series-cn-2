@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1624257689;
+        OZONE.request.timestamp = 1624279670;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -642,7 +642,7 @@
 <li><a href="/scp-cn-1102">SCP-CN-1102</a> - 银莲花之心</li>
 <li><a href="/scp-cn-1103">SCP-CN-1103</a> - 机兽</li>
 <li><a href="/scp-cn-1104">SCP-CN-1104</a> - 黑暗中的倩影</li>
-<li><a href="/scp-cn-1105">SCP-CN-1105</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1105">SCP-CN-1105</a> - 幸福地生活在一起</li>
 <li><a href="/scp-cn-1106">SCP-CN-1106</a> - 枯骨魔方</li>
 <li><a href="/scp-cn-1107">SCP-CN-1107</a> - 风扇</li>
 <li><a href="/scp-cn-1108">SCP-CN-1108</a> - [禁止访问]</li>
@@ -1346,7 +1346,7 @@
 <li><a href="/scp-cn-1782">SCP-CN-1782</a> - 换弹的诱惑</li>
 <li><a href="/scp-cn-1783">SCP-CN-1783</a> - 祈生花祝</li>
 <li><a href="/scp-cn-1784">SCP-CN-1784</a> - 异常天气现象（名称暂定）</li>
-<li><a class="newpage" href="/scp-cn-1785">SCP-CN-1785</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1785">SCP-CN-1785</a> - 海天味极鲜</li>
 <li><a href="/scp-cn-1786">SCP-CN-1786</a> - 虚假的音乐</li>
 <li><a href="/scp-cn-1787">SCP-CN-1787</a> - 七重纱</li>
 <li><a href="/scp-cn-1788">SCP-CN-1788</a> - 逝者长存</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4096, 最后编辑于: <span class="odate time_1624059250 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">18 Jun 2021 23:34</span></div>
+                            <div id="page-info">页面版本: 4098, 最后编辑于: <span class="odate time_1624278524 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">21 Jun 2021 12:28</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+88</span>)</a>
@@ -1689,10 +1689,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://design-illustration.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/design-illustration.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://zodiac-ffrpg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zodiac-ffrpg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://design-illustration.wikidot.com">Design &amp; Illustration</a></h3>
+            <h3><a target="_blank" href="http://zodiac-ffrpg.wikidot.com">ZODIAC Final Fantasy RPG</a></h3>
             <div class="desc">          
               
             </div>
@@ -1700,23 +1700,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cgp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cgp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://under-welkin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/under-welkin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cgp.wikidot.com">Computer Games Programming</a></h3>
+            <h3><a target="_blank" href="http://under-welkin.wikidot.com">天穹敻远</a></h3>
             <div class="desc">          
-              CGP Students
+              列星安陈，众线何参
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://generals.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/generals.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://generals.wikidot.com">Generalia</a></h3>
+            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
             <div class="desc">          
-              your one-stop shop for all things generals.
+              and what they&#039;re trying to tell you
             </div>
           </div>
         </div>
