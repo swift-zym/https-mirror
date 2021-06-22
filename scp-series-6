@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1624324811;
+        OZONE.request.timestamp = 1624343972;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -946,7 +946,7 @@
 <li><a class="newpage" href="/scp-5394">SCP-5394</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5395">SCP-5395</a> - Thought Bubbles</li>
 <li><a class="newpage" href="/scp-5396">SCP-5396</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5397">SCP-5397</a> - [拒绝访问]</li>
+<li><a href="/scp-5397">SCP-5397</a> - “正义”（2024，用融化的人的血肉涂在墙上，15m*10m）</li>
 <li><a class="newpage" href="/scp-5398">SCP-5398</a> - [拒绝访问]</li>
 <li><a href="/scp-5399">SCP-5399</a> - 一只小嗡嗡</li>
 </ul>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 491, 最后编辑于: <span class="odate time_1624180447 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Jun 2021 09:14</span></div>
+                            <div id="page-info">页面版本: 492, 最后编辑于: <span class="odate time_1624341837 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">22 Jun 2021 06:03</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+19</span>)</a>
@@ -1712,32 +1712,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://zeroshell.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/zeroshell.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://roboticsclubucla.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/roboticsclubucla.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://zeroshell.wikidot.com">Zeroshell</a></h3>
-            <div class="desc">          
-              Guida all&#039;uso/Admin Guide
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://cityofangels.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cityofangels.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://cityofangels.wikidot.com">Twilight&#039;s Failing</a></h3>
-            <div class="desc">          
-              A World of Darkness Encyclopedia for Modern Nights
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://bx-community.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bx-community.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://bx-community.wikidot.com">Bidirectional Transformations</a></h3>
+            <h3><a target="_blank" href="http://roboticsclubucla.wikidot.com">Robotics Club @ UCLA Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,12 +1723,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://backrooms-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://globalclimatechange.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/globalclimatechange.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://backrooms-sandbox.wikidot.com">Backrooms Sandbox</a></h3>
+            <h3><a target="_blank" href="http://globalclimatechange.wikidot.com">Global Climate Destabilization</a></h3>
             <div class="desc">          
-              When your Sandbox just gets too Backrooms
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://sharecokecodes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sharecokecodes.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://sharecokecodes.wikidot.com">Share Coke Codes</a></h3>
+            <div class="desc">          
+              Sharing happiness by sharing Coke rewards codes.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://wqa.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wqa.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://wqa.wikidot.com">.</a></h3>
+            <div class="desc">          
+              wqa wiki
             </div>
           </div>
         </div>

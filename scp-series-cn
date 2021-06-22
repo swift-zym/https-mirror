@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1624324736;
+        OZONE.request.timestamp = 1624344043;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -991,7 +991,7 @@
 <li><a href="/scp-cn-440">SCP-CN-440</a> - 四方桌仙</li>
 <li><a href="/scp-cn-441">SCP-CN-441</a> - 反常的解剖楼</li>
 <li><a href="/scp-cn-442">SCP-CN-442</a> - 探索天空</li>
-<li><a class="newpage" href="/scp-cn-443">SCP-CN-443</a> - 幽闭空间</li>
+<li><a class="newpage" href="/scp-cn-443">SCP-CN-443</a> - [禁止访问]</li>
 <li><a href="/scp-cn-444">SCP-CN-444</a> - 天籁</li>
 <li><a href="/scp-cn-445">SCP-CN-445</a> - 一篇不合格的异常文档</li>
 <li><a href="/scp-cn-446">SCP-CN-446</a> - 窗外的脸</li>
@@ -1616,7 +1616,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 3272, 最后编辑于: <span class="odate time_1623913314 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Jun 2021 07:01</span></div>
+                            <div id="page-info">页面版本: 3273, 最后编辑于: <span class="odate time_1624343943 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">22 Jun 2021 06:39</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+72</span>)</a>
@@ -1688,21 +1688,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wow-arrakis.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wow-arrakis.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://puppet.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/puppet.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wow-arrakis.wikidot.com">WoW-Arrakis</a></h3>
-            <div class="desc">          
-              Clan Hordeño de C&#039;Thun
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://trb-mux.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trb-mux.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://trb-mux.wikidot.com">The Rock Bottom MUX</a></h3>
+            <h3><a target="_blank" href="http://puppet.wikidot.com">Puppet中文wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1710,10 +1699,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://epimreth.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/epimreth.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://uniofbeds.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uniofbeds.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://epimreth.wikidot.com">Επιμόρφωση Β&#039;  στο Ρέθυμνο</a></h3>
+            <h3><a target="_blank" href="http://uniofbeds.wikidot.com">Uniofbeds</a></h3>
             <div class="desc">          
               
             </div>
@@ -1721,12 +1710,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://denver.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/denver.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-yerko-5.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-yerko-5.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://denver.wikidot.com">Shadowrun: Denver</a></h3>
+            <h3><a target="_blank" href="http://scp-yerko-5.wikidot.com">Yerko&#039;s Sandbox V</a></h3>
             <div class="desc">          
-              Complicated Shadows
+              La Decadencia Hecha Borrador
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://professorallred.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/professorallred.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://professorallred.wikidot.com">Ammon Allred&#039;s Online Classroom</a></h3>
+            <div class="desc">          
+              University of Toledo Philosophy Professor
             </div>
           </div>
         </div>
