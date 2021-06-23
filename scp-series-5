@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1624430264;
+        OZONE.request.timestamp = 1624473369;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1507,7 +1507,7 @@
 <li><a href="/scp-4908">SCP-4908</a> - 我人生的故事</li>
 <li><a class="newpage" href="/scp-4909">SCP-4909</a> - Octopus' Garden</li>
 <li><a href="/scp-4910">SCP-4910</a> - “笑面妖物”</li>
-<li><a class="newpage" href="/scp-4911">SCP-4911</a> - 2001年9.11事件</li>
+<li><a href="/scp-4911">SCP-4911</a> - 山丘</li>
 <li><a class="newpage" href="/scp-4912">SCP-4912</a> - With Great Power</li>
 <li><a href="/scp-4913">SCP-4913</a> - 5星级[已编辑]</li>
 <li><a class="newpage" href="/scp-4914">SCP-4914</a> - Gamer Against Weeds</li>
@@ -1631,7 +1631,7 @@
 
 
 <div class="footnotes-footer">
-<div class="title">Footnotes</div>
+<div class="title">脚注</div>
 <div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
 <div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
 </div>
@@ -1671,7 +1671,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 772, 最后编辑于: <span class="odate time_1621985873 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">25 May 2021 23:37</span></div>
+                            <div id="page-info">页面版本: 773, 最后编辑于: <span class="odate time_1624470361 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Jun 2021 17:46</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1743,45 +1743,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://themes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/themes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cs124project-2009.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs124project-2009.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://themes.wikidot.com">Wikidot Themes</a></h3>
-            <div class="desc">          
-              share your Wikidot theme with others!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://metroplexity.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metroplexity.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://metroplexity.wikidot.com">Metroplexity</a></h3>
-            <div class="desc">          
-              Learn the secrets of Metroplex
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wpts.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wpts.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wpts.wikidot.com">WPTS</a></h3>
-            <div class="desc">          
-              pittsburgh&#039;s progressive FM
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://timoha64.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/timoha64.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://timoha64.wikidot.com">Тимоха64</a></h3>
+            <h3><a target="_blank" href="http://cs124project-2009.wikidot.com">Computational Genetics Project</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cs101c.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs101c.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cs101c.wikidot.com">CS 101C</a></h3>
+            <div class="desc">          
+              Predator-Prey Model
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://excellector.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/excellector.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://excellector.wikidot.com">The Excellector</a></h3>
+            <div class="desc">          
+              King&#039;s Field Wiki
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://huolu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/huolu.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://huolu.wikidot.com">火炉网 Huolu</a></h3>
+            <div class="desc">          
+              欢迎访问火炉网！
             </div>
           </div>
         </div>

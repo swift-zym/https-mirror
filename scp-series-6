@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1624430216;
+        OZONE.request.timestamp = 1624473369;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -773,7 +773,7 @@
 <li><a href="/scp-5225">SCP-5225</a> - 深渊回眸</li>
 <li><a class="newpage" href="/scp-5226">SCP-5226</a> - [拒绝访问]</li>
 <li><a href="/scp-5227">SCP-5227</a> - <span style="white-space: pre-wrap;">F.O.G&#32;///&#32;畏神</span></li>
-<li><a class="newpage" href="/scp-5228">SCP-5228</a> - 作为电脑的批萨</li>
+<li><a href="/scp-5228">SCP-5228</a> - 是披萨，同时也是一台电脑</li>
 <li><a class="newpage" href="/scp-5229">SCP-5229</a> - Dem Wet Bones</li>
 <li><a href="/scp-5230">SCP-5230</a> - 甜蜜的玩偶孤儿院</li>
 <li><a href="/scp-5231">SCP-5231</a> - 127.0.0.WAN</li>
@@ -842,7 +842,7 @@
 <li><a href="/scp-5294">SCP-5294</a> - 鼠尾老太</li>
 <li><a class="newpage" href="/scp-5295">SCP-5295</a> - The Person-to-Personal Computer</li>
 <li><a class="newpage" href="/scp-5296">SCP-5296</a> - An Unbelievable <strong>Mistake</strong></li>
-<li><a class="newpage" href="/scp-5297">SCP-5297</a> - JamBomb</li>
+<li><a href="/scp-5297">SCP-5297</a> - 炸酱</li>
 <li><a href="/scp-5298">SCP-5298</a> - 坎普斯杀手</li>
 <li><a href="/scp-5299">SCP-5299</a> - 园</li>
 </ul>
@@ -1279,7 +1279,7 @@
 <li><a class="newpage" href="/scp-5711">SCP-5711</a> - Threat Level: MIDNIGHT</li>
 <li><a href="/scp-5712">SCP-5712</a> - 恶魔，模因和超级计算机</li>
 <li><a class="newpage" href="/scp-5713">SCP-5713</a> - [拒绝访问]</li>
-<li><a class="newpage" href="/scp-5714">SCP-5714</a> - [拒绝访问]</li>
+<li><a href="/scp-5714">SCP-5714</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5715">SCP-5715</a> - [拒绝访问]</li>
 <li><a href="/scp-5716">SCP-5716</a> - 你不是一台机器人</li>
 <li><a class="newpage" href="/scp-5717">SCP-5717</a> - Wait for it Wait for it Wait for it</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 493, 最后编辑于: <span class="odate time_1624350675 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">22 Jun 2021 08:31</span></div>
+                            <div id="page-info">页面版本: 495, 最后编辑于: <span class="odate time_1624470214 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Jun 2021 17:43</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+19</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mcoblivionwiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mcoblivionwiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cs124project-2009.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs124project-2009.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mcoblivionwiki.wikidot.com">Oblivion Wiki</a></h3>
+            <h3><a target="_blank" href="http://cs124project-2009.wikidot.com">Computational Genetics Project</a></h3>
             <div class="desc">          
-              Полная информация по серверу
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cunefb2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefb2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cs101c.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs101c.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cunefb2.wikidot.com">CUNEF Group B2</a></h3>
+            <h3><a target="_blank" href="http://cs101c.wikidot.com">CS 101C</a></h3>
             <div class="desc">          
-              For Your Work, Opinions and Discoveries!
+              Predator-Prey Model
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://spambotdeathwall.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/spambotdeathwall.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://excellector.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/excellector.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://spambotdeathwall.wikidot.com">Spambot Death Wall</a></h3>
+            <h3><a target="_blank" href="http://excellector.wikidot.com">The Excellector</a></h3>
             <div class="desc">          
-              Fighting Spammers for Fun and Profit!
+              King&#039;s Field Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ibiz.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibiz.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://huolu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/huolu.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ibiz.wikidot.com">Internet and Business</a></h3>
+            <h3><a target="_blank" href="http://huolu.wikidot.com">火炉网 Huolu</a></h3>
             <div class="desc">          
-              How the internet has changed business
+              欢迎访问火炉网！
             </div>
           </div>
         </div>
