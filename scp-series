@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1624473367;
+        OZONE.request.timestamp = 1624497337;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1711,32 +1711,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pylint-messages.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pylint-messages.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sliscomps.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sliscomps.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pylint-messages.wikidot.com">PyLint Messages</a></h3>
-            <div class="desc">          
-              and what they&#039;re trying to tell you
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://musicgames.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/musicgames.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://musicgames.wikidot.com">Games for Music</a></h3>
-            <div class="desc">          
-              Music Game Archive &amp; Community for Musicians of All Levels
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://sortibrige.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sortibrige.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://sortibrige.wikidot.com">John Parra</a></h3>
+            <h3><a target="_blank" href="http://sliscomps.wikidot.com">CUA SLIS Comps Study Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1744,12 +1722,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dqnine.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dqnine.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-id-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-id-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dqnine.wikidot.com">Dragon Quest IX</a></h3>
+            <h3><a target="_blank" href="http://scp-id-sandbox.wikidot.com">SCP Sandbox ID</a></h3>
             <div class="desc">          
-              Sentinels of the Starry Skies
+              Kotak Pasir Karya SCP
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://level1wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/level1wiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://level1wiki.wikidot.com">Level 1 Wiki</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scpvakfisandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfisandbox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scpvakfisandbox.wikidot.com">SCP Vakfı Sandbox</a></h3>
+            <div class="desc">          
+              Atış poligonu
             </div>
           </div>
         </div>
