@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1624516547;
+        OZONE.request.timestamp = 1624538637;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1189,7 +1189,7 @@
 <li><a href="/scp-626">SCP-626</a> - 视觉变更雕塑</li>
 <li><a href="/scp-627">SCP-627</a> - 永动圈</li>
 <li><a href="/scp-628">SCP-628</a> - 长笛杂树林</li>
-<li><a class="newpage" href="/scp-629">SCP-629</a> - 黄铜先生</li>
+<li><a class="newpage" href="/scp-629">SCP-629</a> - Mr. Brass</li>
 <li><a href="/scp-630">SCP-630</a> - 黑色冰川</li>
 <li><a href="/scp-631">SCP-631</a> - 惧黑夜行者</li>
 <li><a href="/scp-632">SCP-632</a> - 侵入性蜘蛛形思维</li>
@@ -1639,7 +1639,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 290, 最后编辑于: <span class="odate time_1623557161 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">13 Jun 2021 04:06</span></div>
+                            <div id="page-info">页面版本: 291, 最后编辑于: <span class="odate time_1624535246 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Jun 2021 11:47</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+32</span>)</a>
@@ -1711,45 +1711,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fpt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fpt.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
+            <h3><a target="_blank" href="http://fpt.wikidot.com">Parameterized Complexity</a></h3>
             <div class="desc">          
-              
+              Did you say NP-hard?
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ttu-dom.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ttu-dom.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://awwshop.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/awwshop.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ttu-dom.wikidot.com">TTU Dynamics of Machinery II</a></h3>
+            <h3><a target="_blank" href="http://awwshop.wikidot.com">Awwshop.com</a></h3>
             <div class="desc">          
-              
+              A mousewheel link click opens in a new tab.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://join.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/join.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-kz.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-kz.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://join.wikidot.com">Join this Site!</a></h3>
+            <h3><a target="_blank" href="http://scp-kz.wikidot.com">SCP Foundation</a></h3>
             <div class="desc">          
-              
+              Kazakh Branch
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://thecollaboratory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thecollaboratory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tasker.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tasker.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://thecollaboratory.wikidot.com">The Collaboratory</a></h3>
+            <h3><a target="_blank" href="http://tasker.wikidot.com">Tasker Wiki</a></h3>
             <div class="desc">          
-              at Colby Community College
+              
             </div>
           </div>
         </div>

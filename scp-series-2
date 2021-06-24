@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1624516722;
+        OZONE.request.timestamp = 1624538857;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -704,7 +704,7 @@
 <li><a href="/scp-1159">SCP-1159</a> - 风弦琴</li>
 <li><a href="/scp-1160">SCP-1160</a> - 有效收容</li>
 <li><a href="/scp-1161">SCP-1161</a> - 如何之书</li>
-<li><a class="newpage" href="/scp-1162">SCP-1162</a> - 墙上一个洞</li>
+<li><a href="/scp-1162">SCP-1162</a> - 墙上一个洞</li>
 <li><a href="/scp-1163">SCP-1163</a> - 换脸者</li>
 <li><a href="/scp-1164">SCP-1164</a> - 回响墓志铭</li>
 <li><a href="/scp-1165">SCP-1165</a> - 负层</li>
@@ -1246,7 +1246,7 @@
 <li><a href="/scp-1681">SCP-1681</a> - 美国偶像</li>
 <li><a href="/scp-1682">SCP-1682</a> - 太阳寄生虫</li>
 <li><a href="/scp-1683">SCP-1683</a> - 登月卧室</li>
-<li><a class="newpage" href="/scp-1684">SCP-1684</a> - 病毒不动产</li>
+<li><a class="newpage" href="/scp-1684">SCP-1684</a> - Viral Realty</li>
 <li><a href="/scp-1685">SCP-1685</a> - 揽胜处</li>
 <li><a href="/scp-1686">SCP-1686</a> - 鱼雨</li>
 <li><a href="/scp-1687">SCP-1687</a> - 小提琴</li>
@@ -1641,7 +1641,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 413, 最后编辑于: <span class="odate time_1624180079 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">20 Jun 2021 09:07</span></div>
+                            <div id="page-info">页面版本: 415, 最后编辑于: <span class="odate time_1624535743 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">24 Jun 2021 11:55</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1713,45 +1713,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vs-tcg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vs-tcg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-wiki-de.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-de.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vs-tcg.wikidot.com">Sparkling Victory!</a></h3>
+            <h3><a target="_blank" href="http://scp-wiki-de.wikidot.com">SCP Foundation</a></h3>
             <div class="desc">          
-              Time to Spark, Time for Victory...
+              auf Deutsch
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://uberoptions.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uberoptions.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pemarf.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pemarf.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://uberoptions.wikidot.com">uberOptions</a></h3>
+            <h3><a target="_blank" href="http://pemarf.wikidot.com">PEMARF</a></h3>
             <div class="desc">          
-              Enable all options on all buttons in SetPoint
+              Princípios de Evolução Molecular Aplicados à Reconstrução Filogenética
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://game-maker.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/game-maker.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://historynewmedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/historynewmedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://game-maker.wikidot.com">GameMaker Wiki</a></h3>
+            <h3><a target="_blank" href="http://historynewmedia.wikidot.com">History in the New Media</a></h3>
+            <div class="desc">          
+              Digital Project Design in Archives and Public History
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://coscup.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coscup.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://coscup.wikidot.com">COSCUP WIKI</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://jimsgaming.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jimsgaming.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://jimsgaming.wikidot.com">Big Damn Gaming Page</a></h3>
-            <div class="desc">          
-              So many games, so little time...
             </div>
           </div>
         </div>
