@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1624584676;
+        OZONE.request.timestamp = 1624602852;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1712,10 +1712,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://my-pride.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/my-pride.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-rubbish.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-rubbish.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://my-pride.wikidot.com">My Pride</a></h3>
+            <h3><a target="_blank" href="http://scp-rubbish.wikidot.com">SCP-rubbish</a></h3>
+            <div class="desc">          
+              控制，收容，保护
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://loteria-esportiva.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/loteria-esportiva.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://loteria-esportiva.wikidot.com">Todos os jogos da Loteria Esportiva desde 1970</a></h3>
+            <div class="desc">          
+              (em construção)
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://techcomm.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/techcomm.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://techcomm.wikidot.com">TechnicalCommunication</a></h3>
             <div class="desc">          
               
             </div>
@@ -1723,34 +1745,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://norron.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/norron.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-jp-archive.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-archive.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://norron.wikidot.com">WikiNorron</a></h3>
+            <h3><a target="_blank" href="http://scp-jp-archive.wikidot.com">SCP日本財団中枢資料室。</a></h3>
             <div class="desc">          
-              Almost as good as the guide, maybe better!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://comux.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/comux.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://comux.wikidot.com">CoMUX</a></h3>
-            <div class="desc">          
-              Realities Combined
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://kdiprivateequity.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kdiprivateequity.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://kdiprivateequity.wikidot.com">KDI Private Equity</a></h3>
-            <div class="desc">          
-              
+              収用
             </div>
           </div>
         </div>
