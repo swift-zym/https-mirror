@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1624689517;
+        OZONE.request.timestamp = 1624711579;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -466,7 +466,7 @@
 <div class="scpnet-interwiki-wrapper"><div class="list-pages-box">    <div class="list-pages-item">
 
 
-<p><iframe src="http://scp-wiki-cn.wdfiles.com/local--files/nav%3Aside/interwikiFrame.html?category=_default&pagename=scp-series-cn-2" class="html-block-iframe scpnet-interwiki-frame" name="interwikiFrame"></iframe></p>
+<p><iframe src="https://scp-wiki-cn.wdfiles.com/local--files/nav%3Aside/interwikiFrame.html?category=_default&pagename=scp-series-cn-2" class="html-block-iframe scpnet-interwiki-frame" name="interwikiFrame"></iframe></p>
 </div>
     
     
@@ -584,13 +584,13 @@
 <li><a href="/scp-cn-1048">SCP-CN-1048</a> - 传承计划</li>
 <li><a href="/scp-cn-1049">SCP-CN-1049</a> - 雕塑家</li>
 <li><a href="/scp-cn-1050">SCP-CN-1050</a> - &quot;宝瓶座&quot;</li>
-<li><a class="newpage" href="/scp-cn-1051">SCP-CN-1051</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1051">SCP-CN-1051</a> - 四维空间的召唤</li>
 <li><a href="/scp-cn-1052">SCP-CN-1052</a> - 海雪飘落时</li>
 <li><a href="/scp-cn-1053">SCP-CN-1053</a> - 神仙石</li>
 <li><a href="/scp-cn-1054">SCP-CN-1054</a> - dado的童话药</li>
 <li><a href="/scp-cn-1055">SCP-CN-1055</a> - 流浪汉</li>
 <li><a href="/scp-cn-1056">SCP-CN-1056</a> - 小舌精</li>
-<li><a href="/scp-cn-1057">SCP-CN-1057</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1057">SCP-CN-1057</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1058">SCP-CN-1058</a> - 书面报告</li>
 <li><a href="/scp-cn-1059">SCP-CN-1059-J</a></li>
 <li><a href="/scp-cn-1060">SCP-CN-1060</a> - 迟到帮助</li>
@@ -654,7 +654,7 @@
 <li><a href="/scp-cn-1114">SCP-CN-1114</a> - 鼠标之父</li>
 <li><a href="/scp-cn-1115">SCP-CN-1115</a> - 骨虫</li>
 <li><a href="/scp-cn-1116">SCP-CN-1116</a> - 此世间一切可能性之集合</li>
-<li><a href="/scp-cn-1117">SCP-CN-1117</a> - “在黑白的世界中只有我是彩色的”</li>
+<li><a class="newpage" href="/scp-cn-1117">SCP-CN-1117</a> - “在黑白的世界中只有我是彩色的”</li>
 <li><a href="/scp-cn-1118">SCP-CN-1118</a> - 头绳</li>
 <li><a class="newpage" href="/scp-cn-1119">SCP-CN-1119</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1120">SCP-CN-1120</a> - 路邊一灘水</li>
@@ -1346,7 +1346,7 @@
 <li><a href="/scp-cn-1782">SCP-CN-1782</a> - 换弹的诱惑</li>
 <li><a href="/scp-cn-1783">SCP-CN-1783</a> - 祈生花祝</li>
 <li><a href="/scp-cn-1784">SCP-CN-1784</a> - 异常天气现象（名称暂定）</li>
-<li><a href="/scp-cn-1785">SCP-CN-1785</a> - 海天味极鲜</li>
+<li><a class="newpage" href="/scp-cn-1785">SCP-CN-1785</a> - 海天味极鲜</li>
 <li><a href="/scp-cn-1786">SCP-CN-1786</a> - 虚假的音乐</li>
 <li><a href="/scp-cn-1787">SCP-CN-1787</a> - 七重纱</li>
 <li><a href="/scp-cn-1788">SCP-CN-1788</a> - 逝者长存</li>
@@ -1617,7 +1617,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4100, 最后编辑于: <span class="odate time_1624343910 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">22 Jun 2021 06:38</span></div>
+                            <div id="page-info">页面版本: 4101, 最后编辑于: <span class="odate time_1624709806 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">26 Jun 2021 12:16</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+88</span>)</a>
@@ -1689,32 +1689,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://retrolegends.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrolegends.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://stallmanism.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/stallmanism.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://retrolegends.wikidot.com">Retro Legends</a></h3>
+            <h3><a target="_blank" href="http://stallmanism.wikidot.com">Stallmanism</a></h3>
             <div class="desc">          
-              The Definitive Database for Retro Gamers
+              a Religion for the 21st Century
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://lgam.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lgam.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://oracledatabase.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/oracledatabase.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://lgam.wikidot.com">LGAM Knowledge Base</a></h3>
+            <h3><a target="_blank" href="http://oracledatabase.wikidot.com">Oracle Database</a></h3>
             <div class="desc">          
-              Local Government Knowledge Sharing
+              All things oracle...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blank-template.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blank-template.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pagi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pagi.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blank-template.wikidot.com">Blank Template</a></h3>
+            <h3><a target="_blank" href="http://pagi.wikidot.com">pagi</a></h3>
             <div class="desc">          
               
             </div>
@@ -1722,12 +1722,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://solpadeinehelp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/solpadeinehelp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls2.wikidot.com">DarkSouls II Wiki</a></h3>
+            <h3><a target="_blank" href="http://solpadeinehelp.wikidot.com">Solpadeine Help</a></h3>
             <div class="desc">          
-              #1 source of fan provided tips, strategies, FAQs, and information about Dark Souls II
+              Help and information about Solpadeine addiction
             </div>
           </div>
         </div>

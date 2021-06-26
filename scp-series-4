@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1624689515;
+        OZONE.request.timestamp = 1624711515;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -466,7 +466,7 @@
 <div class="scpnet-interwiki-wrapper"><div class="list-pages-box">    <div class="list-pages-item">
 
 
-<p><iframe src="http://scp-wiki-cn.wdfiles.com/local--files/nav%3Aside/interwikiFrame.html?category=_default&pagename=scp-series-4" class="html-block-iframe scpnet-interwiki-frame" name="interwikiFrame"></iframe></p>
+<p><iframe src="https://scp-wiki-cn.wdfiles.com/local--files/nav%3Aside/interwikiFrame.html?category=_default&pagename=scp-series-4" class="html-block-iframe scpnet-interwiki-frame" name="interwikiFrame"></iframe></p>
 </div>
     
     
@@ -1712,32 +1712,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://retrolegends.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrolegends.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://liminal-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/liminal-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://retrolegends.wikidot.com">Retro Legends</a></h3>
+            <h3><a target="_blank" href="http://liminal-sandbox.wikidot.com">Liminal Sandbox</a></h3>
             <div class="desc">          
-              The Definitive Database for Retro Gamers
+              Sandbox for the Liminal Archives
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://lgam.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lgam.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpvakfisandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpvakfisandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://lgam.wikidot.com">LGAM Knowledge Base</a></h3>
+            <h3><a target="_blank" href="http://scpvakfisandbox.wikidot.com">SCP Vakfı Sandbox</a></h3>
             <div class="desc">          
-              Local Government Knowledge Sharing
+              Atış poligonu
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://blank-template.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blank-template.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pottersarmy.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pottersarmy.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://blank-template.wikidot.com">Blank Template</a></h3>
+            <h3><a target="_blank" href="http://pottersarmy.wikidot.com">Potter&#039;s Army</a></h3>
             <div class="desc">          
               
             </div>
@@ -1745,12 +1745,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://darksouls2.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls2.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ccpd.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ccpd.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://darksouls2.wikidot.com">DarkSouls II Wiki</a></h3>
+            <h3><a target="_blank" href="http://ccpd.wikidot.com">Pieces of Our Minds</a></h3>
             <div class="desc">          
-              #1 source of fan provided tips, strategies, FAQs, and information about Dark Souls II
+              Creative Communication and Portfolio Development e-Learning Project
             </div>
           </div>
         </div>
