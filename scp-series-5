@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1624670325;
+        OZONE.request.timestamp = 1624689465;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1743,21 +1743,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://istar.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/istar.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://inter-irc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inter-irc.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://istar.wikidot.com">ISTAR</a></h3>
-            <div class="desc">          
-              International Society for Testate Amoeba Research
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://globalseminarhealth.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/globalseminarhealth.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://globalseminarhealth.wikidot.com">Health and Environment</a></h3>
+            <h3><a target="_blank" href="http://inter-irc.wikidot.com">Inter Irc</a></h3>
             <div class="desc">          
               
             </div>
@@ -1765,23 +1754,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://theanarchstate.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/theanarchstate.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cat-wiki-cn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cat-wiki-cn.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://theanarchstate.wikidot.com">The Anarch State</a></h3>
+            <h3><a target="_blank" href="http://cat-wiki-cn.wikidot.com">SCP生化实验部</a></h3>
             <div class="desc">          
-              We have moved to projectfiction.net/wiki - and projectfiction.net port 9999
+              真理至上 无限循环
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://koavalon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/koavalon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://crm-iseg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/crm-iseg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://koavalon.wikidot.com">Kingdoms of Avalon</a></h3>
+            <h3><a target="_blank" href="http://crm-iseg.wikidot.com">CRM ISEG</a></h3>
             <div class="desc">          
-              Lord Thornwell&#039;s Finishing School for Young Nobles
+              Customer Relationship Management
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://soymilkls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soymilkls.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://soymilkls.wikidot.com">Soymilk Linkshell</a></h3>
+            <div class="desc">          
+              Professional, drama-free dynamis since 2005!
             </div>
           </div>
         </div>
