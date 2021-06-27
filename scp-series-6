@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1624757522;
+        OZONE.request.timestamp = 1624775793;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1712,21 +1712,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://librarylab.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/librarylab.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hexhouse.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hexhouse.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://librarylab.wikidot.com">CTC/Library Lab Wiki</a></h3>
+            <h3><a target="_blank" href="http://hexhouse.wikidot.com">Hex House</a></h3>
             <div class="desc">          
-              The CTC mothership
+              Hopes are smashed, but that ain&#039;t much.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://vwinterop.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vwinterop.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://snowleopard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/snowleopard.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://vwinterop.wikidot.com">Virtual World Interoperability</a></h3>
+            <h3><a target="_blank" href="http://snowleopard.wikidot.com">Snow Leopard Compatibility</a></h3>
+            <div class="desc">          
+              Which apps work with Mac OS X 10.6?
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://mybookworld.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mybookworld.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://mybookworld.wikidot.com">Hacking WD MyBook World Ed</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1745,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ci-cn-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-cn-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://dndis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dndis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ci-cn-wiki.wikidot.com">混沌分裂者</a></h3>
+            <h3><a target="_blank" href="http://dndis.wikidot.com">Dungeons &amp; Discourse</a></h3>
             <div class="desc">          
-              进步高于一切
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://thep-serc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thep-serc.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://thep-serc.wikidot.com">SERC Schools in THEP</a></h3>
-            <div class="desc">          
-              
+              Gamma Edition
             </div>
           </div>
         </div>
