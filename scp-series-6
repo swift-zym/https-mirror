@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1625016512;
+        OZONE.request.timestamp = 1625034998;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1445,7 +1445,7 @@
 <li><a href="/scp-5873">SCP-5873</a> - 背叛裤</li>
 <li><a class="newpage" href="/scp-5874">SCP-5874</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5875">SCP-5875</a> - A Call to Adventure in a Missive from Below</li>
-<li><a class="newpage" href="/scp-5876">SCP-5876</a> - [拒绝访问]</li>
+<li><a href="/scp-5876">SCP-5876</a> - [拒绝访问]</li>
 <li><a href="/scp-5877">SCP-5877</a> - 无名者们</li>
 <li><a class="newpage" href="/scp-5878">SCP-5878</a> - The Void Stares Into You</li>
 <li><a class="newpage" href="/scp-5879">SCP-5879</a> - [拒绝访问]</li>
@@ -1477,7 +1477,7 @@
 <li><a href="/scp-5901">SCP-5901</a> - 世上最强滑雪球</li>
 <li><a href="/scp-5902">SCP-5902</a> - 管理部</li>
 <li><a class="newpage" href="/scp-5903">SCP-5903</a> - In Cauda Venenum (What Are You?)</li>
-<li><a class="newpage" href="/scp-5904">SCP-5904</a> - [拒绝访问]</li>
+<li><a href="/scp-5904">SCP-5904</a> - 非人力资源</li>
 <li><a class="newpage" href="/scp-5905">SCP-5905</a> - Gashadokuro</li>
 <li><a class="newpage" href="/scp-5906">SCP-5906</a> - [拒绝访问]</li>
 <li><a href="/scp-5907">SCP-5907</a> - 完美合身的服装</li>
@@ -1640,7 +1640,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 495, 最后编辑于: <span class="odate time_1624470214 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">23 Jun 2021 17:43</span></div>
+                            <div id="page-info">页面版本: 496, 最后编辑于: <span class="odate time_1625031892 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">30 Jun 2021 05:44</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+19</span>)</a>
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pottersarmy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pottersarmy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fondationscp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondationscp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pottersarmy.wikidot.com">Potter&#039;s Army</a></h3>
+            <h3><a target="_blank" href="http://fondationscp.wikidot.com">Fondation SCP</a></h3>
+            <div class="desc">          
+              Sécuriser, Contenir, Protéger
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://taustationnotebook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/taustationnotebook.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://taustationnotebook.wikidot.com">Tau Station Notebook</a></h3>
+            <div class="desc">          
+              A storyline conceptualisation
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://norron.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/norron.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://norron.wikidot.com">WikiNorron</a></h3>
+            <div class="desc">          
+              Almost as good as the guide, maybe better!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://sfugamedev.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sfugamedev.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://sfugamedev.wikidot.com">SFU Game Developers Club</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://cubesat.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cubesat.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://cubesat.wikidot.com">CubeSat</a></h3>
-            <div class="desc">          
-              University of Leicester CubeSat Project
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://demonssouls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/demonssouls.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://demonssouls.wikidot.com">Demon&#039;s Souls English Wiki</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://idireitofbv.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/idireitofbv.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://idireitofbv.wikidot.com">Direito da Informática - FBV</a></h3>
-            <div class="desc">          
-              Informática Jurídica e Juscibernética
             </div>
           </div>
         </div>

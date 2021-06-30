@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1625016619;
+        OZONE.request.timestamp = 1625034997;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1688,21 +1688,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fretsonfire.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fretsonfire.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-nihil.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-nihil.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fretsonfire.wikidot.com">Frets On Fire Wiki</a></h3>
+            <h3><a target="_blank" href="http://scp-nihil.wikidot.com">Site Nihil</a></h3>
             <div class="desc">          
-              courtesy of fretsonfire.org
+              Perdu après la Fin.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cpp-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cpp-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://arlington.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arlington.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cpp-wiki.wikidot.com">C++ Wiki</a></h3>
+            <h3><a target="_blank" href="http://arlington.wikidot.com">Arlington, Mass.</a></h3>
+            <div class="desc">          
+              The Arlington Wiki - Arlington, MA
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://academicwriting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/academicwriting.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://academicwriting.wikidot.com">Academic Writing</a></h3>
             <div class="desc">          
               
             </div>
@@ -1710,23 +1721,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sistdig.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sistdig.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sharecokecodes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sharecokecodes.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sistdig.wikidot.com">Sistemas Digitales</a></h3>
+            <h3><a target="_blank" href="http://sharecokecodes.wikidot.com">Share Coke Codes</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://sped.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sped.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://sped.wikidot.com">The Special Ed Wiki</a></h3>
-            <div class="desc">          
-              sarah irvine belson (sarah@american.edu)
+              Sharing happiness by sharing Coke rewards codes.
             </div>
           </div>
         </div>
