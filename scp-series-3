@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1625103014;
+        OZONE.request.timestamp = 1625121515;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1712,45 +1712,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tauren.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tauren.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://tauren.wikidot.com">Tauren Ate My Grandma</a></h3>
-            <div class="desc">          
-              has moved!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://karma-lab.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/karma-lab.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://karma-lab.wikidot.com">Karma-Lab</a></h3>
-            <div class="desc">          
-              KARMA Technology and the products incorporating it
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://waywardsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/waywardsandbox.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://waywardsandbox.wikidot.com">Wayward Society Sandbox</a></h3>
-            <div class="desc">          
-              Even secret societies need to draft.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
             <a target="_blank" class="image" href="http://scp-jp.wikidot.com">
               <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp.wikidot.com/80.jpg"/>
             </a>
             <h3><a target="_blank" href="http://scp-jp.wikidot.com">SCP財団</a></h3>
             <div class="desc">          
               確保、収容、保護
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://colbycriminaljustice.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/colbycriminaljustice.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://colbycriminaljustice.wikidot.com">Criminal Justice Collaboratory</a></h3>
+            <div class="desc">          
+              Colby Community College
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://fondazionescp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fondazionescp.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://fondazionescp.wikidot.com">Fondazione SCP</a></h3>
+            <div class="desc">          
+              Branca Italiana - SCP Foundation
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>
