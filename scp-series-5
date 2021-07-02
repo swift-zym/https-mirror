@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1625207447;
+        OZONE.request.timestamp = 1625229861;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1396,7 +1396,7 @@
 <ul>
 <li><a href="/scp-4800">SCP-4800</a> - 午夜</li>
 <li><a class="newpage" href="/scp-4801">SCP-4801</a> - Echidna Enthusiast</li>
-<li><a class="newpage" href="/scp-4802">SCP-4802</a> - Dirty Birdy</li>
+<li><a href="/scp-4802">SCP-4802</a> - 脏鸟</li>
 <li><a href="/scp-4803">SCP-4803</a> - 记录者</li>
 <li><a href="/scp-4804">SCP-4804</a> - 虚构的果肉</li>
 <li><a class="newpage" href="/scp-4805">SCP-4805</a> - Utilitarian</li>
@@ -1745,45 +1745,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://chessopeningsforengines.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessopeningsforengines.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://halflifetr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/halflifetr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://chessopeningsforengines.wikidot.com">Chess Openings for Engine Competition</a></h3>
+            <h3><a target="_blank" href="http://halflifetr.wikidot.com">Half-Life Wiki</a></h3>
             <div class="desc">          
-              Opening lines that are known in Master play and that are biased for one side
+              TR
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://microchip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-pl.wikidot.com">Fundacja SCP</a></h3>
-            <div class="desc">          
-              Polska Filia SCP
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://airchairbuild.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/airchairbuild.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://airchairbuild.wikidot.com">airchair-ultralight-gliders</a></h3>
-            <div class="desc">          
-              Building and flying the Goat and Bug style of airchair ultralight gliders
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://unece-stage3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/unece-stage3.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://unece-stage3.wikidot.com">UNECE Stage 3 Review</a></h3>
+            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://epitome.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/epitome.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://epitome.wikidot.com">Epitome City</a></h3>
+            <div class="desc">          
+              Hero or Villain? You decide.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-sandbox-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox-zh.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-sandbox-zh.wikidot.com">SCP繁體中文沙盒</a></h3>
+            <div class="desc">          
+              發現，發掘，發佈
             </div>
           </div>
         </div>

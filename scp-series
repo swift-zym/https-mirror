@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1625207511;
+        OZONE.request.timestamp = 1625229734;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1713,10 +1713,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://serpents-hand.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/serpents-hand.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://larpard.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/larpard.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://serpents-hand.wikidot.com">Serpent&#039;s Hand</a></h3>
+            <h3><a target="_blank" href="http://larpard.wikidot.com">Larpard</a></h3>
+            <div class="desc">          
+              Vše nejen o larpech ve východních Čechách
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://praemien-teilen.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/praemien-teilen.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://praemien-teilen.wikidot.com">Prämien teilen</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,21 +1735,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://figmentregistry.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/figmentregistry.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://keramik.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/keramik.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://figmentregistry.wikidot.com">Sygnus Figment Registry</a></h3>
-            <div class="desc">          
-              Where Writers Share Their Characters &amp; Worlds
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://opencascade.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/opencascade.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://opencascade.wikidot.com">Open CASCADE Wiki</a></h3>
+            <h3><a target="_blank" href="http://keramik.wikidot.com">Keramiker - fabriker - stämplar och signaturer</a></h3>
             <div class="desc">          
               
             </div>
@@ -1746,12 +1746,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sliscomps.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sliscomps.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darksouls2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sliscomps.wikidot.com">CUA SLIS Comps Study Wiki</a></h3>
+            <h3><a target="_blank" href="http://darksouls2.wikidot.com">DarkSouls II Wiki</a></h3>
             <div class="desc">          
-              
+              #1 source of fan provided tips, strategies, FAQs, and information about Dark Souls II
             </div>
           </div>
         </div>

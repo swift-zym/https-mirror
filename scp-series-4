@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1625207422;
+        OZONE.request.timestamp = 1625229840;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -690,7 +690,7 @@
 <li><a class="newpage" href="/scp-3144">SCP-3144</a> - The Real World Is Faker Than Wrestling</li>
 <li><a href="/scp-3145">SCP-3145</a> - 自我代入</li>
 <li><a class="newpage" href="/scp-3146">SCP-3146</a> - Money Match</li>
-<li><a class="newpage" href="/scp-3147">SCP-3147</a> - Tongue Twisted</li>
+<li><a href="/scp-3147">SCP-3147</a> - 变声绕口令棒棒糖</li>
 <li><a class="newpage" href="/scp-3148">SCP-3148</a> - Tranquility</li>
 <li><a class="newpage" href="/scp-3149">SCP-3149</a> - Monkey Business</li>
 <li><a href="/scp-3150">SCP-3150</a> - 世界尽头的旅店</li>
@@ -762,7 +762,7 @@
 <li><a href="/scp-3212">SCP-3212</a> - 怪异装修者</li>
 <li><a href="/scp-3213">SCP-3213</a> - 滚吧Carl。</li>
 <li><a class="newpage" href="/scp-3214">SCP-3214</a> - Star Quality</li>
-<li><a class="newpage" href="/scp-3215">SCP-3215</a> - Delicious Anemone</li>
+<li><a href="/scp-3215">SCP-3215</a> - 美味的海葵</li>
 <li><a href="/scp-3216">SCP-3216</a> - 纽约建筑“三兄弟”</li>
 <li><a href="/scp-3217">SCP-3217</a> - 邮件“H”，代表“Hero”。</li>
 <li><a href="/scp-3218">SCP-3218</a> - 匣中动物</li>
@@ -1642,7 +1642,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 897, 最后编辑于: <span class="odate time_1624966621 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">29 Jun 2021 11:37</span></div>
+                            <div id="page-info">页面版本: 899, 最后编辑于: <span class="odate time_1625224750 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Jul 2021 11:19</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1714,10 +1714,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://odrinsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/odrinsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://halflifetr.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/halflifetr.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://odrinsandbox.wikidot.com">Odrin Sandbox</a></h3>
+            <h3><a target="_blank" href="http://halflifetr.wikidot.com">Half-Life Wiki</a></h3>
+            <div class="desc">          
+              TR
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://microchip.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchip.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://microchip.wikidot.com">Developer Help</a></h3>
             <div class="desc">          
               
             </div>
@@ -1725,34 +1736,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://towngoodiesch.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/towngoodiesch.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://epitome.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/epitome.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://towngoodiesch.wikidot.com">美國城鎮旅遊網</a></h3>
+            <h3><a target="_blank" href="http://epitome.wikidot.com">Epitome City</a></h3>
             <div class="desc">          
-              美國城市旅遊逛街活動指南
+              Hero or Villain? You decide.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fightcorruption.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fightcorruption.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-sandbox-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox-zh.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fightcorruption.wikidot.com">Fight Corruption Now</a></h3>
+            <h3><a target="_blank" href="http://scp-sandbox-zh.wikidot.com">SCP繁體中文沙盒</a></h3>
             <div class="desc">          
-              Fight Corruption NOW Before It Is Too Late
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
-            <div class="desc">          
-              
+              發現，發掘，發佈
             </div>
           </div>
         </div>
