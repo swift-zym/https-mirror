@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1625189320;
+        OZONE.request.timestamp = 1625207650;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -152,6 +152,7 @@
 <ul>
 <li>SCP系列
 <ul>
+<li><a href="/scp-series-7">系列 VII (6000 - 6999)</a></li>
 <li><a href="/scp-series-6">系列 VI (5000 - 5999)</a></li>
 <li><a href="/scp-series-5">系列 V (4000 - 4999)</a></li>
 <li><a href="/scp-series-5-tales-edition">» 系列 V 故事</a></li>
@@ -272,6 +273,7 @@
 <li><a href="/scp-series-cn">CN系列 I (CN-001 - CN-999)</a></li>
 <li><a href="/joke-scps-cn">搞笑SCP-CN</a></li>
 <li><a href="/scp-ex-cn">已解明SCP-CN</a></li>
+<li><a href="/scp-series-7">系列 VII (6000 - 6999)</a></li>
 <li><a href="/scp-series-6">系列 VI (5000 - 5999)</a></li>
 <li><a href="/scp-series-5">系列 V (4000 - 4999)</a></li>
 <li><a href="/scp-series-5-tales-edition">» 系列 V 故事</a></li>
@@ -389,7 +391,7 @@
 <div class="heading">
 <p>SCP系列</p>
 </div>
-<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /> <a href="/scp-series">I</a> | <a href="/scp-series-2">II</a> | <a href="/scp-series-3">III</a> | <a href="/scp-series-4">IV</a> | <a href="/scp-series-5">V</a> | <a href="/scp-series-6">VI</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /> <a href="/scp-series">I</a> | <a href="/scp-series-2">II</a> | <a href="/scp-series-3">III</a> | <a href="/scp-series-4">IV</a> | <a href="/scp-series-5">V</a> | <a href="/scp-series-6">VI</a> | <a href="/scp-series-7">VII</a></div>
 <div class="heading">
 <p>SCP系列故事</p>
 </div>
@@ -1101,7 +1103,7 @@
 <li><a href="/scp-2541">SCP-2541</a> - 就像一颗柠檬，性欲是如此美丽和有魅力…</li>
 <li><a class="newpage" href="/scp-2542">SCP-2542</a> - Grinds Exceeding Small</li>
 <li><a class="newpage" href="/scp-2543">SCP-2543</a> - Our Harriet</li>
-<li><a class="newpage" href="/scp-2544">SCP-2544</a> - The Call of the Void</li>
+<li><a href="/scp-2544">SCP-2544</a> - 无的呼唤</li>
 <li><a href="/scp-2545">SCP-2545</a> - 小熊软糖</li>
 <li><a class="newpage" href="/scp-2546">SCP-2546</a> - A Retroviral Nightmare</li>
 <li><a href="/scp-2547">SCP-2547</a> - 夏天的狗日子</li>
@@ -1640,7 +1642,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 596, 最后编辑于: <span class="odate time_1620536654 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">09 May 2021 05:04</span></div>
+                            <div id="page-info">页面版本: 597, 最后编辑于: <span class="odate time_1625191500 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Jul 2021 02:05</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+8</span>)</a>
@@ -1712,45 +1714,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gamemaker.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gamemaker.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
+            <h3><a target="_blank" href="http://gamemaker.wikidot.com">GameMaker: Studio Wiki</a></h3>
+            <div class="desc">          
+              GameMaker: Studio Tutorials &amp; Resources
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://vocaro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vocaro.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://vocaro.wikidot.com">보카로 가사 위키</a></h3>
+            <div class="desc">          
+              Vocaloid Lyrics Wiki
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://borradores-scp-es.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/borradores-scp-es.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://borradores-scp-es.wikidot.com">Borradores SCP-ES</a></h3>
+            <div class="desc">          
+              Sitio de borradores para miembros de la Fundación SCP-ES
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ibhistory.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibhistory.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ibhistory.wikidot.com">IB History</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://musicgames.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/musicgames.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://musicgames.wikidot.com">Games for Music</a></h3>
-            <div class="desc">          
-              Music Game Archive &amp; Community for Musicians of All Levels
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://brtff.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/brtff.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://brtff.wikidot.com">BRTFF</a></h3>
-            <div class="desc">          
-              Passion on the Top
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://chessopeningsforengines.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chessopeningsforengines.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://chessopeningsforengines.wikidot.com">Chess Openings for Engine Competition</a></h3>
-            <div class="desc">          
-              Opening lines that are known in Master play and that are biased for one side
             </div>
           </div>
         </div>

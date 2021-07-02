@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1625189145;
+        OZONE.request.timestamp = 1625207422;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -152,6 +152,7 @@
 <ul>
 <li>SCP系列
 <ul>
+<li><a href="/scp-series-7">系列 VII (6000 - 6999)</a></li>
 <li><a href="/scp-series-6">系列 VI (5000 - 5999)</a></li>
 <li><a href="/scp-series-5">系列 V (4000 - 4999)</a></li>
 <li><a href="/scp-series-5-tales-edition">» 系列 V 故事</a></li>
@@ -272,6 +273,7 @@
 <li><a href="/scp-series-cn">CN系列 I (CN-001 - CN-999)</a></li>
 <li><a href="/joke-scps-cn">搞笑SCP-CN</a></li>
 <li><a href="/scp-ex-cn">已解明SCP-CN</a></li>
+<li><a href="/scp-series-7">系列 VII (6000 - 6999)</a></li>
 <li><a href="/scp-series-6">系列 VI (5000 - 5999)</a></li>
 <li><a href="/scp-series-5">系列 V (4000 - 4999)</a></li>
 <li><a href="/scp-series-5-tales-edition">» 系列 V 故事</a></li>
@@ -389,7 +391,7 @@
 <div class="heading">
 <p>SCP系列</p>
 </div>
-<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /> <a href="/scp-series">I</a> | <a href="/scp-series-2">II</a> | <a href="/scp-series-3">III</a> | <a href="/scp-series-4">IV</a> | <a href="/scp-series-5">V</a> | <a href="/scp-series-6">VI</a></div>
+<div class="menu-item"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/series.png" alt="series.png" class="image" /> <a href="/scp-series">I</a> | <a href="/scp-series-2">II</a> | <a href="/scp-series-3">III</a> | <a href="/scp-series-4">IV</a> | <a href="/scp-series-5">V</a> | <a href="/scp-series-6">VI</a> | <a href="/scp-series-7">VII</a></div>
 <div class="heading">
 <p>SCP系列故事</p>
 </div>
@@ -1712,21 +1714,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://odrinsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/odrinsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandbox.wikidot.com">The SCP Sandbox</a></h3>
-            <div class="desc">          
-              Осторожно! Идут испытания!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://vyprmedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vyprmedia.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://vyprmedia.wikidot.com">VyprMedia</a></h3>
+            <h3><a target="_blank" href="http://odrinsandbox.wikidot.com">Odrin Sandbox</a></h3>
             <div class="desc">          
               
             </div>
@@ -1734,23 +1725,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://exciting.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exciting.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://towngoodiesch.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/towngoodiesch.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://exciting.wikidot.com">exciting</a></h3>
+            <h3><a target="_blank" href="http://towngoodiesch.wikidot.com">美國城鎮旅遊網</a></h3>
             <div class="desc">          
-              exciting, all electron DFT
+              美國城市旅遊逛街活動指南
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://java.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/java.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fightcorruption.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fightcorruption.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://java.wikidot.com">Learn Java!</a></h3>
+            <h3><a target="_blank" href="http://fightcorruption.wikidot.com">Fight Corruption Now</a></h3>
             <div class="desc">          
-              No... it&#039;s not coffee.
+              Fight Corruption NOW Before It Is Too Late
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>
