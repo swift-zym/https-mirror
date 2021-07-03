@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1625250847;
+        OZONE.request.timestamp = 1625275193;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1715,45 +1715,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://summer350.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/summer350.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-un.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-un.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://summer350.wikidot.com">Summer 3500</a></h3>
+            <h3><a target="_blank" href="http://scp-un.wikidot.com">SCP Foundation</a></h3>
             <div class="desc">          
-              Engineering Communications
+              Underrepresented Languages Incubator
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smlt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smlt.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://odrin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/odrin.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smlt.wikidot.com">SMLT Container</a></h3>
+            <h3><a target="_blank" href="http://odrin.wikidot.com">‏‏‏‏‏‏‏‏ODRIN</a></h3>
             <div class="desc">          
-              The SCP Sandbox by Nerds for Nerds.
+              ‏‏‏‏‏‏‏‏
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://musicgames.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/musicgames.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki.wikidot.com">SCP Foundation</a></h3>
+            <h3><a target="_blank" href="http://musicgames.wikidot.com">Games for Music</a></h3>
             <div class="desc">          
-              Secure, Contain, Protect
+              Music Game Archive &amp; Community for Musicians of All Levels
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://jquery-easyui.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jquery-easyui.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ipr12.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ipr12.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://jquery-easyui.wikidot.com">jQuery EasyUI</a></h3>
+            <h3><a target="_blank" href="http://ipr12.wikidot.com">IPR12</a></h3>
             <div class="desc">          
-              easyui help you build your web page easily!
+              Introduction to Perception and Robotics
             </div>
           </div>
         </div>
