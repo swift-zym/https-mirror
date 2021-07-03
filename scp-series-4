@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1625274962;
+        OZONE.request.timestamp = 1625294237;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -677,7 +677,7 @@
 <li><a href="/scp-3131">SCP-3131</a> - 音乐就是生命</li>
 <li><a href="/scp-3132">SCP-3132</a> - Crackin' the Back Knack</li>
 <li><a href="/scp-3133">SCP-3133</a> - 致O5-05的邮件</li>
-<li><a href="/scp-3134">SCP-3134</a> - The Things Left Behind</li>
+<li><a href="/scp-3134">SCP-3134</a> - 遗害</li>
 <li><a href="/scp-3135">SCP-3135</a> - 《星际迷航：下一代：旅程继续！》</li>
 <li><a href="/scp-3136">SCP-3136</a> - 此处有怪物</li>
 <li><a href="/scp-3137">SCP-3137</a> - Nitepad™</li>
@@ -899,7 +899,7 @@
 <li><a class="newpage" href="/scp-3345">SCP-3345</a> - Crime Novel</li>
 <li><a href="/scp-3346">SCP-3346</a> - 忧虑帽</li>
 <li><a class="newpage" href="/scp-3347">SCP-3347</a> - They Grow Up So Fast</li>
-<li><a href="/scp-3348">SCP-3348</a> - 丢失的词典</li>
+<li><a class="newpage" href="/scp-3348">SCP-3348</a> - 丢失的词典</li>
 <li><a class="newpage" href="/scp-3349">SCP-3349</a> - <span class="wait-progress">Printing EKG</span></li>
 <li><a href="/scp-3350">SCP-3350</a> - 开始造型！</li>
 <li><a href="/scp-3351">SCP-3351</a> - 未来之日</li>
@@ -1642,7 +1642,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 899, 最后编辑于: <span class="odate time_1625224750 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Jul 2021 11:19</span></div>
+                            <div id="page-info">页面版本: 900, 最后编辑于: <span class="odate time_1625282062 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 Jul 2021 03:14</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1714,21 +1714,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fmiseria3.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fmiseria3.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://abarrelfull.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/abarrelfull.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fmiseria3.wikidot.com">Portalul Seriilor de Informatica</a></h3>
+            <h3><a target="_blank" href="http://abarrelfull.wikidot.com">A Barrel Full</a></h3>
             <div class="desc">          
-              Facultatea de Matematica si Informatica, Universitatea din Bucuresti
+              A Barrel Full of information for Oil Industry Professionals
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pedhemoncreview.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pedhemoncreview.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://psyc101.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psyc101.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pedhemoncreview.wikidot.com">Pediatric Hematology &amp; Oncology Certification Review</a></h3>
+            <h3><a target="_blank" href="http://psyc101.wikidot.com">Intro to Psychology (PSYC 101)</a></h3>
             <div class="desc">          
               
             </div>
@@ -1736,23 +1736,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://halfmoonbay.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/halfmoonbay.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tpswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tpswiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://halfmoonbay.wikidot.com">Half Moon Bay Weyr</a></h3>
+            <h3><a target="_blank" href="http://tpswiki.wikidot.com">TPSwiki.com</a></h3>
             <div class="desc">          
-              Join us at paper.mudmagic.com Port:2211
+              The Radiation Oncology Treatment Planning System Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://funclubfrp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/funclubfrp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://battlestargenesis.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/battlestargenesis.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://funclubfrp.wikidot.com">FUNCLUB FullRP</a></h3>
+            <h3><a target="_blank" href="http://battlestargenesis.wikidot.com">BATTLESTAR GENESIS MUSH</a></h3>
             <div class="desc">          
-              База данных зоны 81F
+              battlestar.isunlimited.net    3012
             </div>
           </div>
         </div>
