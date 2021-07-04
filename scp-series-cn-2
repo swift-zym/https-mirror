@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1625402716;
+        OZONE.request.timestamp = 1625423737;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1691,21 +1691,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smalltown.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smalltown.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wqa.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wqa.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smalltown.wikidot.com">小城的问候</a></h3>
+            <h3><a target="_blank" href="http://wqa.wikidot.com">.</a></h3>
             <div class="desc">          
-              Greetings from afar...
+              wqa wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://orakulus-scpf.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/orakulus-scpf.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://orakulus-scpf.wikidot.com">Orakulus&#039; Special Containment Procedures Foundation</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox2.wikidot.com">SCP Sandbox Wiki II</a></h3>
+            <div class="desc">          
+              Sandbox Harder
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://bozic-nation.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bozic-nation.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://bozic-nation.wikidot.com">Bozic Nation</a></h3>
             <div class="desc">          
               
             </div>
@@ -1713,23 +1724,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://loteria-esportiva.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/loteria-esportiva.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
+            <h3><a target="_blank" href="http://loteria-esportiva.wikidot.com">Todos os jogos da Loteria Esportiva desde 1970</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://enchantedbros.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/enchantedbros.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://enchantedbros.wikidot.com">Enchanted Bros wiki</a></h3>
-            <div class="desc">          
-              
+              (em construção)
             </div>
           </div>
         </div>
