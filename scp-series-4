@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1625380594;
+        OZONE.request.timestamp = 1625402544;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -727,7 +727,7 @@
 <li><a href="/scp-3181">SCP-3181</a> - 来点无骨</li>
 <li><a href="/scp-3182">SCP-3182</a> - 杂货店</li>
 <li><a href="/scp-3183">离散</a> -</li>
-<li><a class="newpage" href="/scp-3184">SCP-3184</a> - I'm sick of bugs getting stuck in my god damn bathroom light</li>
+<li><a href="/scp-3184">SCP-3184</a> - 我讨厌虫子卡在我该死的浴室灯里</li>
 <li><a href="/scp-3185">SCP-3185</a> - 公有领域保护服务</li>
 <li><a href="/scp-3186">SCP-3186</a> - 我们的话语如此熟练地写划于天边</li>
 <li><a class="newpage" href="/scp-3187">SCP-3187</a> - Honu</li>
@@ -1642,7 +1642,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 900, 最后编辑于: <span class="odate time_1625282062 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">03 Jul 2021 03:14</span></div>
+                            <div id="page-info">页面版本: 901, 最后编辑于: <span class="odate time_1625388541 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">04 Jul 2021 08:49</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1714,45 +1714,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://stsandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/stsandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://jadecrossing.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jadecrossing.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://stsandbox.wikidot.com">小城沙盒站</a></h3>
+            <h3><a target="_blank" href="http://jadecrossing.wikidot.com">Jade Crossing</a></h3>
             <div class="desc">          
-              鸽 子 聚 集 地
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://airchairbuild.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/airchairbuild.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rtd1261.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rtd1261.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://airchairbuild.wikidot.com">airchair-ultralight-gliders</a></h3>
+            <h3><a target="_blank" href="http://rtd1261.wikidot.com">RTD1261 MediaPlayer</a></h3>
             <div class="desc">          
-              Building and flying the Goat and Bug style of airchair ultralight gliders
+              Tweaking the Realtek RTD1261 Mediaplayer
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://psychotronicsdivision.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/psychotronicsdivision.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gamedesign.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gamedesign.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://psychotronicsdivision.wikidot.com">Psychotronics Division</a></h3>
+            <h3><a target="_blank" href="http://gamedesign.wikidot.com">Game Design Novice</a></h3>
             <div class="desc">          
-              Divided, we are One. One, we are All.
+              Learn to make video games.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://dawnofanewage.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dawnofanewage.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://dawnofanewage.wikidot.com">Dawn of a New Age Wiki</a></h3>
+            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
             <div class="desc">          
-              A Custom Fantasy Setting
+              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
             </div>
           </div>
         </div>

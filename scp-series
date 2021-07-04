@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1625380428;
+        OZONE.request.timestamp = 1625402526;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1713,21 +1713,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ozradonc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ozradonc.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://jadecrossing.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jadecrossing.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ozradonc.wikidot.com">OzRadOnc</a></h3>
-            <div class="desc">          
-              A collection of thoughts and notes
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://metrixcreate.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metrixcreate.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://metrixcreate.wikidot.com">Metrix Create:Space</a></h3>
+            <h3><a target="_blank" href="http://jadecrossing.wikidot.com">Jade Crossing</a></h3>
             <div class="desc">          
               
             </div>
@@ -1735,23 +1724,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://airchairbuild.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/airchairbuild.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rtd1261.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rtd1261.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://airchairbuild.wikidot.com">airchair-ultralight-gliders</a></h3>
+            <h3><a target="_blank" href="http://rtd1261.wikidot.com">RTD1261 MediaPlayer</a></h3>
             <div class="desc">          
-              Building and flying the Goat and Bug style of airchair ultralight gliders
+              Tweaking the Realtek RTD1261 Mediaplayer
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://mbitcoin.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mbitcoin.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gamedesign.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gamedesign.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://mbitcoin.wikidot.com">BitCoin</a></h3>
+            <h3><a target="_blank" href="http://gamedesign.wikidot.com">Game Design Novice</a></h3>
             <div class="desc">          
-              
+              Learn to make video games.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://darksouls.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/darksouls.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://darksouls.wikidot.com">Dark Souls Wiki</a></h3>
+            <div class="desc">          
+              Your #1 source of fan provided tips, strategies, FAQs, and informaton about Dark Souls
             </div>
           </div>
         </div>
