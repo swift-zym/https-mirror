@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1625466840;
+        OZONE.request.timestamp = 1625488998;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -611,7 +611,7 @@
 <li><a href="/scp-5069">SCP-5069</a> - 八正道</li>
 <li><a class="newpage" href="/scp-5070">SCP-5070</a> - 他（唯一）的好朋友</li>
 <li><a class="newpage" href="/scp-5071">SCP-5071</a> - Exquisite Corpses</li>
-<li><a class="newpage" href="/scp-5072">SCP-5072</a> - Some Fireflies in Need</li>
+<li><a href="/scp-5072">SCP-5072</a> - 一些需要帮助的萤火虫</li>
 <li><a href="/scp-5073">SCP-5073</a> - 热巧克力好喝到爆</li>
 <li><a class="newpage" href="/scp-5074">SCP-5074</a> - Childhoods End, and Bubbles Burst</li>
 <li><a class="newpage" href="/scp-5075">SCP-5075</a> - All The <span class="dblock">Hanged Kings</span>, True Care, Truth Brings</li>
@@ -1642,7 +1642,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 498, 最后编辑于: <span class="odate time_1625250929 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">02 Jul 2021 18:35</span></div>
+                            <div id="page-info">页面版本: 499, 最后编辑于: <span class="odate time_1625485584 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Jul 2021 11:46</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+19</span>)</a>
@@ -1714,17 +1714,6 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://inter-irc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inter-irc.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://inter-irc.wikidot.com">Inter Irc</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
             <a target="_blank" class="image" href="http://handbook.wikidot.com">
               <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/handbook.wikidot.com/80.jpg"/>
             </a>
@@ -1736,10 +1725,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-pt-br.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-pt-br.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
+            <h3><a target="_blank" href="http://scp-pt-br.wikidot.com">Fundação SCP</a></h3>
+            <div class="desc">          
+              Filial Lusófona
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://coscup.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/coscup.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://coscup.wikidot.com">COSCUP WIKI</a></h3>
             <div class="desc">          
               
             </div>
@@ -1747,12 +1747,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://me1065.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/me1065.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bootstrap-playground.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bootstrap-playground.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://me1065.wikidot.com">Thermal Systems</a></h3>
+            <h3><a target="_blank" href="http://bootstrap-playground.wikidot.com">Bootstrap Playground</a></h3>
             <div class="desc">          
-              
+              Because we all need a place to play
             </div>
           </div>
         </div>
