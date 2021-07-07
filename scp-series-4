@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1625596595;
+        OZONE.request.timestamp = 1625621181;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1714,32 +1714,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://surge-archive.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/surge-archive.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://languagearts8.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/languagearts8.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://surge-archive.wikidot.com">Surge&#039;s Archive</a></h3>
-            <div class="desc">          
-              啟以白羽，終於藍海
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://storychip.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/storychip.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://storychip.wikidot.com">Story Chip</a></h3>
-            <div class="desc">          
-              Become a part of history, share your story.
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://retrowiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/retrowiki.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://retrowiki.wikidot.com">RetroWIKI</a></h3>
+            <h3><a target="_blank" href="http://languagearts8.wikidot.com">Language Arts (8)</a></h3>
             <div class="desc">          
               
             </div>
@@ -1747,12 +1725,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://margopedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/margopedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://shillahelpsite.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/shillahelpsite.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://margopedia.wikidot.com">Margopedia</a></h3>
+            <h3><a target="_blank" href="http://shillahelpsite.wikidot.com">Shilla Helpsite</a></h3>
             <div class="desc">          
-              Połączenie wikipedii i nonsensopedii...
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://championsashes.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/championsashes.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://championsashes.wikidot.com">Champion&#039;s Ashes</a></h3>
+            <div class="desc">          
+              The Official Wiki For Dark Souls III: Champion&#039;s Ashes
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-th.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-th.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-th.wikidot.com">สถาบัน SCP</a></h3>
+            <div class="desc">          
+              ควบคุม, กักกัน, ป้องกัน
             </div>
           </div>
         </div>
