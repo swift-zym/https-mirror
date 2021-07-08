@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1625682904;
+        OZONE.request.timestamp = 1625707460;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1715,21 +1715,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ci-ru.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-ru.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://exploringsciencewiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exploringsciencewiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ci-ru.wikidot.com">The Chaos Insurgency</a></h3>
+            <h3><a target="_blank" href="http://exploringsciencewiki.wikidot.com">The Exploring Our World Wiki</a></h3>
             <div class="desc">          
-              Russian Branch
+              A Site for Everyone Interested in Teaching and Learning
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://eime.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/eime.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://lcs.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lcs.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://eime.wikidot.com">EIME Projects</a></h3>
+            <h3><a target="_blank" href="http://lcs.wikidot.com">Liberal Crime Squad (the game)</a></h3>
             <div class="desc">          
               
             </div>
@@ -1737,23 +1737,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://alveslima-edu.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/alveslima-edu.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://f650cs.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/f650cs.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://alveslima-edu.wikidot.com">WIKEDUCAÇÃO</a></h3>
+            <h3><a target="_blank" href="http://f650cs.wikidot.com">F650CS FAQ</a></h3>
             <div class="desc">          
-              
+              Alternative / Supplement  to Black Belt Gang FAQ&#039;s for the BMW Scarver
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://timoha64.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/timoha64.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox-pl.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox-pl.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://timoha64.wikidot.com">Тимоха64</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox-pl.wikidot.com">SCP-PL Sandbox II</a></h3>
             <div class="desc">          
-              
+              Do pracy rodacy!
             </div>
           </div>
         </div>
