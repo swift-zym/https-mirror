@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-3";
-        OZONE.request.timestamp = 1625707463;
+        OZONE.request.timestamp = 1625726168;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-3";
@@ -1714,6 +1714,17 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
+            <a target="_blank" class="image" href="http://ginnungagap.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ginnungagap.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ginnungagap.wikidot.com">Ginnungagap</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
             <a target="_blank" class="image" href="http://exploringsciencewiki.wikidot.com">
               <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exploringsciencewiki.wikidot.com/80.jpg"/>
             </a>
@@ -1725,34 +1736,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
+            <a target="_blank" class="image" href="http://ci-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-sandbox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ci-sandbox.wikidot.com">Insu Sandbox</a></h3>
+            <div class="desc">          
+              Building A Bigger Insurgency
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
             <a target="_blank" class="image" href="http://lcs.wikidot.com">
               <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lcs.wikidot.com/80.jpg"/>
             </a>
             <h3><a target="_blank" href="http://lcs.wikidot.com">Liberal Crime Squad (the game)</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://f650cs.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/f650cs.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://f650cs.wikidot.com">F650CS FAQ</a></h3>
-            <div class="desc">          
-              Alternative / Supplement  to Black Belt Gang FAQ&#039;s for the BMW Scarver
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandbox-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox-pl.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scpsandbox-pl.wikidot.com">SCP-PL Sandbox II</a></h3>
-            <div class="desc">          
-              Do pracy rodacy!
             </div>
           </div>
         </div>
