@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1625879846;
+        OZONE.request.timestamp = 1625899021;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -704,7 +704,7 @@
 <li><a class="newpage" href="/scp-5158">SCP-5158</a> - Lacum Lacrimarum</li>
 <li><a href="/scp-5159">SCP-5159</a> - 以王之名</li>
 <li><a href="/scp-5160">SCP-5160</a> - 羊奶奶相信你</li>
-<li><a href="/scp-5161">SCP-5161</a> - 她都记得</li>
+<li><a class="newpage" href="/scp-5161">SCP-5161</a> - 她都记得</li>
 <li><a class="newpage" href="/scp-5162">SCP-5162</a> - The Weight</li>
 <li><a href="/scp-5163">SCP-5163</a> - 史上最萌泰迪熊</li>
 <li><a class="newpage" href="/scp-5164">SCP-5164</a> - Love Crystals (Protect Your Love Life With The Power Of The Foundation)</li>
@@ -785,7 +785,7 @@
 <li><a class="newpage" href="/scp-5235">SCP-5235</a> - Thief of Time</li>
 <li><a href="/scp-5236">SCP-5236</a> - 伦理委员会的讯问</li>
 <li><a href="/scp-5237">SCP-5237</a> - 在我脑中</li>
-<li><a class="newpage" href="/scp-5238">SCP-5238</a> - 梦想之船</li>
+<li><a href="/scp-5238">SCP-5238</a> - 梦之船</li>
 <li><a href="/scp-5239">SCP-5239</a> - <em>是的，我希望是、我希望是，一位年轻年少的死灵大法师</em></li>
 <li><a class="newpage" href="/scp-5240">SCP-5240</a> - 被遗忘的城市Vergussenheit</li>
 <li><a href="/scp-5241">SCP-5241</a> - <span style="color: #0000FF;font-family: &quot;Microsoft Serif&quot;;"><strong>异界信息</strong></span></li>
@@ -1642,7 +1642,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 499, 最后编辑于: <span class="odate time_1625485584 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Jul 2021 11:46</span></div>
+                            <div id="page-info">页面版本: 500, 最后编辑于: <span class="odate time_1625893659 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">10 Jul 2021 05:07</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+19</span>)</a>
@@ -1714,45 +1714,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://porsche.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/porsche.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wikistoriaenciclopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikistoriaenciclopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://porsche.wikidot.com">Porsche Wiki</a></h3>
+            <h3><a target="_blank" href="http://wikistoriaenciclopedia.wikidot.com">Wikistória</a></h3>
             <div class="desc">          
-              Brought to You By RedLine Technik | RedLineTechnik.com
+              A enciclopédia de História feita por estudantes
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://inctr-palliative-care-handbook.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/inctr-palliative-care-handbook.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ci-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ci-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://inctr-palliative-care-handbook.wikidot.com">INCTR Palliative Care Handbook</a></h3>
+            <h3><a target="_blank" href="http://ci-sandbox.wikidot.com">Insu Sandbox</a></h3>
+            <div class="desc">          
+              Building A Bigger Insurgency
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ereticopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ereticopedia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ereticopedia.wikidot.com">ERETICOPEDIA</a></h3>
+            <div class="desc">          
+              Mediterranean Digital &amp; Public Humanities
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://pkp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pkp.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://pkp.wikidot.com">Wiki.PKP.in</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-mc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-mc.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-wiki-mc.wikidot.com">SCP基金会Minecraft分部</a></h3>
-            <div class="desc">          
-              控制，收容，保护
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://is2216.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/is2216.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://is2216.wikidot.com">IS2216 - JAVA WIKI</a></h3>
-            <div class="desc">          
-              Java for beginners
             </div>
           </div>
         </div>
