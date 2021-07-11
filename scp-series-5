@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1625985458;
+        OZONE.request.timestamp = 1626007250;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1040,7 +1040,7 @@
 <li><a class="newpage" href="/scp-4459">SCP-4459</a> - The Ringmaster's Crown</li>
 <li><a class="newpage" href="/scp-4460">SCP-4460</a> - Humorous Factory</li>
 <li><a href="/scp-4461">SCP-4461</a> - 我是狂热者。</li>
-<li><a href="/scp-4462">SCP-4462</a> - Fan Death</li>
+<li><a class="newpage" href="/scp-4462">SCP-4462</a> - Fan Death</li>
 <li><a class="newpage" href="/scp-4463">SCP-4463</a> - Ecosystem Restore Point</li>
 <li><a href="/scp-4464">SCP-4464</a> - 狗狗可以大一點</li>
 <li><a href="/scp-4465">SCP-4465</a> - 没有人是孤岛一座</li>
@@ -1204,7 +1204,7 @@
 <li><a class="newpage" href="/scp-4615">SCP-4615</a> - Supper Memories '06</li>
 <li><a href="/scp-4616">SCP-4616</a> - 田野祟影</li>
 <li><a href="/scp-4617">SCP-4617</a> - 自私的长存</li>
-<li><a class="newpage" href="/scp-4618">SCP-4618</a> - The Perfect Guard</li>
+<li><a href="/scp-4618">SCP-4618</a> - 完美守卫</li>
 <li><a class="newpage" href="/scp-4619">SCP-4619</a> - [拒绝访问]</li>
 <li><a href="/scp-4620">SCP-4620</a> - 今天有面包，明天没工资</li>
 <li><a href="/scp-4621">SCP-4621</a> - 永燃梦魇</li>
@@ -1633,7 +1633,7 @@
 
 
 <div class="footnotes-footer">
-<div class="title">Footnotes</div>
+<div class="title">脚注</div>
 <div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. Optimark工业股份有限公司附属子公司。</div>
 <div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 情书</div>
 </div>
@@ -1673,7 +1673,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 776, 最后编辑于: <span class="odate time_1625538022 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">06 Jul 2021 02:20</span></div>
+                            <div id="page-info">页面版本: 777, 最后编辑于: <span class="odate time_1626000011 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Jul 2021 10:40</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1745,21 +1745,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://imocamp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/imocamp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://hiddenprojectwiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hiddenprojectwiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://imocamp.wikidot.com">2021 IMOC</a></h3>
+            <h3><a target="_blank" href="http://hiddenprojectwiki.wikidot.com">Hidden Project</a></h3>
             <div class="desc">          
-              2021 暑期奧林匹亞數學研習營網頁
+              Welcome to Hidden Project Wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://game-maker.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/game-maker.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://waywardsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/waywardsandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://game-maker.wikidot.com">GameMaker Wiki</a></h3>
+            <h3><a target="_blank" href="http://waywardsandbox.wikidot.com">Wayward Society Sandbox</a></h3>
+            <div class="desc">          
+              Even secret societies need to draft.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-field-work.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-field-work.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-field-work.wikidot.com">SCP Field Work</a></h3>
             <div class="desc">          
               
             </div>
@@ -1767,23 +1778,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://languagearts8.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/languagearts8.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scp-hu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-hu.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://languagearts8.wikidot.com">Language Arts (8)</a></h3>
+            <h3><a target="_blank" href="http://scp-hu.wikidot.com">SCP Alapítvány</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://philosophia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/philosophia.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://philosophia.wikidot.com">Philosophia UAM</a></h3>
-            <div class="desc">          
-              Wiki studentów filozofii UAM
+              Magyarnyelvű ágazat
             </div>
           </div>
         </div>

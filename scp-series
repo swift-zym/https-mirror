@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1625985324;
+        OZONE.request.timestamp = 1626007301;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1713,32 +1713,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://splinterverse.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/splinterverse.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://windycity.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/windycity.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://splinterverse.wikidot.com">Splinterverse</a></h3>
+            <h3><a target="_blank" href="http://windycity.wikidot.com">Windycity</a></h3>
             <div class="desc">          
-              Ezboard Yuku Splinterverse Wiki
+              MUX
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://myvineyard.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/myvineyard.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nirn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nirn.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://myvineyard.wikidot.com">Wiki for &#039;My Vineyard&#039;</a></h3>
+            <h3><a target="_blank" href="http://nirn.wikidot.com">Nirn</a></h3>
             <div class="desc">          
-              A Facebook Application
+              The Nirn Project
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bandopedia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bandopedia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://soulslore.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/soulslore.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bandopedia.wikidot.com">bandOpedia</a></h3>
+            <h3><a target="_blank" href="http://soulslore.wikidot.com">Souls Lore</a></h3>
             <div class="desc">          
               
             </div>
@@ -1746,12 +1746,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ksemoudania.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ksemoudania.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://projects.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/projects.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ksemoudania.wikidot.com">ΚΣΕ ΜΟΥΔΑΝΙΩΝ Επιμόρφωση Β&#039; Επιπέδου</a></h3>
+            <h3><a target="_blank" href="http://projects.wikidot.com">projects.wikidot.com</a></h3>
             <div class="desc">          
-              «Όποιος τολμάει να διδάξει δεν πρέπει ποτέ να πάψει να μαθαίνει» John Cotton Dana
+              Wikidot Projects Forum
             </div>
           </div>
         </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1625985458;
+        OZONE.request.timestamp = 1626007500;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -564,7 +564,7 @@
 <li><a href="/scp-5022">SCP-5022</a> - 孩子头</li>
 <li><a href="/scp-5023">SCP-5023</a> - 人类原始冲动</li>
 <li><a href="/scp-5024">SCP-5024</a> - 流浪图书馆</li>
-<li><a class="newpage" href="/scp-5025">SCP-5025</a> - 我如何成为一名殉道者</li>
+<li><a href="/scp-5025">SCP-5025</a> - 我如何成为一名殉道者</li>
 <li><a href="/scp-5026">SCP-5026</a> - 你的故事</li>
 <li><a href="/scp-5027">SCP-5027</a> - 薛定谔的人</li>
 <li><a href="/scp-5028">SCP-5028</a> - 安普利亚流亡者</li>
@@ -1444,7 +1444,7 @@
 <li><a class="newpage" href="/scp-5870">SCP-5870</a> - [拒绝访问]</li>
 <li><a href="/scp-5871">SCP-5871</a> - 回溯性仪式刀</li>
 <li><a class="newpage" href="/scp-5872">SCP-5872</a> - [拒绝访问]</li>
-<li><a href="/scp-5873">SCP-5873</a> - 背叛裤</li>
+<li><a class="newpage" href="/scp-5873">SCP-5873</a> - 背叛裤</li>
 <li><a class="newpage" href="/scp-5874">SCP-5874</a> - [拒绝访问]</li>
 <li><a class="newpage" href="/scp-5875">SCP-5875</a> - A Call to Adventure in a Missive from Below</li>
 <li><a href="/scp-5876">SCP-5876</a> - [拒绝访问]</li>
@@ -1482,7 +1482,7 @@
 <li><a href="/scp-5904">SCP-5904</a> - 非人力资源</li>
 <li><a class="newpage" href="/scp-5905">SCP-5905</a> - Gashadokuro</li>
 <li><a class="newpage" href="/scp-5906">SCP-5906</a> - [拒绝访问]</li>
-<li><a href="/scp-5907">SCP-5907</a> - 完美合身的服装</li>
+<li><a class="newpage" href="/scp-5907">SCP-5907</a> - 完美合身的服装</li>
 <li><a href="/scp-5908">SCP-5908</a> - 未中的子弹</li>
 <li><a href="/scp-5909">SCP-5909</a> - 虾餐任食吃到饱</li>
 <li><a href="/scp-5910">SCP-5910</a> - 这是一个真实的故事。</li>
@@ -1714,45 +1714,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://textanalytics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/textanalytics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://insurrection-du-chaos.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/insurrection-du-chaos.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://textanalytics.wikidot.com">Text Analytics Wiki</a></h3>
+            <h3><a target="_blank" href="http://insurrection-du-chaos.wikidot.com">Insurrection du Chaos</a></h3>
             <div class="desc">          
-              All things unstructured...
+              Pour l&#039;Humanité, par le Chaos
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pottersarmy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pottersarmy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://awwshop.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/awwshop.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pottersarmy.wikidot.com">Potter&#039;s Army</a></h3>
+            <h3><a target="_blank" href="http://awwshop.wikidot.com">Awwshop.com</a></h3>
             <div class="desc">          
-              
+              A mousewheel link click opens in a new tab.
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-int-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://jquery-easyui.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jquery-easyui.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-int-sandbox.wikidot.com">SCP Sandbox</a></h3>
+            <h3><a target="_blank" href="http://jquery-easyui.wikidot.com">jQuery EasyUI</a></h3>
             <div class="desc">          
-              of the International Translation Archive
+              easyui help you build your web page easily!
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tauren.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tauren.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://www.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tauren.wikidot.com">Tauren Ate My Grandma</a></h3>
+            <h3><a target="_blank" href="http://www.wikidot.com">Wikidot - Free and Pro Wiki Hosting</a></h3>
             <div class="desc">          
-              has moved!
+              your place on the web
             </div>
           </div>
         </div>

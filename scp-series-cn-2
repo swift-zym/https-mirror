@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1625985458;
+        OZONE.request.timestamp = 1626007207;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -596,7 +596,7 @@
 <li><a href="/scp-cn-1058">SCP-CN-1058</a> - 书面报告</li>
 <li><a href="/scp-cn-1059">SCP-CN-1059-J</a></li>
 <li><a href="/scp-cn-1060">SCP-CN-1060</a> - 迟到帮助</li>
-<li><a class="newpage" href="/scp-cn-1061">SCP-CN-1061</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1061">SCP-CN-1061</a> - 粒子现实</li>
 <li><a href="/scp-cn-1062">SCP-CN-1062</a> - 骨(Bone)，肉(Flesh)和等离子体(Plasma)</li>
 <li><a href="/scp-cn-1063">SCP-CN-1063</a> - “母体诱惑”</li>
 <li><a href="/scp-cn-1064">SCP-CN-1064</a> - 被遗忘的9.8</li>
@@ -623,7 +623,7 @@
 <li><a href="/scp-cn-1085">SCP-CN-1085</a> - 只有你不在的世界</li>
 <li><a href="/scp-cn-1086">SCP-CN-1086</a> - 枪</li>
 <li><a href="/scp-cn-1087">SCP-CN-1087</a> - 缄默复仇</li>
-<li><a href="/scp-cn-1088">SCP-CN-1088</a> - [禁止访问]</li>
+<li><a class="newpage" href="/scp-cn-1088">SCP-CN-1088</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1089">SCP-CN-1089</a> - 肥猫、斑猫与肥猫</li>
 <li><a href="/scp-cn-1090">SCP-CN-1090</a> - 送别一切老朽之雀</li>
 <li><a href="/scp-cn-1091">SCP-CN-1091</a> - 黑王传说</li>
@@ -1619,7 +1619,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 4107, 最后编辑于: <span class="odate time_1625462837 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">05 Jul 2021 05:27</span></div>
+                            <div id="page-info">页面版本: 4108, 最后编辑于: <span class="odate time_1625993759 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Jul 2021 08:55</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+89</span>)</a>
@@ -1691,21 +1691,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://textanalytics.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/textanalytics.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://enss.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/enss.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://textanalytics.wikidot.com">Text Analytics Wiki</a></h3>
-            <div class="desc">          
-              All things unstructured...
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://pottersarmy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pottersarmy.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://pottersarmy.wikidot.com">Potter&#039;s Army</a></h3>
+            <h3><a target="_blank" href="http://enss.wikidot.com">ens.wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1713,23 +1702,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-int-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-int-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://bettersandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bettersandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-int-sandbox.wikidot.com">SCP Sandbox</a></h3>
+            <h3><a target="_blank" href="http://bettersandbox.wikidot.com">Better Sandbox</a></h3>
             <div class="desc">          
-              of the International Translation Archive
+              灵感   撰稿  成文
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tauren.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tauren.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://signaturbogen.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/signaturbogen.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tauren.wikidot.com">Tauren Ate My Grandma</a></h3>
+            <h3><a target="_blank" href="http://signaturbogen.wikidot.com">Signaturbogen 2.0</a></h3>
             <div class="desc">          
-              has moved!
+              5.500 signaturer af 3.500 kunstnere
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://tasker.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tasker.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://tasker.wikidot.com">Tasker Wiki</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>
