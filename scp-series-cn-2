@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1626028553;
+        OZONE.request.timestamp = 1626052884;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1691,32 +1691,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://is2216.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/is2216.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://balchipedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/balchipedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://is2216.wikidot.com">IS2216 - JAVA WIKI</a></h3>
+            <h3><a target="_blank" href="http://balchipedia.wikidot.com">Balchipedia</a></h3>
             <div class="desc">          
-              Java for beginners
+              The Encyclopedia of Balch History
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://magiamesterei.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/magiamesterei.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nsb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nsb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://magiamesterei.wikidot.com">Mágia Mesterei Wiki</a></h3>
-            <div class="desc">          
-              Segítség az online játékhoz
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://knightswrite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/knightswrite.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://knightswrite.wikidot.com">KnightsWrite</a></h3>
+            <h3><a target="_blank" href="http://nsb.wikidot.com">Nsb Notes</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,12 +1713,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://fairfieldproject.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fairfieldproject.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://energyfuture.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyfuture.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://fairfieldproject.wikidot.com">The Fairfield Project</a></h3>
+            <h3><a target="_blank" href="http://energyfuture.wikidot.com">The Future of Energy</a></h3>
             <div class="desc">          
-              The Delta Green wiki
+              Analyzing The Options
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-wiki-px.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-px.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-wiki-px.wikidot.com">SCP基金会Pixel分部</a></h3>
+            <div class="desc">          
+              控制，收容，保护
             </div>
           </div>
         </div>

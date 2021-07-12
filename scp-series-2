@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1626028338;
+        OZONE.request.timestamp = 1626052947;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1715,32 +1715,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://redsite.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/redsite.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ccb-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ccb-wiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://redsite.wikidot.com">RedPlay Wiki</a></h3>
+            <h3><a target="_blank" href="http://ccb-wiki.wikidot.com">文明情报处</a></h3>
             <div class="desc">          
-              redplaywiki
+              我们行走在沙滩之上，遥望那远处的星空
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://librarylab.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/librarylab.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://narutodnd5e.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/narutodnd5e.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://librarylab.wikidot.com">CTC/Library Lab Wiki</a></h3>
+            <h3><a target="_blank" href="http://narutodnd5e.wikidot.com">Naruto 5e</a></h3>
             <div class="desc">          
-              The CTC mothership
+              Community wiki
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pcg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pcg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://lightworks.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lightworks.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pcg.wikidot.com">Procedural Content Generation Wiki</a></h3>
+            <h3><a target="_blank" href="http://lightworks.wikidot.com">Lightworks Unofficial Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1748,12 +1748,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://signaturbogen.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/signaturbogen.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://gateofrealms.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gateofrealms.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://signaturbogen.wikidot.com">Signaturbogen 2.0</a></h3>
+            <h3><a target="_blank" href="http://gateofrealms.wikidot.com">诸界之门</a></h3>
             <div class="desc">          
-              5.500 signaturer af 3.500 kunstnere
+              多元原创创作社区
             </div>
           </div>
         </div>

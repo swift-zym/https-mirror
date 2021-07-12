@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1626028520;
+        OZONE.request.timestamp = 1626052881;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1713,10 +1713,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://techcomm.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/techcomm.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://tasker.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tasker.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://techcomm.wikidot.com">TechnicalCommunication</a></h3>
+            <h3><a target="_blank" href="http://tasker.wikidot.com">Tasker Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,34 +1724,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smd-ch.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smd-ch.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://praemien-teilen.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/praemien-teilen.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smd-ch.wikidot.com">SMD超现实管制处</a></h3>
+            <h3><a target="_blank" href="http://praemien-teilen.wikidot.com">Prämien teilen</a></h3>
             <div class="desc">          
-              异常 中转 管理
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smlt.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smlt.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://latindictionary.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/latindictionary.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smlt.wikidot.com">SMLT Container</a></h3>
+            <h3><a target="_blank" href="http://latindictionary.wikidot.com">The Latin Dictionary</a></h3>
             <div class="desc">          
-              The SCP Sandbox by Nerds for Nerds.
+              Where Latin meets English
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kindiy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kindiy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ocmapdb.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ocmapdb.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kindiy.wikidot.com">kinDIY</a></h3>
+            <h3><a target="_blank" href="http://ocmapdb.wikidot.com">Obsidian Conflict Map Database</a></h3>
             <div class="desc">          
-              for the DIY kindie community
+              
             </div>
           </div>
         </div>
