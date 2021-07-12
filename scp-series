@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1626071745;
+        OZONE.request.timestamp = 1626093954;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1713,10 +1713,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bx-community.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bx-community.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://splinterverse.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/splinterverse.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bx-community.wikidot.com">Bidirectional Transformations</a></h3>
+            <h3><a target="_blank" href="http://splinterverse.wikidot.com">Splinterverse</a></h3>
+            <div class="desc">          
+              Ezboard Yuku Splinterverse Wiki
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://osx86.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/osx86.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://osx86.wikidot.com">InfiniteMac Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,34 +1735,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://arkhea.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arkhea.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sistdig.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sistdig.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://arkhea.wikidot.com">Arkhea ~ An Earth of Psionics and Magic</a></h3>
+            <h3><a target="_blank" href="http://sistdig.wikidot.com">Sistemas Digitales</a></h3>
             <div class="desc">          
-              ~ A multi-fandom modern urban high fantasy setting
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://irunath.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/irunath.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ladyhood66.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ladyhood66.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://irunath.wikidot.com">IRUNA Online Thailand WIKI</a></h3>
+            <h3><a target="_blank" href="http://ladyhood66.wikidot.com">welcome</a></h3>
             <div class="desc">          
-              by iruna th team
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ibphysicsstuff.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ibphysicsstuff.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ibphysicsstuff.wikidot.com">IB Physics Stuff</a></h3>
-            <div class="desc">          
-              - Wikified -
+              
             </div>
           </div>
         </div>

@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn";
-        OZONE.request.timestamp = 1626071716;
+        OZONE.request.timestamp = 1626093898;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn";
@@ -1690,45 +1690,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://musicgames.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/musicgames.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://pseudo-scp-jp.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pseudo-scp-jp.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://musicgames.wikidot.com">Games for Music</a></h3>
+            <h3><a target="_blank" href="http://pseudo-scp-jp.wikidot.com">SCP-JP環境再現サイト</a></h3>
             <div class="desc">          
-              Music Game Archive &amp; Community for Musicians of All Levels
+              実験、実験、爆発
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://halflifetr.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/halflifetr.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://uniofbeds.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/uniofbeds.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://halflifetr.wikidot.com">Half-Life Wiki</a></h3>
+            <h3><a target="_blank" href="http://uniofbeds.wikidot.com">Uniofbeds</a></h3>
             <div class="desc">          
-              TR
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scpsandbox-pl.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox-pl.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://vs-tcg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/vs-tcg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scpsandbox-pl.wikidot.com">SCP-PL Sandbox II</a></h3>
+            <h3><a target="_blank" href="http://vs-tcg.wikidot.com">Sparkling Victory!</a></h3>
             <div class="desc">          
-              Do pracy rodacy!
+              Time to Spark, Time for Victory...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://extrabees.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/extrabees.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://chrysaliswiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/chrysaliswiki.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://extrabees.wikidot.com">Extra Bees</a></h3>
+            <h3><a target="_blank" href="http://chrysaliswiki.wikidot.com">Chrysalis</a></h3>
             <div class="desc">          
-              Plugin for the Forestry Mod
+              A Final Fantasy Wiki
             </div>
           </div>
         </div>
