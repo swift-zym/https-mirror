@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series";
-        OZONE.request.timestamp = 1626244424;
+        OZONE.request.timestamp = 1626266949;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series";
@@ -1713,32 +1713,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://cuiltheory.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cuiltheory.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://karmagrinding.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/karmagrinding.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://cuiltheory.wikidot.com">Cuil Theory</a></h3>
+            <h3><a target="_blank" href="http://karmagrinding.wikidot.com">Karma</a></h3>
             <div class="desc">          
-              A Mathematical unit of Surrealism.
+              Karma Karma Karma Karma
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://smd-ch.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/smd-ch.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ti-iseg-t12.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ti-iseg-t12.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://smd-ch.wikidot.com">SMD超现实管制处</a></h3>
-            <div class="desc">          
-              异常 中转 管理
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://aviationknowledge.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aviationknowledge.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://aviationknowledge.wikidot.com">AviationKnowledge</a></h3>
+            <h3><a target="_blank" href="http://ti-iseg-t12.wikidot.com">ISEG TI T12</a></h3>
             <div class="desc">          
               
             </div>
@@ -1746,12 +1735,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://measurementcamp.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/measurementcamp.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://measurementcamp.wikidot.com">Measurementcamp</a></h3>
+            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
             <div class="desc">          
-              Open source movement measuring social media
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://copernicon.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/copernicon.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://copernicon.wikidot.com">Copernicon 2010</a></h3>
+            <div class="desc">          
+              
             </div>
           </div>
         </div>
