@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1626225570;
+        OZONE.request.timestamp = 1626244391;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -706,7 +706,7 @@
 <li><a href="/scp-1159">SCP-1159</a> - 风弦琴</li>
 <li><a href="/scp-1160">SCP-1160</a> - 有效收容</li>
 <li><a href="/scp-1161">SCP-1161</a> - 如何之书</li>
-<li><a href="/scp-1162">SCP-1162</a> - 宇航员乔</li>
+<li><a href="/scp-1162">SCP-1162</a> - 太空乔</li>
 <li><a href="/scp-1163">SCP-1163</a> - 换脸者</li>
 <li><a href="/scp-1164">SCP-1164</a> - 回响墓志铭</li>
 <li><a href="/scp-1165">SCP-1165</a> - 负层</li>
@@ -1195,7 +1195,7 @@
 <li><a href="/scp-1628">SCP-1628</a> - 1812号储存通道</li>
 <li><a href="/scp-1629">SCP-1629</a> - 准备好了没</li>
 <li><a href="/scp-1630">SCP-1630</a> - 人类膳食金字塔</li>
-<li><a class="newpage" href="/scp-1631">SCP-1631</a> - La Vie En Rose</li>
+<li><a href="/scp-1631">SCP-1631</a> - 玫瑰人生</li>
 <li><a href="/scp-1632">SCP-1632</a> - 离婚律师</li>
 <li><a href="/scp-1633">SCP-1633</a> - 最危险的电子游戏</li>
 <li><a href="/scp-1634">SCP-1634</a> - 牙齿皇冠电影院</li>
@@ -1643,7 +1643,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 416, 最后编辑于: <span class="odate time_1624763293 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">27 Jun 2021 03:08</span></div>
+                            <div id="page-info">页面版本: 417, 最后编辑于: <span class="odate time_1626239516 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">14 Jul 2021 05:11</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+4</span>)</a>
@@ -1715,45 +1715,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://loteria-esportiva.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/loteria-esportiva.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blackmarches.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blackmarches.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://loteria-esportiva.wikidot.com">Todos os jogos da Loteria Esportiva desde 1970</a></h3>
+            <h3><a target="_blank" href="http://blackmarches.wikidot.com">Black Marches</a></h3>
             <div class="desc">          
-              (em construção)
+              Roll20 Pathfinder
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://jakilinux.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/jakilinux.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://exciting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exciting.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://jakilinux.wikidot.com">Wiki wortalu jakilinux.org</a></h3>
+            <h3><a target="_blank" href="http://exciting.wikidot.com">exciting</a></h3>
             <div class="desc">          
-              Twórz z nami najlepszy wortal linuksowy w Polsce!
+              exciting, all electron DFT
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-rubbish.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-rubbish.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://igor.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/igor.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-rubbish.wikidot.com">SCP-rubbish</a></h3>
+            <h3><a target="_blank" href="http://igor.wikidot.com">Igor</a></h3>
             <div class="desc">          
-              控制，收容，保护
+              Independent Generation of Research
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://gurpswiki.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gurpswiki.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://ubmedicinefaqs.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ubmedicinefaqs.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://gurpswiki.wikidot.com">GURPS Repository</a></h3>
+            <h3><a target="_blank" href="http://ubmedicinefaqs.wikidot.com">UBMedicineFAQ</a></h3>
             <div class="desc">          
-              A collection for your GURPS needs
+              
             </div>
           </div>
         </div>
