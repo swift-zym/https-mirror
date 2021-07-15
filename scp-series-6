@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1626312455;
+        OZONE.request.timestamp = 1626330976;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1714,21 +1714,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://masonic.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/masonic.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blank-template.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blank-template.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://masonic.wikidot.com">Masonic</a></h3>
-            <div class="desc">          
-              A Freemason&#039;s Compendium
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://makeyourbot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/makeyourbot.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://makeyourbot.wikidot.com">Make Your Bot!</a></h3>
+            <h3><a target="_blank" href="http://blank-template.wikidot.com">Blank Template</a></h3>
             <div class="desc">          
               
             </div>
@@ -1736,23 +1725,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://kindiy.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kindiy.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sanjaygarg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sanjaygarg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://kindiy.wikidot.com">kinDIY</a></h3>
+            <h3><a target="_blank" href="http://sanjaygarg.wikidot.com">Dr. Sanjay Garg</a></h3>
             <div class="desc">          
-              for the DIY kindie community
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://tirithon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tirithon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://destiny.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/destiny.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://tirithon.wikidot.com">Tirithon</a></h3>
+            <h3><a target="_blank" href="http://destiny.wikidot.com">Destiny</a></h3>
             <div class="desc">          
-              d&amp;d wiki
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://idireitofbv.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/idireitofbv.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://idireitofbv.wikidot.com">Direito da Informática - FBV</a></h3>
+            <div class="desc">          
+              Informática Jurídica e Juscibernética
             </div>
           </div>
         </div>

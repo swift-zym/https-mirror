@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1626312530;
+        OZONE.request.timestamp = 1626330976;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -1691,45 +1691,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://biblio.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biblio.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://blank-template.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blank-template.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://biblio.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
+            <h3><a target="_blank" href="http://blank-template.wikidot.com">Blank Template</a></h3>
             <div class="desc">          
-              livros e artigos sobre línguas sul-americanas
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://ravenmarches.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ravenmarches.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://sanjaygarg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sanjaygarg.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://ravenmarches.wikidot.com">Raven Marches</a></h3>
+            <h3><a target="_blank" href="http://sanjaygarg.wikidot.com">Dr. Sanjay Garg</a></h3>
             <div class="desc">          
-              OpenRPG Dungeons and Dragons 3.5
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://latindictionary.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/latindictionary.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://destiny.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/destiny.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://latindictionary.wikidot.com">The Latin Dictionary</a></h3>
+            <h3><a target="_blank" href="http://destiny.wikidot.com">Destiny</a></h3>
             <div class="desc">          
-              Where Latin meets English
+              
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://celtic-heroes.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/celtic-heroes.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://idireitofbv.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/idireitofbv.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://celtic-heroes.wikidot.com">Celtic Heroes Wiki</a></h3>
+            <h3><a target="_blank" href="http://idireitofbv.wikidot.com">Direito da Informática - FBV</a></h3>
             <div class="desc">          
-              A Wiki for the iPhone/iPad MMO Celtic Heroes
+              Informática Jurídica e Juscibernética
             </div>
           </div>
         </div>
