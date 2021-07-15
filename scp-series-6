@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-6";
-        OZONE.request.timestamp = 1626353266;
+        OZONE.request.timestamp = 1626374099;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-6";
@@ -1714,32 +1714,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://excelencia.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/excelencia.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://wanderers-sandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-sandbox.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://excelencia.wikidot.com">EXCELENCIA</a></h3>
-            <div class="desc">          
-              exploring, describing and promoting  great websites!
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-un.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-un.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-un.wikidot.com">SCP Foundation</a></h3>
-            <div class="desc">          
-              Underrepresented Languages Incubator
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-field-work.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-field-work.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-field-work.wikidot.com">SCP Field Work</a></h3>
+            <h3><a target="_blank" href="http://wanderers-sandbox.wikidot.com">Wanderers&#039; Library Sandbox</a></h3>
             <div class="desc">          
               
             </div>
@@ -1747,10 +1725,32 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://pcg.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/pcg.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cs0.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cs0.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://pcg.wikidot.com">Procedural Content Generation Wiki</a></h3>
+            <h3><a target="_blank" href="http://cs0.wikidot.com">免費電子書：C# 程式設計</a></h3>
+            <div class="desc">          
+              作者：陳鍾誠
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ltt.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ltt.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ltt.wikidot.com">Living Through Technology</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://righthandrobotics.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/righthandrobotics.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://righthandrobotics.wikidot.com">RightHand Robotics</a></h3>
             <div class="desc">          
               
             </div>
