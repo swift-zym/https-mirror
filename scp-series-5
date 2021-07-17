@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1626484855;
+        OZONE.request.timestamp = 1626503836;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -967,7 +967,7 @@
 <li><a class="newpage" href="/scp-4390">SCP-4390</a> - A Bad Maze</li>
 <li><a href="/scp-4391">Periapsis</a> - 孤独万花筒</li>
 <li><a href="/scp-4392">SCP-4392</a> - 沙之坑</li>
-<li><a class="newpage" href="/scp-4393">SCP-4393</a> - The Beating Sounds of a Thousand Paper Wings</li>
+<li><a href="/scp-4393">SCP-4393</a> - 千鹤之声</li>
 <li><a href="/scp-4394">SCP-4394</a> - 液态钢琴</li>
 <li><a href="/scp-4395">SCP-4395</a> - 那些所蔓延着的事物</li>
 <li><a class="newpage" href="/scp-4396">SCP-4396</a> - The Joy of Completion</li>
@@ -1673,7 +1673,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 777, 最后编辑于: <span class="odate time_1626000011 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">11 Jul 2021 10:40</span></div>
+                            <div id="page-info">页面版本: 778, 最后编辑于: <span class="odate time_1626488885 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Jul 2021 02:28</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1745,45 +1745,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://wanderers-sandbox.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wanderers-sandbox.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://cunefc2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cunefc2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://wanderers-sandbox.wikidot.com">Wanderers&#039; Library Sandbox</a></h3>
+            <h3><a target="_blank" href="http://cunefc2.wikidot.com">CUNEF Group C2</a></h3>
+            <div class="desc">          
+              For Your Work, Opinions and Discoveries!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-sandbox-zh.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-sandbox-zh.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-sandbox-zh.wikidot.com">SCP繁體中文沙盒</a></h3>
+            <div class="desc">          
+              發現，發掘，發佈
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://metroplexity.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metroplexity.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://metroplexity.wikidot.com">Metroplexity</a></h3>
+            <div class="desc">          
+              Learn the secrets of Metroplex
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ti-iseg-t12.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ti-iseg-t12.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ti-iseg-t12.wikidot.com">ISEG TI T12</a></h3>
             <div class="desc">          
               
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://trumpetexercises.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/trumpetexercises.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://trumpetexercises.wikidot.com">Trumpet exercise database</a></h3>
-            <div class="desc">          
-              for trumpet players, students and teachers
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wikiwealth.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikiwealth.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wikiwealth.wikidot.com">WikiWealth</a></h3>
-            <div class="desc">          
-              Stock, ETF and Mutual Fund Ratings | Commodity, Currency Research
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://tmduc.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tmduc.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://tmduc.wikidot.com">TMD (uc)</a></h3>
-            <div class="desc">          
-              creación colectiva
             </div>
           </div>
         </div>
