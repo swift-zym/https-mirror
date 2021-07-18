@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-cn-2";
-        OZONE.request.timestamp = 1626546962;
+        OZONE.request.timestamp = 1626571701;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-cn-2";
@@ -903,7 +903,7 @@
 <li><a href="/scp-cn-1353">SCP-CN-1353</a> - 地西泮仪式</li>
 <li><a href="/scp-cn-1354">SCP-CN-1354</a> - 朝日</li>
 <li><a class="newpage" href="/scp-cn-1355">SCP-CN-1355</a> - [禁止访问]</li>
-<li><a class="newpage" href="/scp-cn-1356">SCP-CN-1356</a> - [禁止访问]</li>
+<li><a href="/scp-cn-1356">SCP-CN-1356</a> - [禁止访问]</li>
 <li><a href="/scp-cn-1357">SCP-CN-1357</a> - 线上时光机</li>
 <li><a href="/scp-cn-1358">SCP-CN-1358</a> - 在圣莫尼卡市不定时播放</li>
 <li><a href="/scp-cn-1359">SCP-CN-1359</a> - <span style="color: #9e9e9e">宿命论</span></li>
@@ -1691,32 +1691,10 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scienceonlinelondon.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scienceonlinelondon.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://evilhat.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/evilhat.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scienceonlinelondon.wikidot.com">Science Online London</a></h3>
-            <div class="desc">          
-              How is the Web changing science?
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://capnbarefoot.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/capnbarefoot.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://capnbarefoot.wikidot.com">Captain Barefoot</a></h3>
-            <div class="desc">          
-              The naturist guide to the Greek Islands
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://scp-field-work.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-field-work.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://scp-field-work.wikidot.com">SCP Field Work</a></h3>
+            <h3><a target="_blank" href="http://evilhat.wikidot.com">Evil Hat Productions Wiki</a></h3>
             <div class="desc">          
               
             </div>
@@ -1724,12 +1702,34 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://everydaymagicalgirls.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/everydaymagicalgirls.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://scpsandbox2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpsandbox2.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://everydaymagicalgirls.wikidot.com">Everyday Magical Girls</a></h3>
+            <h3><a target="_blank" href="http://scpsandbox2.wikidot.com">SCP Sandbox Wiki II</a></h3>
             <div class="desc">          
-              It&#039;s not what it sounds like, I swear...
+              Sandbox Harder
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://digitalvomit.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/digitalvomit.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://digitalvomit.wikidot.com">Digital Vomit Records</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://fed20.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fed20.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://fed20.wikidot.com">Fire Emblem d20</a></h3>
+            <div class="desc">          
+              A tabletop version of the RPG/Strategy game!
             </div>
           </div>
         </div>
