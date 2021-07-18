@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-2";
-        OZONE.request.timestamp = 1626571477;
+        OZONE.request.timestamp = 1626612314;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-2";
@@ -1717,45 +1717,45 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://porsche.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/porsche.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nightskysymbology.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nightskysymbology.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://porsche.wikidot.com">Porsche Wiki</a></h3>
+            <h3><a target="_blank" href="http://nightskysymbology.wikidot.com">An Expanded Symbology of the Night Sky</a></h3>
             <div class="desc">          
-              Brought to You By RedLine Technik | RedLineTechnik.com
+              by J. S. Stenzel
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-jp-archive.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-jp-archive.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-jp-archive.wikidot.com">SCP日本財団中枢資料室。</a></h3>
-            <div class="desc">          
-              収用
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://wikihandball.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikihandball.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://wikihandball.wikidot.com">wikihandball</a></h3>
-            <div class="desc">          
-              La wiki de Mundohandball.com
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://destiny.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/destiny.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://destiny.wikidot.com">Destiny</a></h3>
+            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
             <div class="desc">          
               
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://metrixcreate.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metrixcreate.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://metrixcreate.wikidot.com">Metrix Create:Space</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://2012hoax.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2012hoax.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://2012hoax.wikidot.com">2012hoax</a></h3>
+            <div class="desc">          
+              Debunking the &quot;2012 Doomsday&quot;
             </div>
           </div>
         </div>

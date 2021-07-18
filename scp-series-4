@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-4";
-        OZONE.request.timestamp = 1626571489;
+        OZONE.request.timestamp = 1626612315;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-4";
@@ -1049,7 +1049,7 @@
 <li><a class="newpage" href="/scp-3490">SCP-3490</a> - Bubblesssssssssssssssssss</li>
 <li><a href="/scp-3491">SCP-3491</a> - [无标题鹤]</li>
 <li><a href="/scp-3492">SCP-3492</a> - 一个让Totleigh忍不了的存在</li>
-<li><a class="newpage" href="/scp-3493">SCP-3493</a> - The Great SCP Foundation Collaboration</li>
+<li><a href="/scp-3493">SCP-3493</a> - The Great SCP Foundation Collaboration</li>
 <li><a href="/scp-3494">SCP-3494</a> - dado的废物处理神药</li>
 <li><a class="newpage" href="/scp-3495">SCP-3495</a> - St. Brendan's Howler Monkey</li>
 <li><a href="/scp-3496">SCP-3496</a> - 我们能做蜂友吗？</li>
@@ -1716,32 +1716,21 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://taustationnotebook.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/taustationnotebook.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://nightskysymbology.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/nightskysymbology.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://taustationnotebook.wikidot.com">Tau Station Notebook</a></h3>
+            <h3><a target="_blank" href="http://nightskysymbology.wikidot.com">An Expanded Symbology of the Night Sky</a></h3>
             <div class="desc">          
-              A storyline conceptualisation
+              by J. S. Stenzel
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://www.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/www.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://writingoneeleven.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/writingoneeleven.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://www.wikidot.com">Wikidot - Free and Pro Wiki Hosting</a></h3>
-            <div class="desc">          
-              your place on the web
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://machinima138.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/machinima138.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://machinima138.wikidot.com">Machinima 138</a></h3>
+            <h3><a target="_blank" href="http://writingoneeleven.wikidot.com">Writing 111</a></h3>
             <div class="desc">          
               
             </div>
@@ -1749,12 +1738,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://sped.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sped.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://metrixcreate.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/metrixcreate.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://sped.wikidot.com">The Special Ed Wiki</a></h3>
+            <h3><a target="_blank" href="http://metrixcreate.wikidot.com">Metrix Create:Space</a></h3>
             <div class="desc">          
-              sarah irvine belson (sarah@american.edu)
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://2012hoax.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/2012hoax.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://2012hoax.wikidot.com">2012hoax</a></h3>
+            <div class="desc">          
+              Debunking the &quot;2012 Doomsday&quot;
             </div>
           </div>
         </div>
