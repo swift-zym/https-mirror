@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 3342264;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-series-5";
-        OZONE.request.timestamp = 1626658043;
+        OZONE.request.timestamp = 1626676741;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'cn';
                 WIKIREQUEST.info.pageUnixName = "scp-series-5";
@@ -1434,7 +1434,7 @@
 <li><a class="newpage" href="/scp-4836">SCP-4836</a> - [拒绝访问]</li>
 <li><a href="/scp-4837">SCP-4837</a> - 鸭的传说，龙的传说</li>
 <li><a href="/scp-4838">SCP-4838</a> - 恋人的拌嘴</li>
-<li><a href="/scp-4839">SCP-4839</a> - FAFNIR，又称“我爱它，因为我拥有它！”</li>
+<li><a href="/scp-4839">SCP-4839</a> - 法夫纳，又称“我爱它，因为我拥有它！”</li>
 <li><a href="/scp-4840">SCP-4840</a> - 恶魔兰斯洛特与飞翔的奥德帕帕多波利斯之城</li>
 <li><a href="/scp-4841">SCP-4841</a> - 染血十字架的圣约翰</li>
 <li><a href="/scp-4842">SCP-4842</a> - The Disintegration Loops</li>
@@ -1628,7 +1628,6 @@
 <li><a href="/scp-series-3-tales-edition">SCP系列3故事版</a></li>
 <li><a href="/scp-series-4-tales-edition">SCP系列4故事版</a></li>
 <li><a href="/scp-series-5-tales-edition">SCP系列5故事版</a></li>
-<li><a class="newpage" href="/scp-series-6-tales-edition">SCP系列6故事版</a></li>
 </ul>
 </div>
 
@@ -1675,7 +1674,7 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">页面版本: 779, 最后编辑于: <span class="odate time_1626515878 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">17 Jul 2021 09:57</span></div>
+                            <div id="page-info">页面版本: 781, 最后编辑于: <span class="odate time_1626661596 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%E5%89%8D%29">19 Jul 2021 02:26</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">编辑</a>
 <a href="javascript:;" class="btn btn-default" id="pagerate-button">评分 (<span id="prw54355">+25</span>)</a>
@@ -1747,12 +1746,23 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://aseba.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/aseba.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://brtff.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/brtff.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://aseba.wikidot.com">Thymio &amp; Aseba</a></h3>
+            <h3><a target="_blank" href="http://brtff.wikidot.com">BRTFF</a></h3>
             <div class="desc">          
-              
+              Passion on the Top
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://ecadmin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecadmin.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://ecadmin.wikidot.com">Early Childhood Program Administration</a></h3>
+            <div class="desc">          
+              Resources, Training, Best Practices, Sharing
             </div>
           </div>
         </div>
@@ -1769,23 +1779,12 @@ nads.createAd('wad-scp-wiki-cn-below-content', {
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://educ400-401.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/educ400-401.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://rpcauthority.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/rpcauthority.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://educ400-401.wikidot.com">Dyslexia Connection</a></h3>
+            <h3><a target="_blank" href="http://rpcauthority.wikidot.com">RPC Authority</a></h3>
             <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://passatb5.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/passatb5.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://passatb5.wikidot.com">PassatB5</a></h3>
-            <div class="desc">          
-              Do It Yourself information for Passat Repair!
+              Research, Protection, Containment
             </div>
           </div>
         </div>
